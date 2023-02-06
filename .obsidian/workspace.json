@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upcoming posts.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upcoming posts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upcoming posts.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,15 +169,15 @@
   },
   "active": "06639699440ff8ec",
   "lastOpenFiles": [
+    "Pages/List of posts.md",
+    "README.md",
+    "Pages/Glossary.md",
     "Upcoming posts.md",
     "Drafts/Backburner/Infrastructure and layout.md",
     "Drafts/Rise of the Oremongers Guild.md",
     "Miscellaneous notes for later.md",
     "TODO.md",
     "Drafts/Backburner/White Quarter.md",
-    "Posts/Extracted/Mutualist pacts.md",
-    "Glossary/Pact magics.md",
-    "Posts/Extracted/Iconic pacts.md",
-    "Pages/List of posts.md"
+    "Posts/Extracted/Mutualist pacts.md"
   ]
 }

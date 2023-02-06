@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "List of posts",
+      "path": "Pages/List of posts.md"
+    },
+    {
+      "basename": "Glossary",
+      "path": "Pages/Glossary.md"
+    },
+    {
       "basename": "Upcoming posts",
       "path": "Upcoming posts.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Iconic pacts",
       "path": "Posts/Extracted/Iconic pacts.md"
-    },
-    {
-      "basename": "List of posts",
-      "path": "Pages/List of posts.md"
     },
     {
       "basename": "Discoveries in the Known World",
@@ -191,14 +199,6 @@
     {
       "basename": "College",
       "path": "Glossary/College.md"
-    },
-    {
-      "basename": "Iconic House",
-      "path": "Glossary/Iconic House.md"
-    },
-    {
-      "basename": "Lord Representative",
-      "path": "Glossary/Lord Representative.md"
     }
   ],
   "omittedPaths": [],
