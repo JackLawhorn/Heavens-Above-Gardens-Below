@@ -11,13 +11,8 @@
             "id": "06639699440ff8ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5026054382324,
-    "collapsed": true
+    "width": 307.5026054382324
   },
   "right": {
     "id": "758ea875e6f047f9",
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +160,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "06639699440ff8ec",
+  "active": "567083650aca63ac",
   "lastOpenFiles": [
     "Pages/List of posts.md",
     "README.md",
