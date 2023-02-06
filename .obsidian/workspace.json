@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "af25964e9ea762c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ce2d995cca1ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06639699440ff8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upcoming posts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed8cb830636a0bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "20fce4e1572f4b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "567083650aca63ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e6440bb1eed8203",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d35e8f2e0b45a391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7699e57719bd809a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "660aec7fd40a3b1b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5026054382324
+  },
+  "right": {
+    "id": "758ea875e6f047f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c79bd7c7dedaa793",
+        "type": "tabs",
+        "dimension": 58.372093023255815,
+        "children": [
+          {
+            "id": "a6a214607e9857ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fee505c2a9e42efb",
+        "type": "tabs",
+        "dimension": 41.627906976744185,
+        "children": [
+          {
+            "id": "ebbfbcd1c7127467",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Upcoming posts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "10e4dc54e3bfcdac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Upcoming posts.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "06639699440ff8ec",
+  "lastOpenFiles": [
+    "Upcoming posts.md",
+    "Drafts/Backburner/Infrastructure and layout.md",
+    "Drafts/Rise of the Oremongers Guild.md",
+    "Miscellaneous notes for later.md",
+    "TODO.md",
+    "Drafts/Backburner/White Quarter.md",
+    "Posts/Extracted/Mutualist pacts.md",
+    "Glossary/Pact magics.md",
+    "Posts/Extracted/Iconic pacts.md",
+    "Pages/List of posts.md"
+  ]
+}
