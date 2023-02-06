@@ -24,6 +24,29 @@
       "name": "Create note from template",
       "icon": "plus",
       "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "editor:save-file"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-git:commit"
+        },
+        {
+          "action": 1,
+          "delay": "2500"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-git:push2"
+        }
+      ],
+      "name": "Save to git",
+      "icon": "save",
+      "startup": false
     }
   ],
   "explorer": [],

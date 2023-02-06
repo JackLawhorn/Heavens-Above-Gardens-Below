@@ -9,8 +9,20 @@
       "path": "Pages/Glossary.md"
     },
     {
+      "basename": "Miscellaneous notes for later",
+      "path": "Miscellaneous notes for later.md"
+    },
+    {
       "basename": "Upcoming posts",
       "path": "Upcoming posts.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Setting timeline",
+      "path": "Setting timeline.canvas"
     },
     {
       "basename": "Infrastructure and layout",
@@ -19,14 +31,6 @@
     {
       "basename": "Rise of the Oremongers Guild",
       "path": "Drafts/Rise of the Oremongers Guild.md"
-    },
-    {
-      "basename": "Miscellaneous notes for later",
-      "path": "Miscellaneous notes for later.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "White Quarter",
@@ -191,10 +195,6 @@
     {
       "basename": "House",
       "path": "Glossary/House.md"
-    },
-    {
-      "basename": "College",
-      "path": "Glossary/College.md"
     }
   ],
   "omittedPaths": [],

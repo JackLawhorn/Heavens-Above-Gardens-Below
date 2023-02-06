@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ce2d995cca1ae4",
+        "id": "10f8525cc667464c",
         "type": "tabs",
         "children": [
           {
-            "id": "06639699440ff8ec",
+            "id": "79b503e86f513159",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,14 +163,14 @@
   "active": "567083650aca63ac",
   "lastOpenFiles": [
     "Pages/List of posts.md",
-    "README.md",
     "Pages/Glossary.md",
+    "Miscellaneous notes for later.md",
     "Upcoming posts.md",
+    "TODO.md",
+    "Setting timeline.canvas",
+    "README.md",
     "Drafts/Backburner/Infrastructure and layout.md",
     "Drafts/Rise of the Oremongers Guild.md",
-    "Miscellaneous notes for later.md",
-    "TODO.md",
-    "Drafts/Backburner/White Quarter.md",
-    "Posts/Extracted/Mutualist pacts.md"
+    "Drafts/Backburner/White Quarter.md"
   ]
 }
