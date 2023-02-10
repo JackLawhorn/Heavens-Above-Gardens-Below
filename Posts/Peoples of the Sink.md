@@ -1,6 +1,7 @@
 ---
 Posted: 01.21.2023
 PrimaryTag: "#CivlizationSaturday"
+parent: "[[Sink]]"
 
 previous: "[[Fisher Queens|The Fisher Queens]]"
 next: "[[Founding of Omphalos, the City of Gardens]]"

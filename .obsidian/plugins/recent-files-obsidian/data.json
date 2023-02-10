@@ -1,6 +1,166 @@
 {
   "recentFiles": [
     {
+      "basename": "Class and caste",
+      "path": "Drafts/Backburner/Class and caste.md"
+    },
+    {
+      "basename": "Infrastructure and layout",
+      "path": "Drafts/Backburner/Infrastructure and layout.md"
+    },
+    {
+      "basename": "Seasons and climate",
+      "path": "Drafts/Backburner/Seasons and climate.md"
+    },
+    {
+      "basename": "Scholars of the City",
+      "path": "Posts/Scholars of the City.md"
+    },
+    {
+      "basename": "(Theme) Scholarship",
+      "path": "Posts/(Theme) Scholarship.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "Upcoming posts.md"
+    },
+    {
+      "basename": "Scholars Quarter",
+      "path": "Posts/Scholars Quarter.md"
+    },
+    {
+      "basename": "Great Works",
+      "path": "Glossary/Great Works.md"
+    },
+    {
+      "basename": "Social Spheres Theory",
+      "path": "Posts/Extracted/Social Spheres Theory.md"
+    },
+    {
+      "basename": "Henotheist",
+      "path": "Glossary/Henotheist.md"
+    },
+    {
+      "basename": "History of the Subjective",
+      "path": "Posts/History of the Subjective.md"
+    },
+    {
+      "basename": "(Theme) Legion and monad",
+      "path": "Posts/(Theme) Legion and monad.md"
+    },
+    {
+      "basename": "Mouseion",
+      "path": "Posts/Extracted/Mouseion.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Oremongers Guild",
+      "path": "Posts/Oremongers Guild.md"
+    },
+    {
+      "basename": "Cult of Pythos",
+      "path": "Posts/Extracted/Cult of Pythos.md"
+    },
+    {
+      "basename": "Later Heliotropic Age",
+      "path": "Posts/Later Heliotropic Age.md"
+    },
+    {
+      "basename": "Omphalos, the City of Gardens",
+      "path": "Posts/Omphalos, the City of Gardens.md"
+    },
+    {
+      "basename": "College",
+      "path": "Glossary/College.md"
+    },
+    {
+      "basename": "Naming of the Great Houses",
+      "path": "Drafts/Naming of the Great Houses.md"
+    },
+    {
+      "basename": "Setting timeline",
+      "path": "Setting timeline.canvas"
+    },
+    {
+      "basename": "Miscellaneous notes for later",
+      "path": "Miscellaneous notes for later.md"
+    },
+    {
+      "basename": "Sun Coast",
+      "path": "Glossary/Sun Coast.md"
+    },
+    {
+      "basename": "Lands to the south",
+      "path": "Posts/Lands to the south.md"
+    },
+    {
+      "basename": "Great Dark Cold",
+      "path": "Glossary/Great Dark Cold.md"
+    },
+    {
+      "basename": "Beastlands",
+      "path": "Glossary/Beastlands.md"
+    },
+    {
+      "basename": "Founding of Omphalos, the City of Gardens",
+      "path": "Posts/Founding of Omphalos, the City of Gardens.md"
+    },
+    {
+      "basename": "Great Sea",
+      "path": "Glossary/Great Sea.md"
+    },
+    {
+      "basename": "Gold Coast",
+      "path": "Glossary/Gold Coast.md"
+    },
+    {
+      "basename": "Post-Heliotropic Elven March",
+      "path": "Posts/Post-Heliotropic Elven March.md"
+    },
+    {
+      "basename": "Sink",
+      "path": "Posts/Sink.md"
+    },
+    {
+      "basename": "Peoples of the Sink",
+      "path": "Posts/Peoples of the Sink.md"
+    },
+    {
+      "basename": "Rise of the Oremongers Guild",
+      "path": "Drafts/Rise of the Oremongers Guild.md"
+    },
+    {
+      "basename": "Cland",
+      "path": "Glossary/Cland.md"
+    },
+    {
+      "basename": "Pact magics",
+      "path": "Posts/Pact magics.md"
+    },
+    {
+      "basename": "The Objective",
+      "path": "Glossary/The Objective.md"
+    },
+    {
+      "basename": "The Subjective",
+      "path": "Glossary/The Subjective.md"
+    },
+    {
+      "basename": "Giants",
+      "path": "Posts/Giants.md"
+    },
+    {
+      "basename": "Organic magics of the Elven Legion",
+      "path": "Posts/Extracted/Organic magics of the Elven Legion.md"
+    },
+    {
+      "basename": "organic magics",
+      "path": "Posts/organic magics.md"
+    },
+    {
       "basename": "List of posts",
       "path": "Pages/List of posts.md"
     },
@@ -9,40 +169,8 @@
       "path": "Pages/Glossary.md"
     },
     {
-      "basename": "Miscellaneous notes for later",
-      "path": "Miscellaneous notes for later.md"
-    },
-    {
-      "basename": "Upcoming posts",
-      "path": "Upcoming posts.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
-      "basename": "Setting timeline",
-      "path": "Setting timeline.canvas"
-    },
-    {
-      "basename": "Infrastructure and layout",
-      "path": "Drafts/Backburner/Infrastructure and layout.md"
-    },
-    {
-      "basename": "Rise of the Oremongers Guild",
-      "path": "Drafts/Rise of the Oremongers Guild.md"
-    },
-    {
-      "basename": "White Quarter",
-      "path": "Drafts/Backburner/White Quarter.md"
-    },
-    {
       "basename": "Mutualist pacts",
       "path": "Posts/Extracted/Mutualist pacts.md"
-    },
-    {
-      "basename": "Pact magics",
-      "path": "Glossary/Pact magics.md"
     },
     {
       "basename": "Iconic pacts",
@@ -57,144 +185,12 @@
       "path": "Posts/Elven March.md"
     },
     {
-      "basename": "organic magics",
-      "path": "Posts/Extracted/organic magics.md"
-    },
-    {
       "basename": "Nyxfall of the Elven Legion",
       "path": "Posts/Nyxfall of the Elven Legion.md"
     },
     {
       "basename": "Rookish clans",
       "path": "Posts/Extracted/Rookish clans.md"
-    },
-    {
-      "basename": "Organic magics of the Elven Legion",
-      "path": "Posts/Organic magics of the Elven Legion.md"
-    },
-    {
-      "basename": "Anatomy of the Elves",
-      "path": "Posts/Extracted/Anatomy of the Elves.md"
-    },
-    {
-      "basename": "Naming of the Great Houses",
-      "path": "Drafts/Naming of the Great Houses.md"
-    },
-    {
-      "basename": "Court",
-      "path": "Posts/Court.md"
-    },
-    {
-      "basename": "House Lightbringer",
-      "path": "Posts/House Lightbringer.md"
-    },
-    {
-      "basename": "Silver Wolves",
-      "path": "Posts/Silver Wolves.md"
-    },
-    {
-      "basename": "(Theme) Government and politics",
-      "path": "Posts/(Theme) Government and politics.md"
-    },
-    {
-      "basename": "astral divination",
-      "path": "Glossary/astral divination.md"
-    },
-    {
-      "basename": "(Theme) Legion and monad",
-      "path": "Posts/(Theme) Legion and monad.md"
-    },
-    {
-      "basename": "Valley of Ruins",
-      "path": "Posts/Valley of Ruins.md"
-    },
-    {
-      "basename": "Griot",
-      "path": "Glossary/Griot.md"
-    },
-    {
-      "basename": "Messengers Guild",
-      "path": "Posts/Extracted/Messengers Guild.md"
-    },
-    {
-      "basename": "Oremongers Guild",
-      "path": "Posts/Oremongers Guild.md"
-    },
-    {
-      "basename": "Fisher Queens",
-      "path": "Posts/Fisher Queens.md"
-    },
-    {
-      "basename": "Sink",
-      "path": "Posts/Sink.md"
-    },
-    {
-      "basename": "legion",
-      "path": "Glossary/legion.md"
-    },
-    {
-      "basename": "monad",
-      "path": "Glossary/monad.md"
-    },
-    {
-      "basename": "Later Heliotropic Age",
-      "path": "Posts/Later Heliotropic Age.md"
-    },
-    {
-      "basename": "Elven Signaltower",
-      "path": "Posts/Elven Signaltower.md"
-    },
-    {
-      "basename": "Iconic pact of the Oremongers Guild",
-      "path": "Posts/Iconic pact of the Oremongers Guild.md"
-    },
-    {
-      "basename": "polar onyx deposit",
-      "path": "Glossary/polar onyx deposit.md"
-    },
-    {
-      "basename": "roccas",
-      "path": "Glossary/roccas.md"
-    },
-    {
-      "basename": "rayas",
-      "path": "Glossary/rayas.md"
-    },
-    {
-      "basename": "rota",
-      "path": "Glossary/rota.md"
-    },
-    {
-      "basename": "Seasons and climate",
-      "path": "Drafts/Backburner/Seasons and climate.md"
-    },
-    {
-      "basename": "Guild",
-      "path": "Glossary/Guild.md"
-    },
-    {
-      "basename": "Currency",
-      "path": "Posts/Extracted/Currency.md"
-    },
-    {
-      "basename": "Union",
-      "path": "Glossary/Union.md"
-    },
-    {
-      "basename": "Hand of the Court",
-      "path": "Glossary/Hand of the Court.md"
-    },
-    {
-      "basename": "Great House",
-      "path": "Glossary/Great House.md"
-    },
-    {
-      "basename": "Orator",
-      "path": "Glossary/Orator.md"
-    },
-    {
-      "basename": "House",
-      "path": "Glossary/House.md"
     }
   ],
   "omittedPaths": [],

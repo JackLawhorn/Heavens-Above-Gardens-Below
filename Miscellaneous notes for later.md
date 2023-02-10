@@ -1,9 +1,3 @@
-# Cult of Pythos
-- based on that one portrait of Pythagoras
-- studied the Objective of Form
-	- The first true Objectivist
-	- Saw historians and even the Elves as too focused on the Subjective
-
 # Classes
 ## Classes of the Shoals
 - Anchorites are religious hermits of the Shoals in the Duchy of Stilts

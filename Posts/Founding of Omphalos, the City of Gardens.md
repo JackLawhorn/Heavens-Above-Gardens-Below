@@ -46,4 +46,4 @@ The [[Oremongers Guild]], born of the clans closest to the elemental earth motes
 
 ---
 
-A City all their own and under the protection of their own, no longer relying on the Sun Elves of the Legion, such was the precipice of the [[Later Heliotropic Age|First Golden Age]] of humanity. With the Signaltower completed and their wards having found their place in the world, the Legion was free to continue the March and their divine quest through the [[lands to the south]].
+A City all their own and under the protection of their own, no longer relying on the Sun Elves of the Legion, such was the precipice of the [[Later Heliotropic Age|First Golden Age]] of humanity. With the Signaltower completed and their wards having found their place in the world, the Legion was free to continue the March and their divine quest through the [[Lands to the south]].

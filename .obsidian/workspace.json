@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10f8525cc667464c",
+        "id": "af1199caccad0960",
         "type": "tabs",
         "children": [
           {
-            "id": "79b503e86f513159",
+            "id": "bf72099d9e368308",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -56,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -93,7 +93,7 @@
       {
         "id": "c79bd7c7dedaa793",
         "type": "tabs",
-        "dimension": 58.372093023255815,
+        "dimension": 66.51162790697674,
         "children": [
           {
             "id": "a6a214607e9857ed",
@@ -113,7 +113,7 @@
       {
         "id": "fee505c2a9e42efb",
         "type": "tabs",
-        "dimension": 41.627906976744185,
+        "dimension": 33.48837209302326,
         "children": [
           {
             "id": "ebbfbcd1c7127467",
@@ -157,20 +157,21 @@
       "templates:Insert template": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "cmdr:Commander: Save to git": false
     }
   },
   "active": "567083650aca63ac",
   "lastOpenFiles": [
-    "Pages/List of posts.md",
-    "Pages/Glossary.md",
-    "Miscellaneous notes for later.md",
-    "Upcoming posts.md",
-    "TODO.md",
-    "Setting timeline.canvas",
-    "README.md",
+    "Drafts/Backburner/Class and caste.md",
     "Drafts/Backburner/Infrastructure and layout.md",
-    "Drafts/Rise of the Oremongers Guild.md",
-    "Drafts/Backburner/White Quarter.md"
+    "Drafts/Backburner/Seasons and climate.md",
+    "Drafts/Backburner/White Quarter.md",
+    "Drafts/Backburner/Philosophers Guild.md",
+    "Posts/Scholars of the City.md",
+    "`= this.next`.md",
+    "Posts/(Theme) Scholarship.md",
+    "Untitled.md",
+    "Upcoming posts.md"
   ]
 }

@@ -9,5 +9,7 @@
   "note-refactor-obsidian",
   "frontmatter-links",
   "obsidian-banners",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-hide-sidebars-when-narrow",
+  "obsidian-vault-statistics-plugin"
 ]

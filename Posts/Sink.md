@@ -28,3 +28,9 @@ From rumors and intelligence passed along by the [[Oklop]] consortiums, the [[Re
 After his fall into the deepest depths of the [[Sink]], the [[Lunar Aspects#<strike>The Fallen Son</strike>|Fallen Son]] was cursed to eternal slumber. Despite this, this presence has had a profound impact on the environment. No longer a [[Lunar Aspects|Lunar Aspect]], his fall led him to become an [[Umbral Aspect]] which infected the darkness of the depths and all who dwelled there. Now, his followers the [[Akụm]] inhabit the hollowed out core of his lunar form even as they still worship him as their dark [[iconic pacts|patron]].
 
 The divine quest of the [[Sea Elves]] was to infiltrate this dark citadel and eliminate the Fallen Son as he slumbers.
+
+## See also
+```dataview
+LIST
+WHERE parent AND parent = [[Sink]]
+```

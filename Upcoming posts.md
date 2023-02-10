@@ -1,15 +1,8 @@
 # Upcoming posts
 
 ## February
-- #TimelineTuesday • 02.07.2023 • [[History of the Subjective]]
-	- [[The Objective]] (glossary)
-	- [[The Subjective]] (glossary)
-	- [[Social Sphere Theory]] (extracted)
-- #WorldWednesday  • 02.08.2023 • [[Lands to the south]]
-- #ThemeThursday  • 02.09.2023 • [[(Theme) Scholarship]]
-- #FactionFriday  • 02.10.2023 • [[Scholars of the City]] + [[Cult of Pythos]] (extracted)
-- #CivilizationSaturday • 02.11.2023 • [[Scholars Quarter]] (extracted from [[City districts]])
-- #SceneSunday  • 02.12.2023 • [[The Elf who fell from the sky]] + [[Storm Elves]] (extracted from [[Elven Legion]])
+- #SceneSunday  • 02.12.2023 • [[The Elf who fell from the sky]]
+	- [[Storm Elves]] (extracted from [[Elven Legion]])
 - #MagicSystemMonday • 02.13.2023 • [[Materialist magics]]
 - #TimelineTuesday • 02.14.2023 • [[History of materialist magics]]
 - #WorldWednesday  • 02.15.2023 • [[Materialist artifacts|Common materialist artifacts]]
@@ -21,26 +14,28 @@
 - #TimelineTuesday • 02.21.2023 • [[History of non-human populations in the City]]
 - #WorldWednesday  • 02.22.2023 • [[Minor Aspects]]
 - #ThemeThursday  • 02.23.2023 • [[(Theme) Religion and worship]]
-- #FactionFriday  • 02.24.2023 • [[Canon of Heterodoxies|The Canon of Heterodoxies]] + [[Cardinals|The Cardinals]] (extracted from [[Rookish clans]])
+- #FactionFriday  • 02.24.2023 • [[Canon of Heterodoxies|The Canon of Heterodoxies]]
+	- [[Cardinals|The Cardinals]] (extracted from [[Rookish clans]])
 - #CivilizationSaturday • 02.25.2023 • [[Cland Houses]]
 - #SceneSunday  • 02.26.2023 • [[First parley with the Oklop consortium]]
 - #MagicSystemMonday • 02.27.2023 • [[Organic magics of the Oklop]]
 - #TimelineTuesday • 02.28.2023 • [[Crisis of Hubris]]
 
 ## March
-- #WorldWednesday • 03.01.2023 • [[polar onyx deposit]]
+- #WorldWednesday • 03.01.2023 • [[polar onyx deposit]] (promote from glossary)
 - #ThemeThursday  • 03.02.2023 • [[(Theme) Tragedy and catastrophic loss]]
-- #FactionFriday  • 03.03.2023 • [[House Lightbringer's Questing Charter]] + [[Questing Charter]] (glossary)
-- #CivilizationSaturday  • 03.04.2023 • [[Mines of the Oremongers Guild]]
+- #FactionFriday  • 03.03.2023 • [[House Lightbringer's Questing Charter]]
+- #CivilizationSaturday  • 03.04.2023 • [[Questing Charter]] (extracted from [[Court]])
 - #SceneSunday • 03.05.2023 • [[Fall of the Oremongers Guild]]
 - #MagicSystemMonday • 03.06.2023 • [[Warlock|Warlock, the Pact Breakers]]
 - #TimelineTuesday • 03.07.2023 • [[Early Crisis of Hubris]]
-- #WorldWednesday • 03.08.2023 • [[Sun Coast]]
+- #WorldWednesday • 03.08.2023 • [[Mines of the Oremongers Guild]]
 - #ThemeThursday  • 03.09.2023 • [[(Theme) Hunger and madness]]
 - #FactionFriday  • 03.10.2023 • [[Shipwrights Guild]]
 - #CivilizationSaturday  • 03.11.2023 • [[Duchy of Stilts]]
 - #SceneSunday • 03.12.2023 • [[Fall of House Lightbringer]]
-- #MagicSystemMonday • 03.13.2023 • [[Umbral Aspects]] + [[Nyxblight]] (extracted)
+- #MagicSystemMonday • 03.13.2023 • [[Umbral Aspects]]
+	- [[Nyxblight]] (extracted)
 - #TimelineTuesday • 03.14.2023 • [[History of the Umbral Aspects]]
 - #WorldWednesday • 03.15.2023 • [[Nyxblight Tree]]
 - #ThemeThursday  • 03.16.2023 • [[(Theme) Exploring cosmicism]]
@@ -63,7 +58,8 @@
 - #FactionFriday  • 03.31.2023 • [[The House of the Sun]]
 
 # April
-- #CivilizationSaturday  • 04.01.2023 • [[Reconstruction]] + [[Public Scholarship]] (extracted)
+- #CivilizationSaturday  • 04.01.2023 • [[Reconstruction]]
+	- [[Public Scholarship]] (extracted)
 - #SceneSunday • 04.02.2023 • [[Scenes from the life of the Pretender I]]
 - #MagicSystemMonday • 04.03.2023 • [[Minor Aspects in the City]] (extracted from [[Omphalos, the City of Gardens|City]])
 - #TimelineTuesday • 04.04.2023 • [[Later Crisis of Hubris]]

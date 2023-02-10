@@ -28,7 +28,7 @@ Secondarily, the March works to find and develop the other races of the [[Orior]
 
 ## Organic magics of the Sun Elves
 
-> The magics described here are specific to the Sun Elves, who are but one faction of their race. For a general overview of the magics that are shared by the [[Elven Legion]] as a whole share, see [[organic magics of the Elven Legion]].
+> The magics described here are specific to the Sun Elves, who are but one faction of their race. For a general overview of the magics that are shared by the [[Elven Legion]] as a whole share, see [[Organic magics of the Elven Legion]].
 
 Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves allow them to wield [[nyxfire]] flames. These magics manifest in a number of different ways:
 - A certain influence with and over the elemental [[nyxfire motes]]

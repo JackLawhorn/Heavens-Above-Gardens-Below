@@ -28,7 +28,7 @@ In worship of their patrons, they also tend to this domain. To the earth motes, 
 
 Even more so than the [[Silver Wolves]] of [[Clan Wolfstepper]], the [[Iconic pacts|iconic]] mages of the Guild were as demigods among [[Later Heliotropic Age|Heliotropic]] humanity. Their powers were so great as to shake the earth of the [[Known World]] to its core, and as such they quickly rose to prominence in [[Omphalos, the City of Gardens]].
 
-They were titans of industry, the progenitors of the [[Court]]'s many [[Houses of Industry]] and later the inspiration for the [[Engineers Union]]. Both for this and for their great and unstoppable prowess in combat, they were among the original four [[Great Houses]].
+They were titans of industry, the progenitors of the [[Court]]'s many [[Houses of Industry]] and later the inspiration for the [[Engineers Union]]. Both for this and for their great and unstoppable prowess in combat, they were among the original four [[Great House|Great Houses]].
 
 > For more, see [[Naming of the Great Houses]].
 
@@ -54,7 +54,7 @@ The Guild's [[Iconic pacts|iconic]] mages grew to specialize in industries of th
 
 The first and most powerful of the Guild's [[Iconic pacts|iconic]] mages were the earth shapers who commanded stone and earth like wet clay. Their magics were not so precise as to make for effective warriors, but they were known to be master architects, engravers, and sculptors who not only constructed the [[Old City]] of [[Omphalos, the City of Gardens]], but populated it with [[Great Works]].
 
-The earth shapers were respected both for their abilities and for their wisdom. Many of their number became wandering philosophers, walking the City and bringing its streets and structures and walls to life with their very presence. From their number rose the [[Cult of Pythos]] and his theories of [[Objectivism]], and even after their [[Fall of the Oremongers Guild|fall]] the former earth shapers retained a certain station as the founders of a great many [[Combat Arts]].
+The earth shapers were respected both for their abilities and for their wisdom. Many of their number became wandering philosophers, walking the City and bringing its streets and structures and walls to life with their very presence. From their number rose the [[Cult of Pythos]] and his theories of [[Scholars of the City#Objectivists|Objectivism]], and even after their [[Fall of the Oremongers Guild|fall]] the former earth shapers retained a certain station as the founders of a great many [[Combat Arts]].
 
 ### Assayers
 

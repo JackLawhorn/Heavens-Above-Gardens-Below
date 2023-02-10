@@ -24,7 +24,7 @@ The path of the Post-Heliotropic Elven March was the subject of centuries of spe
 
 As was known, they began their journey east along the [[Sun Coast]] in an attempt to march around the [[Great Sea]] rather than travel over it. Cutting through the brush and various armies sent to stop their advance by the forces of the [[Wild Magics]], they eventually arrived at the great [[Nyxblight Tree]] just as the [[House Lightbringer]] would in the early Crisis of Hubris. The presence of the [[Red Court]] and the catastrophe of the [[Red Plague]] to come completely unbeknownst to them, they briefly skirmished with the [[Nycter]] before continuing their journey.
 
-Having rounded the perimeter of the Great Sea, they entered into the [[Lands to the South]]. Northernmost are the [[Beastlands]], a great expanse of seemingly endless frontier where a great many more races of the Orior were afforded time to develop in the chaos of the Wild Magics' [[nyxfire]] storms.
+Having rounded the perimeter of the Great Sea, they entered into the [[Lands to the south]]. Northernmost are the [[Beastlands]], a great expanse of seemingly endless frontier where a great many more races of the Orior were afforded time to develop in the chaos of the Wild Magics' [[nyxfire]] storms.
 
 Eventually, they arrived in the [[Great Dark Cold]] at the Known World's furthest point from the light and warmth of the [[Elven Signaltower]]. Here, it is said, is where the [[Fallen world|fall]] of the [[Old World]] began, and all that remains are a land so devoid of the magics and of the light of [[Ylem]] that the [[Sun Elves]] themselves nearly succumbed to the darkness of the [[Dragon]].
 
