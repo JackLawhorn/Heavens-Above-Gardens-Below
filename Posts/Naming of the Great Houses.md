@@ -36,6 +36,4 @@ The many dozen clans who had not been named this day largely accepted these resu
 
 No representatives of the [[Rookish clans]] were named or granted Great Houseship. With the splitting off of the [[Fisher Queens]] and later the [[Messengers Guild]] and the fragmentation of the Rooks that followed, their political prospects greatly. In truth, their [[Rookish clans#Raptor eyes|much-suffering eyes]] had been the subject of rumor and superstition for so many generations born and dead along the Elven March that the clans of the young City were far too wary to grant them this kind of power over them.
 
----
-
-The first four Orators take their seats and preside over the Court for the first time
+As the first four Orators took their seats for the first time, humanity's Court had taken shape after centuries and untold generations lived according to chaotic cland politics.

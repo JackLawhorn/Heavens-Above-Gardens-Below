@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "NOT path:Posts OR path:Glossary",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.990310739709068,
   "lineSizeMultiplier": 0.1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457323,
-  "close": false
+  "scale": 0.12044063054075548,
+  "close": true
 }

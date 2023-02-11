@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "af1199caccad0960",
+        "id": "f3431f8b2608f783",
         "type": "tabs",
         "children": [
           {
-            "id": "bf72099d9e368308",
+            "id": "3abdeeb829fe640b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Upcoming posts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cd6a171b9424b68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c855e6a3f13ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posts/Omphalos, the City of Gardens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Pages/TODO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Posts/Omphalos, the City of Gardens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Posts/Omphalos, the City of Gardens.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,17 +187,17 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "567083650aca63ac",
+  "active": "90c855e6a3f13ca0",
   "lastOpenFiles": [
-    "Drafts/Backburner/Class and caste.md",
-    "Drafts/Backburner/Infrastructure and layout.md",
-    "Drafts/Backburner/Seasons and climate.md",
-    "Drafts/Backburner/White Quarter.md",
-    "Drafts/Backburner/Philosophers Guild.md",
-    "Posts/Scholars of the City.md",
-    "`= this.next`.md",
-    "Posts/(Theme) Scholarship.md",
-    "Untitled.md",
-    "Upcoming posts.md"
+    "Upcoming posts.md",
+    "Posts/Omphalos, the City of Gardens.md",
+    "Drafts/Storm Elves.md",
+    "Drafts/Backburner/City infrastructure and layout.md",
+    "Posts/Extracted/Currencies of the City.md",
+    "Drafts/Backburner/Class and caste in the City.md",
+    "Pages/TODO.md",
+    "Posts/Oremongers Guild.md",
+    "Pages/List of posts.md",
+    "Pages/Glossary.md"
   ]
 }

@@ -1,8 +1,7 @@
-# Upcoming posts
+# Scheduled daily posts
 
 ## February
 - #SceneSunday  • 02.12.2023 • [[The Elf who fell from the sky]]
-	- [[Storm Elves]] (extracted from [[Elven Legion]])
 - #MagicSystemMonday • 02.13.2023 • [[Materialist magics]]
 - #TimelineTuesday • 02.14.2023 • [[History of materialist magics]]
 - #WorldWednesday  • 02.15.2023 • [[Materialist artifacts|Common materialist artifacts]]
@@ -117,7 +116,7 @@
 - #ThemeThursday  • 05.20.2023 • [[(Theme) The other]]
 - #FactionFriday • 05.21.2023 • [[Bloodhounds]]
 - #CivilizationSaturday • 05.22.2023 • [[Silver in the City]] (extracted from [[Omphalos, the City of Gardens|City]])
-	- [[Class and caste]] (extracted from [[Omphalos, the City of Gardens|City]])
+	- [[Class and caste in the City]] (extracted from [[Omphalos, the City of Gardens|City]])
 	- [[Cumbergrounds]] (extracted from [[City districts]])
 - #SceneSunday • 05.23.2023 • [[Bloodhounds versus the Rookish Cloaks]]
 - #MagicSystemMonday • 05.24.2023 • [[Absence of the Wolf Mother]]

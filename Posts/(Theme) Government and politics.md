@@ -44,7 +44,7 @@ Especially in the time period and scale of technological advancement we're deali
 
 In peacetime, much of the action is political, taking place within the halls of the [[Court]]. [[Lord Representative|Lord Representatives]] meet and deal and scheme. Espionage can be a real threat to one's power, and so intelligence gathering and defense of one's own intelligence is made a necessity. What political bodies would come about to specialize in these new fields, and how might possession of [[extramundane]] abilities aid in or deter that action?
 
-In addition to the monetary [[Currency|currencies]] of this society, this creates a secondary tier of social and political currencies like might, industry, and what I've called politique.
+In addition to the monetary [[Currencies of the City|currencies]] of this society, this creates a secondary tier of social and political currencies like might, industry, and what I've called politique.
 
 ---
 

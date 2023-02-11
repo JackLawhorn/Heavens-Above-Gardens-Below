@@ -1,6 +1,6 @@
 ---
 parent: "[[Omphalos, the City of Gardens]]"
-aliases: currencies, coins
+aliases: currency, currencies, coins
 ---
 **Extracted from:** `= this.parent`
 # Currencies of the City
@@ -21,7 +21,7 @@ After the [[Founding of Omphalos, the City of Gardens|founding]] of [[Omphalos, 
 
 Copper coins were introduced by the [[Oremongers Guild]] soon after the successful adoption of the [[#Gold|gold standard]], flooding the [[Omphalos, the City of Gardens|City of Gardens]] and its economy with newfound wealth. Just as gold had held significant symbolism for the [[Sun Elves|Elves]] and humanity after them, copper had long since been associated with the Sun Elves themselves. Not only were their arms and armor made of bronze, but copper also evoked the shared skin tone of the Sun Elves.
 
-This new denomination brought much prosperity and increased quality of life to the middle and lower classes, and further defined the structure of the [[Class and caste|social classes]]. As of the [[Early Post-Enlightenment Era|Early]] [[Post-Enlightenment Era]], copper coins are predominantly held by the middle class.
+This new denomination brought much prosperity and increased quality of life to the middle and lower classes, and further defined the structure of the [[Class and caste in the City|social classes]]. As of the [[Early Post-Enlightenment Era|Early]] [[Post-Enlightenment Era]], copper coins are predominantly held by the middle class.
 
 ### Silver
 

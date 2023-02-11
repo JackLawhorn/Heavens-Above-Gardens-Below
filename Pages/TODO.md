@@ -1,9 +1,10 @@
-# TODO
-Pages that have been linked to but haven't yet been created:
+# Upcoming
+
+Ideas that have been mentioned but haven't been created just yet:
+
 ```dataview
 TABLE
 FLATTEN file.outlinks as Note
 WHERE !(Note.file) AND !contains(meta(Note).path, "/") AND !contains(file.path, "Upcoming")
 GROUP by Note
-SORT Note ASC
 ```

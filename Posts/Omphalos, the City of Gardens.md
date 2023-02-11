@@ -22,5 +22,5 @@ This page serves to aggregates all content about **Omphalos, the City of Gardens
 ```dataview
 TABLE PrimaryTag
 WHERE parent AND parent = [[Omphalos, the City of Gardens]]
-SORT name ASC
+SORT file.name ASC
 ```
