@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3431f8b2608f783",
+        "id": "3b485d31e7ef68b9",
         "type": "tabs",
         "children": [
           {
-            "id": "3abdeeb829fe640b",
+            "id": "4ab39dfdabe7236f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upcoming posts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cd6a171b9424b68b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90c855e6a3f13ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posts/Omphalos, the City of Gardens.md",
+                "file": "Posts/Extracted/Storm Elves.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upcoming posts.md",
+                "file": "Posts/Extracted/Storm Elves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upcoming posts.md",
+                "file": "Posts/Extracted/Storm Elves.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,17 +167,17 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "567083650aca63ac",
+  "active": "4ab39dfdabe7236f",
   "lastOpenFiles": [
-    "Posts/Omphalos, the City of Gardens.md",
-    "Upcoming posts.md",
-    "Drafts/Storm Elves.md",
-    "Drafts/Backburner/City infrastructure and layout.md",
-    "Posts/Extracted/Currencies of the City.md",
-    "Drafts/Backburner/Class and caste in the City.md",
-    "Pages/TODO.md",
+    "Posts/Sun Elves.md",
+    "Posts/Extracted/Storm Elves.md",
     "Posts/Oremongers Guild.md",
-    "Pages/List of posts.md",
-    "Pages/Glossary.md"
+    "Posts/Extracted/Storm Elves.md",
+    "Pages/TODO.md",
+    "Posts/Extracted/Anatomy of the Sun Elves.md",
+    "Upcoming posts.md",
+    "Miscellaneous notes for later.md",
+    "Posts/Omphalos, the City of Gardens.md",
+    "Drafts/Backburner/City infrastructure and layout.md"
   ]
 }

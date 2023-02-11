@@ -1,204 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Upcoming posts",
-      "path": "Upcoming posts.md"
-    },
-    {
-      "basename": "Omphalos, the City of Gardens",
-      "path": "Posts/Omphalos, the City of Gardens.md"
-    },
-    {
       "basename": "Storm Elves",
-      "path": "Drafts/Storm Elves.md"
+      "path": "Posts/Extracted/Storm Elves.md"
     },
     {
-      "basename": "City infrastructure and layout",
-      "path": "Drafts/Backburner/City infrastructure and layout.md"
-    },
-    {
-      "basename": "Currencies of the City",
-      "path": "Posts/Extracted/Currencies of the City.md"
-    },
-    {
-      "basename": "Class and caste in the City",
-      "path": "Drafts/Backburner/Class and caste in the City.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "Pages/TODO.md"
+      "basename": "Sun Elves",
+      "path": "Posts/Sun Elves.md"
     },
     {
       "basename": "Oremongers Guild",
       "path": "Posts/Oremongers Guild.md"
     },
     {
-      "basename": "List of posts",
-      "path": "Pages/List of posts.md"
+      "basename": "TODO",
+      "path": "Pages/TODO.md"
     },
     {
-      "basename": "Glossary",
-      "path": "Pages/Glossary.md"
-    },
-    {
-      "basename": "Scholars Quarter",
-      "path": "Posts/Scholars Quarter.md"
-    },
-    {
-      "basename": "Rise of the Oremongers Guild",
-      "path": "Drafts/Rise of the Oremongers Guild.md"
+      "basename": "Upcoming posts",
+      "path": "Upcoming posts.md"
     },
     {
       "basename": "Miscellaneous notes for later",
       "path": "Miscellaneous notes for later.md"
-    },
-    {
-      "basename": "Setting timeline",
-      "path": "Setting timeline.canvas"
-    },
-    {
-      "basename": "Naming of the Great Houses",
-      "path": "Posts/Naming of the Great Houses.md"
-    },
-    {
-      "basename": "City districts",
-      "path": "Posts/Extracted/City districts.md"
-    },
-    {
-      "basename": "Seasons and climate",
-      "path": "Drafts/Backburner/Seasons and climate.md"
-    },
-    {
-      "basename": "Scholars of the City",
-      "path": "Posts/Scholars of the City.md"
-    },
-    {
-      "basename": "(Theme) Scholarship",
-      "path": "Posts/(Theme) Scholarship.md"
-    },
-    {
-      "basename": "Great Works",
-      "path": "Glossary/Great Works.md"
-    },
-    {
-      "basename": "Social Spheres Theory",
-      "path": "Posts/Extracted/Social Spheres Theory.md"
-    },
-    {
-      "basename": "Henotheist",
-      "path": "Glossary/Henotheist.md"
-    },
-    {
-      "basename": "History of the Subjective",
-      "path": "Posts/History of the Subjective.md"
-    },
-    {
-      "basename": "(Theme) Legion and monad",
-      "path": "Posts/(Theme) Legion and monad.md"
-    },
-    {
-      "basename": "Mouseion",
-      "path": "Posts/Extracted/Mouseion.md"
-    },
-    {
-      "basename": "Cult of Pythos",
-      "path": "Posts/Extracted/Cult of Pythos.md"
-    },
-    {
-      "basename": "Later Heliotropic Age",
-      "path": "Posts/Later Heliotropic Age.md"
-    },
-    {
-      "basename": "College",
-      "path": "Glossary/College.md"
-    },
-    {
-      "basename": "Sun Coast",
-      "path": "Glossary/Sun Coast.md"
-    },
-    {
-      "basename": "Lands to the south",
-      "path": "Posts/Lands to the south.md"
-    },
-    {
-      "basename": "Great Dark Cold",
-      "path": "Glossary/Great Dark Cold.md"
-    },
-    {
-      "basename": "Beastlands",
-      "path": "Glossary/Beastlands.md"
-    },
-    {
-      "basename": "Founding of Omphalos, the City of Gardens",
-      "path": "Posts/Founding of Omphalos, the City of Gardens.md"
-    },
-    {
-      "basename": "Great Sea",
-      "path": "Glossary/Great Sea.md"
-    },
-    {
-      "basename": "Gold Coast",
-      "path": "Glossary/Gold Coast.md"
-    },
-    {
-      "basename": "Post-Heliotropic Elven March",
-      "path": "Posts/Post-Heliotropic Elven March.md"
-    },
-    {
-      "basename": "Sink",
-      "path": "Posts/Sink.md"
-    },
-    {
-      "basename": "Peoples of the Sink",
-      "path": "Posts/Peoples of the Sink.md"
-    },
-    {
-      "basename": "Cland",
-      "path": "Glossary/Cland.md"
-    },
-    {
-      "basename": "Pact magics",
-      "path": "Posts/Pact magics.md"
-    },
-    {
-      "basename": "The Objective",
-      "path": "Glossary/The Objective.md"
-    },
-    {
-      "basename": "The Subjective",
-      "path": "Glossary/The Subjective.md"
-    },
-    {
-      "basename": "Giants",
-      "path": "Posts/Giants.md"
-    },
-    {
-      "basename": "Organic magics of the Elven Legion",
-      "path": "Posts/Extracted/Organic magics of the Elven Legion.md"
-    },
-    {
-      "basename": "organic magics",
-      "path": "Posts/organic magics.md"
-    },
-    {
-      "basename": "Mutualist pacts",
-      "path": "Posts/Extracted/Mutualist pacts.md"
-    },
-    {
-      "basename": "Iconic pacts",
-      "path": "Posts/Extracted/Iconic pacts.md"
-    },
-    {
-      "basename": "Discoveries in the Known World",
-      "path": "Posts/Discoveries in the Known World.md"
-    },
-    {
-      "basename": "Elven March",
-      "path": "Posts/Elven March.md"
-    },
-    {
-      "basename": "Nyxfall of the Elven Legion",
-      "path": "Posts/Nyxfall of the Elven Legion.md"
     }
   ],
   "omittedPaths": [],
