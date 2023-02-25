@@ -1,5 +1,5 @@
 ---
-parent: "[[History of the Subjective]]"
+parent: ["[[History of the Subjective]]", "[[Omphalos, the City of Gardens]]"]
 ---
 **Extracted from:** `= this.parent`
 # Social Sphere Theory

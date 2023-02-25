@@ -14,5 +14,5 @@ Iconic [[Pact magics|pacts]] are formed with powerful entities, called patron [[
 ## Prominent examples
 ```dataview
 LIST
-WHERE parent AND parent = [[Iconic pacts]]
+WHERE parent AND contains(parent, [[Iconic pacts]])
 ```

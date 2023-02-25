@@ -2,6 +2,7 @@
 Posted: 01.28.2023
 PrimaryTag: "#CivilizationSaturday"
 aliases: Omphalos, City, City of Gardens
+parent: ["[[Known World]]"]
 
 previous: "[[Oremongers Guild]]"
 next: "[[Rise of the Oremongers Guild]]"
@@ -21,6 +22,6 @@ This page serves to aggregates all content about **Omphalos, the City of Gardens
 
 ```dataview
 TABLE PrimaryTag
-WHERE parent AND parent = [[Omphalos, the City of Gardens]]
+WHERE parent AND contains(parent, [[Omphalos, the City of Gardens]])
 SORT file.name ASC
 ```

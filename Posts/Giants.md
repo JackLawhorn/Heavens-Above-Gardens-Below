@@ -1,6 +1,7 @@
 ---
 Posted: 02.01.2023
 PrimaryTag: "#WorldWednesday"
+parent: ["[[Aspect]]", "[[Minor Aspects]]"]
 
 previous: "[[Post-Heliotropic Elven March]]"
 next: "[[(Theme) Government and politics]]"

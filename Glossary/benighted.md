@@ -1,5 +1,6 @@
 ---
 aliases: benighting, unbenighted
+parent: "[[Lunar Aspects]]"
 ---
 #Glossary 
 # Benighted

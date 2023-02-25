@@ -56,3 +56,9 @@ A great many clans formed bonds with the many avian races of the [[Discoveries i
 They are cloaked rangers with an arsenal of ranged, thrown, and short bladed weapons who quickly became some of humanity's most proficient hunters, albeit after the [[Silver Wolves]]. Many even learned an almost [[extramundane]] proficiency in climbing from the [[Sun Elves]] to better mimic and complement the hunting patterns of their companions.
 
 From their ranks came the [[Messengers Guild]] and the [[Fisher Queens]] and their [[Duchy of Stilts]].
+
+## See also
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Human clans]])
+```

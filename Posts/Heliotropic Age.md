@@ -2,6 +2,7 @@
 Posted: 01.10.2023
 PrimaryTag: "#TimelineTuesday"
 aliases: The Heliotropic Age
+parent: "[[Ages of the Known World]]"
 
 previous: "[[Iconic pact of the Silver Wolves]]"
 next: "[[Lunar Aspects|The Lunar Aspects]]"
@@ -15,7 +16,8 @@ next: "[[Lunar Aspects|The Lunar Aspects]]"
 
 ---
 
-## Sub-periods and major events
-- [[Elven March|The Elven March period]]
-- [[Founding of Omphalos, the City of Gardens]]
-- [[Later Heliotropic Age]]
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Heliotropic Age]])
+SORT Posted ASC
+```

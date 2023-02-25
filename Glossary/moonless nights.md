@@ -1,5 +1,6 @@
 ---
 aliases: moonless night, moonless
+parent: ["[[Known World]]", "[[Lunar Aspects]]"]
 ---
 #Glossary 
 # Moonless night

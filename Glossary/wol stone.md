@@ -1,3 +1,6 @@
+---
+parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]"]
+---
 #Glossary 
 # Wol stone
 

@@ -1,6 +1,7 @@
 ---
 Posted: 01.31.2023
 PrimaryTag: "#TimelineTuesday"
+parent: ["[[Elven Legion]]", "[[Sun Elves]]", "[[Known World]]"]
 
 previous: "[[Iconic pact of the Oremongers Guild]]"
 next: "[[Giants]]"
@@ -30,7 +31,7 @@ Eventually, they arrived in the [[Great Dark Cold]] at the Known World's furthes
 
 ## Departure of the Elven Legion
 
-Details of the campaigns of the [[Elven Legion|Legion]] in the [[Great Cold Dark]] at the farthest reaches of the [[Known World]] are unknown to all except the remnants of the Legion and perhaps whatever few inhabitants are able to survive there. The latter, if they indeed exist, have never made themselves known to humanity. The former were more than reluctant to divulge this information to humanity upon their return to [[Omphalos, the City of Gardens]], and their secrets died with them in the early [[Renascence|Renascence period]].
+Details of the campaigns of the [[Elven Legion|Legion]] in the [[Great Dark Cold]] at the farthest reaches of the [[Known World]] are unknown to all except the remnants of the Legion and perhaps whatever few inhabitants are able to survive there. The latter, if they indeed exist, have never made themselves known to humanity. The former were more than reluctant to divulge this information to humanity upon their return to [[Omphalos, the City of Gardens]], and their secrets died with them in the early [[Renascence|Renascence period]].
 
 Once their [[quest]] on the Known World was completed, and presumably reunited with the remnants of the [[Sea Elves|Sea]] and [[Storm Elves]], the Legion did what their people have done for untold millennia across an untold number of worlds. Using their [[Organic magics of the Elven Legion|organic magics]], a new gate was opened for a new [[nyxfarer|nyxfaring]] expedition across the [[Nyx]] and to their next divine quest.
 

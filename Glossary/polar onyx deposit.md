@@ -1,5 +1,6 @@
 ---
 aliases: polar onyx deposits
+parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]"]
 ---
 #Glossary 
 # Polar onyx deposits

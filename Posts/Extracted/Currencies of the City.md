@@ -33,7 +33,7 @@ Silver has now been divided into full coins, as well as even smaller denominatio
 
 ### Counterfeit currency
 
-Across most of the [[Omphalos, the City of Gardens|City of Gardens]], [[#Gold|gold coins]] are a rare sight and paying with them – especially if one does not look to be wealthy – is quite conspicuous. It is common practice for merchants to smell gold coins to check their veracity. This is in reference to "[[devil]]'s gold", another name for [[brimstone]] (sulfur), which is commonly used in the creation of counterfeit currency. Brimstone has a distinct smell, though its pungency is dependent on purity.
+Across most of the [[Omphalos, the City of Gardens|City of Gardens]], [[#Gold|gold coins]] are a rare sight and paying with them – especially if one does not look to be wealthy – is quite conspicuous. It is common practice for merchants to smell gold coins to check their veracity. This is in reference to "[[devils|devil]]'s gold", another name for [[brimstone]] (sulfur), which is commonly used in the creation of counterfeit currency. Brimstone has a distinct smell, though its pungency is dependent on purity.
 
 ### Silver in the Argent Ghetto
 

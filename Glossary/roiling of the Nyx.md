@@ -1,5 +1,6 @@
 ---
 aliases: roiling
+parent: ["[[Standard Elven Cosmology]]", "[[Nyx]]"]
 ---
 #Glossary 
 # The roiling of the Nyx

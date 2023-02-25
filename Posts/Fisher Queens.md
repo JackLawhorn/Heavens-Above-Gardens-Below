@@ -1,7 +1,7 @@
 ---
 Posted: 01.20.2023
 PrimaryTag: "#FactionFriday"
-parent: "[[Rookish clans]]"
+parent: ["[[Rookish clans]]", "[[Houses of Industry]]", "[[Human clans]]", "[[House]]", "[[Mutualist pacts]]", "[[Mutualist House]]"]
 
 previous: "[[(Theme) The elements]]"
 next: "[[Peoples of the Sink]]"

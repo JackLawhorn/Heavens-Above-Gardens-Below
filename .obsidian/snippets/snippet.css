@@ -1,3 +1,7 @@
 .cm-line > .cm-hmd-frontmatter:first-child:not(:last-child) {
   color: var(--text-accent);
 }
+
+[data-path^='_'] {
+  opacity: 0.5;
+}

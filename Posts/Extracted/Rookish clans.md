@@ -1,5 +1,5 @@
 ---
-parent: "[[Human clans]]"
+parent: ["[[Human clans]]", "[[Union]]", "[[Mutualist House]]", "[[Discoveries in the Known World]]"]
 aliases: rook, rooks, rookish, rookish house, rookish houses
 ---
 **Extracted from:** `= this.parent`
@@ -65,5 +65,5 @@ Rookish Cloaks used their [[extramundane]] climbing abilities and the urban envi
 A number of prominent [[House|Houses of the Court]] were formed as offshoots of the various Rookish Clans, including:
 ```dataview
 LIST
-WHERE parent AND parent = [[Rookish clans]]
+WHERE parent AND contains(parent, [[Rookish clans]])
 ```

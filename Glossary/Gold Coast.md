@@ -1,5 +1,5 @@
 ---
-parent: "[[Sink]]"
+parent: ["[[Known World]]", "[[Sink]]"]
 ---
 #Glossary 
 # The Gold Coast

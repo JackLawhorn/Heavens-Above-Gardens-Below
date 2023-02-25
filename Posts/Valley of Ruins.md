@@ -1,6 +1,7 @@
 ---
 Posted: 01.14.2023
 PrimaryTag: "#CivilizationSaturday"
+parent: ["[[Known World]]", "[[Old World]]", "[[Discoveries in the Known World]]"]
 
 previous: "[[Silver Wolves]]"
 next: "[[First parley with the elemental motes]]"
@@ -18,7 +19,7 @@ next: "[[First parley with the elemental motes]]"
 
 The Valley of Ruins comprises much of the north of the [[Known World]], stretching from the [[Sun Coast]] and [[Omphalos, the City of Gardens]] to the south to the outskirts of the [[Deep Deserts]] to the north.
 
-Home to [[prehistory|prehistoric]] humanity alone and no other races of the [[Orior]] until the rise of the [[Procyon gaze]] in the [[Post-Enlightenment Era]], the Valley of Ruins has stood largely uninhabited for all of recorded history. The many [[goblin clans]] born out of the [[nyxfire]] storms of the [[Wild Magics]] are one prominent exception.
+Home to [[prehistory|prehistoric]] humanity alone and no other races of the [[Orior]] until the rise of the [[Procyon gaze]] in the [[Post-Enlightenment Era]], the Valley of Ruins has stood largely uninhabited for all of recorded history. The many [[goblins|goblin clans]] born out of the [[nyxfire]] storms of the [[Wild Magics]] are one prominent exception.
 
 ## Remnants of the Old World
 

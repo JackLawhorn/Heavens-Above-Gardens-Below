@@ -1,3 +1,6 @@
+---
+parent: "[[Standard Elven Cosmology]]"
+---
 #Glossary 
 # Prime Material Sphere
 

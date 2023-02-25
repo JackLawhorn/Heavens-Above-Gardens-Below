@@ -1,3 +1,6 @@
+---
+parent: "[[Lunar Aspects]]"
+---
 #Glossary 
 # The silver moon
 

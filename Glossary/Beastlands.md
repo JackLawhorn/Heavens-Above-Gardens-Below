@@ -1,5 +1,5 @@
 ---
-parent: "[[Lands to the south]]"
+parent: ["[[Known World]]", "[[Lands to the south]]"]
 aliases: Cradle
 ---
 #Glossary

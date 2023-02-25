@@ -2,7 +2,7 @@
 Posted: 01.05.2023
 PrimaryTag: "#ThemeThursday"
 
-previous: "[[Discoveries of the Elven March]]"
+previous: "[[Discoveries in the Known World]]"
 next: "[[Sun Elves]]"
 ---
 `= this.PrimaryTag` #DailyPost

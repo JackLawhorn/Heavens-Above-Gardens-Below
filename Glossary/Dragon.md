@@ -1,3 +1,6 @@
+---
+parent: ["[[Nyx]]", "[[Standard Elven Cosmology]]"]
+---
 #Glossary 
 # The Dragon
 

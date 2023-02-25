@@ -1,6 +1,7 @@
 ---
 Posted: 01.04.2023
 PrimaryTag: "#WorldWednesday"
+parent: ["[[Heliotropic Age]]", "[[Elven March]]", "[[Known World]]"]
 
 previous: "[[Elven March]]"
 next: "[[(Theme) Foundational mythology]]"
@@ -50,4 +51,10 @@ Of particular concern was the humans' lack of [[organic magics]] which the Elves
 
 Once tamed by the [[Sun Elves]] the [[Wild Magics|Wild Magic]] settled into what they called the [[Minor Aspects]] of Ylem. These Minor Aspects are children and grandchildren and distant descendants of the [[Mundial Aspects#elemental motes|elemental motes]], governing minor domains within the [[Known World]]. One prominent example is [[Sobek (Minor Aspect)|Sobek]], the patron [[Aspect]] of rivers and namesake of the [[Sobek riverfolk]] who worship her.
 
-These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] to converse with humanity and come into pacts of their own. Prominent examples include the [[Silver Wolves]] and the [[Oremonger's Guild]] respectively.
+These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] to converse with humanity and come into pacts of their own. Prominent examples include the [[Silver Wolves]] and the [[Oremongers Guild]] respectively.
+
+## See also
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Discoveries in the Known World]])
+```

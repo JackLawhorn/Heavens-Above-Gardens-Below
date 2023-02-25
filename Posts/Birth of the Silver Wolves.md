@@ -2,6 +2,7 @@
 Posted: 01.08.2023
 PrimaryTag: "#SceneSunday"
 aliases: Birth of Clan Wolfstepper, Birth of the Silver Wolves, Rise of Clan Wolfstepper, Rise of the Silver Wolves
+parent: ["[[Heliotropic Age]]", "[[Elven March]]", "[[Silver Wolves]]"]
 
 previous: "[[Human clans]]"
 next: "[[Iconic pact of the Silver Wolves]]"

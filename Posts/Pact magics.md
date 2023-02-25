@@ -2,6 +2,7 @@
 Posted: 02.06.2023
 PrimaryTag: "#MagicSystemMonday"
 aliases: pact magic, pact, pacts, pact-bound, patron
+parent: ["[[Magics in the Known World]]", "[[Discoveries in the Known World]]"]
 
 previous: "[[Naming of the Great Houses]]"
 next: "[[History of the Subjective]]"
@@ -60,6 +61,7 @@ Those who have broken pacts are known by an [[Organic magics of the Elven Legion
 Warlock may find it difficult to form the same type of pact, to form any pact at all, or even to wield other types of magics entirely due to the damage caused to their aura.
 
 ## See also
-- [[Iconic pacts]]
-- [[Mutualist pacts]]
-- [[Hexecraft pacts]]
+```dataview
+TABLE
+WHERE parent AND contains(parent, [[Pact magics]])
+```

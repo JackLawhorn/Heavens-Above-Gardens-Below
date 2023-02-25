@@ -1,5 +1,5 @@
 ---
-parent: "[[Sun Elves]]"
+parent: ["[[Elven Legion]]", "[[Sun Elves]]", "[[Storm Elves]]", "[[Sea Elves]]"]
 ---
 **Extracted from:** `= this.parent`
 # Elven culture

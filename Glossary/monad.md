@@ -1,3 +1,6 @@
+---
+parent: "[[History of the Subjective]]"
+---
 #Glossary 
 # Monad
 

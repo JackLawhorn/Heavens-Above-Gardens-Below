@@ -1,6 +1,7 @@
 ---
 Posted: 01.15.2023
 PrimaryTag: "#SceneSunday"
+parent: ["[[Heliotropic Age]]", "[[Elven March]]", "[[Mundial Aspects]]", "[[Known World]]", "[[Discoveries in the Known World]]"]
 
 previous: "[[Valley of Ruins]]"
 next: "[[Mundial Aspects|The Mundial Aspects]]"

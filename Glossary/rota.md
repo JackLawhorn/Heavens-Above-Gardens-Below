@@ -1,3 +1,6 @@
+---
+parent: "[[City infrastructure and layout]]"
+---
 #Glossary 
 # Rota
 

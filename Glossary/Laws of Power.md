@@ -1,3 +1,6 @@
+---
+parent: "[[Standard Elven Cosmology]]"
+---
 #Glossary
 # The Laws of Power
 

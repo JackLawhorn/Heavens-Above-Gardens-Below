@@ -1,6 +1,7 @@
 ---
 Posted: 01.27.2023
 PrimaryTag: "#FactionFriday"
+parent: ["[[House]]", "[[Guild]]", "[[Great house]]", "[[Fallen House]]", "[[Iconic House]]"]
 
 previous: "[[(Theme) Legion and monad]]"
 next: "[[Omphalos, the City of Gardens]]"
@@ -69,3 +70,9 @@ From the ranks of the [[#assayers]] came the artificer knights who commanded iro
 Their [[armiger]] squires, themselves artificer knights in training, pushed carts stocked full of steel billets that could be commanded at a moments notice. This source of raw material had to be conserved as difficulty of accessing these magics scaled with the weight of the materials used. It is said that a flash of their swords could cut through solid stone at three strides' distance before reforming as their armor.
 
 The greatest warriors in all of the [[Known World]], perhaps even including the [[Sun Elves]] themselves, their services were in high demand throughout the [[Omphalos, the City of Gardens|City]]. Working as mercenaries to fund their never-ending quest to perfect their arms and armor, they were valuable political tokens traded to and between the [[House|Houses]] of the [[Court]].
+
+## See also
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Oremongers Guild]])
+```

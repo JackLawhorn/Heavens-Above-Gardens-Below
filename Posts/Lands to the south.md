@@ -1,6 +1,7 @@
 ---
 Posted: 02.08.2023
 PrimaryTag: "#WorldWednesday"
+parent: "[[Known World]]"
 
 previous: "[[History of the Subjective]]"
 next: "[[(Theme) Scholarship]]"
@@ -19,5 +20,5 @@ South of [[Omphalos, the City of Gardens]] and the [[Sun Coast]] sits the [[Grea
 ## Regions
 ```dataview
 LIST
-WHERE parent AND parent = [[Lands to the south]]
+WHERE parent AND contains(parent, [[Lands to the south]])
 ```

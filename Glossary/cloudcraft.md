@@ -1,3 +1,6 @@
+---
+parent: "[[Storm Elves]]"
+---
 #Glossary 
 # Cloudcraft
 

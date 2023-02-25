@@ -1,7 +1,7 @@
 ---
 Posted: 01.30.2023
 PrimaryTag: "#MagicSystemMonday"
-parent: "[[Iconic pacts]]"
+parent: ["[[Iconic pacts]]", "[[Oremongers Guild]]"]
 
 previous: "[[Rise of the Oremongers Guild]]"
 next: "[[Post-Heliotropic Elven March]]"

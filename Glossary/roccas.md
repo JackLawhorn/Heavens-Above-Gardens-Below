@@ -1,5 +1,6 @@
 ---
 aliases: rocca
+parent: ["[[City infrastructure and layout]]", "[[Rookish clans]]", "[[Messengers Guild]]"]
 ---
 #Glossary 
 # Roccas

@@ -2,6 +2,7 @@
 Posted: 01.16.2023
 PrimaryTag: "#MagicSystemMonday"
 aliases: Mundial Aspect, elemental mote, mote
+parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Known World]]", "[[Discoveries in the Known World]]"]
 
 previous: "[[First parley with the elemental motes]]"
 next: "[[Roiling of the elements]]"
@@ -56,3 +57,9 @@ The descendants of the earth and water motes include the lake, river, coast, and
 The children of the [[#motes of the landscapes]] themselves are the [[Minor Aspects]], lesser than the Mundial Aspects in power and scope of domain. They govern natural phenomena and all that occurs within the [[Known World]] and to its inhabitants.
 
 The oldest and most powerful of the Minor Aspects are the [[Giants]]. In the early ages of [[prehistory]], it is said that two Giant twins took turns holding up the sky. The sole offspring of these [[Giants#Foundational Giant myth|foundational Giants]] was Aker, Aspect of the Horizon who wrested control of the sky and founded the [[Giants#Empire of Dyēus|Empire of Dyēus]]. Now, an entire race of Giants fights a war there against the [[Storm Elves]], having all but abandoned their domains on the surface.
+
+## See also
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Mundial Aspects]])
+```

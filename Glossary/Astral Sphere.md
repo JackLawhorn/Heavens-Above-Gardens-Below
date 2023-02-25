@@ -1,3 +1,6 @@
+---
+parent: "[[Standard Elven Cosmology]]"
+---
 #Glossary 
 # The Astral Sphere
 

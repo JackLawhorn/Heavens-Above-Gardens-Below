@@ -6,7 +6,7 @@ parent: "[[Elven Legion]]"
 
 ---
 
-> The assertions made in these materials are based on the accounts of the [[Mundial Aspects|elemental motes]] and later verified by the observations of the many [[scholars of the City]].
+> The assertions made in these materials are based on the accounts of the [[Mundial Aspects|elemental motes]] and later verified by the observations of the many [[scholars of the City]]. For more, see [[The Elf who fell from the sky]].
 
 The Storm Elves are the air force of the [[Elven Legion]], wielders of powerful [[nyxfire]] bolts and pilots of a great fleet of [[cloudcraft]].
 
@@ -36,4 +36,7 @@ Their hair ranges from black and gray to silver and white, and it covers a much 
 Their eyes are range from stormy gray to metallic silver to a striking blue. To aid in their long-range combat, their sense of sight is significantly heightened, possibly similar in ability to the [[Rookish clans#raptor eyes|raptor eyes]] of the [[Rookish clans]].
 
 ## See also
-- [[The Elf who fell from the sky]]
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Storm Elves]])
+```

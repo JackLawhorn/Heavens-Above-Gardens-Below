@@ -1,6 +1,7 @@
 ---
 Posted: 02.03.2023
 PrimaryTag: "#FactionFriday"
+parent: ["[[House]]", "[[Great House]]", "[[Fallen House]]", "[[Jurisweard]]"]
 
 previous: "[[(Theme) Government and politics]]"
 next: "[[Court]]"
@@ -45,3 +46,9 @@ Even after their [[House Lightbringer's Questing Charter|departure]] from the Ci
 Closest to the [[Sun Elves]] and later the [[nyxfire motes]], House Lightbringer gained great reverence for the light of [[Ylem]]. As the rest of humanity came to worship the many [[Aspect|Aspects]] of Ylem and form their own [[Iconic House|heterodoxies]], House Lightbringer continued to serve the [[Angels]] and enforce their vision of the order these divine architects had designed.
 
 From House Lightbringer came humanity's first paladins, a warrior class who wandered the [[Omphalos, the City of Gardens|City]] and took it upon themselves to enforce law and justice. These paladins were the forebearers of the [[Jurisweard]], and after their [[Fall of House Lightbringer|fall]] a great many of the [[Iconic House|Iconic Houses]] would come to produce their own paladins.
+
+## See also
+```dataview
+TABLE
+WHERE parent AND contains(parent, [[House Lightbringer]])
+```

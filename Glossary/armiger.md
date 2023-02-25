@@ -1,3 +1,6 @@
+---
+parent: "[[Oremongers Guild]]"
+---
 #Glossary 
 # Armiger squire
 

@@ -1,7 +1,7 @@
 ---
 Posted: 01.09.2023
 PrimaryTag: "#MagicSystemMonday"
-parent: "[[Iconic pacts]]"
+parent: ["[[Iconic pacts]]", "[[Silver Wolves]]", "[[Discoveries in the Known World]]"]
 
 previous: "[[Birth of the Silver Wolves]]"
 next: "[[Heliotropic Age]]"

@@ -1,5 +1,6 @@
 ---
 aliases: shade
+parent: ["[[Aspect]]", "[[Umbral Aspects]]"]
 ---
 #Glossary 
 # Shades

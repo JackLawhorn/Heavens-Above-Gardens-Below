@@ -1,6 +1,7 @@
 ---
 Posted: 01.06.2023
 PrimaryTag: "#FactionFriday"
+parent: ["[[Elven Legion]]", "[[Orior]]"]
 
 previous: "[[(Theme) Foundational mythology]]"
 next: "[[Human clans]]"
@@ -14,7 +15,7 @@ next: "[[Human clans]]"
 
 ---
 
-> The assertions made in these materials are based on accounts taken from oral history during [[Reconstruction]] and later verified in interviews with the remnants of the [[Elven Legion]]. See the [[Anatomists]]' notes on the mechanics of [[organic magics]], free for scholastic use under [[Public Scholarship]] law.
+> The assertions made in these materials are based on accounts taken from oral history during [[Reconstruction]] and later verified in interviews with the remnants of the [[Elven Legion]]. See the [[History of materialist magics#The Red Plague period|anatomists]]' notes on the mechanics of [[organic magics]], free for scholastic use under [[Public Scholarship]] law.
 
 The Sun Elves are the ground infantry of the [[Elven Legion]], masters of hand-to-hand combat and soldiers of the [[Kingdom of Heaven]]. Upon the [[nyxfall of the Elven Legion|nyxfall of the Legion]], they formed a bond with early humanity, taking on responsibility for their protection and development.
 
@@ -36,6 +37,7 @@ Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves al
 - The taming of the [[Wild Magics]] and their nyxfire storms
 
 ## See also
-- [[Anatomy of the Elves]]
-- [[Elven culture]]
-- [[Elven combat sports]]
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Sun Elves]])
+```

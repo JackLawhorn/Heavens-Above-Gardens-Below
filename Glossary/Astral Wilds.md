@@ -1,3 +1,6 @@
+---
+parent: "[[Known World]]"
+---
 #Glossary 
 # Astral Wilds
 

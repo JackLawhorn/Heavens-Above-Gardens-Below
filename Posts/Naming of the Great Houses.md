@@ -1,6 +1,7 @@
 ---
 Posted: 02.05.2023
 PrimaryTag: "#SceneSunday"
+parent: ["[[Court]]", "[[Great House]]", "[[Heliotropic Age]]", "[[Later Heliotropic Age]]"]
 
 previous: "[[Court]]"
 next: "[[Pact magics]]"
@@ -26,7 +27,7 @@ Second was [[House Lightbringer]], named for their closeness to the [[Sun Elves]
 
 Third was the [[Oremongers Guild]], for what they lacked in history and heritage they made up for in their recent contributions to humanity and their City of Gardens. The Guild's [[Iconic pacts|iconic pact]] with the elemental [[Mundial Aspects#earth motes|earth motes]] raised up the City itself and the great halls these proceedings now took place in. They represented the burgeoning industry of the City but, more than that, their magics seemed to have much promise in combat and in taming the still-wild Known World.
 
-Last was the [[Materialists College]], whose newly discovered field of [[materialist magics]] represented the start of a grand golden age for humanity. Finally, humanity – inheritors of this [[fallen world]] without [[organic magics]] flowing through their veins – saw a future in which it was feasible that they might attain extramundane powers of their own. Already, in the days and months since the [[Founding of Omphalos, the City of Gardens|founding of the City]], the College had come to represent [[Scholars of the City|its many scholars]] and a bright future of human scholarship.
+Last was the [[Materialists College]], whose newly discovered field of [[Materialist magics]] represented the start of a grand golden age for humanity. Finally, humanity – inheritors of this [[fallen world]] without [[organic magics]] flowing through their veins – saw a future in which it was feasible that they might attain extramundane powers of their own. Already, in the days and months since the [[Founding of Omphalos, the City of Gardens|founding of the City]], the College had come to represent [[Scholars of the City|its many scholars]] and a bright future of human scholarship.
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 aliases: aurifabers
+parent: "[[Oremongers Guild]]"
 ---
 #Glossary 
 # Aurifaber

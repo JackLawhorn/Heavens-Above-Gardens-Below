@@ -1,12 +1,12 @@
 ---
-parent: "[[Sun Elves]]"
+parent: ["[[Elven Legion]]", "[[Sun Elves]]", "[[Storm Elves]]", "[[Sea Elves]]", "[[Organic magics]]"]
 ---
 **Extracted from:** `= this.parent`
 # Organic magics of the Elven Legion
 
 ---
 
-> The assertions made in these materials are based on accounts taken from oral history during [[Reconstruction]] and later verified in interviews with the remnants of the [[Elven Legion]]. See the [[Anatomists]]' notes on the mechanics of [[organic magics]], free for scholastic use under [[Public Scholarship]] law.
+> The assertions made in these materials are based on accounts taken from oral history during [[Reconstruction]] and later verified in interviews with the remnants of the [[Elven Legion]]. See the [[History of materialist magics#The Red Plague period|anatomists]]' notes on the mechanics of [[organic magics]], free for scholastic use under [[Public Scholarship]] law.
 
 ## Divine evolution
 

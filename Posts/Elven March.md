@@ -2,9 +2,10 @@
 Posted: 01.03.2023
 PrimaryTag: "#TimelineTuesday"
 aliases: Heliotropic March, Elven March period
+parent: "[[Heliotropic Age]]"
 
 previous: "[[Organic magics]]"
-next: "[[Discoveries of the Elven March]]"
+next: "[[Discoveries in the Known World]]"
 ---
 `= this.PrimaryTag` #DailyPost
 # The Elven March period
@@ -22,3 +23,10 @@ Stretching from the [[nyxfall of the Elven Legion]] through to the [[Founding of
 The duration of this period is difficult to ascertain after the destruction of the [[Burning]] that ended the [[Red Death]] period, but it is estimated by human historians to have lasted between 800 and 1200 years.
 
 > For more on the remainder of the [[Elven Legion|Legion]]'s March after the [[founding of Omphalos, the City of Gardens]], see [[Post-Heliotropic Elven March]].
+
+## See also
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Elven March]])
+SORT Posted ASC
+```

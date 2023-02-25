@@ -2,6 +2,7 @@
 Posted: 01.18.2023
 PrimaryTag: "#WorldWednesday"
 aliases: The Sink
+parent: ["[[Known World]]"]
 
 previous: "[[Roiling of the elements]]"
 next: "[[(Theme) The elements]]"
@@ -32,5 +33,5 @@ The divine quest of the [[Sea Elves]] was to infiltrate this dark citadel and el
 ## See also
 ```dataview
 LIST
-WHERE parent AND parent = [[Sink]]
+WHERE parent AND contains(parent, [[Sink]])
 ```

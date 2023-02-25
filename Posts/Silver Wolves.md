@@ -2,6 +2,7 @@
 Posted: 01.13.2023
 PrimaryTag: "#FactionFriday"
 aliases: Silver Wolf
+parent: ["[[Human clans]]", "[[Great House]]", "[[Fallen House]]", "[[House]]", "[[Iconic House]]"]
 
 previous: "[[(Theme) Power]]"
 next: "[[Valley of Ruins]]"
@@ -50,3 +51,9 @@ After the founding of the [[Court]], [[Clan Wolfstepper]] would be among the fir
 ### Keepers of silver
 
 Closely tied with raw silver as the [[docetic]] form of their patron, the [[Lunar Aspects#The Wolf Mother|Wolf Mother]], the Silver Wolves were the sworn keepers of the metal. Mining and working it themselves, it was turned into powerful arms and armor capable of slaying [[extramundane]] and benighted foes with ease and adapting to both their human and wolf forms.
+
+## See also
+```dataview
+TABLE PrimaryTag
+WHERE parent AND contains(parent, [[Silver Wolves]])
+```

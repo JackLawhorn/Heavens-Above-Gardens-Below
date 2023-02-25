@@ -1,7 +1,7 @@
 ---
 Posted: 02.04.2023
 PrimaryTag: "#CivilizationSaturday"
-parent: "[[Omphalos, the City of Gardens]]"
+parent: ["[[Omphalos, the City of Gardens]]", "[[Old City]]"]
 
 previous: "[[House Lightbringer]]"
 next: "[[Naming of the Great Houses]]"
@@ -28,5 +28,5 @@ The Orator(s) select a House or other entity to be [[Hand of the Court]] on a ca
 ## See also
 ```dataview
 LIST
-WHERE parent AND parent = [[Court]]
+WHERE parent AND contains(parent, [[Court]])
 ```

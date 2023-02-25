@@ -1,5 +1,6 @@
 ---
 aliases: raya
+parent: "[[City infrastructure and layout]]"
 ---
 #Glossary 
 # Rayas

@@ -2,6 +2,7 @@
 Posted: 01.11.2023
 PrimaryTag: "#WorldWednesday"
 aliases: Moons of the Known World, moon, moons, Lunar Aspect
+parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Known World]]"]
 
 previous: "[[Heliotropic Age]]"
 next: "[[(Theme) Power]]"
@@ -54,3 +55,9 @@ Perigeas are infrequent, often occurring only once every age, but often align wi
 As rare as [[perigeas]], the [[Moon-Touched]] are another naturally-occurring phenomenon of the Lunar Aspects and their influence on the [[Known World]]. The Moon-Touched are the children of the Lunar Aspects, born of a race of the [[Orior]] and in possession of powerful [[organic magics]].
 
 The most infamous example of this is the [[Moon-Touched princess]] –  [[prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
+
+## See also
+```dataview
+TABLE
+WHERE parent AND contains(parent, [[Lunar Aspects]])
+```

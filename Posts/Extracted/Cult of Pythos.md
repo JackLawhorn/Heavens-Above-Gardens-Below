@@ -1,7 +1,7 @@
 ---
 banner: "https://greatestgreeks.files.wordpress.com/2016/07/pythagoras_humanity-healing.jpg"
 
-parent: "[[Scholars of the City]]"
+parent: ["[[Scholars of the City]]", "[[House]]"]
 ---
 **Extracted from:** `= this.parent`
 # Cult of Pythos

@@ -1,6 +1,7 @@
 ---
 Posted: 02.07.2023
 PrimaryTag: "#TimelineTuesday"
+parent: ["[[Scholars of the City]]", "[[Mouseion]]", "[[Philosophers Guild]]"]
 
 previous: "[[Pact magics]]"
 next: "[[Lands to the south]]"
@@ -22,7 +23,7 @@ First Wave Henotheism introduced the artforms of architecture, landscaping, and 
 
 ## Late Heliotropic Objectivism
 
-In the [[Later Heliotropic Age]], human art would develop forward from purely [[Henotheist|Henotheistic]] sensibilities and motivations. The [[Scholars of the City#Objectivists|Objectivists]], without the earth-rending power of the [[Oremongers Guild#Earth shapers|Guild earth shapers]] or the [[Sun Elves]], produced realistic art portraying the [[Known World]] around them. Late Heliotropic Objectivism introduced the artform of sculpture and is considered to have ushered in modern painting through the development of portraiture, landscapes, and cityscapes.
+In the [[Later Heliotropic Age]], human art would develop forward from purely [[Henotheist|Henotheistic]] sensibilities and motivations. The [[Scholars of the City#Objectivists|Objectivists]], without the earth-rending power of the [[Oremongers Guild#Earth shapers|Guild earth shapers]] or the [[Sun Elves]], produced realistic art portraying the [[Known World]] around them. Late Heliotropic Objectivism introduced the artform of sculpture and is considered to have ushered in modern painting through the development of portraiture, landscapes, and cityscapes. This focus on reproducing the wonders of [[Ylem]] aligned closely with the rise of the [[Humanism|humanist movement]].
 
 The humans sought to reproduce everything under the [[Nyx]] by their own hands, and the lost works of this period are said to have included thousands of paintings portraying every street, garden, bridge, and alley in remarkable detail. Seeking what they called the "Truth of Form", Objectivists would produce more and more geometric and exacting sculptures. Though the populace would generally reject them at the time, the later of these pieces – namely the series called the [[Cult of Pythos#Divine Geometries|Divine Geometries]] – maintain significant influence in art, philosophy, and mathematics today.
 

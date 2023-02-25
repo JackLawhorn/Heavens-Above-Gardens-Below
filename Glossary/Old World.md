@@ -1,3 +1,6 @@
+---
+parent: "[[prehistory]]"
+---
 #Glossary 
 # The Old World
 

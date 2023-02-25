@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b485d31e7ef68b9",
+        "id": "ab16a2d7f215d9e3",
         "type": "tabs",
         "children": [
           {
-            "id": "4ab39dfdabe7236f",
+            "id": "be8f27af39336a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/Extracted/Storm Elves.md",
+                "file": "Posts/organic magics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "TABLE",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -96,9 +96,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c79bd7c7dedaa793",
+        "id": "6f62c411aa11b19b",
         "type": "tabs",
-        "dimension": 66.51162790697674,
         "children": [
           {
             "id": "a6a214607e9857ed",
@@ -106,8 +105,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TODO.md",
-                "mode": "source",
+                "file": "TODO.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -118,7 +117,6 @@
       {
         "id": "fee505c2a9e42efb",
         "type": "tabs",
-        "dimension": 33.48837209302326,
         "children": [
           {
             "id": "ebbfbcd1c7127467",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/Extracted/Storm Elves.md",
+                "file": "Posts/organic magics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,11 +136,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/Extracted/Storm Elves.md",
+                "file": "Posts/organic magics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -167,17 +165,37 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "4ab39dfdabe7236f",
+  "active": "be8f27af39336a38",
   "lastOpenFiles": [
+    "Posts/Valley of Ruins.md",
+    "Glossary/Union.md",
     "Posts/Sun Elves.md",
     "Posts/Extracted/Storm Elves.md",
+    "Glossary/Standard Elven Cosmology.md",
+    "Posts/Silver Wolves.md",
+    "Posts/Scholars of the City.md",
+    "Glossary/Quest.md",
+    "Glossary/prehistory.md",
+    "Posts/Pact magics.md",
+    "Posts/organic magics.md",
     "Posts/Oremongers Guild.md",
-    "Posts/Extracted/Storm Elves.md",
-    "Pages/TODO.md",
-    "Posts/Extracted/Anatomy of the Sun Elves.md",
-    "Upcoming posts.md",
-    "Miscellaneous notes for later.md",
     "Posts/Omphalos, the City of Gardens.md",
-    "Drafts/Backburner/City infrastructure and layout.md"
+    "Glossary/Nyx.md",
+    "Posts/Mundial Aspects.md",
+    "Posts/Materialist magics.md",
+    "Posts/Lunar Aspects.md",
+    "List of posts.md",
+    "Glossary/Known World.md",
+    "Posts/Jurisweard.md",
+    "Glossary/Iconic House.md",
+    "Posts/Human clans.md",
+    "Posts/House Lightbringer.md",
+    "Glossary/House.md",
+    "Posts/Heliotropic Age.md",
+    "Glossary/Guild.md",
+    "plugins/main.js",
+    "plugins",
+    "New folder",
+    "Untitled.canvas"
   ]
 }
