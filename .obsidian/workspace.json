@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "626b7ead1475ce93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_private/drafts/The death of cland justice.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a021927c96abe531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of posts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "171d5e352ee120d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posts/Materialist magics.md",
+                "file": "Start here.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TABLE",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +98,7 @@
       {
         "id": "6f62c411aa11b19b",
         "type": "tabs",
-        "dimension": 68.15286624203821,
+        "dimension": 71.01910828025477,
         "children": [
           {
             "id": "a6a214607e9857ed",
@@ -145,7 +118,7 @@
       {
         "id": "fee505c2a9e42efb",
         "type": "tabs",
-        "dimension": 31.84713375796178,
+        "dimension": 28.980891719745223,
         "children": [
           {
             "id": "ebbfbcd1c7127467",
@@ -153,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/Materialist magics.md",
+                "file": "Start here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/Materialist magics.md",
+                "file": "Start here.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,34 +167,34 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "171d5e352ee120d7",
+  "active": "567083650aca63ac",
   "lastOpenFiles": [
+    "Posts/(Theme) Foundational mythology.md",
+    "Start here.md",
+    "List of posts.md",
+    "_private/Upcoming posts.md",
+    "TODO.md",
+    "Glossary.md",
+    "Posts/Nyxfall of the Elven Legion.md",
+    "Glossary/Nyxfall.md",
+    "Posts/Extracted/Messengers Guild.md",
+    "_private/drafts/(Theme) Tragedy and catastrophic loss.md",
+    "Posts/polar onyx deposit.md",
+    "_private/drafts/Crisis of Hubris.md",
+    "Posts/Magics in the Known World.md",
+    "_private/drafts/Founding of the Oklop consortium.md",
+    "Posts/Materialist magics.md",
     "Glossary/Nyx.md",
     "Glossary/Known World.md",
     "Posts/Scholars Quarter.md",
     "Posts/Law and justice in the City.md",
-    "List of posts.md",
-    "_private/Upcoming posts.md",
     "Posts/Extracted/Cult of Pythos.md",
     "_private/drafts/The death of cland justice.md",
     "Posts/The Elf who fell from the sky.md",
-    "Posts/Materialist magics.md",
     "Posts/History of materialist magics.md",
     "Posts/Aspect.md",
     "Posts/(Theme) Reinvention.md",
     "Posts/Jurisweard.md",
-    "_private/drafts/Backburner/Monuments.md",
-    "TODO.md",
-    "Posts/City infrastructure and layout.md",
-    "Glossary/rayas.md",
-    "Posts/Omphalos, the City of Gardens.md",
-    "_private/drafts/Founding of the Oklop consortium.md",
-    "_private/drafts/Backburner/Waterways.md",
-    "_private/drafts/Backburner/Gardens.md",
-    "Posts/History of the Subjective.md",
-    "Glossary/Old World.md",
-    "Glossary.md",
-    "Posts/organic magics.md",
     "plugins/main.js",
     "plugins",
     "New folder",

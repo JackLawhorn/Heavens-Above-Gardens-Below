@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Start here",
+      "path": "Start here.md"
+    },
+    {
+      "basename": "(Theme) Foundational mythology",
+      "path": "Posts/(Theme) Foundational mythology.md"
+    },
+    {
+      "basename": "List of posts",
+      "path": "List of posts.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "_private/Upcoming posts.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Glossary",
+      "path": "Glossary.md"
+    },
+    {
+      "basename": "Nyxfall of the Elven Legion",
+      "path": "Posts/Nyxfall of the Elven Legion.md"
+    },
+    {
+      "basename": "Nyxfall",
+      "path": "Glossary/Nyxfall.md"
+    },
+    {
+      "basename": "Messengers Guild",
+      "path": "Posts/Extracted/Messengers Guild.md"
+    },
+    {
+      "basename": "(Theme) Tragedy and catastrophic loss",
+      "path": "_private/drafts/(Theme) Tragedy and catastrophic loss.md"
+    },
+    {
+      "basename": "polar onyx deposit",
+      "path": "Posts/polar onyx deposit.md"
+    },
+    {
+      "basename": "Crisis of Hubris",
+      "path": "_private/drafts/Crisis of Hubris.md"
+    },
+    {
+      "basename": "Magics in the Known World",
+      "path": "Posts/Magics in the Known World.md"
+    },
+    {
+      "basename": "Founding of the Oklop consortium",
+      "path": "_private/drafts/Founding of the Oklop consortium.md"
+    },
+    {
       "basename": "Materialist magics",
       "path": "Posts/Materialist magics.md"
     },
@@ -19,14 +75,6 @@
     {
       "basename": "Law and justice in the City",
       "path": "Posts/Law and justice in the City.md"
-    },
-    {
-      "basename": "List of posts",
-      "path": "List of posts.md"
-    },
-    {
-      "basename": "Upcoming posts",
-      "path": "_private/Upcoming posts.md"
     },
     {
       "basename": "Cult of Pythos",
@@ -61,10 +109,6 @@
       "path": "_private/drafts/Backburner/Monuments.md"
     },
     {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
       "basename": "City infrastructure and layout",
       "path": "Posts/City infrastructure and layout.md"
     },
@@ -75,10 +119,6 @@
     {
       "basename": "Omphalos, the City of Gardens",
       "path": "Posts/Omphalos, the City of Gardens.md"
-    },
-    {
-      "basename": "Founding of the Oklop consortium",
-      "path": "_private/drafts/Founding of the Oklop consortium.md"
     },
     {
       "basename": "Waterways",
@@ -95,10 +135,6 @@
     {
       "basename": "Old World",
       "path": "Glossary/Old World.md"
-    },
-    {
-      "basename": "Glossary",
-      "path": "Glossary.md"
     },
     {
       "basename": "organic magics",
@@ -163,42 +199,6 @@
     {
       "basename": "Human clans",
       "path": "Posts/Human clans.md"
-    },
-    {
-      "basename": "House Lightbringer",
-      "path": "Posts/House Lightbringer.md"
-    },
-    {
-      "basename": "House",
-      "path": "Glossary/House.md"
-    },
-    {
-      "basename": "Heliotropic Age",
-      "path": "Posts/Heliotropic Age.md"
-    },
-    {
-      "basename": "Guild",
-      "path": "Glossary/Guild.md"
-    },
-    {
-      "basename": "Great House",
-      "path": "Glossary/Great House.md"
-    },
-    {
-      "basename": "Elven March",
-      "path": "Posts/Elven March.md"
-    },
-    {
-      "basename": "Elven Legion",
-      "path": "Glossary/Elven Legion.md"
-    },
-    {
-      "basename": "docetic",
-      "path": "Glossary/docetic.md"
-    },
-    {
-      "basename": "Discoveries in the Known World",
-      "path": "Posts/Discoveries in the Known World.md"
     }
   ],
   "omittedPaths": [],
