@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be8f27af39336a38",
+            "id": "626b7ead1475ce93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/organic magics.md",
+                "file": "_private/drafts/The death of cland justice.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a021927c96abe531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of posts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "171d5e352ee120d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posts/Materialist magics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +125,7 @@
       {
         "id": "6f62c411aa11b19b",
         "type": "tabs",
+        "dimension": 68.15286624203821,
         "children": [
           {
             "id": "a6a214607e9857ed",
@@ -117,6 +145,7 @@
       {
         "id": "fee505c2a9e42efb",
         "type": "tabs",
+        "dimension": 31.84713375796178,
         "children": [
           {
             "id": "ebbfbcd1c7127467",
@@ -124,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/organic magics.md",
+                "file": "Posts/Materialist magics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/organic magics.md",
+                "file": "Posts/Materialist magics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,34 +194,34 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "be8f27af39336a38",
+  "active": "171d5e352ee120d7",
   "lastOpenFiles": [
-    "Posts/Valley of Ruins.md",
-    "Glossary/Union.md",
-    "Posts/Sun Elves.md",
-    "Posts/Extracted/Storm Elves.md",
-    "Glossary/Standard Elven Cosmology.md",
-    "Posts/Silver Wolves.md",
-    "Posts/Scholars of the City.md",
-    "Glossary/Quest.md",
-    "Glossary/prehistory.md",
-    "Posts/Pact magics.md",
-    "Posts/organic magics.md",
-    "Posts/Oremongers Guild.md",
-    "Posts/Omphalos, the City of Gardens.md",
     "Glossary/Nyx.md",
-    "Posts/Mundial Aspects.md",
-    "Posts/Materialist magics.md",
-    "Posts/Lunar Aspects.md",
-    "List of posts.md",
     "Glossary/Known World.md",
+    "Posts/Scholars Quarter.md",
+    "Posts/Law and justice in the City.md",
+    "List of posts.md",
+    "_private/Upcoming posts.md",
+    "Posts/Extracted/Cult of Pythos.md",
+    "_private/drafts/The death of cland justice.md",
+    "Posts/The Elf who fell from the sky.md",
+    "Posts/Materialist magics.md",
+    "Posts/History of materialist magics.md",
+    "Posts/Aspect.md",
+    "Posts/(Theme) Reinvention.md",
     "Posts/Jurisweard.md",
-    "Glossary/Iconic House.md",
-    "Posts/Human clans.md",
-    "Posts/House Lightbringer.md",
-    "Glossary/House.md",
-    "Posts/Heliotropic Age.md",
-    "Glossary/Guild.md",
+    "_private/drafts/Backburner/Monuments.md",
+    "TODO.md",
+    "Posts/City infrastructure and layout.md",
+    "Glossary/rayas.md",
+    "Posts/Omphalos, the City of Gardens.md",
+    "_private/drafts/Founding of the Oklop consortium.md",
+    "_private/drafts/Backburner/Waterways.md",
+    "_private/drafts/Backburner/Gardens.md",
+    "Posts/History of the Subjective.md",
+    "Glossary/Old World.md",
+    "Glossary.md",
+    "Posts/organic magics.md",
     "plugins/main.js",
     "plugins",
     "New folder",

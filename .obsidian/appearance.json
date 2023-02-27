@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "snippet"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "monospaceFontFamily": ""
 }

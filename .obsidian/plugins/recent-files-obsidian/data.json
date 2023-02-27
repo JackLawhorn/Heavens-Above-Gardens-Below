@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "Materialist magics",
+      "path": "Posts/Materialist magics.md"
+    },
+    {
+      "basename": "Nyx",
+      "path": "Glossary/Nyx.md"
+    },
+    {
+      "basename": "Known World",
+      "path": "Glossary/Known World.md"
+    },
+    {
+      "basename": "Scholars Quarter",
+      "path": "Posts/Scholars Quarter.md"
+    },
+    {
+      "basename": "Law and justice in the City",
+      "path": "Posts/Law and justice in the City.md"
+    },
+    {
+      "basename": "List of posts",
+      "path": "List of posts.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "_private/Upcoming posts.md"
+    },
+    {
+      "basename": "Cult of Pythos",
+      "path": "Posts/Extracted/Cult of Pythos.md"
+    },
+    {
+      "basename": "The death of cland justice",
+      "path": "_private/drafts/The death of cland justice.md"
+    },
+    {
+      "basename": "The Elf who fell from the sky",
+      "path": "Posts/The Elf who fell from the sky.md"
+    },
+    {
+      "basename": "History of materialist magics",
+      "path": "Posts/History of materialist magics.md"
+    },
+    {
+      "basename": "Aspect",
+      "path": "Posts/Aspect.md"
+    },
+    {
+      "basename": "(Theme) Reinvention",
+      "path": "Posts/(Theme) Reinvention.md"
+    },
+    {
+      "basename": "Jurisweard",
+      "path": "Posts/Jurisweard.md"
+    },
+    {
+      "basename": "Monuments",
+      "path": "_private/drafts/Backburner/Monuments.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "City infrastructure and layout",
+      "path": "Posts/City infrastructure and layout.md"
+    },
+    {
+      "basename": "rayas",
+      "path": "Glossary/rayas.md"
+    },
+    {
+      "basename": "Omphalos, the City of Gardens",
+      "path": "Posts/Omphalos, the City of Gardens.md"
+    },
+    {
+      "basename": "Founding of the Oklop consortium",
+      "path": "_private/drafts/Founding of the Oklop consortium.md"
+    },
+    {
+      "basename": "Waterways",
+      "path": "_private/drafts/Backburner/Waterways.md"
+    },
+    {
+      "basename": "Gardens",
+      "path": "_private/drafts/Backburner/Gardens.md"
+    },
+    {
+      "basename": "History of the Subjective",
+      "path": "Posts/History of the Subjective.md"
+    },
+    {
+      "basename": "Old World",
+      "path": "Glossary/Old World.md"
+    },
+    {
+      "basename": "Glossary",
+      "path": "Glossary.md"
+    },
+    {
       "basename": "organic magics",
       "path": "Posts/organic magics.md"
     },
@@ -49,36 +149,12 @@
       "path": "Posts/Oremongers Guild.md"
     },
     {
-      "basename": "Omphalos, the City of Gardens",
-      "path": "Posts/Omphalos, the City of Gardens.md"
-    },
-    {
-      "basename": "Nyx",
-      "path": "Glossary/Nyx.md"
-    },
-    {
       "basename": "Mundial Aspects",
       "path": "Posts/Mundial Aspects.md"
     },
     {
-      "basename": "Materialist magics",
-      "path": "Posts/Materialist magics.md"
-    },
-    {
       "basename": "Lunar Aspects",
       "path": "Posts/Lunar Aspects.md"
-    },
-    {
-      "basename": "List of posts",
-      "path": "List of posts.md"
-    },
-    {
-      "basename": "Known World",
-      "path": "Glossary/Known World.md"
-    },
-    {
-      "basename": "Jurisweard",
-      "path": "Posts/Jurisweard.md"
     },
     {
       "basename": "Iconic House",
@@ -123,82 +199,6 @@
     {
       "basename": "Discoveries in the Known World",
       "path": "Posts/Discoveries in the Known World.md"
-    },
-    {
-      "basename": "College",
-      "path": "Glossary/College.md"
-    },
-    {
-      "basename": "Canon of Heterodoxies",
-      "path": "Posts/Canon of Heterodoxies.md"
-    },
-    {
-      "basename": "Alchemy",
-      "path": "Posts/Extracted/Alchemy.md"
-    },
-    {
-      "basename": "Social Spheres Theory",
-      "path": "Posts/Extracted/Social Spheres Theory.md"
-    },
-    {
-      "basename": "Rookish clans",
-      "path": "Posts/Extracted/Rookish clans.md"
-    },
-    {
-      "basename": "Organic magics of the Elven Legion",
-      "path": "Posts/Extracted/Organic magics of the Elven Legion.md"
-    },
-    {
-      "basename": "Mutualist pacts",
-      "path": "Posts/Extracted/Mutualist pacts.md"
-    },
-    {
-      "basename": "City districts",
-      "path": "Posts/Extracted/City districts.md"
-    },
-    {
-      "basename": "Anatomy of the Elves",
-      "path": "Posts/Extracted/Anatomy of the Elves.md"
-    },
-    {
-      "basename": "Elven combat sports",
-      "path": "Posts/Extracted/Elven combat sports.md"
-    },
-    {
-      "basename": "Elven culture",
-      "path": "Posts/Extracted/Elven culture.md"
-    },
-    {
-      "basename": "Mouseion",
-      "path": "Posts/Extracted/Mouseion.md"
-    },
-    {
-      "basename": "Messengers Guild",
-      "path": "Posts/Extracted/Messengers Guild.md"
-    },
-    {
-      "basename": "Major Aspects",
-      "path": "Posts/Extracted/Major Aspects.md"
-    },
-    {
-      "basename": "Iconic pacts",
-      "path": "Posts/Extracted/Iconic pacts.md"
-    },
-    {
-      "basename": "Humanism",
-      "path": "Posts/Extracted/Humanism.md"
-    },
-    {
-      "basename": "Currencies of the City",
-      "path": "Posts/Extracted/Currencies of the City.md"
-    },
-    {
-      "basename": "Cumbergrounds",
-      "path": "Posts/Extracted/Cumbergrounds.md"
-    },
-    {
-      "basename": "Cult of Pythos",
-      "path": "Posts/Extracted/Cult of Pythos.md"
     }
   ],
   "omittedPaths": [],

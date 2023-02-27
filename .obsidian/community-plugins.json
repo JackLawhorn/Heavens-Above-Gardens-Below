@@ -1,5 +1,4 @@
 [
-  "obsidian-copy-block-link",
   "dataview",
   "settings-search",
   "cmdr",
@@ -7,8 +6,7 @@
   "obsidian-plugin-update-tracker",
   "note-refactor-obsidian",
   "frontmatter-links",
-  "obsidian-banners",
   "obsidian-git",
   "obsidian-hide-sidebars-when-narrow",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-copy-block-link"
 ]
