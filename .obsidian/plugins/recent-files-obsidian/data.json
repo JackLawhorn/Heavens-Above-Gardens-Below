@@ -5,6 +5,14 @@
       "path": "Start here.md"
     },
     {
+      "basename": "Heliotropic Age",
+      "path": "Posts/Heliotropic Age.md"
+    },
+    {
+      "basename": "Crisis of Hubris",
+      "path": "_private/drafts/Crisis of Hubris.md"
+    },
+    {
       "basename": "(Theme) Foundational mythology",
       "path": "Posts/(Theme) Foundational mythology.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "polar onyx deposit",
       "path": "Posts/polar onyx deposit.md"
-    },
-    {
-      "basename": "Crisis of Hubris",
-      "path": "_private/drafts/Crisis of Hubris.md"
     },
     {
       "basename": "Magics in the Known World",
@@ -195,10 +199,6 @@
     {
       "basename": "Iconic House",
       "path": "Glossary/Iconic House.md"
-    },
-    {
-      "basename": "Human clans",
-      "path": "Posts/Human clans.md"
     }
   ],
   "omittedPaths": [],

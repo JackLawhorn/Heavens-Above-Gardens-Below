@@ -15,7 +15,7 @@ Governed by a ruling class of historian mages, a shadowy college of psionic scho
 >>01.01.2023 • #SceneSunday • [[Nyxfall of the Elven Legion]]
 >
 >And here are some other resources:
->>| [[List of posts|Full list of daily posts]] | [[Glossary|Glossary entries]] | [[Todo|Upcoming posts]] |
+>>[[List of posts|Full list of daily posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
 
 ## Themes and inspiration
 
@@ -34,10 +34,17 @@ SORT Posted ASC
 I am writing one blog post every day throughout 2023, based on daily prompts that help me to categorize my thoughts and keep the exercise fresh. I might not always be entirely caught up because life happens and the #SceneSunday posts are harder to get through than I initially thought 😂 
 
 Here is a list of my daily writing prompts:
-- #SceneSunday 
-- #MagicSystemMonday 
-- #TimelineTuesday 
-- #WorldWednesday 
-- #ThemeThursday 
-- #FactionFriday 
-- #CivilizationSaturday 
+
+- #SceneSunday – Specific moments in the history of this world, used to highlight much of the information being written in the other daily prompts and to give a feel of what living in this world might be like from the perspective of humans like us.
+
+- #MagicSystemMonday – There are a TON of magic systems in this setting! These posts will seek to make sense of them, their mechanics, how they are used, and what the consequences are for the wider world. For more, see [[Magics in the Known World]].
+
+- #TimelineTuesday – Similarly, the timeline of this world covers a TON of ground. These posts will define set periods commonly referenced to place events and concepts in relative order. For more, see [[Ages of the Known World]].
+
+- #WorldWednesday – Although the majority of this content will focus around humanity in [[Omphalos, the City of Gardens]] and their colonies expanding outward from it, these posts will help me to flesh out the entirety of the [[Known World]].
+
+- #ThemeThursday – My approach to worldbuilding relies heavily on themes I want to incorporate and inspiration from external sources (both real-world and fictional). These posts will directly address these subjects. For more, see [[#Themes and inspiration]].
+
+- #FactionFriday – The history of the Known World covers thousands of years of time, and my approach has been to focus primarily on the rise and fall of factions and dynasties rather than individuals. These posts will help me flesh out important groups.
+
+- #CivilizationSaturday – These posts will outline specific details and traits of Omphalos, the City of Gardens, as well as other population centers throughout the Known World. This might include anything from districts of the City to culture and society.
