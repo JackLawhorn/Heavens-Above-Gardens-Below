@@ -1,14 +1,17 @@
 ---
 Posted: 01.10.2023
-PrimaryTag: "#TimelineTuesday"
+tag: '#TimelineTuesday'
 aliases: The Heliotropic Age
-parent: "[[Ages of the Known World]]"
+parent: '[[Ages of the Known World]]'
 
-previous: "[[Iconic pact of the Silver Wolves]]"
-next: "[[Lunar Aspects|The Lunar Aspects]]"
+previous: '[[Iconic pact of the Silver Wolves]]'
+next: '[[Lunar Aspects|The Lunar Aspects]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Heliotropic Age
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,8 +19,14 @@ next: "[[Lunar Aspects|The Lunar Aspects]]"
 
 ---
 
+## Sub-periods
+
+- [[Elven March|Elven March period]]
+- [[Later Heliotropic Age]]
+
+## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Heliotropic Age]])
 SORT Posted ASC
 ```

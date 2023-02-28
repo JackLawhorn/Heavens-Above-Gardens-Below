@@ -1,13 +1,16 @@
 ---
 Posted: 01.07.2023
-PrimaryTag: "#CivilizationSaturday"
+tag: '#CivilizationSaturday'
 aliases: Cland humanity, Early humanity
 
-previous: "[[Sun Elves]]"
-next: "[[Birth of the Silver Wolves]]"
+previous: '[[Sun Elves]]'
+next: '[[Birth of the Silver Wolves]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # The human clans
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -59,6 +62,6 @@ From their ranks came the [[Messengers Guild]] and the [[Fisher Queens]] and the
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Human clans]])
 ```

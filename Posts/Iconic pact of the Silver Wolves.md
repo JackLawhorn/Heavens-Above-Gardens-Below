@@ -1,13 +1,16 @@
 ---
 Posted: 01.09.2023
-PrimaryTag: "#MagicSystemMonday"
-parent: ["[[Iconic pacts]]", "[[Silver Wolves]]", "[[Discoveries in the Known World]]"]
+tag: '#MagicSystemMonday'
+parent: ['[[Iconic pacts]]', '[[Silver Wolves]]', '[[Discoveries in the Known World]]']
 
-previous: "[[Birth of the Silver Wolves]]"
-next: "[[Heliotropic Age]]"
+previous: '[[Birth of the Silver Wolves]]'
+next: '[[Heliotropic Age]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # Iconic pact of the Silver Wolves
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -35,4 +38,4 @@ A powerful [[Lunar Aspects|Lunar Aspect]] sitting above the [[Known World]], the
 
 ### Silver
 
->See [[Docetic materials#Silver|Docetic materials > Silver]] for more.
+> See [[Docetic materials#Silver|Docetic materials > Silver]] for more.

@@ -1,13 +1,16 @@
 ---
 Posted: 01.31.2023
-PrimaryTag: "#TimelineTuesday"
-parent: ["[[Elven Legion]]", "[[Sun Elves]]", "[[Known World]]"]
+tag: '#TimelineTuesday'
+parent: ['[[Elven Legion]]', '[[Sun Elves]]', '[[Known World]]']
 
-previous: "[[Iconic pact of the Oremongers Guild]]"
-next: "[[Giants]]"
+previous: '[[Iconic pact of the Oremongers Guild]]'
+next: '[[Giants]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Post-Heliotropic Elven March
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

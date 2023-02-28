@@ -1,13 +1,16 @@
 ---
 Posted: 02.20.2023
-PrimaryTag: "#MagicSystemMonday"
+tag: '#MagicSystemMonday'
 aliases: Combat Art
 
-previous: "[[The death of cland justice]]"
-next: "[[First Golden Age]]"
+previous: '[[The death of cland justice]]'
+next: '[[First Golden Age]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Combat Arts
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -46,6 +49,7 @@ In the [[Renascence|Renascence period]], the burgeoning [[Blackpowder Guild]] de
 ### Combat Arts of the Orior
 
 The other races of the [[Orior]] have developed their own Combat Arts leveraging horn and tooth and talon, as well as weaponry. Some prominent examples included:
+
 - The long, barbed harpoons, razor-sharp fangs, and whip-crack tails of the [[Sobek]]
 - The ever-shifting weaponry of the [[Reef Knights]]
 - The whips and slashing leaves of the [[Verdant Knights]]

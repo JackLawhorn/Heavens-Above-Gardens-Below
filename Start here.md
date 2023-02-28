@@ -9,29 +9,30 @@ After the disastrous [[Crisis of Hubris]], a cultural and intellectual [[Renasce
 Governed by a ruling class of historian mages, a shadowy college of psionic scholar spies, and powerful unions of political entities with diverse and oft-conflicting interests, will this new era prove to be the first step towards their extinction or towards their ascension to godhood?
 
 > [!INFO] Not sure where to start?
-> 
-> Check out the first daily post here:
-> 
->>01.01.2023 • #SceneSunday • [[Nyxfall of the Elven Legion]]
 >
->And here are some other resources:
->>[[List of posts|Full list of daily posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
+> Check out the first daily post here:
+>
+> > 01.01.2023 • #SceneSunday • [[Nyxfall of the Elven Legion]]
+>
+> And here are some other resources:
+>
+> > [[List of posts|Full list of daily posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
 
 ## Themes and inspiration
 
 Heavens Above; Gardens Below is a fantasy setting inspired by the diverse cultures of Mediterranean Europe, Africa, and the Middle East. It was created as the transmedia backdrop for stories about power and consequences, the impact of history and failure on culture and identity, and the origins of the ideas and concepts that define us.
 
 I detail specific themes and inspirations in weekly #ThemeThursday posts, which you can find a list of here:
+
 ```dataview
-TABLE Posted, PrimaryTag
-FROM "Posts" AND #DailyPost
-WHERE PrimaryTag AND PrimaryTag = "#ThemeThursday"
+TABLE Posted, tag as "Daily Tag"
+FROM "Posts" AND #DailyPost AND #ThemeThursday 
 SORT Posted ASC
 ```
 
 ## Release schedule and goals
 
-I am writing one blog post every day throughout 2023, based on daily prompts that help me to categorize my thoughts and keep the exercise fresh. I might not always be entirely caught up because life happens and the #SceneSunday posts are harder to get through than I initially thought 😂 
+I am writing one blog post every day throughout 2023, based on daily prompts that help me to categorize my thoughts and keep the exercise fresh. I might not always be entirely caught up because life happens and the #SceneSunday posts are harder to get through than I initially thought 😂
 
 Here is a list of my daily writing prompts:
 

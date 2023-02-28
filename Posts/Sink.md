@@ -1,14 +1,17 @@
 ---
 Posted: 01.18.2023
-PrimaryTag: "#WorldWednesday"
+tag: '#WorldWednesday'
 aliases: The Sink
-parent: ["[[Known World]]"]
+parent: ['[[Known World]]']
 
-previous: "[[Roiling of the elements]]"
-next: "[[(Theme) The elements]]"
+previous: '[[Roiling of the elements]]'
+next: '[[(Theme) The elements]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Sink
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -31,6 +34,7 @@ After his fall into the deepest depths of the [[Sink]], the [[Lunar Aspects#<str
 The divine quest of the [[Sea Elves]] was to infiltrate this dark citadel and eliminate the Fallen Son as he slumbers.
 
 ## See also
+
 ```dataview
 LIST
 WHERE parent AND contains(parent, [[Sink]])

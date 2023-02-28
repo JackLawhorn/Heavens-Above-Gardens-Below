@@ -1,13 +1,16 @@
 ---
 Posted: 01.14.2023
-PrimaryTag: "#CivilizationSaturday"
-parent: ["[[Known World]]", "[[Old World]]", "[[Discoveries in the Known World]]"]
+tag: '#CivilizationSaturday'
+parent: ['[[Known World]]', '[[Old World]]', '[[Discoveries in the Known World]]']
 
-previous: "[[Silver Wolves]]"
-next: "[[First parley with the elemental motes]]"
+previous: '[[Silver Wolves]]'
+next: '[[First parley with the elemental motes]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Valley of Ruins
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

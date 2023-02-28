@@ -1,12 +1,15 @@
 ---
 Posted: 01.12.2023
-PrimaryTag: "#ThemeThursday"
+tag: '#ThemeThursday'
 
-previous: "[[Lunar Aspects|The Lunar Aspects]]"
-next: "[[Silver Wolves]]"
+previous: '[[Lunar Aspects|The Lunar Aspects]]'
+next: '[[Silver Wolves]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # (Theme) Power
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -27,6 +30,7 @@ Lastly, where lays the line between magic and mundane ability honed to its sharp
 ## Real world sources of power
 
 What non-magical or real-world sources of power can be explored, especially in the urban fantasy setting of a single metropolitan city like [[Omphalos, the City of Gardens]]? I hope to explore:
+
 - Politics and various socio-political currency
 - Production and who control over it naturally lies with
 - Control of territory in a relatively limited area
@@ -40,15 +44,16 @@ What non-magical or real-world sources of power can be explored, especially in t
 ---
 
 ## Inspiration
+
 - Magic throughout fiction
-	- Trinkets and artifacts in the **Hellboy** universe
-	- Warlocks in **Chainsaw Man**
-	- The **Sandman** comics and Netflix adaptation
-	- The **Limitless** TV show is weirdly good psionic fiction
+  - Trinkets and artifacts in the **Hellboy** universe
+  - Warlocks in **Chainsaw Man**
+  - The **Sandman** comics and Netflix adaptation
+  - The **Limitless** TV show is weirdly good psionic fiction
 - Political action throughout fiction
-	- **Dune**
-	- **Black Panther: a Nation Under Our Feet**
-	- Seasons 3 and 4 of **Attack on Titan**
-	- Both the **Star Wars prequels** and **Andor**
-	- **Carnival Row**
+  - **Dune**
+  - **Black Panther: a Nation Under Our Feet**
+  - Seasons 3 and 4 of **Attack on Titan**
+  - Both the **Star Wars prequels** and **Andor**
+  - **Carnival Row**
 - Non-human races in **His Dark Materials**

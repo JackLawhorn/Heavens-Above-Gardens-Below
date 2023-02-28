@@ -1,13 +1,16 @@
 ---
 Posted: 01.04.2023
-PrimaryTag: "#WorldWednesday"
-parent: ["[[Heliotropic Age]]", "[[Elven March]]", "[[Known World]]"]
+tag: '#WorldWednesday'
+parent: ['[[Heliotropic Age]]', '[[Elven March]]', '[[Known World]]']
 
-previous: "[[Elven March]]"
-next: "[[(Theme) Foundational mythology]]"
+previous: '[[Elven March]]'
+next: '[[(Theme) Foundational mythology]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # Discoveries in the Known World
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,7 +19,7 @@ next: "[[(Theme) Foundational mythology]]"
 ---
 
 > This is a broad overview of the discoveries made during the [[Elven March|Elven March period]] and many of these details are extrapolated from oral history during [[Reconstruction]]. All historical artifacts from this time period are believed to have been lost during the [[Burning|Burning of the City]].
-> 
+>
 > Believed to have comprised the vast majority of the [[Heliotropic Age]], it is nearly impossible to catalog the discoveries made in their entirety, let alone in one historical document. Please see referenced materials for additional detail.
 
 The march across the [[Known World]] – and especially the lands of the north that were traversed during the [[Elven March|Elven March period]] – by the [[Sun Elves]] and the early humans brought many discoveries for both peoples.
@@ -54,7 +57,8 @@ Once tamed by the [[Sun Elves]] the [[Wild Magics|Wild Magic]] settled into what
 These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] to converse with humanity and come into pacts of their own. Prominent examples include the [[Silver Wolves]] and the [[Oremongers Guild]] respectively.
 
 ## See also
+
 ```dataview
-TABLE PrimaryTag
+TABLE tag
 WHERE parent AND contains(parent, [[Discoveries in the Known World]])
 ```

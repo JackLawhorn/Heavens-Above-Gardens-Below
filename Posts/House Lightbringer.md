@@ -1,13 +1,16 @@
 ---
 Posted: 02.03.2023
-PrimaryTag: "#FactionFriday"
-parent: ["[[House]]", "[[Great House]]", "[[Fallen House]]", "[[Jurisweard]]"]
+tag: '#FactionFriday'
+parent: ['[[House]]', '[[Great House]]', '[[Fallen House]]', '[[Jurisweard]]']
 
-previous: "[[(Theme) Government and politics]]"
-next: "[[Court]]"
+previous: '[[(Theme) Government and politics]]'
+next: '[[Court]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # House Lightbringer
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -48,6 +51,7 @@ Closest to the [[Sun Elves]] and later the [[nyxfire motes]], House Lightbringer
 From House Lightbringer came humanity's first paladins, a warrior class who wandered the [[Omphalos, the City of Gardens|City]] and took it upon themselves to enforce law and justice. These paladins were the forebearers of the [[Jurisweard]], and after their [[Fall of House Lightbringer|fall]] a great many of the [[Iconic House|Iconic Houses]] would come to produce their own paladins.
 
 ## See also
+
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[House Lightbringer]])

@@ -1,12 +1,15 @@
 ---
 Posted: 02.23.2023
-PrimaryTag: "#ThemeThursday"
+tag: '#ThemeThursday'
 
-previous: "[[Minor Aspects]]"
-next: "[[Canon of Heterodoxies]]"
+previous: '[[Minor Aspects]]'
+next: '[[Canon of Heterodoxies]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # (Theme) Religion and worship
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -41,6 +44,7 @@ So yes, the point of worship is that both parties benefit. This makes sense as a
 ---
 
 ## Inspiration
+
 - [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 - [Henotheism](https://en.wikipedia.org/wiki/Henotheism)
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)

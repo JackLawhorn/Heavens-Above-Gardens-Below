@@ -1,13 +1,16 @@
 ---
 Posted: 02.12.2023
-PrimaryTag: "#SceneSunday"
-parent: ["[[Heliotropic Age]]", "[[Later Heliotropic Age]]", "[[Storm Elves]]"]
+tag: '#SceneSunday'
+parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Storm Elves]]']
 
-previous: "[[Scholars Quarter]]"
-next: "[[Materialist magics]]"
+previous: '[[Scholars Quarter]]'
+next: '[[Materialist magics]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Elf who fell from the sky
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

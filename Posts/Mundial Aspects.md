@@ -1,14 +1,17 @@
 ---
 Posted: 01.16.2023
-PrimaryTag: "#MagicSystemMonday"
+tag: '#MagicSystemMonday'
 aliases: Mundial Aspect, elemental mote, mote
-parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Known World]]", "[[Discoveries in the Known World]]"]
+parent: ['[[Aspect]]', '[[Major Aspects]]', '[[Known World]]', '[[Discoveries in the Known World]]']
 
-previous: "[[First parley with the elemental motes]]"
-next: "[[Roiling of the elements]]"
+previous: '[[First parley with the elemental motes]]'
+next: '[[Roiling of the elements]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Mundial Aspects
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -60,6 +63,6 @@ The oldest and most powerful of the Minor Aspects are the [[Giants]]. In the ear
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Mundial Aspects]])
 ```

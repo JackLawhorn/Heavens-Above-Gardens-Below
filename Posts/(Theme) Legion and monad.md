@@ -1,12 +1,15 @@
 ---
 Posted: 01.26.2023
-PrimaryTag: "#ThemeThursday"
+tag: '#ThemeThursday'
 
-previous: "[[Elven Signaltower]]"
-next: "[[Oremongers Guild]]"
+previous: '[[Elven Signaltower]]'
+next: '[[Oremongers Guild]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # (Theme) Legion and monad
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -47,10 +50,11 @@ I'll go into more detail with human philosophy when we reach the [[Renascence]] 
 ---
 
 ## Inspiration
-- [Monad (philosophy)](https://en.wikipedia.org/wiki/Monad_(philosophy))
-	- Begets the [Dyad](https://en.wikipedia.org/wiki/Dyad_(philosophy)) of Ylem and the Dragon, although it is important to think of this like 1s and 0s in [binary](https://en.wikipedia.org/wiki/Dyad_(philosophy)) rather than like a 1 and a 2.
+
+- [Monad (philosophy)](<https://en.wikipedia.org/wiki/Monad_(philosophy)>)
+  - Begets the [Dyad](<https://en.wikipedia.org/wiki/Dyad_(philosophy)>) of Ylem and the Dragon, although it is important to think of this like 1s and 0s in [binary](<https://en.wikipedia.org/wiki/Dyad_(philosophy)>) rather than like a 1 and a 2.
 - [Monism](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monad.svg/357px-Monad.svg.png)
-	- [Dr. Manhattan](https://en.wikipedia.org/wiki/List_of_Watchmen_characters#Doctor_Manhattan) from [Watchmen](https://en.wikipedia.org/wiki/List_of_Watchmen_characters) actually operates very similarly to Ylem (or maybe more accurately like the Angels), and his trademark symbol which is supposed to represent the hydrogen atom is also a reference to the much older concept of the monad ([source](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monad.svg/357px-Monad.svg.png)).
+  - [Dr. Manhattan](https://en.wikipedia.org/wiki/List_of_Watchmen_characters#Doctor_Manhattan) from [Watchmen](https://en.wikipedia.org/wiki/List_of_Watchmen_characters) actually operates very similarly to Ylem (or maybe more accurately like the Angels), and his trademark symbol which is supposed to represent the hydrogen atom is also a reference to the much older concept of the monad ([source](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monad.svg/357px-Monad.svg.png)).
 - [_Monadology_](https://en.wikipedia.org/wiki/Monadology) is a foundational work of philosophical monism, with a greater focus on the metaphysics of god and divinity.
 
 > [!IMPORTANT] Important to note:

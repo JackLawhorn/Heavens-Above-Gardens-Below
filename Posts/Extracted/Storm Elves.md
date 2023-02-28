@@ -1,7 +1,9 @@
 ---
-parent: "[[Elven Legion]]"
+parent: '[[Elven Legion]]'
 ---
+
 **Extracted from:** `= this.parent`
+
 # Storm Elves
 
 ---
@@ -21,6 +23,7 @@ From this point, human understanding of the campaigns of the Storm Elves become 
 > The magics described here are specific to the Storm Elves, who are but one faction of their race. For a general overview of the magics that are shared by the [[Elven Legion]] as a whole share, see [[Organic magics of the Elven Legion]].
 
 Like the [[Sun Elves]] and their flames, [[organic magics]] of the Storm Elves allow them to wield [[nyxfire]] bolts. These magics manifest in a number of different ways:
+
 - A certain influence with and over the elemental [[nyxfire motes]]
 - The summoning of powerful bolts to be wielded in combat
 - The forging and piloting of aeronautical vehicles called [[cloudcraft]]
@@ -37,6 +40,6 @@ Their eyes are range from stormy gray to metallic silver to a striking blue. To 
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Storm Elves]])
 ```

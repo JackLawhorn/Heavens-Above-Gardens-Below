@@ -1,14 +1,17 @@
 ---
 Posted: 01.25.2023
-PrimaryTag: "#WorldWednesday"
+tag: '#WorldWednesday'
 aliases: Signaltower, sun
-parent: ["[[Omphalos, the City of Gardens]]", "[[Old City]]", "[[Known World]]"]
+parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]', '[[Known World]]']
 
-previous: "[[Later Heliotropic Age]]"
-next: "[[(Theme) Legion and monad]]"
+previous: '[[Later Heliotropic Age]]'
+next: '[[(Theme) Legion and monad]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Elven Signaltower
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

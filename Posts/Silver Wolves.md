@@ -1,14 +1,17 @@
 ---
 Posted: 01.13.2023
-PrimaryTag: "#FactionFriday"
+tag: '#FactionFriday'
 aliases: Silver Wolf
-parent: ["[[Human clans]]", "[[Great House]]", "[[Fallen House]]", "[[House]]", "[[Iconic House]]"]
+parent: ['[[Human clans]]', '[[Great House]]', '[[Fallen House]]', '[[House]]', '[[Iconic House]]']
 
-previous: "[[(Theme) Power]]"
-next: "[[Valley of Ruins]]"
+previous: '[[(Theme) Power]]'
+next: '[[Valley of Ruins]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # Silver Wolves of Clan Wolfstepper
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -54,6 +57,6 @@ Closely tied with raw silver as the [[docetic]] form of their patron, the [[Luna
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Silver Wolves]])
 ```

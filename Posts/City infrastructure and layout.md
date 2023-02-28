@@ -1,14 +1,17 @@
 ---
 Posted: 02.25.2023
-PrimaryTag: "#CivilizationSaturday"
+tag: '#CivilizationSaturday'
 aliases: infrastructure and layout, infrastructure, layout
-parent: "[[Omphalos, the City of Gardens]]"
+parent: '[[Omphalos, the City of Gardens]]'
 
-previous: "[[Canon of Heterodoxies]]"
-next: "[[Founding of the Oklop consortium]]"
+previous: '[[Canon of Heterodoxies]]'
+next: '[[Founding of the Oklop consortium]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # City infrastructure and layout
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -21,6 +24,7 @@ next: "[[Founding of the Oklop consortium]]"
 The rota is not a full circle because the Signaltower was built on the [[Sun Coast]]. Its southern sector expands beyond into the [[Sink]] itself, where in the [[Crisis of Hubris]] the [[Fisher Queens]] built up the [[Duchy of Stilts]] suspended above the waves.
 
 ## See also
+
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[City infrastructure and layout]])

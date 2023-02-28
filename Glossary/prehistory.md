@@ -1,14 +1,16 @@
 ---
 aliases: prehistoric
-parent: "[[Ages of the Known World]]"
+parent: '[[Ages of the Known World]]'
 ---
-#Glossary 
+
+#Glossary
+
 # Prehistory
 
 The time before the [[Nyxfall of the Elven Legion]].
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Prehistory]])
 ```

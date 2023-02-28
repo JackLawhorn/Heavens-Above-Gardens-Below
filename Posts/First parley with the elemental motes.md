@@ -1,13 +1,23 @@
 ---
 Posted: 01.15.2023
-PrimaryTag: "#SceneSunday"
-parent: ["[[Heliotropic Age]]", "[[Elven March]]", "[[Mundial Aspects]]", "[[Known World]]", "[[Discoveries in the Known World]]"]
+tag: '#SceneSunday'
+parent:
+  [
+    '[[Heliotropic Age]]',
+    '[[Elven March]]',
+    '[[Mundial Aspects]]',
+    '[[Known World]]',
+    '[[Discoveries in the Known World]]',
+  ]
 
-previous: "[[Valley of Ruins]]"
-next: "[[Mundial Aspects|The Mundial Aspects]]"
+previous: '[[Valley of Ruins]]'
+next: '[[Mundial Aspects|The Mundial Aspects]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # First parley with the elemental motes
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

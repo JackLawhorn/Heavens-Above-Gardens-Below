@@ -1,13 +1,16 @@
 ---
 Posted: 01.29.2023
-PrimaryTag: "#SceneSunday"
-parent: ["[[Heliotropic Age]]", "[[Later Heliotropic Age]]", "[[Oremongers Guild]]"]
+tag: '#SceneSunday'
+parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Oremongers Guild]]']
 
-previous: "[[Omphalos, the City of Gardens]]"
-next: "[[Iconic pact of the Oremongers Guild]]"
+previous: '[[Omphalos, the City of Gardens]]'
+next: '[[Iconic pact of the Oremongers Guild]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # Rise of the Oremongers Guild
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -33,6 +36,6 @@ With little more than their thoughts, it began. As the Guild's iconic mages walk
 
 The whole process took only days. The white [[wol stone]] native to this region was perfect for this righteous purpose. What the earth shapers built, this great [[rota]] that still stands to this day, was truly brilliant in the light of the recently completed [[Elven Signaltower]]. It was and is a perfect monument to the glory of Ylem, appropriately founded by the poor inheritors of this [[fallen world]].
 
-And then, so much to do in the months that followed. The mass-housing of the clans, still used to their nomadic lifestyle along the Elven March and abiding only to [[cland]] justice. Further mining projects and the development of new smithing techniques to provide for and arm humanity against the threats of this world. The founding of the [[Court]] and later the [[naming of the Great Houses]] to include the Oremongers Guild itself. 
+And then, so much to do in the months that followed. The mass-housing of the clans, still used to their nomadic lifestyle along the Elven March and abiding only to [[cland]] justice. Further mining projects and the development of new smithing techniques to provide for and arm humanity against the threats of this world. The founding of the [[Court]] and later the [[naming of the Great Houses]] to include the Oremongers Guild itself.
 
 And yet, still beneath it all, thoughts of the heart of the Nyx buried deep below this City. Thoughts that threaten the Known World itself. Thoughts that could only ever could have led to their [[Fall of the Oremongers Guild|fall]].

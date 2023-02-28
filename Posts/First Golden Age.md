@@ -1,12 +1,15 @@
 ---
 Posted: 02.21.2023
-PrimaryTag: "#TimelineTuesday"
+tag: '#TimelineTuesday'
 
-previous: "[[Combat Arts]]"
-next: "[[Minor Aspects]]"
+previous: '[[Combat Arts]]'
+next: '[[Minor Aspects]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The First Golden Age of humanity
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

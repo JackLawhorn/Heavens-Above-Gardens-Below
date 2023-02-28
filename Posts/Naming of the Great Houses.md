@@ -1,13 +1,16 @@
 ---
 Posted: 02.05.2023
-PrimaryTag: "#SceneSunday"
-parent: ["[[Court]]", "[[Great House]]", "[[Heliotropic Age]]", "[[Later Heliotropic Age]]"]
+tag: '#SceneSunday'
+parent: ['[[Court]]', '[[Great House]]', '[[Heliotropic Age]]', '[[Later Heliotropic Age]]']
 
-previous: "[[Court]]"
-next: "[[Pact magics]]"
+previous: '[[Court]]'
+next: '[[Pact magics]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The naming of the Great Houses
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

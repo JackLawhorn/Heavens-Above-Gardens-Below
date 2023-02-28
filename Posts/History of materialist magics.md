@@ -1,13 +1,16 @@
 ---
 Posted: 02.14.2023
-PrimaryTag: "#TimelineTuesday"
-parent: "[[Materialist magics]]"
+tag: '#TimelineTuesday'
+parent: '[[Materialist magics]]'
 
-previous: "[[Materialist magics]]"
-next: "[[Aspect]]"
+previous: '[[Materialist magics]]'
+next: '[[Aspect]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # History of materialist magics
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

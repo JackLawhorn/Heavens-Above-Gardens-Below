@@ -1,14 +1,17 @@
 ---
 Posted: 02.22.2023
-PrimaryTag: "#WorldWednesday"
+tag: '#WorldWednesday'
 aliases: Minor Aspect
-parent: "[[Aspect]]"
+parent: '[[Aspect]]'
 
-previous: "[[First Golden Age]]"
-next: "[[(Theme) Religion and worship]]"
+previous: '[[First Golden Age]]'
+next: '[[(Theme) Religion and worship]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Minor Aspects
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -25,6 +28,7 @@ The domains of the Minor Aspects are less concretely defined, often arising from
 These [[Aspect|Aspects]] of [[Ylem]] – born out of the chaos of the [[Wild Magics]] and their [[nyxfire]] storms rather than from the divine design of the [[Angels]] – have been known to manifest in response to myths and beliefs and superstitions of the peoples of the [[Orior]]. In the ages that arose after the founding of [[Omphalos, the City of Gardens]], a great many Minor Aspects have appeared to govern domains of civilization itself such as streets, bridges, towers, and even bathrooms.
 
 ## Examples
+
 ```dataview
 LIST
 WHERE parent AND contains(parent, [[Minor Aspects]])

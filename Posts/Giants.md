@@ -1,13 +1,16 @@
 ---
 Posted: 02.01.2023
-PrimaryTag: "#WorldWednesday"
-parent: ["[[Aspect]]", "[[Minor Aspects]]"]
+tag: '#WorldWednesday'
+parent: ['[[Aspect]]', '[[Minor Aspects]]']
 
-previous: "[[Post-Heliotropic Elven March]]"
-next: "[[(Theme) Government and politics]]"
+previous: '[[Post-Heliotropic Elven March]]'
+next: '[[(Theme) Government and politics]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Giants
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

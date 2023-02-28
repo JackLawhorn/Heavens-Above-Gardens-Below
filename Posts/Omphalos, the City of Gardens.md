@@ -1,14 +1,17 @@
 ---
 Posted: 01.28.2023
-PrimaryTag: "#CivilizationSaturday"
+tag: '#CivilizationSaturday'
 aliases: Omphalos, City, City of Gardens
-parent: ["[[Known World]]"]
+parent: ['[[Known World]]']
 
-previous: "[[Oremongers Guild]]"
-next: "[[Rise of the Oremongers Guild]]"
+previous: '[[Oremongers Guild]]'
+next: '[[Rise of the Oremongers Guild]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Omphalos, the City of Gardens
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -21,7 +24,7 @@ Omphalos, the City of Gardens is a sprawling coastal city-state and the sole bas
 This page serves to aggregates all content about **Omphalos, the City of Gardens**. See the full list of pages here:
 
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Omphalos, the City of Gardens]])
 SORT file.name ASC
 ```

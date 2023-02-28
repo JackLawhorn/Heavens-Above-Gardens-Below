@@ -1,13 +1,16 @@
 ---
 Posted: 02.17.2023
-PrimaryTag: "#FactionFriday"
-parent: ["[[Union]]"]
+tag: '#FactionFriday'
+parent: ['[[Union]]']
 
-previous: "[[(Theme) Reinvention]]"
-next: "[[Law and justice in the City]]"
+previous: '[[(Theme) Reinvention]]'
+next: '[[Law and justice in the City]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Jurisweard
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -55,6 +58,6 @@ Many Houseless warriors encircle the drain of the Mercenary Corps, including for
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Jurisweard]])
 ```

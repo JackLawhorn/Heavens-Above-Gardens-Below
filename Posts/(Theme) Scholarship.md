@@ -1,12 +1,15 @@
 ---
 Posted: 02.09.2023
-PrimaryTag: "#ThemeThursday"
+tag: '#ThemeThursday'
 
-previous: "[[Lands to the south]]"
-next: "[[Scholars of the City]]"
+previous: '[[Lands to the south]]'
+next: '[[Scholars of the City]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # (Theme) Scholarship
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

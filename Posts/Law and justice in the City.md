@@ -1,13 +1,16 @@
 ---
 Posted: 02.18.2023
-PrimaryTag: "#CivilizationSaturday"
-parent: ["[[Omphalos, the City of Gardens]]", "[[Jurisweard]]"]
+tag: '#CivilizationSaturday'
+parent: ['[[Omphalos, the City of Gardens]]', '[[Jurisweard]]']
 
-previous: "[[Jurisweard]]"
-next: "[[The death of cland justice]]"
+previous: '[[Jurisweard]]'
+next: '[[The death of cland justice]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Law and justice in the City
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,14 +1,17 @@
 ---
 Posted: 03.01.2023
-PrimaryTag: "#WorldWednesday"
+tag: '#WorldWednesday'
 aliases: polar onyx deposits
-parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]"]
+parent: ['[[Known World]]', '[[Omphalos, the City of Gardens]]']
 
-previous: "[[Crisis of Hubris]]"
-next: "[[(Theme) Tragedy and catastrophic loss]]"
+previous: '[[Crisis of Hubris]]'
+next: '[[(Theme) Tragedy and catastrophic loss]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Polar onyx deposits
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -21,6 +24,7 @@ Massive deposits of the [[Docetic materials|docetic material]] known as [[Doceti
 An extremely volatile and reactive material, the [[Mundial Aspects#Earth motes|earth motes]] were adamant that humanity and its [[Oremongers Guild]] not interfere with these deposits, and doing so ultimately led to their [[Fall of the Oremongers Guild|fall]].
 
 ## See also
+
 - [[Docetic materials#Onyx|Docetic Materials > Onyx]]
 - [[Founding of Omphalos, the City of Gardens]]
 - [[Rise of the Oremongers Guild]]

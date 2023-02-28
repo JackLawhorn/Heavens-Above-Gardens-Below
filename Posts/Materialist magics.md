@@ -1,14 +1,17 @@
 ---
 Posted: 02.13.2023
-PrimaryTag: "#MagicSystemMonday"
+tag: '#MagicSystemMonday'
 aliases: materialist, materialists
-parent: ["[[Magics in the Known World]]"]
+parent: ['[[Magics in the Known World]]']
 
-previous: "[[The Elf who fell from the sky]]"
-next: "[[History of Materialist magics]]"
+previous: '[[The Elf who fell from the sky]]'
+next: '[[History of Materialist magics]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Materialist magics
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -28,6 +31,6 @@ Feathers, hides, and scales taken from the remains of [[Discoveries in the Known
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Materialist magics]])
 ```

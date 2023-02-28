@@ -1,13 +1,16 @@
 ---
 Posted: 01.21.2023
-PrimaryTag: "#CivlizationSaturday"
-parent: ["[[Sink]]", "[[Orior]]"]
+tag: '#CivlizationSaturday'
+parent: ['[[Sink]]', '[[Orior]]']
 
-previous: "[[Fisher Queens|The Fisher Queens]]"
-next: "[[Founding of Omphalos, the City of Gardens]]"
+previous: '[[Fisher Queens|The Fisher Queens]]'
+next: '[[Founding of Omphalos, the City of Gardens]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Peoples of the Sink
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

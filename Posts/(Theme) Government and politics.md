@@ -1,12 +1,15 @@
 ---
 Posted: 02.02.2023
-PrimaryTag: "#ThemeThursday"
+tag: '#ThemeThursday'
 
-previous: "[[Giants]]"
-next: "[[House Lightbringer]]"
+previous: '[[Giants]]'
+next: '[[House Lightbringer]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # (Theme) Government and politics
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -49,6 +52,7 @@ In addition to the monetary [[Currencies of the City|currencies]] of this societ
 ---
 
 ## Inspiration
+
 - Political action across fiction
-	- Dune
-	- Attack on Titan
+  - Dune
+  - Attack on Titan

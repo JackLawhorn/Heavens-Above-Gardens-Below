@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab16a2d7f215d9e3",
+        "id": "bec53b3713e859d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a021927c96abe531",
+            "id": "58073fda5f05e8fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start here.md",
+                "file": "Glossary/Union.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,10 +60,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,11 +85,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 307.5026054382324
+    "width": 307.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "758ea875e6f047f9",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start here.md",
+                "file": "Glossary/Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start here.md",
+                "file": "Glossary/Union.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,34 +170,34 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "a021927c96abe531",
+  "active": "58073fda5f05e8fb",
   "lastOpenFiles": [
-    "Posts/Heliotropic Age.md",
-    "Start here.md",
-    "_private/drafts/Crisis of Hubris.md",
-    "Posts/(Theme) Foundational mythology.md",
-    "List of posts.md",
-    "_private/Upcoming posts.md",
-    "TODO.md",
-    "Glossary.md",
-    "Posts/Nyxfall of the Elven Legion.md",
-    "Glossary/Nyxfall.md",
-    "Posts/Extracted/Messengers Guild.md",
-    "_private/drafts/(Theme) Tragedy and catastrophic loss.md",
-    "Posts/polar onyx deposit.md",
-    "Posts/Magics in the Known World.md",
-    "_private/drafts/Founding of the Oklop consortium.md",
+    "Posts/Extracted/Storm Elves.md",
+    "Posts/Silver Wolves.md",
+    "Posts/Scholars of the City.md",
+    "Glossary/prehistory.md",
+    "Posts/Oremongers Guild.md",
+    "Posts/Omphalos, the City of Gardens.md",
+    "Posts/Mundial Aspects.md",
     "Posts/Materialist magics.md",
-    "Glossary/Nyx.md",
     "Glossary/Known World.md",
-    "Posts/Scholars Quarter.md",
-    "Posts/Law and justice in the City.md",
-    "Posts/Extracted/Cult of Pythos.md",
+    "Posts/Jurisweard.md",
+    "Glossary/Iconic House.md",
+    "Posts/Human clans.md",
+    "Glossary/House.md",
+    "Posts/Heliotropic Age.md",
+    "Glossary/Guild.md",
+    "Glossary/Great House.md",
+    "Glossary.md",
+    "Posts/Elven March.md",
+    "Glossary/Elven Legion.md",
+    "Posts/Docetic materials.md",
+    "Posts/Crisis of Hubris.md",
+    "Start here.md",
+    "List of posts.md",
+    "_private/drafts/Backburner/Ages of the Known World.md",
+    "Posts/(Theme) Foundational mythology.md",
     "_private/drafts/The death of cland justice.md",
-    "Posts/The Elf who fell from the sky.md",
-    "Posts/History of materialist magics.md",
-    "Posts/Aspect.md",
-    "Posts/(Theme) Reinvention.md",
     "plugins/main.js",
     "plugins",
     "New folder",

@@ -1,13 +1,16 @@
 ---
 Posted: 01.23.2023
-PrimaryTag: "#MagicSystemMonday"
-parent: "[[Docetic]]"
+tag: '#MagicSystemMonday'
+parent: '[[Docetic]]'
 
-previous: "[[Founding of Omphalos, the City of Gardens]]"
-next: "[[Later Heliotropic Age]]"
+previous: '[[Founding of Omphalos, the City of Gardens]]'
+next: '[[Later Heliotropic Age]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Docetic materials
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

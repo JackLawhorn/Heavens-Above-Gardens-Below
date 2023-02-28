@@ -1,13 +1,16 @@
 ---
 Posted: 01.17.2023
-PrimaryTag: "#TimelineTuesday"
-parent: ["[[Prehistory]]", "[[Mundial Aspects]]", "[[Known World]]"]
+tag: '#TimelineTuesday'
+parent: ['[[Prehistory]]', '[[Mundial Aspects]]', '[[Known World]]']
 
-previous: "[[Mundial Aspects|The Mundial Aspects]]"
-next: "[[Sink|The Sink]]"
+previous: '[[Mundial Aspects|The Mundial Aspects]]'
+next: '[[Sink|The Sink]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The roiling of the elements
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

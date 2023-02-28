@@ -1,13 +1,16 @@
 ---
 Posted: 01.24.2023
-PrimaryTag: "#TimelineTuesday"
-parent: "[[Heliotropic Age]]"
+tag: '#TimelineTuesday'
+parent: '[[Heliotropic Age]]'
 
-previous: "[[Docetic materials]]"
-next: "[[Elven Signaltower|The Elven Signaltower]]"
+previous: '[[Docetic materials]]'
+next: '[[Elven Signaltower|The Elven Signaltower]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Later Heliotropic Age
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -27,13 +30,13 @@ It was common for each clan to have their own hunters, smiths, and other tradesf
 
 The [[Founding of Omphalos, the City of Gardens|founding of the City]] required massive infrastructure projects that would come to be known as the first [[Great Works]]. Heading many of these projects were the [[Oremongers Guild]], whose [[Oremongers Guild#earth shapers|earth shapers]] commanded roads, structures, and the [[Omphalos, the City of Gardens|City]] walls themselves to rise up out of the earth.
 
-The [[Fisher Queens]] quickly established their operations along the [[Sun Coast]] and would later found their [[Duchy of Stilts]], a major hub of industry and home to the [[Embassy Quarter]] and the consulates of the [[Orior]], the [[Great Sea Bazaar]], and the [[Shipwrights Quarter]].  The City's titular gardens created massive botanical and agricultural industries that employed nearly a quarter of the human population and produced a significant portion of their food supply. Later, this produce would lead to the invention of wines, coffees, and oils as well.
+The [[Fisher Queens]] quickly established their operations along the [[Sun Coast]] and would later found their [[Duchy of Stilts]], a major hub of industry and home to the [[Embassy Quarter]] and the consulates of the [[Orior]], the [[Great Sea Bazaar]], and the [[Shipwrights Quarter]]. The City's titular gardens created massive botanical and agricultural industries that employed nearly a quarter of the human population and produced a significant portion of their food supply. Later, this produce would lead to the invention of wines, coffees, and oils as well.
 
 Now sedentary, less portable goods and objects of leisure also gained a significant amount of popularity.
 
 ### Scholarship
 
-Now out from under the protection of the [[Sun Elves]], humanity was eager to learn as much as they could about the [[Known World]] and find sources of power that they could take for themselves. The founding of the [[Scholars Quarter]] was one primary means to that end. 
+Now out from under the protection of the [[Sun Elves]], humanity was eager to learn as much as they could about the [[Known World]] and find sources of power that they could take for themselves. The founding of the [[Scholars Quarter]] was one primary means to that end.
 
 Comprised initially of the bards college known as the [[Mouseion]] and the [[Materialists College]], the Quarter would grow to accommodate the [[Philosophers Guild]], the [[Cult of Pythos]], the juggernaut that was the [[Psionics College]], and a number of smaller colleges.
 
@@ -60,6 +63,7 @@ No longer walking one in front of the other along the [[Elven March]], the [[hum
 ### Law and justice
 
 A chaotic and hectic place in the Later Heliotropic Age, the [[Court]] was quick to establish some form of law and order in [[Omphalos, the City of Gardens]]. Rising to meet this need was the [[Jurisweard]]: a loose [[Union]] of [[House|Houses]] – typically with some warrior class – with special powers to enforce the Laws of the Court. During this period, this most prominently featured the following factions:
+
 - [[House Lightbringer]] and their Torchbearer Knights
 - [[Clan Wolfstepper]] and their [[Silver Wolves]]
 - The [[Oremongers Guild]] and their Artificer Knights

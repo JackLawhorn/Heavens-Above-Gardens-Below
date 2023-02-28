@@ -1,13 +1,16 @@
 ---
 Posted: 02.07.2023
-PrimaryTag: "#TimelineTuesday"
-parent: ["[[Scholars of the City]]", "[[Mouseion]]", "[[Philosophers Guild]]"]
+tag: '#TimelineTuesday'
+parent: ['[[Scholars of the City]]', '[[Mouseion]]', '[[Philosophers Guild]]']
 
-previous: "[[Pact magics]]"
-next: "[[Lands to the south]]"
+previous: '[[Pact magics]]'
+next: '[[Lands to the south]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # History of the Subjective
+
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,14 +1,17 @@
 ---
 Posted: 01.11.2023
-PrimaryTag: "#WorldWednesday"
+tag: '#WorldWednesday'
 aliases: Moons of the Known World, moon, moons, Lunar Aspect
-parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Known World]]"]
+parent: ['[[Aspect]]', '[[Major Aspects]]', '[[Known World]]']
 
-previous: "[[Heliotropic Age]]"
-next: "[[(Theme) Power]]"
+previous: '[[Heliotropic Age]]'
+next: '[[(Theme) Power]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Lunar Aspects
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -57,6 +60,7 @@ As rare as [[perigeas]], the [[Moon-Touched]] are another naturally-occurring ph
 The most infamous example of this is the [[Moon-Touched princess]] –  [[prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
 
 ## See also
+
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[Lunar Aspects]])

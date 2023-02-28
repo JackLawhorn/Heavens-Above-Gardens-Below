@@ -1,13 +1,16 @@
 ---
 Posted: 02.11.2023
-PrimaryTag: "#CivilizationSaturday"
-parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]", "[[Old City]]"]
+tag: '#CivilizationSaturday'
+parent: ['[[Omphalos, the City of Gardens]]', '[[City districts]]', '[[Old City]]']
 
-previous: "[[Scholars of the City]]"
-next: "[[The Elf who fell from the sky]]"
+previous: '[[Scholars of the City]]'
+next: '[[The Elf who fell from the sky]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Scholars Quarter
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -21,10 +24,10 @@ The Scholars Quarter is the academic center in [[Omphalos, the City of Gardens]]
 
 ## Home to
 
-| Faction | Fields | Founded |
-| - | - | - |
-| [[Materialists College]] | Biology, chemistry, material sciences | [[Later Heliotropic Age]] |
-| [[Cult of Pythos]] | Mathematics, physics | [[Later Heliotropic Age]] |
-| [[Mouseion]] | The arts, bardistry | [[Later Heliotropic Age]] |
-| [[Philosophers Guild]] | Philosophy | [[Later Heliotropic Age]] |
-| [[Psionics College]] | Psychology | [[Early Renascence period]] |
+| Faction                  | Fields                                | Founded                     |
+| ------------------------ | ------------------------------------- | --------------------------- |
+| [[Materialists College]] | Biology, chemistry, material sciences | [[Later Heliotropic Age]]   |
+| [[Cult of Pythos]]       | Mathematics, physics                  | [[Later Heliotropic Age]]   |
+| [[Mouseion]]             | The arts, bardistry                   | [[Later Heliotropic Age]]   |
+| [[Philosophers Guild]]   | Philosophy                            | [[Later Heliotropic Age]]   |
+| [[Psionics College]]     | Psychology                            | [[Early Renascence period]] |

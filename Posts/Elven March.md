@@ -1,14 +1,17 @@
 ---
 Posted: 01.03.2023
-PrimaryTag: "#TimelineTuesday"
+tag: '#TimelineTuesday'
 aliases: Heliotropic March, Elven March period
-parent: "[[Heliotropic Age]]"
+parent: '[[Heliotropic Age]]'
 
-previous: "[[Organic magics]]"
-next: "[[Discoveries in the Known World]]"
+previous: '[[Organic magics]]'
+next: '[[Discoveries in the Known World]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # The Elven March period
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -25,8 +28,9 @@ The duration of this period is difficult to ascertain after the destruction of t
 > For more on the remainder of the [[Elven Legion|Legion]]'s March after the [[founding of Omphalos, the City of Gardens]], see [[Post-Heliotropic Elven March]].
 
 ## See also
+
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Elven March]])
 SORT Posted ASC
 ```

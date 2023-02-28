@@ -1,14 +1,17 @@
 ---
 Posted: 02.06.2023
-PrimaryTag: "#MagicSystemMonday"
+tag: '#MagicSystemMonday'
 aliases: pact magic, pact, pacts, pact-bound, patron
-parent: ["[[Magics in the Known World]]", "[[Discoveries in the Known World]]"]
+parent: ['[[Magics in the Known World]]', '[[Discoveries in the Known World]]']
 
-previous: "[[Naming of the Great Houses]]"
-next: "[[History of the Subjective]]"
+previous: '[[Naming of the Great Houses]]'
+next: '[[History of the Subjective]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # Pact magics
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -32,7 +35,7 @@ The type of pact is dependent on the relative magics of the pact-bound parties, 
 
 [[Iconic pacts]] are formed between an iconic mage and a patron [[Aspect|Aspect of Ylem]]. These pacts are generally machinations by which the Aspect asserts influence within the [[Prime Material Sphere]], and can grant powerful, primal magics significantly more powerful than those of the other pacts.
 
-[[Mutualist pacts]] are formed between two living beings rather than an iconic mage and a patron Aspect. Typically significantly closer in relative magics, both parties benefit greatly from this relationship. Mutualist pacts are most commonly formed between the races of the [[Orior]] and a race of the [[Discoveries in the Known World#noble beasts|noble beasts]]. 
+[[Mutualist pacts]] are formed between two living beings rather than an iconic mage and a patron Aspect. Typically significantly closer in relative magics, both parties benefit greatly from this relationship. Mutualist pacts are most commonly formed between the races of the [[Orior]] and a race of the [[Discoveries in the Known World#noble beasts|noble beasts]].
 
 [[Hexecraft pacts]] are formed between a witch and the [[animalcules]] within their very body – the [[monad]] to the [[legion]] of physical form – or those of other living things. Through these pacts, the witches can draw albedo from their own form and into their [[aura]]. In this process of drawing out the albedo, the witch gains a certain degree of control over the pact-bound cells and can transform them with enough skill.
 
@@ -61,6 +64,7 @@ Those who have broken pacts are known by an [[Organic magics of the Elven Legion
 Warlock may find it difficult to form the same type of pact, to form any pact at all, or even to wield other types of magics entirely due to the damage caused to their aura.
 
 ## See also
+
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[Pact magics]])

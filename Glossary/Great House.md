@@ -1,8 +1,10 @@
 ---
-parent: "[[Court]]"
+parent: '[[Court]]'
 aliases: Great Houses, Great Houseship
 ---
+
 #Glossary
+
 # Great House
 
 ---
@@ -17,6 +19,6 @@ Since the Crisis of Hubris and the [[Fallen House|fall]] of a majority of these 
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Great House]])
 ```

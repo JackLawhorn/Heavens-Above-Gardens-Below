@@ -1,13 +1,16 @@
 ---
 Posted: 01.06.2023
-PrimaryTag: "#FactionFriday"
-parent: ["[[Elven Legion]]", "[[Orior]]"]
+tag: '#FactionFriday'
+parent: ['[[Elven Legion]]', '[[Orior]]']
 
-previous: "[[(Theme) Foundational mythology]]"
-next: "[[Human clans]]"
+previous: '[[(Theme) Foundational mythology]]'
+next: '[[Human clans]]'
 ---
-`= this.PrimaryTag` #DailyPost
+
+`= this.tag` #DailyPost
+
 # The Sun Elves
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -32,12 +35,14 @@ Secondarily, the March works to find and develop the other races of the [[Orior]
 > The magics described here are specific to the Sun Elves, who are but one faction of their race. For a general overview of the magics that are shared by the [[Elven Legion]] as a whole share, see [[Organic magics of the Elven Legion]].
 
 Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves allow them to wield [[nyxfire]] flames. These magics manifest in a number of different ways:
+
 - A certain influence with and over the elemental [[nyxfire motes]]
 - The summoning of flames to be wielded in combat
 - The taming of the [[Wild Magics]] and their nyxfire storms
 
 ## See also
+
 ```dataview
-TABLE PrimaryTag
+TABLE tag
 WHERE parent AND contains(parent, [[Sun Elves]])
 ```

@@ -1,13 +1,16 @@
 ---
 Posted: 01.27.2023
-PrimaryTag: "#FactionFriday"
-parent: ["[[House]]", "[[Guild]]", "[[Great house]]", "[[Fallen House]]", "[[Iconic House]]"]
+tag: '#FactionFriday'
+parent: ['[[House]]', '[[Guild]]', '[[Great house]]', '[[Fallen House]]', '[[Iconic House]]']
 
-previous: "[[(Theme) Legion and monad]]"
-next: "[[Omphalos, the City of Gardens]]"
+previous: '[[(Theme) Legion and monad]]'
+next: '[[Omphalos, the City of Gardens]]'
 ---
-`= this.PrimaryTag` #DailyPost 
+
+`= this.tag` #DailyPost
+
 # The Oremongers Guild
+
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -73,6 +76,6 @@ The greatest warriors in all of the [[Known World]], perhaps even including the 
 
 ## See also
 ```dataview
-TABLE PrimaryTag
+TABLE tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Oremongers Guild]])
 ```
