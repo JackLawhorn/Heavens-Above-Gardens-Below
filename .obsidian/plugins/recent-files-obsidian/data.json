@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Mines of the Oremongers Guild",
+      "path": "Drafts/Mines of the Oremongers Guild.md"
+    },
+    {
+      "basename": "polar onyx deposit",
+      "path": "Posts/Extracted/polar onyx deposit.md"
+    },
+    {
+      "basename": "Ages of the Known World",
+      "path": "Drafts/Backburner/Ages of the Known World.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "_private/Upcoming posts.md"
+    },
+    {
+      "basename": "Start here",
+      "path": "Start here.md"
+    },
+    {
       "basename": "Union",
       "path": "Glossary/Union.md"
     },
@@ -89,16 +109,8 @@
       "path": "Posts/Crisis of Hubris.md"
     },
     {
-      "basename": "Start here",
-      "path": "Start here.md"
-    },
-    {
       "basename": "List of posts",
       "path": "List of posts.md"
-    },
-    {
-      "basename": "Ages of the Known World",
-      "path": "_private/drafts/Backburner/Ages of the Known World.md"
     },
     {
       "basename": "(Theme) Foundational mythology",
@@ -106,15 +118,15 @@
     },
     {
       "basename": "The death of cland justice",
-      "path": "_private/drafts/The death of cland justice.md"
+      "path": "Drafts/The death of cland justice.md"
     },
     {
       "basename": "Founding of the Oklop consortium",
-      "path": "_private/drafts/Founding of the Oklop consortium.md"
+      "path": "Drafts/Founding of the Oklop consortium.md"
     },
     {
       "basename": "(Theme) Tragedy and catastrophic loss",
-      "path": "_private/drafts/(Theme) Tragedy and catastrophic loss.md"
+      "path": "Drafts/(Theme) Tragedy and catastrophic loss.md"
     },
     {
       "basename": "(7) Civilization Saturday",
@@ -145,10 +157,6 @@
       "path": "_private/templates/(1) Scene Sunday.md"
     },
     {
-      "basename": "Upcoming posts",
-      "path": "_private/Upcoming posts.md"
-    },
-    {
       "basename": "TODO",
       "path": "TODO.md"
     },
@@ -163,10 +171,6 @@
     {
       "basename": "Messengers Guild",
       "path": "Posts/Extracted/Messengers Guild.md"
-    },
-    {
-      "basename": "polar onyx deposit",
-      "path": "Posts/polar onyx deposit.md"
     },
     {
       "basename": "Magics in the Known World",
@@ -195,10 +199,6 @@
     {
       "basename": "History of materialist magics",
       "path": "Posts/History of materialist magics.md"
-    },
-    {
-      "basename": "Aspect",
-      "path": "Posts/Aspect.md"
     }
   ],
   "omittedPaths": [],

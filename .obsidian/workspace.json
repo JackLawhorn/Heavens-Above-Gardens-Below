@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Union.md",
+                "file": "Drafts/Backburner/Ages of the Known World.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e388a56ada1935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/Mines of the Oremongers Guild.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,13 +99,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.5026054382324,
-    "collapsed": true
+    "width": 307.5026054382324
   },
   "right": {
     "id": "758ea875e6f047f9",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Union.md",
+                "file": "Drafts/Mines of the Oremongers Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Union.md",
+                "file": "Drafts/Mines of the Oremongers Guild.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +181,14 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "58073fda5f05e8fb",
+  "active": "567083650aca63ac",
   "lastOpenFiles": [
+    "Posts/Extracted/polar onyx deposit.md",
+    "Drafts/Mines of the Oremongers Guild.md",
+    "Drafts/Backburner/Ages of the Known World.md",
+    "_private/Upcoming posts.md",
+    "Start here.md",
+    "Glossary/Union.md",
     "Posts/Extracted/Storm Elves.md",
     "Posts/Silver Wolves.md",
     "Posts/Scholars of the City.md",
@@ -192,12 +209,6 @@
     "Posts/Elven March.md",
     "Glossary/Elven Legion.md",
     "Posts/Docetic materials.md",
-    "Posts/Crisis of Hubris.md",
-    "Start here.md",
-    "List of posts.md",
-    "_private/drafts/Backburner/Ages of the Known World.md",
-    "Posts/(Theme) Foundational mythology.md",
-    "_private/drafts/The death of cland justice.md",
     "plugins/main.js",
     "plugins",
     "New folder",

@@ -1,21 +1,9 @@
 ---
-Posted: 03.01.2023
-tag: '#WorldWednesday'
 aliases: polar onyx deposits
 parent: ['[[Known World]]', '[[Omphalos, the City of Gardens]]']
-
-previous: '[[Crisis of Hubris]]'
-next: '[[(Theme) Tragedy and catastrophic loss]]'
 ---
-
-`= this.tag` #DailyPost
-
+**Extracted from:** `=this.parent`
 # Polar onyx deposits
-
-`= this.Posted`
-
-**Previous:** `= this.previous`
-**Next:** `= this.next`
 
 ---
 
