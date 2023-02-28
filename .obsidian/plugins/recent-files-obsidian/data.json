@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Mines of the Oremongers Guild",
+      "path": "Posts/Mines of the Oremongers Guild.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "_private/Upcoming posts.md"
+    },
+    {
+      "basename": "List of posts",
+      "path": "List of posts.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Founding of the Oklop consortium",
+      "path": "Drafts/Founding of the Oklop consortium.md"
     },
     {
       "basename": "The death of cland justice",
@@ -11,10 +31,6 @@
     {
       "basename": "Jurisweard",
       "path": "Posts/Jurisweard.md"
-    },
-    {
-      "basename": "Founding of the Oklop consortium",
-      "path": "Drafts/Founding of the Oklop consortium.md"
     },
     {
       "basename": "Ages of the Known World",
@@ -31,18 +47,6 @@
     {
       "basename": "prehistory",
       "path": "Glossary/prehistory.md"
-    },
-    {
-      "basename": "List of posts",
-      "path": "List of posts.md"
-    },
-    {
-      "basename": "Mines of the Oremongers Guild",
-      "path": "Posts/Mines of the Oremongers Guild.md"
-    },
-    {
-      "basename": "Upcoming posts",
-      "path": "_private/Upcoming posts.md"
     },
     {
       "basename": "Messengers Guild",
@@ -163,10 +167,6 @@
     {
       "basename": "(1) Scene Sunday",
       "path": "_private/templates/(1) Scene Sunday.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "Nyxfall of the Elven Legion",
