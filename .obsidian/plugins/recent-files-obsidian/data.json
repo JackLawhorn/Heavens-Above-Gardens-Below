@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "The death of cland justice",
+      "path": "Drafts/The death of cland justice.md"
+    },
+    {
+      "basename": "Jurisweard",
+      "path": "Posts/Jurisweard.md"
+    },
+    {
+      "basename": "Founding of the Oklop consortium",
+      "path": "Drafts/Founding of the Oklop consortium.md"
+    },
+    {
+      "basename": "Ages of the Known World",
+      "path": "Posts/Extracted/Ages of the Known World.md"
+    },
+    {
+      "basename": "Waterways",
+      "path": "Drafts/_backburner/Waterways.md"
+    },
+    {
+      "basename": "Heliotropic Age",
+      "path": "Posts/Heliotropic Age.md"
+    },
+    {
+      "basename": "prehistory",
+      "path": "Glossary/prehistory.md"
+    },
+    {
       "basename": "List of posts",
       "path": "List of posts.md"
     },
@@ -21,14 +53,6 @@
       "path": "Posts/Extracted/polar onyx deposit.md"
     },
     {
-      "basename": "Ages of the Known World",
-      "path": "Drafts/_backburner/Ages of the Known World.md"
-    },
-    {
-      "basename": "Start here",
-      "path": "Start here.md"
-    },
-    {
       "basename": "Union",
       "path": "Glossary/Union.md"
     },
@@ -43,10 +67,6 @@
     {
       "basename": "Scholars of the City",
       "path": "Posts/Scholars of the City.md"
-    },
-    {
-      "basename": "prehistory",
-      "path": "Glossary/prehistory.md"
     },
     {
       "basename": "Oremongers Guild",
@@ -69,10 +89,6 @@
       "path": "Glossary/Known World.md"
     },
     {
-      "basename": "Jurisweard",
-      "path": "Posts/Jurisweard.md"
-    },
-    {
       "basename": "Iconic House",
       "path": "Glossary/Iconic House.md"
     },
@@ -83,10 +99,6 @@
     {
       "basename": "House",
       "path": "Glossary/House.md"
-    },
-    {
-      "basename": "Heliotropic Age",
-      "path": "Posts/Heliotropic Age.md"
     },
     {
       "basename": "Guild",
@@ -119,14 +131,6 @@
     {
       "basename": "(Theme) Foundational mythology",
       "path": "Posts/(Theme) Foundational mythology.md"
-    },
-    {
-      "basename": "The death of cland justice",
-      "path": "Drafts/The death of cland justice.md"
-    },
-    {
-      "basename": "Founding of the Oklop consortium",
-      "path": "Drafts/Founding of the Oklop consortium.md"
     },
     {
       "basename": "(Theme) Tragedy and catastrophic loss",
@@ -195,10 +199,6 @@
     {
       "basename": "The Elf who fell from the sky",
       "path": "Posts/The Elf who fell from the sky.md"
-    },
-    {
-      "basename": "History of materialist magics",
-      "path": "Posts/History of materialist magics.md"
     }
   ],
   "omittedPaths": [],

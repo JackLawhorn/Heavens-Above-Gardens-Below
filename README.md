@@ -1,4 +1,5 @@
 # Heavens Above; Gardens Below
+a worldbuilding project by Jack Lawhorn
 
 ---
 
@@ -16,7 +17,7 @@ Governed by a ruling class of historian mages, a shadowy college of psionic scho
 >
 > And here are some other resources:
 >
-> > [[List of posts|Full list of daily posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
+> > [[List of posts|Full list of posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
 
 ## Themes and inspiration
 

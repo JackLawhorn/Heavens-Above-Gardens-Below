@@ -1,6 +1,6 @@
 ---
 aliases: prehistoric
-parent: '[[Ages of the Known World]]'
+parent: ['[[Ages of the Known World]]']
 ---
 
 #Glossary
