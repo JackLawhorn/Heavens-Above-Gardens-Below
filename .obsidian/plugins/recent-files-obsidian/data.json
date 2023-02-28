@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "List of posts",
+      "path": "List of posts.md"
+    },
+    {
       "basename": "Mines of the Oremongers Guild",
-      "path": "Drafts/Mines of the Oremongers Guild.md"
+      "path": "Posts/Mines of the Oremongers Guild.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "_private/Upcoming posts.md"
+    },
+    {
+      "basename": "Messengers Guild",
+      "path": "Posts/Extracted/Messengers Guild.md"
     },
     {
       "basename": "polar onyx deposit",
@@ -10,11 +22,7 @@
     },
     {
       "basename": "Ages of the Known World",
-      "path": "Drafts/Backburner/Ages of the Known World.md"
-    },
-    {
-      "basename": "Upcoming posts",
-      "path": "_private/Upcoming posts.md"
+      "path": "Drafts/_backburner/Ages of the Known World.md"
     },
     {
       "basename": "Start here",
@@ -109,10 +117,6 @@
       "path": "Posts/Crisis of Hubris.md"
     },
     {
-      "basename": "List of posts",
-      "path": "List of posts.md"
-    },
-    {
       "basename": "(Theme) Foundational mythology",
       "path": "Posts/(Theme) Foundational mythology.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "Nyxfall",
       "path": "Glossary/Nyxfall.md"
-    },
-    {
-      "basename": "Messengers Guild",
-      "path": "Posts/Extracted/Messengers Guild.md"
     },
     {
       "basename": "Magics in the Known World",

@@ -20,7 +20,7 @@ Many of the [[Omphalos, the City of Gardens|City]]'s towers and taller structure
 
 These roccas were centers of industry for the Messengers Guild, and points of concentration for the communications of the entire City. The [[Rookish clans#Augurs|Rookish Augurs]] tended the roccas and dispatched messengers to relay newly received messages. This made the Augurs humanity's first real spymasters and intelligence officers, as they controlled the vast majority of information flowing through the City. 
 
-### The Telegraph Network
+### Telegraph network
 
 In the [[Late Renascence Period]], the Messengers Guild were granted a [[Questing Charter]] to construct the largest communication network ever conceived in the [[Known World]]: a telegraph network connecting [[Omphalos, the City of Gardens]] via instantaneously transmitted electrical signals. It was to be the last [[Great Works#Scientific Works|great Scientific Work]] of the [[Renascence]] – one last wonder putting a point on a golden age by the longest surviving [[House]] in the City.
 
