@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e6dfb2216ddec5",
+        "id": "9d74166dea455d01",
         "type": "tabs",
         "children": [
           {
-            "id": "0bda743d81e56927",
+            "id": "18d0d5572415b58b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Start here.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc709d5d74af0261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,15 +181,18 @@
       "cmdr:Commander: Save to git": false
     }
   },
-  "active": "0bda743d81e56927",
+  "active": "cc709d5d74af0261",
   "lastOpenFiles": [
-    "Posts/Mines of the Oremongers Guild.md",
     "TODO.md",
-    "_private/Upcoming posts.md",
-    "List of posts.md",
     "README.md",
-    "Drafts/Founding of the Oklop consortium.md",
+    "snippet.css",
+    "Start here.md",
+    "_private/Family February.md",
+    "List of posts.md",
     "Drafts/The death of cland justice.md",
+    "Posts/Mines of the Oremongers Guild.md",
+    "_private/Upcoming posts.md",
+    "Drafts/Founding of the Oklop consortium.md",
     "Posts/Jurisweard.md",
     "Posts/Extracted/Ages of the Known World.md",
     "Drafts/_backburner/Waterways.md",
@@ -185,9 +209,6 @@
     "Posts/Mundial Aspects.md",
     "Posts/Materialist magics.md",
     "Glossary/Known World.md",
-    "Glossary/Iconic House.md",
-    "Posts/Human clans.md",
-    "Glossary/House.md",
     "plugins/main.js",
     "plugins",
     "New folder",

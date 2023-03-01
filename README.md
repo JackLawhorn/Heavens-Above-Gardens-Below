@@ -1,52 +1,44 @@
-# Heavens Above; Gardens Below
-a worldbuilding project by Jack Lawhorn
+# Setup
 
----
+1) Fork this repository
+2) [Download and install Obsidian](https://obsidian.md/download)
+3) Open this repository as an Obsidian vault using the **Open folder as vault** option in the vault selection menu.
+4) Install and enable the following community plugins, which are required to keep up to date with this project. You can find the list of community plugins by going to **Settings > Community plugins** under the **Options** umbrella.
 
-[[Omphalos, the City of Gardens]] is a sprawling, coastal city state and the sole bastion of humanity in a world shaped by the wanton, unchecked actions of gods and monsters. In these posts I'll focus primarily on humanity both within and outside of the City of Gardens, but the [[Known World]] is full of other inhabitants from the [[Discoveries in the Known World#Noble beasts|noble beasts]] to the other races of the [[Orior]] to a chaotic pantheon of deities known as the [[Aspect|Aspects]] of [[Ylem]]. And this world itself is but a single backwater planet in the greater cosmos of the [[Nyx]], itself sentient and in engulfed in eternal conflict.
+>[!IMPORTANT] Required plugins
+>- **Dataview** this enables the querying of metadata and is used here to create an interconnected look and feel, including links to the previous and next posts.
+>- **Obsidian Git** will allow you to pull the latest posts to your instance of this project.
 
-After the disastrous [[Crisis of Hubris]], a cultural and intellectual [[Renascence]] has armed humanity with a tenuous grasp of powerful technological and magical advancements, as well as a hunger to prove themselves. Now, in the [[Post-Enlightenment Era]] and long after the age of heroes and villains has passed, a complex political body known as the [[Court]] attempts to lead their people into a golden age of colonialist expansion.
+5) Once setup, navigate to the top-level note named **"Start here"** for an overview of the project and a list of resources for getting started.
 
-Governed by a ruling class of historian mages, a shadowy college of psionic scholar spies, and powerful unions of political entities with diverse and oft-conflicting interests, will this new era prove to be the first step towards their extinction or towards their ascension to godhood?
+> [!IMPORTANT] Staying up to date
+> Going forward, you can use <kbd>CTRL + P</kbd> to open the **Command palette**. From there, call the **Obsidian Git: Pull** command to pull any updates to your instance of the project.
 
-> [!INFO] Not sure where to start?
->
-> Check out the first daily post here:
->
-> > 01.01.2023 • #SceneSunday • [[Nyxfall of the Elven Legion]]
->
-> And here are some other resources:
->
-> > [[List of posts|Full list of posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
+# Recommended plugins
 
-## Themes and inspiration
+Similar to Visual Studio Code, expanding base functionality through the use of plugins is the backbone of Obsidian. There is a long list of core plugins that come packaged with the software, as well as an active community creating and updating community plugins.
 
-Heavens Above; Gardens Below is a fantasy setting inspired by the diverse cultures of Mediterranean Europe, Africa, and the Middle East. It was created as the transmedia backdrop for stories about power and consequences, the impact of history and failure on culture and identity, and the origins of the ideas and concepts that define us.
+## Core plugins
 
-I detail specific themes and inspirations in weekly #ThemeThursday posts, which you can find a list of here:
+You can find the list of core plugins packaged with Obsidian by going to **Settings > Core plugins** under the **Options** umbrella. Here are the ones I'd recommend, some of which may be enabled by default:
 
-```dataview
-TABLE Posted, tag as "Daily Tag"
-FROM "Posts" AND #DailyPost AND #ThemeThursday 
-SORT Posted ASC
-```
+- **Outline** enables you to see the sections and subsections of each page at a glance and navigate to them more easily.
+- **Backlinks** and **Outgoing links** help you to navigate pages and see the relationships and connections between different ideas.
+- **Page preview** allows you to preview pages by hovering over links. This project is structured entirely around links so I highly recommend using this.
+- **Files** and **Tags** enable a standard file explorer user interface which is not necessarily recommended for Obsidian but which may be more familiar to those new to the tool. 
+- **Quick switcher** is what Obsidian has chosen to replace the standard file explorer user interface with, and it enables a faster method of moving between pages.
+- **Graph view** and **Canvas** both enable a more visual view of connections between notes. I will make a canvas view of this project available soon.
 
-## Release schedule and goals
+## Community plugins
 
-I am writing one blog post every day throughout 2023, based on daily prompts that help me to categorize my thoughts and keep the exercise fresh. I might not always be entirely caught up because life happens and the #SceneSunday posts are harder to get through than I initially thought 😂
+You can find the list of community plugins by going to **Settings > Community plugins** under the **Options** umbrella. Here are the one's I'd recommend:
 
-Here is a list of my daily writing prompts:
+- **Plugin Update Tracker** is helpful for knowing when to update plugins you've installed. Specifically, the required Dataview and Obsidian Git plugins should always be updated when possible. 
+- If you are going to be fiddling with the settings more often, I would also recommend the **Settings Search** plugin which makes available a simple search bar in the Settings menu.
+- I personally find **Heading Level Indent** helpful in visually discerning the relative hierarchy of sections and subsections in a page.
 
-- #SceneSunday – Specific moments in the history of this world, used to highlight much of the information being written in the other daily prompts and to give a feel of what living in this world might be like from the perspective of humans like us.
+## Themes and CSS snippets
 
-- #MagicSystemMonday – There are a TON of magic systems in this setting! These posts will seek to make sense of them, their mechanics, how they are used, and what the consequences are for the wider world. For more, see [[Magics in the Known World]].
+Similar to plugins are themes, which you can find by going to **Settings > Appearance > Themes > Manage**. The theme I personally use is "Big Sur Aesthetic" in "Dark" mode.
 
-- #TimelineTuesday – Similarly, the timeline of this world covers a TON of ground. These posts will define set periods commonly referenced to place events and concepts in relative order. For more, see [[Ages of the Known World]].
-
-- #WorldWednesday – Although the majority of this content will focus around humanity in [[Omphalos, the City of Gardens]] and their colonies expanding outward from it, these posts will help me to flesh out the entirety of the [[Known World]].
-
-- #ThemeThursday – My approach to worldbuilding relies heavily on themes I want to incorporate and inspiration from external sources (both real-world and fictional). These posts will directly address these subjects. For more, see [[#Themes and inspiration]].
-
-- #FactionFriday – The history of the Known World covers thousands of years of time, and my approach has been to focus primarily on the rise and fall of factions and dynasties rather than individuals. These posts will help me flesh out important groups.
-
-- #CivilizationSaturday – These posts will outline specific details and traits of Omphalos, the City of Gardens, as well as other population centers throughout the Known World. This might include anything from districts of the City to culture and society.
+I've also written some simple tweaks to the theming of Obsidian, which you'll find in `snippet.css`. You should be able to enable this by placing it in `.obsidian > snippets`, then going to **Settings > Appearance > CSS snippets** and enabling `snippet.css`.

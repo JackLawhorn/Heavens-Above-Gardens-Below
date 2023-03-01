@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Mines of the Oremongers Guild",
-      "path": "Posts/Mines of the Oremongers Guild.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "TODO",
       "path": "TODO.md"
     },
     {
-      "basename": "Upcoming posts",
-      "path": "_private/Upcoming posts.md"
+      "basename": "Start here",
+      "path": "Start here.md"
     },
     {
       "basename": "List of posts",
       "path": "List of posts.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "The death of cland justice",
+      "path": "Drafts/The death of cland justice.md"
+    },
+    {
+      "basename": "Mines of the Oremongers Guild",
+      "path": "Posts/Mines of the Oremongers Guild.md"
+    },
+    {
+      "basename": "Upcoming posts",
+      "path": "_private/Upcoming posts.md"
     },
     {
       "basename": "Founding of the Oklop consortium",
       "path": "Drafts/Founding of the Oklop consortium.md"
-    },
-    {
-      "basename": "The death of cland justice",
-      "path": "Drafts/The death of cland justice.md"
     },
     {
       "basename": "Jurisweard",
@@ -195,10 +199,6 @@
     {
       "basename": "Cult of Pythos",
       "path": "Posts/Extracted/Cult of Pythos.md"
-    },
-    {
-      "basename": "The Elf who fell from the sky",
-      "path": "Posts/The Elf who fell from the sky.md"
     }
   ],
   "omittedPaths": [],
