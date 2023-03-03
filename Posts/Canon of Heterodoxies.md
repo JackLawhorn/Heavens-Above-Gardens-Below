@@ -38,7 +38,7 @@ For a cult, entering the religious canon means gaining both Houseship and a modi
 
 - **Influence.** Describes the number and dedication of one's worshipers. Practices of worship vary greatly from Aspect to Aspect – informed by the needs and wants of the Ylem itself – and can range from the burning of a single [[sol]] of food to the harvesting of crops to human sacrifice. This is fairly easily confirmed by a review of the cult's own records, including receipts of worship called [[libelli]] (singular "libellus"), and an observation of these rituals in practice.
 
-- **Inspiration.** What has worship of this Aspect wrought? How have its worshippers, those who have entered into iconic pacts with it, and the wider population of the City benefitted? A common tactic to ensure that this criterium is met is the funding and production of a [[Great Work]] to adorn one of the many walls or gardens of Omphalos, the City of Gardens. Another is to seek a [[Questing Charter]] in honor of this patron.
+- **Inspiration.** What has worship of this Aspect wrought? How have its worshippers, those who have entered into iconic pacts with it, and the wider population of the City benefitted? A common tactic to ensure that this criterium is met is the funding and production of a [[Great Works|Great Work]] to adorn one of the many walls or gardens of Omphalos, the City of Gardens. Another is to seek a [[Questing Charter]] in honor of this patron.
 
 ## See also
 

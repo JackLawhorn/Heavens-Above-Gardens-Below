@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Giants]]'
 next: '[[House Lightbringer]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Government and politics
-
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -19,7 +16,7 @@ next: '[[House Lightbringer]]'
 
 ## Form of government
 
-[[Omphalos, the City of Gardens]] has been a [unitary state](https://en.wikipedia.org/wiki/Unitary_state) for the vast majority of its history, existing as a single, expansive [city-state](https://en.wikipedia.org/wiki/City-state). In the late [[Renascence|Renascence period]] and into the [[Post-Enlightenment Era]], it has begun expanding into new territories through the granting of [[Questing Charters]] to [[House|Houses]] of the [[Court]] interested in founding their own settlements. This is a form of [chartered company](https://en.wikipedia.org/wiki/Chartered_company) structure.
+[[Omphalos, the City of Gardens]] has been a [unitary state](https://en.wikipedia.org/wiki/Unitary_state) for the vast majority of its history, existing as a single, expansive [city-state](https://en.wikipedia.org/wiki/City-state). In the late [[Renascence|Renascence period]] and into the [[Post-Enlightenment Era]], it has begun expanding into new territories through the granting of [[Questing Charter|Questing Charters]] to [[House|Houses]] of the [[Court]] interested in founding their own settlements. This is a form of [chartered company](https://en.wikipedia.org/wiki/Chartered_company) structure.
 
 The City itself and its Court is a [meritocracy](https://en.wikipedia.org/wiki/Meritocracy), in which entities which control industry or otherwise produce goods and services also become political entities called "Houses" and whose leaders become [[Lord Representative]] of the Court. It is also a [kritarchy or dikastocratic](https://en.wikipedia.org/wiki/Kritarchy) form of government, meaning that power lies with judges called [[Orator|Orators]] who preside over matters of the Court.
 
@@ -52,7 +49,6 @@ In addition to the monetary [[Currencies of the City|currencies]] of this societ
 ---
 
 ## Inspiration
-
 - Political action across fiction
-  - Dune
-  - Attack on Titan
+	- Dune
+	- Attack on Titan

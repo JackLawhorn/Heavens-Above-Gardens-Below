@@ -22,6 +22,6 @@ These roccas were centers of industry for the Messengers Guild, and points of co
 
 ### Telegraph network
 
-In the [[Late Renascence Period]], the Messengers Guild were granted a [[Questing Charter]] to construct the largest communication network ever conceived in the [[Known World]]: a telegraph network connecting [[Omphalos, the City of Gardens]] via instantaneously transmitted electrical signals. It was to be the last [[Great Works#Scientific Works|great Scientific Work]] of the [[Renascence]] – one last wonder putting a point on a golden age by the longest surviving [[House]] in the City.
+In the [[Late Renascence Period]], the Messengers Guild were granted a [[Questing Charter]] to construct the largest communication network ever conceived in the [[Known World]]: a telegraph network connecting [[Omphalos, the City of Gardens]] via instantaneously transmitted electrical signals. It was to be the last [[Great Works|Great Work]] of the [[Renascence]] – one last wonder putting a point on a golden age by the longest surviving [[House]] in the City.
 
 Unfortunately, the project faced endless delays and would eventually be made almost obsolete by the invention of radio by a competing House. By the time the telegraph network project was indefinitely put on hold in the [[Early Post-Enlightenment Era]], only the [[City garrisons|City's garrisons]], the [[Scholars Quarter|Colleges]], the [[House of the Sun]], and the [[Court]] were connected.
