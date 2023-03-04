@@ -7,11 +7,8 @@ parent: '[[Ylem]]'
 previous: '[[Materialist magics]]'
 next: '[[(Theme) Reinvention]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Aspects of Ylem
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

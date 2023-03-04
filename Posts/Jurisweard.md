@@ -6,11 +6,8 @@ parent: ['[[Union]]']
 previous: '[[(Theme) Reinvention]]'
 next: '[[Law and justice in the City]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Jurisweard
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

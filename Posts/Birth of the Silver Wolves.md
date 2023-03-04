@@ -7,11 +7,8 @@ parent: ['[[Heliotropic Age]]', '[[Elven March]]', '[[Silver Wolves]]']
 previous: '[[Human clans]]'
 next: '[[Iconic pact of the Silver Wolves]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Birth of the Silver Wolves
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

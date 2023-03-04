@@ -6,11 +6,8 @@ parent: '[[Docetic]]'
 previous: '[[Founding of Omphalos, the City of Gardens]]'
 next: '[[Later Heliotropic Age]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Docetic materials
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

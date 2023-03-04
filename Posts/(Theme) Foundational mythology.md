@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Discoveries in the Known World]]'
 next: '[[Sun Elves]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Foundational mythology
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

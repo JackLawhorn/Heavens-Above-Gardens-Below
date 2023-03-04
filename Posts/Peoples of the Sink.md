@@ -6,11 +6,8 @@ parent: ['[[Sink]]', '[[Orior]]']
 previous: '[[Fisher Queens|The Fisher Queens]]'
 next: '[[Founding of Omphalos, the City of Gardens]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Peoples of the Sink
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

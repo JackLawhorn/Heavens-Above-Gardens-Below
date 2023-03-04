@@ -7,11 +7,8 @@ parent: ['[[Aspect]]', '[[Major Aspects]]', '[[Known World]]']
 previous: '[[Heliotropic Age]]'
 next: '[[(Theme) Power]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Lunar Aspects
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -6,11 +6,8 @@ parent: '[[Omphalos, the City of Gardens]]'
 previous: '[[(Theme) Scholarship]]'
 next: '[[Scholars Quarter]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Scholars of the City
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

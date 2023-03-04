@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Lunar Aspects|The Lunar Aspects]]'
 next: '[[Silver Wolves]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Power
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

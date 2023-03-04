@@ -6,11 +6,8 @@ parent: ['[[Union]]']
 previous: '[[(Theme) Religion and worship]]'
 next: '[[City infrastructure and layout]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Canon of Heterodoxies
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

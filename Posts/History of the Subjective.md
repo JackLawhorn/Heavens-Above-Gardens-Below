@@ -6,11 +6,8 @@ parent: ['[[Scholars of the City]]', '[[Mouseion]]', '[[Philosophers Guild]]']
 previous: '[[Pact magics]]'
 next: '[[Lands to the south]]'
 ---
-
 `= this.tag` #DailyPost
-
 # History of the Subjective
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

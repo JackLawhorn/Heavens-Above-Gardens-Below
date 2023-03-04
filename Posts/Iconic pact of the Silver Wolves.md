@@ -6,11 +6,8 @@ parent: ['[[Iconic pacts]]', '[[Silver Wolves]]', '[[Discoveries in the Known Wo
 previous: '[[Birth of the Silver Wolves]]'
 next: '[[Heliotropic Age]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Iconic pact of the Silver Wolves
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

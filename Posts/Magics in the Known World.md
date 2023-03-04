@@ -5,11 +5,8 @@ tag: '#MagicSystemMonday'
 previous: '[[Founding of the Oklop consortium]]'
 next: '[[Crisis of Hubris]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Magics in the Known World
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -7,11 +7,8 @@ parent: ['[[Known World]]']
 previous: '[[Oremongers Guild]]'
 next: '[[Rise of the Oremongers Guild]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Omphalos, the City of Gardens
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

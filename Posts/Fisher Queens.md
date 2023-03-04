@@ -1,24 +1,13 @@
 ---
 Posted: 01.20.2023
-tag: '#FactionFriday'
-parent:
-  [
-    '[[Rookish clans]]',
-    '[[Houses of Industry]]',
-    '[[Human clans]]',
-    '[[House]]',
-    '[[Mutualist pacts]]',
-    '[[Mutualist House]]',
-  ]
+tag: "#FactionFriday"
+parent: ["[[Rookish clans]]", "[[Houses of Industry]]", "[[Human clans]]", "[[House]]", "[[Mutualist pacts]]", "[[Mutualist House]]"]
 
 previous: '[[(Theme) The elements]]'
 next: '[[Peoples of the Sink]]'
 ---
-
 #FactionFriday #DailyPost
-
 # The Fisher Queens
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

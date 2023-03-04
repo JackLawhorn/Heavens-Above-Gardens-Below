@@ -7,11 +7,8 @@ parent: '[[Omphalos, the City of Gardens]]'
 previous: '[[Canon of Heterodoxies]]'
 next: '[[Founding of the Oklop consortium]]'
 ---
-
 `= this.tag` #DailyPost
-
 # City infrastructure and layout
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

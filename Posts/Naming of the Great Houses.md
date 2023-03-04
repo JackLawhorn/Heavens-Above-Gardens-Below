@@ -6,11 +6,8 @@ parent: ['[[Court]]', '[[Great House]]', '[[Heliotropic Age]]', '[[Later Heliotr
 previous: '[[Court]]'
 next: '[[Pact magics]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The naming of the Great Houses
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

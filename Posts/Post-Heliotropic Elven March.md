@@ -6,11 +6,8 @@ parent: ['[[Elven Legion]]', '[[Sun Elves]]', '[[Known World]]']
 previous: '[[Iconic pact of the Oremongers Guild]]'
 next: '[[Giants]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Post-Heliotropic Elven March
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

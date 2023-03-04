@@ -6,11 +6,8 @@ parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Oremongers Guild
 previous: '[[Omphalos, the City of Gardens]]'
 next: '[[Iconic pact of the Oremongers Guild]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Rise of the Oremongers Guild
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

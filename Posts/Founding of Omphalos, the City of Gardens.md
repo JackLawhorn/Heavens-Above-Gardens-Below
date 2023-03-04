@@ -2,22 +2,13 @@
 Posted: 01.22.2023
 tag: '#SceneSunday'
 aliases: founding, Founding of the City
-parent:
-  [
-    '[[Omphalos, the City of Gardens]]',
-    '[[Heliotropic Age]]',
-    '[[Elven March]]',
-    '[[Later Heliotropic Age]]',
-  ]
+parent: ['[[Omphalos, the City of Gardens]]', '[[Heliotropic Age]]', '[[Elven March]]', '[[Later Heliotropic Age]]']
 
 previous: '[[Peoples of the Sink]]'
 next: '[[Docetic materials]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The founding of Omphalos, the City of Gardens
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

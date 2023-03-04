@@ -6,11 +6,8 @@ aliases: Combat Art
 previous: '[[The death of cland justice]]'
 next: '[[First Golden Age]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Combat Arts
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

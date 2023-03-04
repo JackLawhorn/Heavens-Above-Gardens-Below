@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Aspect]]'
 next: '[[Jurisweard]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Reinvention
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

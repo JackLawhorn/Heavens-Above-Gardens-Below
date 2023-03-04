@@ -7,11 +7,8 @@ parent: ['[[Magics in the Known World]]', '[[Discoveries in the Known World]]']
 previous: '[[Naming of the Great Houses]]'
 next: '[[History of the Subjective]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Pact magics
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

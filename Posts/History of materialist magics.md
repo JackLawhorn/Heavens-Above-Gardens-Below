@@ -6,11 +6,8 @@ parent: '[[Materialist magics]]'
 previous: '[[Materialist magics]]'
 next: '[[Aspect]]'
 ---
-
 `= this.tag` #DailyPost
-
 # History of materialist magics
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

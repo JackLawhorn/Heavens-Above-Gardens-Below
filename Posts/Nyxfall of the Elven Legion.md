@@ -6,13 +6,11 @@ parent: ['[[Prehistory]]', '[[Heliotropic Age]]', '[[Nyxfall]]', '[[Elven Legion
 
 next: '[[Organic magics]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Nyxfall of the Elven Legion
-
 `= this.Posted`
 
+**Previous:** [[Start here]]
 **Next:** `= this.next`
 
 ---

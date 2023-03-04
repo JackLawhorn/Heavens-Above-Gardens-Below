@@ -6,11 +6,8 @@ parent: '[[Heliotropic Age]]'
 previous: '[[Docetic materials]]'
 next: '[[Elven Signaltower|The Elven Signaltower]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Later Heliotropic Age
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

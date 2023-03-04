@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Lands to the south]]'
 next: '[[Scholars of the City]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Scholarship
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -7,11 +7,8 @@ parent: '[[Heliotropic Age]]'
 previous: '[[Organic magics]]'
 next: '[[Discoveries in the Known World]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Elven March period
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

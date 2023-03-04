@@ -6,11 +6,8 @@ parent: ['[[Known World]]', '[[Old World]]', '[[Discoveries in the Known World]]
 previous: '[[Silver Wolves]]'
 next: '[[First parley with the elemental motes]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Valley of Ruins
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

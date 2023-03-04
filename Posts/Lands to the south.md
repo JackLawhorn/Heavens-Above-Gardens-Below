@@ -6,11 +6,8 @@ parent: '[[Known World]]'
 previous: '[[History of the Subjective]]'
 next: '[[(Theme) Scholarship]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The lands to the south
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

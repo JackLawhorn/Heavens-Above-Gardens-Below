@@ -6,11 +6,8 @@ parent: ['[[Prehistory]]', '[[Mundial Aspects]]', '[[Known World]]']
 previous: '[[Mundial Aspects|The Mundial Aspects]]'
 next: '[[Sink|The Sink]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The roiling of the elements
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

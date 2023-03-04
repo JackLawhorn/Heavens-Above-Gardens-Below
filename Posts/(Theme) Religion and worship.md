@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Minor Aspects]]'
 next: '[[Canon of Heterodoxies]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Religion and worship
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

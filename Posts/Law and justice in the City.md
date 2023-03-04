@@ -6,11 +6,8 @@ parent: ['[[Omphalos, the City of Gardens]]', '[[Jurisweard]]']
 previous: '[[Jurisweard]]'
 next: '[[The death of cland justice]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Law and justice in the City
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

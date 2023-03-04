@@ -6,11 +6,8 @@ parent: ['[[Aspect]]', '[[Minor Aspects]]']
 previous: '[[Post-Heliotropic Elven March]]'
 next: '[[(Theme) Government and politics]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Giants
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

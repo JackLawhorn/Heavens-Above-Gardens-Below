@@ -7,11 +7,8 @@ parent: ['[[Magics in the Known World]]']
 previous: '[[The Elf who fell from the sky]]'
 next: '[[History of Materialist magics]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Materialist magics
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

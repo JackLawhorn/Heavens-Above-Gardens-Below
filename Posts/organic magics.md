@@ -6,11 +6,8 @@ parent: '[[Magics in the Known World]]'
 previous: '[[Nyxfall of the Elven Legion]]'
 next: '[[Elven March]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Organic magics
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

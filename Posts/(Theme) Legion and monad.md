@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Elven Signaltower]]'
 next: '[[Oremongers Guild]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) Legion and monad
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

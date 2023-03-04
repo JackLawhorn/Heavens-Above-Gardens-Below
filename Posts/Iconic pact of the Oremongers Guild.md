@@ -6,11 +6,8 @@ parent: ['[[Iconic pacts]]', '[[Oremongers Guild]]']
 previous: '[[Rise of the Oremongers Guild]]'
 next: '[[Post-Heliotropic Elven March]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Iconic pact of the Oremongers Guild
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

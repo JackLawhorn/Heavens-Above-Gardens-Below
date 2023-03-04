@@ -7,11 +7,8 @@ parent: ['[[Ages of the Known World]]']
 previous: '[[Iconic pact of the Silver Wolves]]'
 next: '[[Lunar Aspects|The Lunar Aspects]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Heliotropic Age
-
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -20,7 +17,6 @@ next: '[[Lunar Aspects|The Lunar Aspects]]'
 ---
 
 ## Sub-periods
-
 - [[Elven March|Elven March period]]
 - [[Later Heliotropic Age]]
 

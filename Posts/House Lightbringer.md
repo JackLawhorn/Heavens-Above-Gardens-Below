@@ -6,11 +6,8 @@ parent: ['[[House]]', '[[Great House]]', '[[Fallen House]]', '[[Jurisweard]]']
 previous: '[[(Theme) Government and politics]]'
 next: '[[Court]]'
 ---
-
 `= this.tag` #DailyPost
-
 # House Lightbringer
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

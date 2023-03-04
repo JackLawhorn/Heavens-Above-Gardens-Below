@@ -7,11 +7,8 @@ parent: '[[Aspect]]'
 previous: '[[First Golden Age]]'
 next: '[[(Theme) Religion and worship]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Minor Aspects
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

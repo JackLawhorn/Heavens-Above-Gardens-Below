@@ -7,11 +7,8 @@ parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]', '[[Known World]]']
 previous: '[[Later Heliotropic Age]]'
 next: '[[(Theme) Legion and monad]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Elven Signaltower
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -2,7 +2,7 @@
 Posted: 03.03.2023
 tag: "#FactionFriday"
 alias: House Lightbringer's Quest into Oblivion, Questing Charter of House Lightbringer
-parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Quest]]", "[[Quest into Oblivion]]" "[[Questing Charter]]"]
+parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Quest]]", "[[Quest into Oblivion]]", "[[Questing Charter]]"]
 
 previous: "[[(Theme) Tragedy and catastrophic loss]]"
 next: "[[Questing Charter]]"

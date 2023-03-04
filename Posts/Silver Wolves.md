@@ -7,11 +7,8 @@ parent: ['[[Human clans]]', '[[Great House]]', '[[Fallen House]]', '[[House]]', 
 previous: '[[(Theme) Power]]'
 next: '[[Valley of Ruins]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Silver Wolves of Clan Wolfstepper
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -6,11 +6,8 @@ aliases: Cland humanity, Early humanity
 previous: '[[Sun Elves]]'
 next: '[[Birth of the Silver Wolves]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The human clans
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

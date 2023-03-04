@@ -6,11 +6,8 @@ parent: ['[[Heliotropic Age]]', '[[Elven March]]', '[[Known World]]']
 previous: '[[Elven March]]'
 next: '[[(Theme) Foundational mythology]]'
 ---
-
 `= this.tag` #DailyPost
-
 # Discoveries in the Known World
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

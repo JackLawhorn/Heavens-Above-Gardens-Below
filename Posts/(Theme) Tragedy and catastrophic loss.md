@@ -2,7 +2,7 @@
 Posted: 03.02.2023
 tag: "#ThemeThursday"
 
-previous: "[[Polar onyx deposit]]"
+previous: "[[Mines of the Oremongers Guild]]"
 next: "[[House Lightbringer's Questing Charter]]"
 ---
 `= this.tag` #DailyPost 

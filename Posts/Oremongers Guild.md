@@ -6,11 +6,8 @@ parent: ['[[House]]', '[[Guild]]', '[[Great house]]', '[[Fallen House]]', '[[Ico
 previous: '[[(Theme) Legion and monad]]'
 next: '[[Omphalos, the City of Gardens]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Oremongers Guild
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

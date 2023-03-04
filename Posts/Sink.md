@@ -7,11 +7,8 @@ parent: ['[[Known World]]']
 previous: '[[Roiling of the elements]]'
 next: '[[(Theme) The elements]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Sink
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

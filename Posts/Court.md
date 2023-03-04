@@ -6,11 +6,8 @@ parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]']
 previous: '[[House Lightbringer]]'
 next: '[[Naming of the Great Houses]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Court
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -6,11 +6,8 @@ parent: ['[[Elven Legion]]', '[[Orior]]']
 previous: '[[(Theme) Foundational mythology]]'
 next: '[[Human clans]]'
 ---
-
 `= this.tag` #DailyPost
-
 # The Sun Elves
-
 `= this.Posted`
 
 **Previous:** `= this.previous`

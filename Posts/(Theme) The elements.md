@@ -5,11 +5,8 @@ tag: '#ThemeThursday'
 previous: '[[Sink|The Sink]]'
 next: '[[Fisher Queens]]'
 ---
-
 `= this.tag` #DailyPost
-
 # (Theme) The elements
-
 `= this.Posted`
 
 **Previous:** `= this.previous`
