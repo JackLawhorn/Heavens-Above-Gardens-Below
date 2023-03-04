@@ -1,5 +1,4 @@
 # List of posts
-
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 From #DailyPost AND -"Drafts" AND -"_private/templates"

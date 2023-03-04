@@ -1,5 +1,4 @@
 # Setup
-
 1) Fork this repository
 2) [Download and install Obsidian](https://obsidian.md/download)
 3) Open this repository as an Obsidian vault using the **Open folder as vault** option in the vault selection menu.
