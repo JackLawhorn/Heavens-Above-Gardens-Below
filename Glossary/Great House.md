@@ -2,9 +2,7 @@
 parent: '[[Court]]'
 aliases: Great Houses, Great Houseship
 ---
-
 #Glossary
-
 # Great House
 
 ---

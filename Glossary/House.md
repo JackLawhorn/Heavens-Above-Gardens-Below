@@ -2,9 +2,7 @@
 parent: '[[Court]]'
 aliases: Houses, Houseship
 ---
-
 #Glossary
-
 # Houses of the Court
 
 ---
@@ -14,7 +12,6 @@ The several hundred Houses each possess equal voting power in matters of the [[C
 A House need not vote on every matter brought before Court, and many are passive outside of their own [[Social Spheres Theory|spheres]]. Additionally, [[House of the Sun]] Aides working for the [[Orator]] to maintain the [[Public Record]] accompany each Lord Representative both in and out of Court, and can easily relay votes.
 
 ## Types of Houses
-
 - [[Great House]]
 - [[Guild]]
 - [[College]]
