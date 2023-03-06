@@ -22,4 +22,4 @@ This page serves to aggregates all notes representing the various districts and 
 	- [[Shipwrights Quarter]]
 - [[Cumbergrounds]]
 - [[New City]]
-	- [[Maw|The Maw]]
+	- [[The Maw]]

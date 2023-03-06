@@ -19,8 +19,7 @@ Organic magics are those that come from within, rather than from an outside sour
 
 Organic magics are closely related to [[Materialist magics]], which are its natural byproduct.
 
-## Examples
-
+## See also
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[Organic magics]])

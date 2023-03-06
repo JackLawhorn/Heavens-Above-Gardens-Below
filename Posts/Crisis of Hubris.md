@@ -14,6 +14,10 @@ next: '[[Mines of the Oremongers Guild]]'
 
 ---
 
+What was meant to be a golden age for humanity is now remembered as the darkest time in their history: the [[Crisis of Hubris]]. This [[Ages of the Known World|age]] is characterized by repeated, devastating loss and a string of fatal mistakes made by those in power: the [[Great House|Great Houses]] of the [[Court]].
+
+> For more, see [[First Golden Age]].
+
 ## Sub-periods
 - [[Early Crisis of Hubris]]
 - [[Red Plague period]]
@@ -21,7 +25,7 @@ next: '[[Mines of the Oremongers Guild]]'
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Crisis of Hubris]])
 SORT Posted ASC
 ```
