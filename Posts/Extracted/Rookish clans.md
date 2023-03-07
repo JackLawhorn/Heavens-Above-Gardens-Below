@@ -60,10 +60,9 @@ The augurs control the City's [[roccas]] and hear of all her goings on.
 
 Rookish Cloaks used their [[extramundane]] climbing abilities and the urban environment of the [[Omphalos, the City of Gardens|City]] to their advantage. It is an open secret that a great many thieves and assassins are in fact associated with the various Rookish Clans, and that these Cloaks control much of the [[Cumbergrounds]], an impoverished City district which overlaps with the [[Red Quarter]] and the [[Argent Ghetto]].
 
-## Offshoots
-
-A number of prominent [[House|Houses of the Court]] were formed as offshoots of the various Rookish Clans, including:
+## See also
 ```dataview
-LIST
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Rookish clans]])
+SORT file.name ASC
 ```
