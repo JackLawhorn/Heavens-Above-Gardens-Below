@@ -73,4 +73,3 @@ At certain points also included:
 - Entropy
 	- Hunger (Gluttony)
 	- Wrath
-	- Corruption (Envy, Greed, Lust)
