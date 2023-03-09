@@ -37,4 +37,4 @@ And on the fifth day, the [[nyxfire motes]] themselves arrived, their bolts rain
 
 When the Sun Elves returned – solemn for the blood of Sobek was on their hands – the human clans had been forever changed. The world they had feared for millennia of prehistory had opened up to them, and they knew more now about the elements and about themselves than they had ever hoped to.
 
-Our people were, arguably, wiser than we shall ever be again. There were secrets lost in the [[Red Plague]] and the [[Burning]] that ended it, that were not recovered in [[Reconstruction]]. These secrets have not been recounted by the motes since, for the [[fall of the Oremongers Guild]] and their [[paradoxy]] against the [[Nyx]] severed these ties forever.
+Our people were, arguably, wiser than we shall ever be again. There were secrets lost in the [[Red Plague]] and the [[Burning]] that ended it, that were not recovered in [[Reconstruction]]. These secrets have not been recounted by the motes since, for the [[Fall of the Oremongers Guild]] and their [[paradoxy]] against the [[Nyx]] severed these ties forever.

@@ -2,6 +2,7 @@
 Posted: 01.06.2023
 tag: '#FactionFriday'
 parent: ['[[Elven Legion]]', '[[Orior]]']
+aliases: Sun Elf
 
 previous: '[[(Theme) Foundational mythology]]'
 next: '[[Human clans]]'

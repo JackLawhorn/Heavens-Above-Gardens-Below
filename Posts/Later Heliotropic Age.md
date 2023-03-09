@@ -15,7 +15,7 @@ next: '[[Elven Signaltower|The Elven Signaltower]]'
 
 ---
 
-A period of human history beginning with the [[Founding of Omphalos, the City of Gardens]] and ending with the [[fall of the Oremongers Guild]] and the [[Crisis of Hubris]] it heralded in. This period is also referred to as the First Golden Age of humanity.
+A period of human history beginning with the [[Founding of Omphalos, the City of Gardens]] and ending with the [[Fall of the Oremongers Guild]] and the [[Crisis of Hubris]] it heralded in. This period is also referred to as the First Golden Age of humanity.
 
 ## Proliferation of culture and industry
 

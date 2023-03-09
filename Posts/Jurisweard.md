@@ -39,7 +39,7 @@ The [[Oremongers Guild]] and their [[iconic pacts|iconic magics]] were humanity'
 
 The artificer knights were unmissable – the power of the [[Ylem]] themselves walking through the [[Omphalos, the City of Gardens|City]]. Their heavy armor shone in the sun and the sound of steel clinking announced their presence from blocks away. Of course, as was the prerogative of the Guild, they were also little more than mercenaries whose highest bidder thankfully was the [[Court]]. Unless paid to do otherwise, the artificer knights primarily remained in the Guild's quarry to the northeast.
 
-Now, in the [[Post-Enlightenment Era]], the survivors of [[fall of the Oremongers Guild|the Guild's fall]] still operate as the [[Earthen Orders]]: a union of humanist, monastic cultures proficient in martial combat. Though Houseless – meaning an entity without [[House|Houseship]] – the Earthen Orders have grown to regain much of their influence since the dawn of the [[Crisis of Hubris]]. Their interests are presented by the rest of the Jurisweard in Court and they are a common choice as [[Hand of the Court]] in various smaller matters.
+Now, in the [[Post-Enlightenment Era]], the survivors of [[Fall of the Oremongers Guild|the Guild's fall]] still operate as the [[Earthen Orders]]: a union of humanist, monastic cultures proficient in martial combat. Though Houseless – meaning an entity without [[House|Houseship]] – the Earthen Orders have grown to regain much of their influence since the dawn of the [[Crisis of Hubris]]. Their interests are presented by the rest of the Jurisweard in Court and they are a common choice as [[Hand of the Court]] in various smaller matters.
 
 ## Paladins of the Iconic Houses
 

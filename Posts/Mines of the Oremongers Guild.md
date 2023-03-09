@@ -21,7 +21,7 @@ After the [[Rise of the Oremongers Guild|rising up]] of the [[Omphalos, the City
 
 This was explained by their patrons as a result of the [[roiling of the elements]], and the stations that their people had settled into after the taming of the [[Wild Magics]] and the clearing of their [[nyxfire]] storms by the [[Sun Elves]]. Motes deeper in the earth are further from the divine, animating light of [[Ylem]], and have been been dormant for much longer than their neighbors on the surface. As such, they are more passive and unresponsive, and therefore more difficult for the earth shapers to communicate with.
 
-What the agents of the Guild discovered for themselves is that the conscience-like voice of the earth motes – which towards the surface was so loud as to sear their brains at the thought of digging closer to the [[polar onyx deposit|polar onyx deposits]] below – grew quiet at these great depths. The compulsion to commit their great paradoxy against Ylem itself grew harder and harder and eventually impossible to ignore until the Oremongers Guild's eventual [[fall of the Oremongers Guild|fall]] at the start of the [[Crisis of Hubris]].
+What the agents of the Guild discovered for themselves is that the conscience-like voice of the earth motes – which towards the surface was so loud as to sear their brains at the thought of digging closer to the [[polar onyx deposit|polar onyx deposits]] below – grew quiet at these great depths. The compulsion to commit their great paradoxy against Ylem itself grew harder and harder and eventually impossible to ignore until the Oremongers Guild's eventual [[Fall of the Oremongers Guild|fall]] at the start of the [[Crisis of Hubris]].
 
 ## Center of Guild mining efforts
 
@@ -39,6 +39,6 @@ After the [[The Elf who fell from the sky|fall of the Storm Elf]] from the skies
 
 Before its destruction, this mine was the deepest point on the surface of the [[Known World]], practically a city all its own dug straight down into the earth. [[Oremongers Guild#Earth shapers|Earth shapers]] dug slowly down with their magics, and left behind nearly 500 storeys of living quarters for their members, labs for their scholars, training facilities for their warrior class the [[Oremongers Guild#Artificer knights|artificer knights]], and any number of other wonders. A complex pulley system developed by the [[Cult of Pythos]] allowed the Guild to lower down equipment and raise up the materials they produced.
 
-This place would serve as the setting for their [[fall of the Oremongers Guild|fall]], the mine since filled by the elemental [[Mundial Aspects#earth motes|earth motes]] and remaining as a scar upon the City and all of the Known World.
+This place would serve as the setting for their [[Fall of the Oremongers Guild|fall]], the mine since filled by the elemental [[Mundial Aspects#earth motes|earth motes]] and remaining as a scar upon the City and all of the Known World.
 
 > For more, see [[The Maw]].

@@ -32,7 +32,7 @@ This series of pieces would not gain traction or acclaim with the other [[Schola
 
 Later codified into the canon of [[Scholars of the City#Objectivists|Objectivism]], these first- through third-dimensional pieces would later become represented not only as points in space but as the perfect mathematical models they were able to represent. From these foundational works sprung definitions of polygons and polyhedrons, translated into Great Works themselves and put on display throughout the City.
 
-After the [[fall of the Oremongers Guild]], humanity was forced to relearn architecture in stone without the use of [[extramundane]] abilities such as those of the [[Oremongers Guild#Earth shapers|earth shapers]]. These early Divine Geometries would would be crucial concepts in the development of these technologies.
+After the [[Fall of the Oremongers Guild]], humanity was forced to relearn architecture in stone without the use of [[extramundane]] abilities such as those of the [[Oremongers Guild#Earth shapers|earth shapers]]. These early Divine Geometries would would be crucial concepts in the development of these technologies.
 
 ### The second series
 

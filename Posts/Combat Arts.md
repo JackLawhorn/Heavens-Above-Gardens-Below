@@ -39,7 +39,7 @@ The [[Storm Elves]] are unique among their race in that they find little value i
 
 The vast majority of the human Combat Arts were developed by the many fractured [[Rookish clans]] in the [[Heliotropic Age]]. Inspired by the beaks and feathers and talons of their [[Mutualist pacts|mutualist]] companions, the many avian races of the [[Discoveries in the Known World#noble beasts|noble beasts]], they became masters of a great many ranged and short bladed weapons, including their iconic bladed gauntlets the [[Rookish clans#Talons|talons]]. The [[Fisher Queens]] which branched off from their ranks also developed hooks for the ends of their fishing lines.
 
-Throughout the [[Later Heliotropic Age]] and the [[Crisis of Hubris]], many more were developed by the various warrior classes of [[Omphalos, the City of Gardens]]. These would include the axes of the [[Agisters Guild]], the war hammers of the [[Oremongers Guild]] and the smiths that came after [[fall of the Oremongers Guild|their fall]], and just about every other weapon that can be found in the City today.
+Throughout the [[Later Heliotropic Age]] and the [[Crisis of Hubris]], many more were developed by the various warrior classes of [[Omphalos, the City of Gardens]]. These would include the axes of the [[Agisters Guild]], the war hammers of the [[Oremongers Guild]] and the smiths that came after [[Fall of the Oremongers Guild|their fall]], and just about every other weapon that can be found in the City today.
 
 In the [[Renascence|Renascence period]], the burgeoning [[Blackpowder Guild]] developed their blackpowder firearms and the Combat Arts that incorporated them.
 

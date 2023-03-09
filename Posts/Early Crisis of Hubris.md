@@ -21,7 +21,7 @@ The point at which the Early Crisis of Hubris ends sees no such contention, howe
 
 ## Vulnerability
 
-The [[Crisis of Hubris]], and especially the Early Crisis of Hubris, are characterized by significant losses that revealed how truly vulnerable humanity was within the walls of [[Omphalos, the City of Gardens]]. First, the [[fall of the Oremongers Guild|fall]] of the [[Oremongers Guild]] who were the greatest fighting force in all of the [[Known World]]. Then, the [[Fall of House Lightbringer|fall]] of [[House Lightbringer]] who were humanity's greatest leaders after the [[Sun Elves]] themselves.
+The [[Crisis of Hubris]], and especially the Early Crisis of Hubris, are characterized by significant losses that revealed how truly vulnerable humanity was within the walls of [[Omphalos, the City of Gardens]]. First, the [[Fall of the Oremongers Guild|fall]] of the [[Oremongers Guild]] who were the greatest fighting force in all of the [[Known World]]. Then, the [[Fall of House Lightbringer|fall]] of [[House Lightbringer]] who were humanity's greatest leaders after the [[Sun Elves]] themselves.
 
 During [[Reconstruction]] in the [[Later Crisis of Hubris]] and into the [[Early Renascence period]], human historians would come to understand that it was the latter of these downfalls that brought the [[Red Court]] and its [[Red Plague|plague]] to the City. With their defensive and leadership abilities so significantly reduced, the [[Red Plague period]] to come would further devastate a now especially vulnerable humanity.
 
@@ -35,7 +35,7 @@ These Houses would play a significant role in the [[Red Plague period]] to come.
 
 The [[History of the Subjective#Late Heliotropic Objectivism|Late Heliotropic Objectivism]] of the last [[Ages of the Known World|age]] continued to flourish throughout much of the Early Crisis of Hubris. The [[Scholars of the City|scholars]] of [[Omphalos, the City of Gardens]] sought complete understanding of the [[Known World]] and beyond.
 
-After the the [[fall of the Oremongers Guild|fall]] of the [[Oremongers Guild]], whose [[iconic pacts|iconic magics]] rose up the entirety of the [[Old City]] with little more than a thought, humanity was now forced to learn a mundane approach to architecture and construction. These efforts are often cited as the first [[Humanism|humanist]] [[Great Works]], relying on human understanding and ability rather than on [[extramundane]] power and abilities.
+After the the [[Fall of the Oremongers Guild|fall]] of the [[Oremongers Guild]], whose [[iconic pacts|iconic magics]] rose up the entirety of the [[Old City]] with little more than a thought, humanity was now forced to learn a mundane approach to architecture and construction. These efforts are often cited as the first [[Humanism|humanist]] [[Great Works]], relying on human understanding and ability rather than on [[extramundane]] power and abilities.
 
 By the end of this period and into the [[Red Plague period]], this predilection towards [[Scholars of the City#Objectivists|Objectivism]] in scholarship, philosophy, and the arts would give way to [[History of the Subjective#Second Wave Henotheism|Second Wave Henotheism]] and later [[History of the Subjective#Subjectivism|Subjectivism]].
 
