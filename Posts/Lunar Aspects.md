@@ -30,7 +30,7 @@ The White Owl is the patron [[Aspect]] of all the predators of the sky. Her agen
 
 The largest of the [[Known World]]'s Lunar Aspects, the [[#<strike>The Fallen Son</strike>|Fallen Son]] fell from the [[Nyx]] long ago and came crashing into the deepest depths of the [[Sink]]. Before the [[Fallen world|fall]], the blue moon served as [[Aspect]] of the tides. Without his presence in the night sky, the seas are calm above yet restless below.
 
-In this new home – where the sea is as motionless and as inky black as the [[Glossary/Dragon]] – he lays in a deep slumber, a sleeping god nevertheless worshipped by his children the [[Akụm]]. In this dreaming state, he has instead become an [[Umbral Aspect]].
+In this new home – where the sea is as motionless and as inky black as the [[Dragon]] – he lays in a deep slumber, a sleeping god nevertheless worshipped by his children the [[Akụm]]. In this dreaming state, he has instead become an [[Umbral Aspects|Umbral Aspect]].
 
 ## Rituals and natural phenomena
 

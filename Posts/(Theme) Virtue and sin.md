@@ -5,7 +5,7 @@ tag: "#ThemeThursday"
 previous: "[[The Maw]]"
 next: "[[Shipwrights Guild]]"
 ---
-`= this.tag` #DailyPost 
+`= this.tag` #DailyPost
 # (Theme) Virtue and sin
 `= this.Posted`
 
@@ -15,6 +15,8 @@ next: "[[Shipwrights Guild]]"
 ---
 
 ## Inspiration
+
+My inspirations for this theme are a little more complex, so I've outlined some of these materials here before going into my personal takeaways and applications for this setting:
 
 ### Nicomachean Ethics
 
@@ -57,19 +59,15 @@ At certain points also included:
 
 ## Takeaways
 
-### Sins defined by human society
-- Doubleness
-- Avarice
-- Corruption
-- Ignorance
-- Betrayal
+The way I see it, there are two categories of virtues/sins to consider in worldbuilding a setting like this: those defined by its inhabitants and those around which the "objective" ethics of the world/universe itself.
 
-### Characteristics of the Dragon
+For the former, I'm essentially using the [[Crisis of Hubris]] as an extended cautionary tale that imparts a mix of lessons to humanity, and which much of the rest of their history will be in reaction to. The fall of the [[Great House|Great Houses]] of the [[Court]] are storied throughout human history and the history of the [[Known World]], and each has been analyzed and mythologized to no end:
+| [[Fallen House]] | Their fall | Sin | Notes |
+| - | - | - | - |
+| [[Oremongers Guild]] | [[Fall of the Oremongers Guild]] | Doubleness | A deficit of the Nicomachean virtue of Truthfulness |
+| [[House Lightbringer]] | [[Fall of House Lightbringer]] | Avarice | Analog to the Christian sin of Greed |
+| [[Materialists College]] | [[Fall of the Materialists College]] | Corruption | In practice, an analog to the Christian sin of Envy |
+| [[Disciples of the Pretender]] | [[Fall of the Pretender]] | Ignorance | Nicomachean Vanity and Over-ambitiousness |
+| [[Silver Wolves]]  | Fall of the Silver Wolves | Betrayal | In practice, an analog to Nicomachean Paltriness |
 
-[[Vestiges]] of the [[Dragon]]
-- Oblivion
-	- Madness (Lust)
-	- Despair (Tristitia)
-- Entropy
-	- Hunger (Gluttony)
-	- Wrath
+For more "objective" or universally relevant ethics, I've used the [[Dragon]] and its [[Vestiges]] and [[Umbral Aspects]] to represent some additional sins, namely: Oblivion, Madness, Despair, Entropy, Hunger, and Wrath.

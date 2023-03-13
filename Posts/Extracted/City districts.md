@@ -20,10 +20,10 @@ This page serves to aggregates all notes representing the various districts and 
 ### [[Argent Ghetto]]
 
 ## [[Duchy of Stilts]]
-### [[Shoals]]
-### [[Great Sea Bazaar]]
-### [[Embassy Quarter]]
-### [[Shipwrights Quarter]]
+### [[Duchy of Stilts#Shoals|Shoals]]
+### [[Duchy of Stilts#Great Sea Bazaar|Great Sea Bazaar]]
+### [[Duchy of Stilts#Embassy Quarter|Embassy Quarter]]
+### [[Duchy of Stilts#Shipwrights Quarter|Shipwrights Quarter]]
 
 ## [[Cumbergrounds]]
 

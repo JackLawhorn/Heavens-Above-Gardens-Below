@@ -41,7 +41,6 @@ So yes, the point of worship is that both parties benefit. This makes sense as a
 ---
 
 ## Inspiration
-
 - [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 - [Henotheism](https://en.wikipedia.org/wiki/Henotheism)
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)

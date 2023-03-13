@@ -6,7 +6,7 @@ parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]"]
 
 ---
 
-It is no secret among the peoples of [[Omphalos, the City of Gardens]] that the criminal element has proliferated throughout the poorer, lower-class district known as the Cumbergrounds. This area of economic inequality has spread through the City like a sickness, starting in the [[Red Quarter]] which was rebuilt after the [[Burning]] of the [[Red Plague period]]. Since then, other, neighboring areas of the City have seen similar descents, including the [[Argent Ghetto]] and the [[Shoals]] in the [[Duchy of Stilts]].
+It is no secret among the peoples of [[Omphalos, the City of Gardens]] that the criminal element has proliferated throughout the poorer, lower-class district known as the Cumbergrounds. This area of economic inequality has spread through the City like a sickness, starting in the [[Red Quarter]] which was rebuilt after the [[Burning]] of the [[Red Plague period]]. Since then, other, neighboring areas of the City have seen similar descents, including the [[Argent Ghetto]] and the [[Duchy of Stilts#Shoals|Shoals]] in the [[Duchy of Stilts]].
 
 ## The criminal element
 
