@@ -2,7 +2,7 @@
 Posted: 01.03.2023
 tag: '#TimelineTuesday'
 aliases: Heliotropic March, Elven March period
-parent: '[[Heliotropic Age]]'
+parent: ['[[Heliotropic Age]]']
 
 previous: '[[Organic magics]]'
 next: '[[Discoveries in the Known World]]'

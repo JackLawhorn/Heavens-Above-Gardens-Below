@@ -1,5 +1,5 @@
 ---
-parent: "[[Known World]]"
+parent: ["[[Known World]]"]
 ---
 **Extracted from:** `= this.parent`
 # Ages of the Known World

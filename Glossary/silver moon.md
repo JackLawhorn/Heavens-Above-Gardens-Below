@@ -1,5 +1,5 @@
 ---
-parent: "[[Lunar Aspects]]"
+parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Lunar Aspects]]"]
 ---
 #Glossary 
 # The silver moon

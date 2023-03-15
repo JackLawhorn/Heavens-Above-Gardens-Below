@@ -1,6 +1,6 @@
 ---
 aliases: Griots
-parent: "[[Elven Legion]]"
+parent: ["[[Elven Legion]]"]
 ---
 #Glossary 
 # Griot

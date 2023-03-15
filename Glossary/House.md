@@ -1,5 +1,5 @@
 ---
-parent: '[[Court]]'
+parent: ['[[Court]]']
 aliases: Houses, Houseship
 ---
 #Glossary

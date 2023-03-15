@@ -1,5 +1,5 @@
 ---
-parent: "[[Alchemy]]"
+parent: ["[[Alchemy]]"]
 ---
 #Glossary 
 # Quicksilver

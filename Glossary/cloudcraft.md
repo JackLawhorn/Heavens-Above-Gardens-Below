@@ -1,5 +1,5 @@
 ---
-parent: "[[Storm Elves]]"
+parent: ["[[Storm Elves]]"]
 ---
 #Glossary 
 # Cloudcraft

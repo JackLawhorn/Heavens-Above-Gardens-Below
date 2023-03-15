@@ -2,7 +2,7 @@
 Posted: 02.25.2023
 tag: '#CivilizationSaturday'
 aliases: infrastructure and layout, infrastructure, layout
-parent: '[[Omphalos, the City of Gardens]]'
+parent: ['[[Omphalos, the City of Gardens]]']
 
 previous: '[[Canon of Heterodoxies]]'
 next: '[[Founding of the Oklop consortium]]'

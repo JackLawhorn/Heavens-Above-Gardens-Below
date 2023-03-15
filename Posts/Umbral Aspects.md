@@ -32,6 +32,8 @@ So potent is the corruptive influence of these Umbral Aspects that they have phy
 
 In the presence of an Umbral Aspect, one is sure to find an overgrowth of [[nyxblight]] vines. Impossibly black and covered in piercing thorns, the nyxblight grows not only throughout the [[Known World]] but across the wider [[Nyx]]. It is a blight on reality that grows unchecked and strangles the light of [[Ylem]] itself.
 
+Nyxblight is most closely associated with the Umbral Aspect of [[Red Court|Hunger]], whose great [[Nyxblight Tree]] has been a festering scar upon the Known World since the [[fallen world|fall]] of the [[Old World]].
+
 > For more, see [[Nyxblight]].
 
 ### Shades and shade motes

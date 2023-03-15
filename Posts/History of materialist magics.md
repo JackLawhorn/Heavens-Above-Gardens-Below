@@ -1,7 +1,7 @@
 ---
 Posted: 02.14.2023
 tag: '#TimelineTuesday'
-parent: '[[Materialist magics]]'
+parent: ['[[Materialist magics]]']
 
 previous: '[[Materialist magics]]'
 next: '[[Aspect]]'

@@ -1,5 +1,5 @@
 ---
-parent: "[[Pact magics]]"
+parent: ["[[Pact magics]]"]
 aliases: iconic pact
 ---
 **Extracted from:** `= this.parent`

@@ -1,5 +1,5 @@
 ---
-parent: "[[Aspects]]"
+parent: ["[[Aspect]]"]
 ---
 **Extracted from:** `= this.parent`
 # Major Aspects

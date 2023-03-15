@@ -1,5 +1,5 @@
 ---
-parent: "[[Oremongers Guild]]"
+parent: ["[[Oremongers Guild]]"]
 ---
 #Glossary 
 # Armiger squire

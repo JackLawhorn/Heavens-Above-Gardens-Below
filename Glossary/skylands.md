@@ -1,5 +1,5 @@
 ---
-parent: "[[Known World]]"
+parent: ["[[Known World]]"]
 ---
 #Glossary 
 # Skylands

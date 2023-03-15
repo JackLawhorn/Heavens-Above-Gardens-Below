@@ -1,5 +1,5 @@
 ---
-parent: "[[Standard Elven Cosmology]]"
+parent: ["[[Standard Elven Cosmology]]"]
 ---
 #Glossary
 # The Nyx

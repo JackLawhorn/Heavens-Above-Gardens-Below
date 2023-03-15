@@ -1,5 +1,5 @@
 ---
-parent: "[[Court]]"
+parent: ["[[Court]]"]
 ---
 #Glossary
 # Hand of the Court

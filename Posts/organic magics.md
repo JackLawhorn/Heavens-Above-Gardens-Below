@@ -1,7 +1,7 @@
 ---
 Posted: 01.02.2023
 tag: '#MagicSystemMonday'
-parent: '[[Magics in the Known World]]'
+parent: ['[[Magics in the Known World]]']
 
 previous: '[[Nyxfall of the Elven Legion]]'
 next: '[[Elven March]]'

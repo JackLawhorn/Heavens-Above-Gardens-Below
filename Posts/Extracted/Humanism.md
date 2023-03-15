@@ -1,5 +1,5 @@
 ---
-parent: "[[History of the Subjective]]"
+parent: ["[[History of the Subjective]]"]
 aliases: humanist, humanists, humanist movement
 ---
 **Extracted from:** `= this.parent`

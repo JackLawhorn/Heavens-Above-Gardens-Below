@@ -1,6 +1,7 @@
 ---
 Posted: 01.07.2023
 tag: '#CivilizationSaturday'
+parent: ["[[Orior]]"]
 aliases: Cland humanity, Early humanity
 
 previous: '[[Sun Elves]]'

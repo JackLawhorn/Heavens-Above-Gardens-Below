@@ -1,7 +1,7 @@
 ---
 Posted: 03.12.2023
 tag: "#SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]"]
+parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Nyxblight Tree]]"]
 
 previous: "[[Shipwrights Guild]]"
 next: "[[Umbral Aspects]]"

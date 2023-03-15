@@ -2,7 +2,7 @@
 Posted: 02.22.2023
 tag: '#WorldWednesday'
 aliases: Minor Aspect
-parent: '[[Aspect]]'
+parent: ['[[Aspect]]']
 
 previous: '[[First Golden Age]]'
 next: '[[(Theme) Religion and worship]]'

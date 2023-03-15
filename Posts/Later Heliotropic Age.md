@@ -1,7 +1,7 @@
 ---
 Posted: 01.24.2023
 tag: '#TimelineTuesday'
-parent: '[[Heliotropic Age]]'
+parent: ['[[Heliotropic Age]]']
 
 previous: '[[Docetic materials]]'
 next: '[[Elven Signaltower|The Elven Signaltower]]'

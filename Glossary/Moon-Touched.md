@@ -1,5 +1,5 @@
 ---
-parent: "[[Lunar Aspects]]"
+parent: ["[[Lunar Aspects]]"]
 ---
 #Glossary 
 # The Moon-Touched

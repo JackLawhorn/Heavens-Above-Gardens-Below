@@ -1,7 +1,7 @@
 ---
 Posted: 02.08.2023
 tag: '#WorldWednesday'
-parent: '[[Known World]]'
+parent: ['[[Known World]]']
 
 previous: '[[History of the Subjective]]'
 next: '[[(Theme) Scholarship]]'

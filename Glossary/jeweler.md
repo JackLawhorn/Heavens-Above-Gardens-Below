@@ -1,6 +1,6 @@
 ---
 aliases: jewelers
-parent: "[[Oremongers Guild]]"
+parent: ["[[Oremongers Guild]]"]
 ---
 #Glossary 
 # Jeweler

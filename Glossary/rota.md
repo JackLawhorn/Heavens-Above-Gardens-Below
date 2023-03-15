@@ -1,5 +1,5 @@
 ---
-parent: "[[City infrastructure and layout]]"
+parent: ["[[City infrastructure and layout]]"]
 ---
 #Glossary 
 # Rota

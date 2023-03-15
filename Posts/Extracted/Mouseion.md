@@ -1,5 +1,5 @@
 ---
-parent: "[[Scholars of the City]]"
+parent: ["[[Scholars of the City]]"]
 aliases: bards, bardistry, artists
 ---
 **Extracted from:** `= this.parent`

@@ -1,5 +1,5 @@
 ---
-parent: '[[Elven Legion]]'
+parent: ["[[Orior]]", '[[Elven Legion]]']
 alias: Storm Elf
 ---
 **Extracted from:** `= this.parent`

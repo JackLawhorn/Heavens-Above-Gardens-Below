@@ -1,5 +1,5 @@
 ---
-parent: "[[Omphalos, the City of Gardens]]"
+parent: ["[[Omphalos, the City of Gardens]]"]
 aliases: currency, currencies, coins
 ---
 **Extracted from:** `= this.parent`

@@ -1,5 +1,5 @@
 ---
-parent: "[[prehistory]]"
+parent: ["[[prehistory]]"]
 alias: Old World continent
 ---
 #Glossary 

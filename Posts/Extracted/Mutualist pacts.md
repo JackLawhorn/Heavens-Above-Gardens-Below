@@ -1,5 +1,5 @@
 ---
-parent: "[[Pact magics]]"
+parent: ["[[Pact magics]]"]
 aliases: mutualist, mutualist clan, mutualist clans, mutualist house, mutualist houses
 ---
 **Extracted from:** `= this.parent`

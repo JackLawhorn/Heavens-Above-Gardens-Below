@@ -1,5 +1,5 @@
 ---
-parent: "[[Omphalos, the City of Gardens]]"
+parent: ["[[Omphalos, the City of Gardens]]"]
 aliases: city district, district, districts
 ---
 **Extracted from:** `= this.parent`
