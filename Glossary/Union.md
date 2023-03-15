@@ -9,6 +9,7 @@ A group of [[House|Houses]] that have banded together in an alliance of some sor
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Union]])
+SORT Posted ASC
 ```
