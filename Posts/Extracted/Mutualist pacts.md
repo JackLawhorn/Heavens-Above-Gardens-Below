@@ -1,6 +1,6 @@
 ---
 parent: ["[[Pact magics]]"]
-aliases: mutualist, mutualist clan, mutualist clans, mutualist house, mutualist houses
+aliases: mutualist, mutualist clan, mutualist clans
 ---
 **Extracted from:** `= this.parent`
 # Mutualist pacts
@@ -13,8 +13,9 @@ Mutualist [[Pact magics|pacts]] are formed between two living beings of relative
 ## Prominent examples
 - [[Agisters Guild]]
 - [[Apiarians Guild]]
-- [[Blentonists Guild]]
 - [[Rookish clans]]
 	- [[Messengers Guild]]
 	- [[Fisher Queens]]
 	- [[Cardinals]]
+
+> For more, see [[Mutualist House]].

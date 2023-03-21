@@ -1,3 +1,6 @@
+---
+aliases: Sphere, Spheres
+---
 #Glossary 
 # Standard Elven Cosmology
 

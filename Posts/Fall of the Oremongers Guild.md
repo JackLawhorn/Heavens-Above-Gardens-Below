@@ -33,7 +33,6 @@ You can feel it. A buzzing on the skin and on the tongue and in the ears. This p
 
 For several minutes, there isn't another soul apart from your own, another sound apart from your footsteps. There hasn't been any light to guide your journey for much longer than that. Instead, it's your [[Iconic pact of the Oremongers Guild#Per-medium sensation|per-medium sensation]] that allows you to *feel* where the earth ends and the air – thin down here – begins.
 
-
 Finally, people. The first you've come across in what feels like an eternity. Like you, they work dutifully in the dark without sharing a word. You do not greet them. You're not sure that you could, that the words would be able to leave your lips. You know, instinctively, that many of them have not seen the light of Ylem in days or more. You've only just noticed that you can't remember that last time you saw it either.
 
 The buzzing is stronger here. You're close. They're close and getting closer.
@@ -59,3 +58,5 @@ When day returned, just as suddenly as it had left, humanity in the City of Gard
 Far to the east, the [[Oremongers Guild#artificer knights|artificer knights]] and the [[armiger]] squires of [[House Lightbringer]]'s [[quest|questing party]] drop to the ground. Their bodies were broken and mangled, and their screams echoed throughout the forests along the [[Sun Coast]]. The warriors amongst the party's ranks found that their blades – to a one forged by the master smiths of the Oremongers Guild – had lost their edges and gone dull.
 
 Such was the first loss of the [[Crisis of Hubris]].
+
+> The [[Oremongers Guild]] were the strongest of humanity's [[Iconic pacts|iconic mages]], capable of shaping the very earth to their will and building the foundation of [[Omphalos, the City of Gardens]] itself. As the first of the [[Fallen House|Fallen Houses]], their destruction was devastating and tainted the relationship between the humans and the [[Mundial Aspects]] forever. Their fall teaches us that there is a natural order to things and that it is the responsibility of us all to do our part in respecting and upholding that order.

@@ -29,5 +29,5 @@ The Orator(s) select a House or other entity to be [[Hand of the Court]] on a ca
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Court]])
-SORT tag DESC
+SORT Posted ASC
 ```

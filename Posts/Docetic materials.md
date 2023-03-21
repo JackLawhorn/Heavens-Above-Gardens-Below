@@ -31,7 +31,7 @@ When donned or wielded by the [[Silver Wolves]] themselves, or when exposed to t
 
 ## Fulgurite
 
-Fulgurite is the footprint of [[nyxfire]] bolts, left behind by lightning striking the earth, by the [[Wild Magics|Wild Magic]] storms, and after the [[Burning]] was unleashed upon [[Omphalos, the City of Gardens]] to end the [[Red Plague]].
+Fulgurite is the footprint of [[nyxfire]] bolts, left behind by lightning striking the earth, by the [[Wild Magics|Wild Magic]] storms, and after the [[Burning]] was unleashed upon [[Omphalos, the City of Gardens]] to end the [[Red Death]].
 
 It has a brittle, crystalline structure comprised of fractal, recursive branches. Despite its divine origin, its form is rarely visually appealing, and its brittle composition makes it difficult to shape. Occasionally, fresh fulgurite deposits appear in the form of specific artifacts – spears and swords and arrows – that imply intentional design. These are most common with lightning strikes, and they are assumed to be debris from the aeronautical battles of the [[Storm Elves]] and their [[cloudcraft]] overhead.
 

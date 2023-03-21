@@ -15,7 +15,7 @@ next: '[[City infrastructure and layout]]'
 
 ---
 
-The Canon of Heterodoxies is a powerful theocratic [[Union]] of [[House|Houses]] that holds [[Court]] majority in [[Omphalos, the City of Gardens]]. The Heterodoxies themselves form the backbone of the City of Gardens, both creating a syncretic culture of [[Henotheist|henotheistic]] worship and inextricably tying together the [[Social Spheres Theory|Spheres]] of [[Social Spheres Theory#Sphere of Worship|Worship]] and [[Social Spheres Theory#Sphere of Industry|Industry]]. Followers of [[Iconic House|heterodoxic]] belief systems do not denounce other [[Ylem]] in favor of their preferred [[Aspect]], but rather specialize their worship according to familial and cultural customs that tend to yield preferable [[Iconic pacts|Iconic]] boons.
+The Canon of Heterodoxies is a powerful theocratic [[Union]] of [[House|Houses]] that holds [[Court]] majority in [[Omphalos, the City of Gardens]]. The Heterodoxies themselves form the backbone of the City of Gardens, both creating a syncretic culture of [[Henotheist|henotheistic]] worship and inextricably tying together the [[Social Spheres Theory|Spheres]] of [[Social Spheres Theory#Sphere of Worship|Worship]] and [[Social Spheres Theory#Sphere of Industry|Industry]]. Followers of [[Iconic House|heterodoxic]] belief systems do not denounce other [[Ylem]] in favor of their preferred [[Aspect]], but rather specialize their worship according to familial and cultural customs that tend to yield preferable [[Iconic pacts|iconic]] boons.
 
 ## Role of the Canon in matters of the Court
 

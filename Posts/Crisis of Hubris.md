@@ -20,7 +20,7 @@ What was meant to be a golden age for humanity is now remembered as the darkest 
 
 ## Sub-periods
 - [[Early Crisis of Hubris]]
-- [[Red Plague period]]
+- [[Red Death period]]
 - [[Later Crisis of Hubris]]
 
 ## See also

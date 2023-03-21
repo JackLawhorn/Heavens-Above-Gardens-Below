@@ -10,6 +10,8 @@ parent: ["[[Scholars of the City]]", "[[House]]"]
 
 ## Pythos
 
+<figure style="display: flex; flex-direction: column; align-items: center; gap: 0.5em; width: fit-content; margin: 0px; padding: 1em; background: rgba(0, 0, 0, 0.25); border-radius: 0.5em;"><a href="https://greatestgreeks.files.wordpress.com/2016/07/pythagoras_humanity-healing.jpg"><img src="https://greatestgreeks.files.wordpress.com/2016/07/pythagoras_humanity-healing.jpg"></a><figcaption>Pythos, the first Objectivist.</figcaption></figure>
+
 Pythos, after whom the Cult is named, pioneered the concept of [[the Objective]] and is considered to have been the first true [[Scholars of the City#Objectivists|Objectivist]].
 
 Pythos came to prominence in the young [[Scholars Quarter]]. Disinterested by the work of his contemporaries, he began wandering the streets of [[Omphalos, the City of Gardens]], observing the urban sprawl and taking precise measurements of everything he came across. His strange behavior drew attention and even crowds, until his completion of the first [[#Divine Geometries]] led to a significant following.

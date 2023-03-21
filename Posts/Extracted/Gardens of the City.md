@@ -17,7 +17,7 @@ Maintained by botanists and gardeners and agriculturists of nearly every [[Human
 
 The swarms of the [[Apiarians Guild]] and the flocks of the [[Rookish clans]] serve a vital role in pollinating the flora of the gardens. The former has also grown to prominence as a [[House of Industry]] through their wildly popular honeys which they can be found selling up and down the [[Omphalos, the City of Gardens|City]]'s [[rayas]].
 
-The naturalists of the [[Agisters Guild]], who prefer the familiarity of the forests to the cramped urban sprawl, tend to trees and bring back new species of flora from their excursions outside the City walls. Their elk mounts call these gardens home when not in service to their [[Mutualist pacts|mutualist]] companions the [[Agisters Guild#stag knights|stag knights]].
+The naturalists of the [[Agisters Guild]], who prefer the familiarity of the forests to the cramped urban sprawl, tend to trees and bring back new species of flora from their excursions outside the City walls. Their elk mounts call these gardens home when not in service to their [[Mutualist pacts|mutualist companions]] the [[Agisters Guild#stag knights|stag knights]].
 
 The [[The Maw#Undergardeners|Undergardeners]], previously of the [[Oremongers Guild]] and who now tend to the gardens of [[the Maw]]. This work has helped to diminish the ire of the greater populace despite their status as [[Remnants of the Fallen Houses|remnants]] of a [[Fallen House]] and as [[Warlock|warlocks]].
 

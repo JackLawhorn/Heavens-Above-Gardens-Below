@@ -16,7 +16,7 @@ You can expect the historical documents presented here to make use of one or mor
 	- [[Later Heliotropic Age]]
 - [[Crisis of Hubris]]
 	- [[Early Crisis of Hubris]]
-	- [[Red Plague period]]
+	- [[Red Death period]]
 	- [[Later Crisis of Hubris]]
 - [[Renascence period]]
 	- [[Early Renascence period]]

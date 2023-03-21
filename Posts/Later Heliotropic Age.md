@@ -64,7 +64,7 @@ A chaotic and hectic place in the Later Heliotropic Age, the [[Court]] was quick
 - [[House Lightbringer]] and their Torchbearer Knights
 - [[Clan Wolfstepper]] and their [[Silver Wolves]]
 - The [[Oremongers Guild]] and their Artificer Knights
-- [[Paladins]] of the Iconic Houses, predecessor of the [[Canon of Heterodoxies]]
+- Paladins of the [[Iconic House|Iconic Houses]], predecessors of the [[Canon of Heterodoxies]]
 - The [[Mercenary Corps]] which comprises sellswords hailing from nearly all the [[human clans|clans]]
 
 > For more, see [[Law and justice in the City]]

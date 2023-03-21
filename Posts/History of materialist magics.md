@@ -35,15 +35,15 @@ In the [[Early Crisis of Hubris]], the scholars of the [[Materialists College]] 
 
 These experiments were largely failures, despite significant financing by the [[Court]] and its [[Great House|Great Houses]]. Ironically, the first substantial success of the field of alchemy would come in the [[Early Renascence period]] with the development of [[quicksilver]], long after the fall of both the College and the Guild who began these experiments. With the [[fall of the Silver Wolves]] who controlled humanity's supply of [[Docetic materials#silver|silver]] and who alone were able to leverage its extramundane properties, the ability to fabricate quicksilver represented a powerful asset to the [[Blackpowder Guild]] and many other [[House|Houses]].
 
-### The Red Plague period
+### The Red Death period
 
-The mass casualties of the [[Red Death period]] – during which horrific piles of corpses were stacked several strides high if they were recovered at all – the [[Materialists College]] saw the rise of a new class of [[Scholars of the City#Objectivists|objectivist scholars]]: the anatomists. Desperate to find some asset among the corpses of the [[Red Court]] and their human victims alike, they studied the internal and external anatomy of the [[Omphalos, the City of Gardens|City]]'s many corpses.
+With the mass casualties of the [[Red Death period]], the [[Materialists College]] saw the rise of a new class of [[Scholars of the City#Objectivists|objectivist scholars]]: the anatomists. Desperate to find some asset among the corpses of the [[Red Court]] and their human victims alike, they studied the internal and external anatomy of the [[Omphalos, the City of Gardens|City]]'s many corpses.
 
 The discoveries of the anatomists held massive benefits in the fields of medicine and of course [[materialist magics]] as the scholars had hoped. They believed themselves to have found the physical, biological mechanisms through which one's [[albedo]] and [[aura]] function. Unfortunately, no mortal weakness of the Red Court was ever discovered.
 
 ### The Later Crisis of Hubris
 
-The damage had already been done during the [[Red Plague period]]: the anatomist scholars of the [[Materialists College]], unable to find a mortal weakness or even a single effective weapon against the [[Red Court]], succumbed to [[Madness]] and resorted to the dark and terrible science of [[necromancy]]. Though not technically a new field fully separate from [[materialist magics]], the [[necromancer demons]] stalked and wiped out entire peoples of the [[Discoveries in the Known World|noble beasts]] and the [[Orior]], hoping to steal their organic magics for themselves.
+The damage had already been done during the [[Red Death period]]: the anatomist scholars of the [[Materialists College]], unable to find a mortal weakness or even a single effective weapon against the [[Red Court]], succumbed to [[Madness]] and resorted to the dark and terrible science of [[necromancy]]. Though not technically a new field fully separate from [[materialist magics]], the [[necromancer demons]] stalked and wiped out entire peoples of the [[Discoveries in the Known World|noble beasts]] and the [[Orior]], hoping to steal their organic magics for themselves.
 
 This, of course, ultimately led to the [[fall of the Materialists College]] at the hands of the [[Sobek]] and the returned [[Sun Elves]], after which the necromancers were exiled from [[Omphalos, the City of Gardens]].
 

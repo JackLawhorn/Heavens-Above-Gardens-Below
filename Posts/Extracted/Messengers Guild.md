@@ -1,5 +1,5 @@
 ---
-parent: ["[[Rookish clans]]", "[[House]]", "[[Guild]]", "[[Houses of Industry]]"]
+parent: ["[[Rookish clans]]", "[[House]]", "[[Guild]]", "[[Mutualist House]]", "[[Houses of Industry]]"]
 ---
 **Extracted from:** `= this.parent`
 # The Messengers Guild
