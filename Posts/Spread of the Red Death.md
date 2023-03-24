@@ -58,7 +58,7 @@ They were found by the scholars of the [[Materialists College]] to fear the ligh
 
 > [!INFO] More resources
 > For more on containment and destruction of the [[Red Death]], see...
-> - [[Red Death in the City]]
-> - [[Campaigns against the Red Death]]
+> - [[Red Death period City of Gardens]]
+> - [[Campaigns against the Red Court]]
 > - [[Apotropaics]]
 > - [[Burning]]

@@ -38,7 +38,7 @@ Later, with the discovery of [[animalcules]] within the human anatomy in the [[E
 
 The great [[Burning]], which ultimately brought this period to its end, destroyed over one third of the [[Old City]]: what is now known as the [[Red Quarter]]. Along with the last of the [[Red Court]]'s soldiers and infect, the last of humanity's recorded history was incinerated. Though the [[Crisis of Hubris]] was not yet over with the end of the Red Death period, this would go on to usher in a new age of scholarship, discovery, and invention. One centered around the recording of history not only for posterity's sake but for the betterment of humanity and the securing of their future.
 
-In the [[Later Crisis of Hubris]], the very same [[House]] responsible for this devastating loss – the [[House of the Sun]] – would rise to prominence as leaders of the [[Court]]. Equal parts punishment for their role in the Burning and reward for ending the [[Red Plague]], each new [[Great House]] to [[Fallen House|fall]] would put the House of the Sun and its [[Orator]] closer to unrivaled power and the ability to enact real change in [[Omphalos, the City of Gardens]].
+In the [[Later Crisis of Hubris]], the very same [[House]] responsible for this devastating loss – the [[House of the Sun]] – would rise to prominence as leaders of the [[Court]]. Equal parts punishment for their role in the Burning and reward for ending the [[Red Death]], each new [[Great House]] to [[Fallen House|fall]] would put the House of the Sun and its [[Orator]] closer to unrivaled power and the ability to enact real change in [[Omphalos, the City of Gardens]].
 
 ## See also
 ```dataview

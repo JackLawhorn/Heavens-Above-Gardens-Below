@@ -56,4 +56,4 @@ These voices lost out in the end, but would not be forgotten in the years and ce
 
 The vast majority of the ranks of [[House Lightbringer]], who adopted the chivalric code and nomadic nature of their mentors along the [[Elven March]]: the [[Sun Elves]]. Although it had been centuries since their last long-term journey outside the walls of [[Omphalos, the City of Gardens]], their ranks were so drawn to this [[quest]] that few chose to stay behind. Those who did continued to keep the nyxfire flame of the [[Elven Signaltower]]. Despite this divine charge and their start as a [[Great House]] of the [[Court]], would spend generations as a relatively inconsequential political entity.
 
-> For more, see [[The Burning]] and [[House of the Sun]].
+> For more, see [[Burning|The Burning]] and [[House of the Sun]].

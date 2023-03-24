@@ -61,7 +61,7 @@ At the point of infection, the hex begins to take over the host's [[aura]], siph
 > - [[Fall of House Lightbringer]]
 > - [[Arrival of the Red Court in the City]]
 > - [[Red Death]]
-> - [[Red Death in the City]]
+> - [[Red Death period City of Gardens]]
 > - [[Campaigns against the Red Court]]
 
 ## The soldiers of the Red Court

@@ -51,7 +51,7 @@ Since their forming, the work of the paladins of the Iconic Houses has largely b
 
 The [[Mercenary Corps]] connects a network of otherwise Houseless sellswords that operate throughout the [[Omphalos, the City of Gardens|City]]. Many of these soldiers are simple bounty hunters recognized by the Jurisweard and deputized to defuse certain classes of threats, but others are commonly engaged by the various [[House|Houses]] of the [[Court]] for ad hoc work or to sit on the cabinets of their [[Lord Representative|Lord Representatives]].
 
-Many Houseless warriors encircle the drain of the Mercenary Corps, including former [[Bloodhounds]], [[apotropaics]], [[Psionics College#College Silencers|College Silencers]], and members of the [[Earthen Orders]].
+Many Houseless warriors encircle the drain of the Mercenary Corps, including former [[Bloodhounds]], [[Apotropaics]], [[Psionics College#College Silencers|College Silencers]], and members of the [[Earthen Orders]].
 
 ## See also
 ```dataview
