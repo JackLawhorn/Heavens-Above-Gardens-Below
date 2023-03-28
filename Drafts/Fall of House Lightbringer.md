@@ -1,7 +1,7 @@
 ---
 Posted: 03.12.2023
 tag: "#SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Nyxblight Tree]]", "[[Nycter]]", "[[Red Court]]", "[[Red Death]]", "[[Red Death period]]"]
+parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Nyxblight Tree]]", "[[Nycter]]", "[[Red Court]]", "[[Red Death]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]"]
 
 previous: "[[Shipwrights Guild]]"
 next: "[[Umbral Aspects]]"

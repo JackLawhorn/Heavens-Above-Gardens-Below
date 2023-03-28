@@ -7,11 +7,11 @@ aliases: rook, rooks, rookish, rookish house, rookish houses
 
 ---
 
-A great many of the [[human clans]] formed bonds with the avian races of the [[Discoveries in the Known World#noble beasts|noble beasts]] who are great in number due to their closeness to the [[Nyx]]. These clans came to be known as the Rookish clans, some of humanity's oldest that still stand now in the [[Post-Enlightenment Era]].
+A great many of the [[human clans]] formed bonds with the avian races of the [[Noble beasts]] who are great in number due to their closeness to the [[Nyx]]. These clans came to be known as the Rookish clans, some of humanity's oldest that still stand now in the [[Post-Enlightenment Era]].
 
 ## Abilities
 
-Just as their [[Discoveries in the Known World#noble beasts|noble beast]] companions are able to glide without a sound, the Rooks have learned to traverse any environment cautiously and stealthily. Their boots and their [[#bird-hamir]] make them nearly as silent at the [[Psionics College|College]]'s [[Silencers]].
+Just as their [[Noble beasts|noble beast]] companions are able to glide without a sound, the Rooks have learned to traverse any environment cautiously and stealthily. Their boots and their [[#bird-hamir]] make them nearly as silent at the [[Psionics College|College]]'s [[Silencers]].
 
 In order to better hunt like their companions, the early Rooks also learned their near [[extramundane]] climbing abilities from the [[Sun Elves]].
 
@@ -31,7 +31,7 @@ Each Rookish clan commands an encoded language of its own known as "birdsong". R
 
 ### Bird-hamir
 
-Mimicking in color the plumage of one's [[Discoveries in the Known World#noble beasts|noble beast]] companions, these vestments are colorful and deep ingrained in the visual language of [[Omphalos, the City of Gardens]]. These, along with their [[#visages]], serve as identifying features, from which a layman can ascertain one's Rookish clan and fellow Rooks may even recognize one individual from another.
+Mimicking in color the plumage of one's [[Noble beasts|noble beast]] companions, these vestments are colorful and deep ingrained in the visual language of [[Omphalos, the City of Gardens]]. These, along with their [[#visages]], serve as identifying features, from which a layman can ascertain one's Rookish clan and fellow Rooks may even recognize one individual from another.
 
 ### Visages
 

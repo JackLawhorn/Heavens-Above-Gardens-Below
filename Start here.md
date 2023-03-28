@@ -3,7 +3,7 @@ a worldbuilding project by Jack Lawhorn
 
 ---
 
-[[Omphalos, the City of Gardens]] is a sprawling, coastal city state and the sole bastion of humanity in a world shaped by the wanton, unchecked actions of gods and monsters. In these posts I'll focus primarily on humanity both within and outside of the City of Gardens, but the [[Known World]] is full of other inhabitants from the [[Discoveries in the Known World#Noble beasts|noble beasts]] to the other races of the [[Orior]] to a chaotic pantheon of deities known as the [[Aspect|Aspects]] of [[Ylem]]. And this world itself is but a single backwater planet in the greater cosmos of the [[Nyx]], itself sentient and in engulfed in eternal conflict.
+[[Omphalos, the City of Gardens]] is a sprawling, coastal city state and the sole bastion of humanity in a world shaped by the wanton, unchecked actions of gods and monsters. In these posts I'll focus primarily on humanity both within and outside of the City of Gardens, but the [[Known World]] is full of other inhabitants from the [[Noble beasts]] to the other races of the [[Orior]] to a chaotic pantheon of deities known as the [[Aspect|Aspects]] of [[Ylem]]. And this world itself is but a single backwater planet in the greater cosmos of the [[Nyx]], itself sentient and in engulfed in eternal conflict.
 
 After the disastrous [[Crisis of Hubris]], a cultural and intellectual [[Renascence]] has armed humanity with a tenuous grasp of powerful technological and magical advancements, as well as a hunger to prove themselves. Now, in the [[Post-Enlightenment Era]] and long after the age of heroes and villains has passed, a complex political body known as the [[Court]] attempts to lead their people into a golden age of colonialist expansion.
 

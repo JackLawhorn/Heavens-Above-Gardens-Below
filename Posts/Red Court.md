@@ -16,7 +16,7 @@ next: "[[Red Death period]]"
 
 ---
 
-The Red Court is the [[Umbral Aspects|Umbral Aspect]] of Hunger which has settled deep within the root systems of the massive [[Nyxblight Tree]] on the eastern bank of the [[Great Sea]]. In the [[Prime Material Sphere]], it appears as a crimson, bioluminescent mass that itself is incapable of attack, defending itself, or even movement. Nevertheless, [[#Magics of the Red Court|its powerful magics]] have devastated multiple species of [[Discoveries in the Known World#Noble beasts|noble beasts]] and [[Orior]] alike, being most infamous for ushering in the dark time known as the [[Red Death period]] in [[Omphalos, the City of Gardens]].
+The Red Court is the [[Umbral Aspects|Umbral Aspect]] of Hunger which has settled deep within the root systems of the massive [[Nyxblight Tree]] on the eastern bank of the [[Great Sea]]. In the [[Prime Material Sphere]], it appears as a crimson, bioluminescent mass that itself is incapable of attack, defending itself, or even movement. Nevertheless, [[#Magics of the Red Court|its powerful magics]] have devastated multiple species of [[Noble beasts]] and [[Orior]] alike, being most infamous for ushering in the dark time known as the [[Red Death period]] in [[Omphalos, the City of Gardens]].
 
 ## Draconic heritage
 
@@ -32,13 +32,13 @@ The Red Court and all its siblings – the [[Umbral Aspects]] – descend from t
 
 ### Hexecraft
 
-Most prominent among the magics of the Red Court are the [[hexecraft pacts]]. Hexes leverage the flow of [[albedo]] from one's [[aura]] and throughout the body to inflict dramatic physical and spiritual mutilations and transformations onto their victims. The [[Umbral Aspects|Umbral Aspect]] uses these mechanisms to [[#The Red Death|spread]] the [[Red Death]], to transform its victims into [[#Apex Vectors]] and other forms of its soldiers, and to forge the connections between them and the [[#Sphere of the Red Court]].
+Most prominent among the magics of the Red Court are the [[Hexecraft pacts]]. Hexes leverage the flow of [[albedo]] from one's [[aura]] and throughout the body to inflict dramatic physical and spiritual mutilations and transformations onto their victims. The [[Umbral Aspects|Umbral Aspect]] uses these mechanisms to [[#The Red Death|spread]] the [[Red Death]], to transform its victims into [[#Apex Vectors]] and other forms of its soldiers, and to forge the connections between them and the [[#Sphere of the Red Court]].
 
 > For more, see [[Hexecraft pacts]].
 
 ### Sphere of the Red Court
 
-Despite its meek manifestation within the [[Prime Material Sphere]], the Red Court has been able to leverage the immense [[albedo]] siphoned from the [[hexecraft pacts]] it has forced upon its victims to generate an extra-physical [[Standard Elven Cosmology|Sphere]] of its own. Or perhaps the Sphere predates its hexecraft, some pocket between reality saturated with and ultimately colonized by the idea of the primordial Hunger itself.
+Despite its meek manifestation within the [[Prime Material Sphere]], the Red Court has been able to leverage the immense [[albedo]] siphoned from the [[Hexecraft pacts]] it has forced upon its victims to generate an extra-physical [[Standard Elven Cosmology|Sphere]] of its own. Or perhaps the Sphere predates its hexecraft, some pocket between reality saturated with and ultimately colonized by the idea of the primordial Hunger itself.
 
 Both its soldiers and its victims – who in truth are one and the same – are connected to this sphere via the Red Court's powerful [[psionic]] abilities. This connection links those infected by its Hunger over long distances, and allows the [[Umbral Aspects|Umbral Aspect]] to relay specific communications, commands, and objectives.
 
@@ -52,7 +52,7 @@ Moreover, the thorns of the vines themselves were purported during the [[Red Dea
 
 ## The Red Death
 
-The [[hexecraft pacts]] forced upon the victims of the Red Court spread like a particularly aggressive biological infection, with the exact symptoms and spread varying greatly between species. Despite their natural resistance to its symptoms, the [[Nycter]] colony that called the [[Nyxblight Tree]] home has been brought nearly to extinction by the by the [[Red Death]]. Upon their contact with the [[Quest|questing party]] of [[House Lightbringer]], this plague was transmitted to humanity for the first time and ultimately brought back to [[Omphalos, the City of Gardens]] by the ships of the [[Shipwrights Guild]]. This ushered in the [[Red Death period]].
+The [[Hexecraft pacts]] forced upon the victims of the Red Court spread like a particularly aggressive biological infection, with the exact symptoms and spread varying greatly between species. Despite their natural resistance to its symptoms, the [[Nycter]] colony that called the [[Nyxblight Tree]] home has been brought nearly to extinction by the by the [[Red Death]]. Upon their contact with the [[Quest|questing party]] of [[House Lightbringer]], this plague was transmitted to humanity for the first time and ultimately brought back to [[Omphalos, the City of Gardens]] by the ships of the [[Shipwrights Guild]]. This ushered in the [[Red Death period]].
 
 At the point of infection, the hex begins to take over the host's [[aura]], siphoning off their [[albedo]] to the Red Court itself. As this divine energy is parasitically drained, it is used against them to warp their body from the inside out. The infected are commonly afflicted by this ever-present and compulsive hunger for albedo, an extreme sensitivity to light and flames, horrific physical transformations, and autotomic abilities up to and including the reanimation of one's lifeless corpse.
 
@@ -64,9 +64,7 @@ At the point of infection, the hex begins to take over the host's [[aura]], siph
 > - [[Red Death period City of Gardens]]
 > - [[Campaigns against the Red Court]]
 
-## The soldiers of the Red Court
-
-### The Red King
+## The Red King
 
 The [[Red King]] serves as the Red Court's sole champion. They suffer from a different kind of physical transformation: their skin petrified, knotted, and black like the dead wood of the [[Nyxblight Tree]] their master calls home.; their hair turned into yellowed leaves; the thorny, black [[Nyxblight]] vines wrapping their way around every inch of their body.
 
@@ -81,18 +79,6 @@ For the Red King that in [[Ages of the Known World|ages]] past was known as [[Fa
 > - [[Fall of House Lightbringer]]
 > - [[Journey of the Red King]]
 > - [[Demons and the Red King]]
-
-### Apex Vectors
-
-Though little is known about the reasoning or criteria behind the process, certain infected are granted favor by the Red Court and are able to evolve into more dangerous and effective predators known as Apex Vectors. Common transformations include the development of talons and the growth of a hardened hide. In extreme cases, the latter stretches to form wing-like membranes. It is thought that some traits are passed down from previous generations of the infected, such as the [[Nycter]].
-
-Some believe that especially powerful Apex Vectors may have developed within the walls of [[Omphalos, the City of Gardens]] by the end of the [[Red Death period]], such that the extermination of the infected horde during the great [[Burning]] may not have been complete after all. These hypothetical mutations include resistance to flames and to the light of [[Ylem]], as well as the ability to more effectively camouflage among the uninfected human population.
-
-### Shambling Mounds
-
-The unluckiest of the Red Court's victims are those who die while being fed upon by the infected, only to be violently wrenched back to a state of [[near-life]]. After predation, too little is left of corpses to still serve their master as effective predators and vectors of the [[Red Death]]. And so their remains crawl towards each other to form new horrors. These Shambling Mounds of flesh, blood, and bone rearrange in an attempt to optimize their killing power, often possessing an unnatural and unsettling collection of parts and extremities.
-
-Though they are less effective as predators, Shambling Mounds possess certain unique abilities. For example, their already torn apart bodies are able to temporarily de-solidify to slip through small gaps. Upon being attacked with a torch or other source of fire, they are also able to quickly burst, saving as much infected materials as possible by launching matter far from the deadly flames and spraying those nearby with their infectious matter.
 
 ## See also
 ```dataview

@@ -15,11 +15,9 @@ next: '[[Crisis of Hubris]]'
 ---
 
 ## Pure magics
-
 - [[Organic magics]]
 
 ## Attainable magics
-
 - [[Pact magics]]
   - [[Iconic pacts]]
   - [[Mutualist pacts]]
@@ -30,11 +28,9 @@ next: '[[Crisis of Hubris]]'
 - [[Psionics]]
 
 ## Paradoxy
-
 - [[Wild magics]]
 - [[Devilry]]
-- [[Vestiges of the Dragon]]
+- [[Vestiges|Vestiges of the Dragon]] and the [[Umbral Aspects]]
 
 ## Other
-
 - [[Combat Arts]]

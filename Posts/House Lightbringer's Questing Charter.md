@@ -30,7 +30,7 @@ Once a successful rendezvous was made, supplies and discoveries and even the ran
 
 As part of their [[Questing Charter]], [[House Lightbringer]] received funding from the [[Court]] with which they bought the aid of a number of other [[House|Houses]], including representatives from the other [[Great House|Great Houses]].
 
-From the [[Oremongers Guild]], they were granted a dozen [[Oremongers Guild#artificer knights|artificer knights]], two dozen [[armiger]] squires, and three dozen [[sol]] of their steel. The strongest fighting force in the [[Known World]] then or since, these assets would surely allow the [[quest|questing party]] to survive humanity's first perilous trek outside of [[Omphalos, the City of Gardens]] without the protection of the [[Sun Elves]].
+From the [[Oremongers Guild]], they were granted a dozen [[Oremongers Guild#artificer knights|artificer knights]], two dozen [[armiger]] squires, and three dozen [[sol|solas]] of their steel. The strongest fighting force in the [[Known World]] then or since, these assets would surely allow the [[quest|questing party]] to survive humanity's first perilous trek outside of [[Omphalos, the City of Gardens]] without the protection of the [[Sun Elves]].
 
 From the [[Clan Wolfstepper]], they were granted four packs of six [[Silver Wolves]]. Humanities greatest hunters, these packs would provide food along the journey. Their connection to the [[Lunar Aspects]] and observation under her great silver eye up in the [[Nyx]] would also allow them to foresee threats and even enable limited communicate with their people back in the City. 
 

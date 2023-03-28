@@ -15,7 +15,7 @@ next: "[[Early Crisis of Hubris]]"
 
 ---
 
-"Warlock" comes from an [[Organic Magics of the Elven Legion#The Elven Tongue|Old Elven]] word meaning "pact breaker", and is used to refer to those who have broken the terms of primarily [[iconic pacts]].
+"Warlock" comes from an [[Elven tongue|Old Elven]] word meaning "pact breaker", and is used to refer to those who have broken the terms of primarily [[iconic pacts]].
 
 ## Mechanics of broken pacts
 

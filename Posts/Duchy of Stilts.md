@@ -16,7 +16,7 @@ next: "[[Fall of House Lightbringer]]"
 
 ---
 
-The Duchy of Stilts is a coastal district on the southern shore of [[Omphalos, the City of Gardens]] and that has grown along the [[Sun Coast]]. Standing on stilt-like wooden pilings above the tides of the [[Sink]], it is a major hub of commerce and transportation for not only the City but the [[Known World]]. Founded and controlled by the [[Fisher Queens]], it is also home to a number of other factions.
+The Duchy of Stilts is a coastal district of [[Omphalos, the City of Gardens]] and that was founded around the sound at which the river [[Torrente]] meets the [[Sink]] and has grown along the [[Sun Coast]]. Standing on stilt-like wooden pilings above the tides of the Sink, it is a major hub of commerce and transportation for not only the City but the [[Known World]]. Founded and controlled by the [[Fisher Queens]], it is also home to a number of other factions.
 
 ## History of the Duchy
 
@@ -24,7 +24,7 @@ Built in the [[Early Crisis of Hubris]] by the [[Fisher Queens]], the [[Architec
 
 During the [[Red Death period]], the citizenry would flock towards the base of the [[Elven Signaltower]] and its [[nyxfire]] flame for protection. They concentrated within the [[White Quarter]] and the Duchy of Stilts – easily defendable due to its proximity to both the Signaltower and the water. The scars of this mass arrival can still be seen in the Stilts today, in the low-class, densely-populated neighborhood known as the [[#Shoals]].
 
-After the great [[Burning]] and in the [[Reconstruction]] that followed, the Stilts would already be the hub of the fishing industry, providing the majority of the [[Omphalos, the City of Gardens|City]]'s food supply. It would grow to be home to many other [[Houses of Industry]], including the Shipwrights Guild who helped construct it and the aquatic farming industry. It has also become a major port of trade, travel, and culture, being a gateway into the City's culture, economy, and [[Court]] for the many aquatic [[Discoveries in the Known World#Noble beasts|noble beasts]] and races of the [[Orior]].
+After the great [[Burning]] and in the [[Reconstruction]] that followed, the Stilts would already be the hub of the fishing industry, providing the majority of the [[Omphalos, the City of Gardens|City]]'s food supply. It would grow to be home to many other [[Houses of Industry]], including the Shipwrights Guild who helped construct it and the aquatic farming industry. It has also become a major port of trade, travel, and culture, being a gateway into the City's culture, economy, and [[Court]] for the many aquatic [[Noble beasts]] and races of the [[Orior]].
 
 ## Layout and sub-districts
 
@@ -40,7 +40,7 @@ The Shoals is in fact so dense that it has grown outward from the border of the 
 
 ### Embassy Quarter
 
-The Duchy of Stilts is a major port of trade, travel, and culture, being a gateway into the [[Omphalos, the City of Gardens|City]]'s culture, economy, and [[Court]] for the many aquatic [[Discoveries in the Known World#noble beasts|noble beasts]] and races of the [[Orior]]. Their [[Consulates of the Orior|Consulates]] make up the Duchy's Embassy Quarter, a major hub of power for the Consulates of the Orior as a political entity. It is positioned around the shore of the [[Great Sea]], closer to land than much of the greater Duchy.
+The Duchy of Stilts is a major port of trade, travel, and culture, being a gateway into the [[Omphalos, the City of Gardens|City]]'s culture, economy, and [[Court]] for the many aquatic [[Noble beasts]] and races of the [[Orior]]. Their [[Consulates of the Orior|Consulates]] make up the Duchy's Embassy Quarter, a major hub of power for the Consulates of the Orior as a political entity. It is positioned around the shore of the [[Great Sea]], closer to land than much of the greater Duchy.
 
 ### Great Sea Bazaar
 

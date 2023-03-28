@@ -41,20 +41,19 @@ Straggling behind the march of the [[Sun Elves]] for untold generations, the [[H
 
 ### Noble beasts
 
-It wasn't until the later [[Heliotropic Age]] and the [[Founding of Omphalos, the City of Gardens|founding]] of [[Omphalos, the City of Gardens]] that either the Elves or humans would encounter other races of the [[Orior]], but they quickly made other allies. Some races of beasts, which the [[Elven Legion|Legion]] called the "noble beasts", were able to speak the [[Organic magics of the Elven Legion#Elven Tongue|Elven Tongue]].
+It wasn't until the later [[Heliotropic Age]] and the [[Founding of Omphalos, the City of Gardens|founding]] of [[Omphalos, the City of Gardens]] that either the Elves or humans would encounter other races of the [[Orior]], but they quickly made other allies. Some races of beasts, which the [[Elven Legion|Legion]] called the [[noble beasts]], were able to speak the [[Organic magics of the Elven Legion#Elven Tongue|Elven Tongue]].
 
 Many of the disparate [[Human clans]] formed [[Mutualist pacts]] with these races of beasts, bonding both peoples for generations and granting them access to minor magics of their own.
 
 ### The Aspects of Ylem
 
-Of particular concern was the humans' lack of [[organic magics]] which the Elves and later races of the [[Orior]] all seemed to possess. Just as some made [[Pact magics|pacts]] with the races of the [[#noble beasts]], others sought to gain power from [[Ylem]] themselves through [[Iconic pacts]].
+Of particular concern was the humans' lack of [[organic magics]] which the Elves and later races of the [[Orior]] all seemed to possess. Just as some made [[Pact magics|pacts]] with the races of the [[noble beasts]], others sought to gain power from [[Ylem]] themselves through [[iconic pacts]].
 
 Once tamed by the [[Sun Elves]] the [[Wild Magics|Wild Magic]] settled into what they called the [[Minor Aspects]] of Ylem. These Minor Aspects are children and grandchildren and distant descendants of the [[Mundial Aspects#elemental motes|elemental motes]], governing minor domains within the [[Known World]]. One prominent example is [[Sobek (Minor Aspect)|Sobek]], the patron [[Aspect]] of rivers and namesake of the [[Sobek riverfolk]] who worship her.
 
 These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] to converse with humanity and come into pacts of their own. Prominent examples include the [[Silver Wolves]] and the [[Oremongers Guild]] respectively.
 
 ## See also
-
 ```dataview
 TABLE tag
 WHERE parent AND contains(parent, [[Discoveries in the Known World]])

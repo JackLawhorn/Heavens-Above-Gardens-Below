@@ -34,7 +34,7 @@ The [[Mundial Aspects#earth motes|earth motes]] offered up the white [[wol stone
 
 Typically too volatile to touch as the deposits that lock the Known World itself in its place in the greater Nyx, this core had been prepared millennia ago for the Legion that should have inherited this world. It been kept safe throughout the [[fallen world|fall]] of the [[Old World]] and the [[roiling of the elements]] that came after for this very purpose. Once carefully raised into place, the Sun Elves used their [[Organic magics of the Elven Legion|organic magics]] to light the core into a blinding and eternal flame of pure nyxfire.
 
-And in doing so, they cast the light of Ylem and the order of the Angels across the Known World and tamed a great many of the Wild Magics that had besieged it since the fall. The peoples of this world, the races of the [[Orior]] and of the [[Discoveries in the Known World#noble beasts|noble beasts]], are said to have seen this light and – freed of the chaos of the nyxfire storms – and began their journey of standing up to the light of Ylem.
+And in doing so, they cast the light of Ylem and the order of the Angels across the Known World and tamed a great many of the Wild Magics that had besieged it since the fall. The peoples of this world, the races of the [[Orior]] and of the [[Noble beasts]], are said to have seen this light and – freed of the chaos of the nyxfire storms – and began their journey of standing up to the light of Ylem.
 
 ---
 

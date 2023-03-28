@@ -1,7 +1,7 @@
 ---
 Posted: 03.19.2023
 tag: "#SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Court]]"]
+parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Court]]", "[[Campaigns against the Red Court]]"]
 
 previous: "[[Mutualist House]]"
 next: "[[Red Court]]"

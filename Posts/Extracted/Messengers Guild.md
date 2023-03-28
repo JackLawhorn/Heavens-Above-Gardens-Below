@@ -16,7 +16,7 @@ Their resilience meant constant adaptation to maintain their power in Court and 
 
 ### Roccas
 
-Many of the [[Omphalos, the City of Gardens|City]]'s towers and taller structures are controlled by the [[Rookish clans]]. Their height is coveted for the additional closeness to the [[Nyx]], but more importantly they are raised up to the level of their avian companions: the [[Discoveries in the Known World#Noble beasts|noble beasts]] of the sky. The top levels of many towers are, in fact, massive aviaries called [[roccas]] from which the birds flit back and forth. Smaller, self-contained roccas can be found on rooftops throughout the City, similar in design to modern water towers but much older.
+Many of the [[Omphalos, the City of Gardens|City]]'s towers and taller structures are controlled by the [[Rookish clans]]. Their height is coveted for the additional closeness to the [[Nyx]], but more importantly they are raised up to the level of their avian companions: the [[Noble beasts]] of the sky. The top levels of many towers are, in fact, massive aviaries called [[roccas]] from which the birds flit back and forth. Smaller, self-contained roccas can be found on rooftops throughout the City, similar in design to modern water towers but much older.
 
 These roccas were centers of industry for the Messengers Guild, and points of concentration for the communications of the entire City. The [[Rookish clans#Augurs|Rookish Augurs]] tended the roccas and dispatched messengers to relay newly received messages. This made the Augurs humanity's first real spymasters and intelligence officers, as they controlled the vast majority of information flowing through the City. 
 

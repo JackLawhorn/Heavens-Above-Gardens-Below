@@ -24,7 +24,7 @@ Early humanity, sometimes referred to as [[cland]] humanity, was structured into
 
 [[Cland]] humanity was greatly influenced by the Elves, having first believed them to be gods themselves upon [[Nyxfall of the Elven Legion|their nyxfall]]. Cland life was largely non-gendered, with the concepts of sex and gender themselves considered a kind of weakness or fault the Elves did not possess. The human clans also naturally valued combat prowess as well as the Elven combat sports. To this day, the history of nearly every human sport can be traced back to these games.
 
-One prominent impact that the [[Sun Elves]] had on early humanity was an understanding of power. Born without [[organic magics]] of their own, humans were magically inferior to the Elves as well as being physically inferior. Faced with a hostile world and their own vulnerability, they sought power of their own through [[Pact magics]]. Some found power through the forming of [[Iconic pacts]] with the many [[Aspect|Aspects of Ylem]] that exist within the [[Known World]], while others instead formed [[Mutualist pacts]] with races of the [[Discoveries in the Known World#noble beasts|noble beasts]].
+One prominent impact that the [[Sun Elves]] had on early humanity was an understanding of power. Born without [[organic magics]] of their own, humans were magically inferior to the Elves as well as being physically inferior. Faced with a hostile world and their own vulnerability, they sought power of their own through [[Pact magics]]. Some found power through the forming of [[Iconic pacts]] with the many [[Aspect|Aspects of Ylem]] that exist within the [[Known World]], while others instead formed [[Mutualist pacts]] with races of the [[Noble beasts]].
 
 Effectively wards of the [[Elven Legion|Legion]], humans were able to leverage this closeness to form bonds with other peoples, especially the [[Lunar Aspects]] and the noble beasts.
 
@@ -52,7 +52,7 @@ As the [[Sun Elves]] took responsibility over the protection of humanity, so too
 
 ### The Rookish Clans
 
-A great many clans formed bonds with the many avian races of the [[Discoveries in the Known World#noble beasts|noble beasts]], coming to be known as the [[Rookish clans]]. From these companions, the Rooks learned a great many things. The form of their beaks and feathers inspired the invention of arrows, throwing knives, cloaks, and feather scale armor – all distinct from any Elven equipment or [[Combat Arts]].
+A great many clans formed bonds with the many avian races of the [[Noble beasts]], coming to be known as the [[Rookish clans]]. From these companions, the Rooks learned a great many things. The form of their beaks and feathers inspired the invention of arrows, throwing knives, cloaks, and feather scale armor – all distinct from any Elven equipment or [[Combat Arts]].
 
 They are cloaked rangers with an arsenal of ranged, thrown, and short bladed weapons who quickly became some of humanity's most proficient hunters, albeit after the [[Silver Wolves]]. Many even learned an almost [[extramundane]] proficiency in climbing from the [[Sun Elves]] to better mimic and complement the hunting patterns of their companions.
 

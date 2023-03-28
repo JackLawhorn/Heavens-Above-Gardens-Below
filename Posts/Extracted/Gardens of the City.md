@@ -13,7 +13,7 @@ All of the disparate natives of the City do their part to maintain the gardens, 
 
 ## Inhabitants of the gardens
 
-Maintained by botanists and gardeners and agriculturists of nearly every [[Human clans|clan]] and [[House]], the gardens are places of worship to the elemental [[Mundial Aspects#earth motes|earth motes]] and to the natural wonders of the [[Known World]]. They serve as a home to a great many races of [[Discoveries in the Known World#Noble beasts|noble beasts]], as well as simple beasts who have come to adapt to the urban environment.
+Maintained by botanists and gardeners and agriculturists of nearly every [[Human clans|clan]] and [[House]], the gardens are places of worship to the elemental [[Mundial Aspects#earth motes|earth motes]] and to the natural wonders of the [[Known World]]. They serve as a home to a great many races of [[Noble beasts]], as well as simple beasts who have come to adapt to the urban environment.
 
 The swarms of the [[Apiarians Guild]] and the flocks of the [[Rookish clans]] serve a vital role in pollinating the flora of the gardens. The former has also grown to prominence as a [[House of Industry]] through their wildly popular honeys which they can be found selling up and down the [[Omphalos, the City of Gardens|City]]'s [[rayas]].
 

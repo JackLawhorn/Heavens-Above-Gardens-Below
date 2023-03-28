@@ -31,7 +31,7 @@ Like the [[Sun Elves]] and their flames, [[organic magics]] of the Storm Elves a
 
 Bioengineered by the [[Angels]] themselves for their respective roles in the eternal, cosmic conflict known only as the [[roiling of the Nyx]], each of the [[Elven Legion|Elven]] peoples bear noticeable differences from one another.
 
-Favoring the long-range, heavy artillery of their [[nyxfire]] bolts, they are leaner and lack the imposing, [[extramundane]] physique which benefits the [[Sun Elves|Sun]] and [[Sea Elves]] in their close-quarters [[Combat Arts]]. Their cold, slate gray skin is significantly less resistant to slicing and stabbing, and curiously their bones are hollow like the many avian races of the [[Discoveries in the Known World#noble beasts|noble beasts]].
+Favoring the long-range, heavy artillery of their [[nyxfire]] bolts, they are leaner and lack the imposing, [[extramundane]] physique which benefits the [[Sun Elves|Sun]] and [[Sea Elves]] in their close-quarters [[Combat Arts]]. Their cold, slate gray skin is significantly less resistant to slicing and stabbing, and curiously their bones are hollow like the many avian races of the [[Noble beasts]].
 
 Their hair ranges from black and gray to silver and white, and it covers a much greater portion of their bodies. It is thought that this aids in their connections to the [[nyxfire motes]] and the elemental [[Mundial Aspects#wind motes|wind motes]], allowing them to feel the movement of the wind and the crackling power of the nyxfire in the air around them.
 

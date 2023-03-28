@@ -35,7 +35,7 @@ At their deepest point, protected by the impenetrable layer of armor that is the
 
 ## Ecosystem around the Nyxblight Tree
 
-The Nyxblight Tree's presence – or perhaps that of the [[Red Court]] – has warped this place and generated the largest [[Shades|Shade]] in the [[Known World]] apart from the [[Great Dark Cold]] itself. This and the overgrowth of [[Nyxblight]] has created a unique ecosystem within which live a number of [[Discoveries in the Known World#noble beasts|noble beasts]] and races of the [[Orior]], as well as an immeasurable population of [[shade motes]] and other horrors of the [[Umbral Aspects]].
+The Nyxblight Tree's presence – or perhaps that of the [[Red Court]] – has warped this place and generated the largest [[Shades|Shade]] in the [[Known World]] apart from the [[Great Dark Cold]] itself. This and the overgrowth of [[Nyxblight]] has created a unique ecosystem within which live a number of [[Noble beasts]] and races of the [[Orior]], as well as an immeasurable population of [[shade motes]] and other horrors of the [[Umbral Aspects]].
 
 ### Nyxblight ecosystem
 

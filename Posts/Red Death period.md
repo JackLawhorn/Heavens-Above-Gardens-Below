@@ -23,7 +23,7 @@ The Red Death period saw significant advancements in the field of [[materialist 
 
 On [[the night of the Burning]], a materialist scholar would just barely manage to rescue a young child from the destruction and devastation to come. In the first years of the Later Crisis of Hubris, the child would be revealed to possess an entirely new class of magics: what would come to be known as [[psionics]]. Though this first psion would later be revealed as simply a [[Pretender]], the scholars they inspired would go on to found the incredibly influential [[Psionics College]].
 
-Later, with the discovery of [[animalcules]] within the human anatomy in the [[Early Renascence period]], the studies and experiments of the anatomists would give way to the development of humanity's first [[hexecraft pacts]] by the [[witch clans]]. This development would also take great inspiration from the Red Court's own hexecraft pacts.
+Later, with the discovery of [[animalcules]] within the human anatomy in the [[Early Renascence period]], the studies and experiments of the anatomists would give way to the development of humanity's first [[Hexecraft pacts]] by the [[witch clans]]. This development would also take great inspiration from the Red Court's own hexecraft pacts.
 
 > [!INFO] More resources
 > For more on the strange new magics that arose from this period, see...

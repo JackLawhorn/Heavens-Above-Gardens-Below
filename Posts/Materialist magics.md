@@ -24,7 +24,7 @@ Materialist magics generally reflect the organic magics that produced them, albe
 
 Dead plant matter has been found to make for particularly powerful materialist artifacts as these peoples feed directly on the light of [[Ylem]] and hold powerful organic magics of their own. Nearly every materialist mage carries a staff, scepter, or shield of wood petrified by the [[nyxfire]] storms of the [[Wild Magics]].
 
-Feathers, hides, and scales taken from the remains of [[Discoveries in the Known World#Noble beasts|noble beasts]] are common artifacts studied and worn by materialist mages, though their magics can be limited. More internal components of such remains, such as bone and blood and organs generally contain more potent [[extramundane]] properties. The pursuit of these artifacts led to the dark and terrible [[necromancy]] of the [[Materialists College]] and its [[Demons]].
+Feathers, hides, and scales taken from the remains of [[Noble beasts]] are common artifacts studied and worn by materialist mages, though their magics can be limited. More internal components of such remains, such as bone and blood and organs generally contain more potent [[extramundane]] properties. The pursuit of these artifacts led to the dark and terrible [[necromancy]] of the [[Materialists College]] and its [[Demons]].
 
 ## See also
 ```dataview

@@ -43,7 +43,7 @@ When not flying, Nycter hang upside down from their feet, a posture known as roo
 
 ### Communication
 
-Besides the [[Organic magics of the Elven Legion#The Elven tongue|Elven Tongue]] – which the Nycter acquired upon meeting the [[Sun Elves]] along their [[Post-Heliotropic Elven March|Post-Heliotropic March]] – this race has a rich [[pre-contact]] language of their own. The songs of the Nycter are used to attract mates, find roost partners, and coordinate in combat. They are low-frequency and can travel long distances.
+Besides the [[Elven Tongue]] – which the Nycter acquired upon meeting the [[Sun Elves]] along their [[Post-Heliotropic Elven March|Post-Heliotropic March]] – this race has a rich [[pre-contact]] language of their own. The songs of the Nycter are used to attract mates, find roost partners, and coordinate in combat. They are low-frequency and can travel long distances.
 
 <figure style="display: flex; flex-direction: column; align-items: center; gap: 0.5em; width: fit-content; margin: 0px; padding: 1em; background: rgba(0, 0, 0, 0.25); border-radius: 0.5em;"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Journal.pone.0006746.g001.png/220px-Journal.pone.0006746.g001.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Journal.pone.0006746.g001.png/220px-Journal.pone.0006746.g001.png"></a><figcaption>Acoustics of the songs of the Nycter.</figcaption></figure>
 
@@ -51,7 +51,7 @@ Besides the [[Organic magics of the Elven Legion#The Elven tongue|Elven Tongue]]
 
 The [[organic magics]] of the Nycter primarily serve to increase their sensory abilities. Most prominent is their ability to emit ultrasonic sounds which produce echoes that allow them to "see" the environment around them in a process called echolocation. This greatly bolsters their perceptive abilities as their eyesight is underdeveloped.
 
-Nycter have also displayed a magnetoreceptive sense which is also possessed by the avian races of the [[Discoveries in the Known World#Noble beasts|noble beasts]]. This affords them a high sensitivity to the [[Known World]]'s magnetic field which is created by the [[polar onyx deposit|polar onyx deposits]] that exist under [[Omphalos, the City of Gardens]].
+Nycter have also displayed a magnetoreceptive sense which is also possessed by the avian races of the [[Noble beasts]]. This affords them a high sensitivity to the [[Known World]]'s magnetic field which is created by the [[polar onyx deposit|polar onyx deposits]] that exist under [[Omphalos, the City of Gardens]].
 
 ## Curse of the Red Court
 

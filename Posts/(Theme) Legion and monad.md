@@ -22,7 +22,7 @@ How can we extrapolate from there? What implications exist within that idea and 
 
 ## Overview
 
-We start this thought exercise by defining labels. If anyone in the [[Known World]] might hold some philosophical understanding of these concepts it would be the [[Elven Legion]]. Fortunately for us, [[Organic magics of the Elven Legion#The Elven tongue|their language]] is so streamlined by way of their divine evolution at the handles of the [[Angels]] that we can count on them to have easily understood interpretations.
+We start this thought exercise by defining labels. If anyone in the [[Known World]] might hold some philosophical understanding of these concepts it would be the [[Elven Legion]]. Fortunately for us, [[Elven tongue|their language]] is so streamlined by way of their divine evolution at the handles of the [[Angels]] that we can count on them to have easily understood interpretations.
 
 This is from where we get the ideas of legion and the monad. **Legion**, also used to refer to a group of Elves itself, describes the whole or at least _a_ whole. **Monad**, a word we can pull from the Greek language and which is the centerpiece of its own real world school of philosophy, describes a singular component of that whole.
 
@@ -36,7 +36,7 @@ Within such a complex system, equally infinite in scope to our own, how can we u
 
 Well, the monad _does_ have meaning within this way of thinking, not only meaning but true, objective meaning. The divine source called [[Ylem]] is present in all things, no matter how small (we can be sure of this because of the dualistic nature of the Nyx: everything that is not Ylem is the [[Dragon]], and every that is the Dragon does not and can not exist). More than that, the Nyx means nothing without these individual components. The monad and the legion continue to give any and all significance to each other, having none themselves.
 
-This fractalizes as far down in scope as we can imagine. Later, I am excited to introduce [[hexecraft]] as the final category of magic. Hexecraft works by forming [[Pact magics|pacts]] with single-cell organisms called [[animalcules]] that exist within the mage's body. This reverses the pact-bound relationship of a patron aspect to an [[Iconic pacts|iconic]] mage, and ties them together conceptually as well as mechanically.
+This fractalizes as far down in scope as we can imagine. Later, I am excited to introduce [[Hexecraft pacts|hexecraft]] as the final category of magic. Hexecraft works by forming [[Pact magics|pacts]] with single-cell organisms called [[animalcules]] that exist within the mage's body. This reverses the pact-bound relationship of a patron aspect to an [[Iconic pacts|iconic]] mage, and ties them together conceptually as well as mechanically.
 
 ## Individualism versus community
 
