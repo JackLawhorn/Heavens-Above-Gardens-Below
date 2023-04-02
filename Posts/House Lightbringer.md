@@ -1,10 +1,10 @@
 ---
 Posted: 02.03.2023
-tag: '#FactionFriday'
-parent: ['[[House]]', '[[Great House]]', '[[Fallen House]]', '[[Jurisweard]]']
+tag: "#FactionFriday"
+parent: ["[[House]]", "[[Great House]]", "[[Fallen House]]", "[[Jurisweard]]"]
 
-previous: '[[(Theme) Government and politics]]'
-next: '[[Court]]'
+previous: "[[(Theme) Government and politics]]"
+next: "[[Court]]"
 ---
 `= this.tag` #DailyPost
 # House Lightbringer
@@ -15,7 +15,13 @@ next: '[[Court]]'
 
 ---
 
-> Though these materials are free to access under [[Public Scholarship]] law, the [[Office of the Orator]] reminds us that the storied [[Fall of House Lightbringer]] during the [[Crisis of Hubris]] teaches us to be weary of one's Hunger, and not to confuse it for the call of righteous destiny.
+> Though these materials are free to access under [[Public Scholarship]] law, the [[Office of the Orator]] reminds us that the storied [[Fall of House Lightbringer]] during the [[Crisis of Hubris]] teaches us to be weary of the [[Red Court|Hunger]], and not to confuse it for the call of righteous destiny.
+
+## The lineage Torchbearer
+
+From within House Lightbringer and the Clan Lightbringer that preceded it arose the noble and heroic lineage called Torchbearer. These warrior mages came to be seen as the prototypical paladins of their [[House]]: to a one possessing an [[extramundane]] stature and a certain closeness to the [[nyxfire motes]] which lent them an undeniable similarity to their mentors the [[Sun Elves]]. Until the [[Fall of House Lightbringer]] in the [[Early Crisis of Hubris]], each [[Lord Representative]] of the [[Great House]] named a Captain from this lineage to stand beside them as their second.
+
+The third Captain Torchbearer – who served as second to the third Lord Lightbringer and departed from [[Omphalos, the City of Gardens]] alongside him on their [[Quest into Oblivion]] – is remembered as a beacon of light and a hero of legend today. Her name and visage graces the many walls and monuments of the City.
 
 ## Extramundane properties and abilities
 
@@ -48,7 +54,6 @@ Closest to the [[Sun Elves]] and later the [[nyxfire motes]], House Lightbringer
 From House Lightbringer came humanity's first paladins, a warrior class who wandered the [[Omphalos, the City of Gardens|City]] and took it upon themselves to enforce law and justice. These paladins were the forebearers of the [[Jurisweard]], and after their [[Fall of House Lightbringer|fall]] a great many of the [[Iconic House|Iconic Houses]] would come to produce their own paladins.
 
 ## See also
-
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[House Lightbringer]])

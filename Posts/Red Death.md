@@ -31,7 +31,7 @@ Initial symptoms appear within 2-7 days of infection, beginning with hemorrhages
 
 The next phase is characterized by a cough and extreme fatigue. The infected report gastrointestinal problems and develop black dots called lenticulae that are scattered throughout the body. In many cases, they also see gangrene of the extremities such as toes, fingers, lips, and the tip of the nose.
 
-Finally, the infected experience organ failure, the continuous vomiting of blood, and extreme pain which is caused by the decay and decomposition of the skin. At this point, they become delirious. Ultimately, they experience something that presents as death but is in fact the transition to a [[near-life]] state. Once the body has been conquered by the [[Hexecraft pacts|hex]], the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[albedo]].
+Finally, the infected experience organ failure, the continuous vomiting of blood, and extreme pain which is caused by the decay and decomposition of the skin. At this point, they become delirious. Ultimately, they experience something that presents as death but is in fact the transition to a [[Near-life]] state. Once the body has been conquered by the [[Hexecraft pacts|hex]], the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[albedo]].
 
 > For more, see [[Soldiers of the Red Court]].
 
@@ -39,7 +39,7 @@ Finally, the infected experience organ failure, the continuous vomiting of blood
 
 Some believe that especially powerful Apex Vectors may have developed within the walls of [[Omphalos, the City of Gardens]] by the end of the [[Red Death period]], such that the extermination of the infected horde during the great [[Burning]] may not have been complete after all. These hypothetical mutations include resistance to flames and to the light of [[Ylem]], as well as the ability to more effectively camouflage among the uninfected human population.
 
-A number of [[near-life]] biological samples were kept by the anatomists and burgeoning [[necromancers]] of the [[Materialists College]], found by agents of the [[Court]] after their [[Fall of the Materialists College|fall]]. These samples were destroyed by [[House of the Sun]] [[Apotropaics#Torchbearer's Purifier clerics|Purifiers]], but it is unknown if any still exist elsewhere in the City or in the wider [[Known World]].
+A number of [[Near-life]] biological samples were kept by the anatomists and burgeoning [[necromancers]] of the [[Materialists College]], found by agents of the [[Court]] after their [[Fall of the Materialists College|fall]]. These samples were destroyed by [[House of the Sun]] [[Apotropaics#Torchbearer's Purifier clerics|Purifiers]], but it is unknown if any still exist elsewhere in the City or in the wider [[Known World]].
 
 ## See also
 ```dataview

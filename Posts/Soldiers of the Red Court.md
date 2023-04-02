@@ -15,7 +15,7 @@ next: "[[Torrente]]"
 
 ---
 
-Once the body has been conquered by the [[Hexecraft pacts|hex]] of the [[Red Death]] and the infected have regressed to a [[near-life]] state, the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[albedo]].
+Once the body has been conquered by the [[Hexecraft pacts|hex]] of the [[Red Death]] and the infected have regressed to a [[Near-life]] state, the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[albedo]].
 
 The Red Court's complete domination over every cell in the body affords the infected a form of autotomic regeneration. Severed limbs do not regenerate, but are able to continue operating as autonomous creatures themselves. Nearly any organ in the body is able to grow new feeding *aparata* and resume feeding.
 
@@ -45,6 +45,6 @@ Common transformations include the development of talons, a hardened hide, as we
 
 ### Shambling Mounds
 
-The unluckiest of the [[Red Court]]'s victims are those who die while being fed upon by the infected, only to be violently wrenched back to a state of [[near-life]]. After predation, too little is left of corpses to still serve their master as effective predators and vectors of the [[Red Death]]. And so their remains crawl towards each other to form new horrors. These Shambling Mounds of flesh, blood, and bone rearrange in an attempt to optimize their killing power, often possessing an unnatural and unsettling collection of parts and extremities.
+The unluckiest of the [[Red Court]]'s victims are those who die while being fed upon by the infected, only to be violently wrenched back to a state of [[Near-life]]. After predation, too little is left of corpses to still serve their master as effective predators and vectors of the [[Red Death]]. And so their remains crawl towards each other to form new horrors. These Shambling Mounds of flesh, blood, and bone rearrange in an attempt to optimize their killing power, often possessing an unnatural and unsettling collection of parts and extremities.
 
 Though they are less effective as predators, Shambling Mounds possess certain unique abilities. For example, their already torn apart bodies are able to temporarily de-solidify to slip through small gaps. Upon being attacked with a torch or other source of fire, they are also able to quickly burst, saving as much infected materials as possible by launching matter far from the deadly flames and spraying those nearby with their infectious matter.
