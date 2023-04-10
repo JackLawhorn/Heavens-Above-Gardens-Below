@@ -49,4 +49,4 @@ The City became populated by [[shade motes]] who are native to the Shades. Despi
 
 ### Weakening of the Elven Signaltower's flame
 
-Though the Burning succeeded in defeating the [[Red Court]], the [[nyxfire motes]] of the [[Elven Signaltower]] warned that their great power was not without limit. It is unknown how many times this ultimate power can be unleashed, or if it can ever be unleashed again.
+Though the Burning succeeded in defeating the [[Red Court]], the [[nyxfire motes]] of the [[Elven Signaltower]] warned that their great power was not without limit. It is unknown how many times this ultimate power can be unleashed, or if it can ever be unleashed again. As the marker of not only [[Omphalos, the City of Gardens]] but of all the [[Known World]] and its place in the [[Nyx]], the faltering of the Signaltower's light could have disastrous effects on all who live in this world.
