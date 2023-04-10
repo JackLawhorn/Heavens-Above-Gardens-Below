@@ -1,7 +1,7 @@
 ---
 Posted: 01.27.2023
 tag: '#FactionFriday'
-parent: ['[[House]]', '[[Guild]]', '[[Great house]]', '[[Fallen House]]', '[[Iconic House]]']
+parent: ['[[House]]', '[[Guild]]', '[[Great house]]', '[[Fallen Houses]]', '[[Iconic House]]']
 
 previous: '[[(Theme) Legion and monad]]'
 next: '[[Omphalos, the City of Gardens]]'

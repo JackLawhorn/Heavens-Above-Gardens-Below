@@ -23,7 +23,7 @@ From this point, human understanding of the campaigns of the Storm Elves become 
 
 Like the [[Sun Elves]] and their flames, [[organic magics]] of the Storm Elves allow them to wield [[nyxfire]] bolts. These magics manifest in a number of different ways:
 
-- A certain influence with and over the elemental [[nyxfire motes]]
+- A certain influence with and over the elemental [[Nyxfire motes]]
 - The summoning of powerful bolts to be wielded in combat
 - The forging and piloting of aeronautical vehicles called [[cloudcraft]]
 
@@ -33,7 +33,7 @@ Bioengineered by the [[Angels]] themselves for their respective roles in the ete
 
 Favoring the long-range, heavy artillery of their [[nyxfire]] bolts, they are leaner and lack the imposing, [[extramundane]] physique which benefits the [[Sun Elves|Sun]] and [[Sea Elves]] in their close-quarters [[Combat Arts]]. Their cold, slate gray skin is significantly less resistant to slicing and stabbing, and curiously their bones are hollow like the many avian races of the [[Noble beasts]].
 
-Their hair ranges from black and gray to silver and white, and it covers a much greater portion of their bodies. It is thought that this aids in their connections to the [[nyxfire motes]] and the elemental [[Mundial Aspects#wind motes|wind motes]], allowing them to feel the movement of the wind and the crackling power of the nyxfire in the air around them.
+Their hair ranges from black and gray to silver and white, and it covers a much greater portion of their bodies. It is thought that this aids in their connections to the [[Nyxfire motes]] and the elemental [[Mundial Aspects#wind motes|wind motes]], allowing them to feel the movement of the wind and the crackling power of the nyxfire in the air around them.
 
 Their eyes are range from stormy gray to metallic silver to a striking blue. To aid in their long-range combat, their sense of sight is significantly heightened, possibly similar in ability to the [[Rookish clans#raptor eyes|raptor eyes]] of the [[Rookish clans]].
 

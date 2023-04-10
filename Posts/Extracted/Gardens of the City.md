@@ -19,7 +19,7 @@ The swarms of the [[Apiarians Guild]] and the flocks of the [[Rookish clans]] se
 
 The naturalists of the [[Agisters Guild]], who prefer the familiarity of the forests to the cramped urban sprawl, tend to trees and bring back new species of flora from their excursions outside the City walls. Their elk mounts call these gardens home when not in service to their [[Mutualist pacts|mutualist companions]] the [[Agisters Guild#stag knights|stag knights]].
 
-The [[The Maw#Undergardeners|Undergardeners]], previously of the [[Oremongers Guild]] and who now tend to the gardens of [[the Maw]]. This work has helped to diminish the ire of the greater populace despite their status as [[Remnants of the Fallen Houses|remnants]] of a [[Fallen House]] and as [[Warlock|warlocks]].
+The [[The Maw#Undergardeners|Undergardeners]], previously of the [[Oremongers Guild]] and who now tend to the gardens of [[the Maw]]. This work has helped to diminish the ire of the greater populace despite their status as [[Remnants of the Fallen Houses|remnants]] of a [[Fallen Houses]] and as [[Warlock|warlocks]].
 
 More recently, the [[Procyon gaze]] have taken to the gardens of the City, though their detractors among the populace do not approve of their use of them as living spaces or their predilection towards stealing produce.
 

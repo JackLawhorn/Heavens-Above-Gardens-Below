@@ -34,7 +34,7 @@ Secondarily, the March works to find and develop the other races of the [[Orior]
 
 Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves allow them to wield [[nyxfire]] flames. These magics manifest in a number of different ways:
 
-- A certain influence with and over the elemental [[nyxfire motes]]
+- A certain influence with and over the elemental [[Nyxfire motes]]
 - The summoning of flames to be wielded in combat
 - The taming of the [[Wild Magics]] and their nyxfire storms
 

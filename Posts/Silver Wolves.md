@@ -2,7 +2,7 @@
 Posted: 01.13.2023
 tag: '#FactionFriday'
 aliases: Silver Wolf
-parent: ['[[Human clans]]', '[[Great House]]', '[[Fallen House]]', '[[House]]', '[[Iconic House]]']
+parent: ['[[Human clans]]', '[[Great House]]', '[[Fallen Houses]]', '[[House]]', '[[Iconic House]]']
 
 previous: '[[(Theme) Power]]'
 next: '[[Valley of Ruins]]'

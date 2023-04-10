@@ -27,7 +27,7 @@ Within these Cycles, water motes traverse large distances and take on many forms
 
 Though separated into different seas, rivers, and other bodies of water in the minds of the humans, the water motes do not consider such boundaries because of their ties within the Cycles. Differences in culture, disposition, and form still exist between regions, as with all motes, so it is still important to take note of these factors when dealing with them.
 
-Water is an aggressive element, which has led to complex relationships with other motes. They are most amenable to [[#wind motes]], which allow them to take forms which may rise above the surface. Since the arrival of the [[Lunar Aspects#<strike>The Fallen Son</strike>|Fallen Son]] at the bottom of the Sink, water has become distant from the [[nyxfire motes]]. Of course, the water and the earth are forever locked in eternal conflict over territory.
+Water is an aggressive element, which has led to complex relationships with other motes. They are most amenable to [[#wind motes]], which allow them to take forms which may rise above the surface. Since the arrival of the [[Lunar Aspects#<strike>The Fallen Son</strike>|Fallen Son]] at the bottom of the Sink, water has become distant from the [[Nyxfire motes]]. Of course, the water and the earth are forever locked in eternal conflict over territory.
 
 ### Earth motes
 

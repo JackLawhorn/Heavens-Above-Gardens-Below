@@ -62,7 +62,7 @@ At certain points also included:
 The way I see it, there are two categories of virtues/sins to consider in worldbuilding a setting like this: those defined by its inhabitants and those around which the "objective" ethics of the world/universe itself.
 
 For the former, I'm essentially using the [[Crisis of Hubris]] as an extended cautionary tale that imparts a mix of lessons to humanity, and which much of the rest of their history will be in reaction to. The fall of the [[Great House|Great Houses]] of the [[Court]] are storied throughout human history and the history of the [[Known World]], and each has been analyzed and mythologized to no end:
-| [[Fallen House]] | Their fall | Sin | Notes |
+| [[Fallen Houses|Fallen House]] | Their fall | Sin | Notes |
 | - | - | - | - |
 | [[Oremongers Guild]] | [[Fall of the Oremongers Guild]] | Doubleness | A deficit of the Nicomachean virtue of Truthfulness |
 | [[House Lightbringer]] | [[Fall of House Lightbringer]] | Avarice | Analog to the Christian sin of Greed |

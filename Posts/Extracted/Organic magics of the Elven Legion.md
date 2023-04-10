@@ -22,7 +22,7 @@ At the same time, their race is lacking in biodiversity, significantly homogenou
 
 Along with their outwardly apparent characteristics, their connection and access to the purest magics of [[Ylem]] are heightened such as to be unparalleled by all but the [[Angels]] themselves. Their [[Albedo]] and the [[Aura]] it comprises allow them to tap into these energies.
 
-For the [[Sun Elves]] and [[Storm Elves]], this means the ability to summon the elemental [[nyxfire motes]] and to wield their raw flames and sharpened bolts respectively. The [[Sea Elves]] – in their own battleground in the roiling undersea of the Sink – instead wield the harsh light of [[Ylem]] to push back the darkness.
+For the [[Sun Elves]] and [[Storm Elves]], this means the ability to summon the elemental [[Nyxfire motes]] and to wield their raw flames and sharpened bolts respectively. The [[Sea Elves]] – in their own battleground in the roiling undersea of the Sink – instead wield the harsh light of [[Ylem]] to push back the darkness.
 
 ## The Elven tongue
 

@@ -6,7 +6,7 @@ parent: ["[[Aspect]]"]
 
 ---
 
-[[Aspect|Aspects]] of [[Ylem]] greater in domain and influence than their children the [[Minor Aspects]], and second only to the pure divinity of the [[Angels]], the chaotic [[Wild Magics]], and the diluted [[nyxfire motes]].
+[[Aspect|Aspects]] of [[Ylem]] greater in domain and influence than their children the [[Minor Aspects]], and second only to the pure divinity of the [[Angels]], the chaotic [[Wild Magics]], and the diluted [[Nyxfire motes]].
 
 ## Major Aspects in the Known World
 - [[Lunar Aspects]]

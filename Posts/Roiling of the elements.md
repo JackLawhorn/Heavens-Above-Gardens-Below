@@ -29,7 +29,7 @@ The greatest of the Minor Aspects – the [[Giants]] – are also part of the di
 
 ## Fall of the Fallen Son
 
-In the course of the roiling of the elements, the [[Lunar Aspects|Lunar Aspect]] now known as the [[Lunar Aspects#<strike>The Fallen Son</strike>|Fallen Son]] came crashing down into the very waters that were his domain to govern. Those few old enough to remember this disaster – the [[nyxfire motes]] and the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] – refuse to speak of his fall, but some details have been uncovered.
+In the course of the roiling of the elements, the [[Lunar Aspects|Lunar Aspect]] now known as the [[Lunar Aspects#<strike>The Fallen Son</strike>|Fallen Son]] came crashing down into the very waters that were his domain to govern. Those few old enough to remember this disaster – the [[Nyxfire motes]] and the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] – refuse to speak of his fall, but some details have been uncovered.
 
 As the stories go, the Fallen Son was transfixed by the raging [[nyxfire]] below, in which he saw visions of a great future and the freedom that could be found there. He saw untold thousands of civilizations rise and fall, peoples who stood up to the light of [[Ylem]] without conforming to the divine designs of the [[Angels]]. But in his station above the [[Known World]], such freedom – such heretical rebellion – seemed beyond his reach. And so he began his rebellion, insignificant enough with the chaos enrapturing the world, with the exultation of his own peoples: the predators of the [[Sink]]. From their numbers rose what we now know as the [[Akụm]], a race of [[Orior]] relatively safe from the nyxfire storms ravaging the surface.
 
@@ -39,7 +39,7 @@ But this interference was worse than heretical, it was [[paradoxy]] against the 
 
 ### The Astral Wilds
 
-The miscegenation of the [[Mundial Aspects#motes of the landscapes|motes of the landscapes]] and the [[nyxfire motes]] riled up by the [[Wild Magics]] during this period led to an [[extramundane]] biome known as the [[Astral Wilds]]. These Wilds blanket the east and it is said that the magics, though tamed, are so concentrated there that they continue to warp the [[Laws of Power]] as the [[nyxfire]] storms of the [[fallen world|fall]] had.
+The miscegenation of the [[Mundial Aspects#motes of the landscapes|motes of the landscapes]] and the [[Nyxfire motes]] riled up by the [[Wild Magics]] during this period led to an [[extramundane]] biome known as the [[Astral Wilds]]. These Wilds blanket the east and it is said that the magics, though tamed, are so concentrated there that they continue to warp the [[Laws of Power]] as the [[nyxfire]] storms of the [[fallen world|fall]] had.
 
 The landscapes of the Wilds are unnatural in the extreme, and its flora and fauna are irrevocably warped by untold millennia of evolution run rampant. The many races of the Wilds possess powerful organic magics, and many take drastically different forms from those outside the Wilds. Most prominent are the floral races of [[Orior]], including their [[Verdant Knights]]. They are also home to an uncommonly high frequency of [[Discoveries in the Known World|noble beasts]].
 
@@ -47,4 +47,4 @@ The landscapes of the Wilds are unnatural in the extreme, and its flora and faun
 
 The [[Shades]] are biomes cast in the stark shadow of [[nyxfire]] and its divine light. This magical phenomenon is most often caused by proximity to large burns of pure nyxfire, and the peoples of the [[Omphalos, the City of Gardens|City]] had to take great care to prevent creating a Shade as consequence for the great [[Burning]] that ended the [[Red Death period]]. Shades most often manifest in forests, swamps, and caves.
 
-So devoid are the Shades of magical energy that even most [[Ylem]] fear to tread there. Among its peoples are instead some of the more alien races of the [[Orior]], those whose nature it is to remain in the dark rather than basking in the divine light of Ylem. They are most infamous for their native Ylem – [[Umbral Aspects]] known as the [[shade motes]] – which are the stark shadows of these lands given life of their own.
+So devoid are the Shades of magical energy that even most [[Ylem]] fear to tread there. Among its peoples are instead some of the more alien races of the [[Orior]], those whose nature it is to remain in the dark rather than basking in the divine light of Ylem. They are most infamous for their native Ylem – [[Umbral Aspects]] known as the [[Shade motes]] – which are the stark shadows of these lands given life of their own.

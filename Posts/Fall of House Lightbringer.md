@@ -1,7 +1,7 @@
 ---
 Posted: 03.12.2023
 tag: "#SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Nyxblight Tree]]", "[[Nycter]]", "[[Red Court]]", "[[Red Death]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]"]
+parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Nyxblight Tree]]", "[[Nycter]]", "[[Red Court]]", "[[Red Death]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]", "[[Fallen Houses]]"]
 
 previous: "[[Shipwrights Guild]]"
 next: "[[Umbral Aspects]]"
@@ -85,4 +85,4 @@ And here, from his throne, he gazed upon the waves of the Great Sea to the west 
 
 Such was the second loss of the [[Crisis of Hubris]] that brought about the Red Death period in Omphalos, the City of Gardens.
 
-> [[House Lightbringer]] were heroes in their time and achieved heights that would not be seen again for centuries. They represented the shared dream of the [[human clans]]: to create a new and prosperous place in this world for humans. Their [[Fallen House|fall]] teaches us to be weary of the [[Red Court|Hunger]], and not to mistake it for the call of righteous destiny.
+> [[House Lightbringer]] were heroes in their time and achieved heights that would not be seen again for centuries. They represented the shared dream of the [[human clans]]: to create a new and prosperous place in this world for humans. Their [[Fallen Houses|fall]] teaches us to be weary of the [[Red Court|Hunger]], and not to mistake it for the call of righteous destiny.

@@ -47,7 +47,7 @@ Psicrystal is prized for connection to Psionic Sphere, and much of the [[Late Re
 
 ## Brimstone (sulfur)
 
-Brimstone is solid in form and light yellow in color. It is known by many names: brimstone by humanity's scholars, sulfur by the [[devils]] who deal in it, and "devil's gold" by those who hate the [[necromancer demons]] of the [[Fallen House|fallen]] [[Materialists College]].
+Brimstone is solid in form and light yellow in color. It is known by many names: brimstone by humanity's scholars, sulfur by the [[devils]] who deal in it, and "devil's gold" by those who hate the [[necromancer demons]] of the [[Fall of the Materialists College|fallen]] [[Materialists College]].
 
 Although most infamous as the [[Alchemy|alchemical]] byproduct of the devils' dark magics, brimstone is also a naturally- and abundantly-occurring material found at caves and volcanoes as lakes of molten sulfur. It can be found at many reactive and transformational sites, such as geysers, hot springs, mudpots, and fumaroles.
 

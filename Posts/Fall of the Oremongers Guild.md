@@ -1,7 +1,7 @@
 ---
 Posted: 03.05.2023
 tag: "#SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[Oremongers Guild]]"]
+parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[Oremongers Guild]]", "[[Fallen Houses]]"]
 
 previous: "[[Questing Charter]]"
 next: "[[Warlock]]"
@@ -59,4 +59,4 @@ Far to the east, the [[Oremongers Guild#artificer knights|artificer knights]] an
 
 Such was the first loss of the [[Crisis of Hubris]].
 
-> The [[Oremongers Guild]] were the strongest of humanity's [[Iconic pacts|iconic mages]], capable of shaping the very earth to their will and building the foundation of [[Omphalos, the City of Gardens]] itself. As the first of the [[Fallen House|Fallen Houses]], their destruction was devastating and tainted the relationship between the humans and the [[Mundial Aspects]] forever. Their fall teaches us that there is a natural order to things and that it is the responsibility of us all to do our part in respecting and upholding that order.
+> The [[Oremongers Guild]] were the strongest of humanity's [[Iconic pacts|iconic mages]], capable of shaping the very earth to their will and building the foundation of [[Omphalos, the City of Gardens]] itself. As the first of the [[Fallen Houses]], their destruction was devastating and tainted the relationship between the humans and the [[Mundial Aspects]] forever. Their fall teaches us that there is a natural order to things and that it is the responsibility of us all to do our part in respecting and upholding that order.

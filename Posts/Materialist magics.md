@@ -2,7 +2,7 @@
 Posted: 02.13.2023
 tag: '#MagicSystemMonday'
 aliases: materialist, materialists
-parent: ['[[Magics in the Known World]]']
+parent: ['[[Magics in the Known World]]', "[[Materialists College]]"]
 
 previous: '[[The Elf who fell from the sky]]'
 next: '[[History of Materialist magics]]'

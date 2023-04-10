@@ -31,7 +31,7 @@ Prior to [[fall of the Silver Wolves|their fall]] in the [[Later Crisis of Hubri
 
 The Silver Wolves were a common sight as they patrolled the streets, public squares and gardens, and even the rooftops of the [[Omphalos, the City of Gardens|City]]]. These stoic warriors donned [[docetic materials#silver|silver]] arms, armor, and cloaks in human form, though their small patrols often included at least one in wolf form. Their very presence cast a sense of safety and security on the populace – one they would unfortunately come to miss.
 
-In the [[Post-Enlightenment Era]], most of their rank are reduced to little more than mercenaries subsisting off of contracts with the [[Questing Houses]] and their colonies. The remnants of this [[Fallen House]] remain as an oppressed class in the City, and the strongest among their number may serve as the Jurisweard's [[Bloodhounds]] in exchange for greater privileges.
+In the [[Post-Enlightenment Era]], most of their rank are reduced to little more than mercenaries subsisting off of contracts with the [[Questing Houses]] and their colonies. The remnants of this [[Fallen Houses|Fallen House]] remain as an oppressed class in the City, and the strongest among their number may serve as the Jurisweard's [[Bloodhounds]] in exchange for greater privileges.
 
 ## The Oremongers Guild
 

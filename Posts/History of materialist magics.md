@@ -1,7 +1,7 @@
 ---
 Posted: 02.14.2023
 tag: '#TimelineTuesday'
-parent: ['[[Materialist magics]]']
+parent: ['[[Materialist magics]]', "[[Materialists College]]"]
 
 previous: '[[Materialist magics]]'
 next: '[[Aspect]]'
@@ -21,7 +21,7 @@ next: '[[Aspect]]'
 
 Along the [[Elven March]], the many [[Discoveries in the Known World|discoveries]] of the [[human clans]] included the great many plants – large and small – of the [[Known World]]. Purported by the [[Sun Elves]] as beings who feed on the light of [[Ylem]] itself and therefor close to divinity, these flora were of great interest to the human intellectuals. From their ranks rose the herbalists, who carried pouches of medicinal and mind-expanding herbs.
 
-### Later Crisis of Hubris
+### The Later Heliotropic Age
 
 In the [[Later Heliotropic Age]], the [[founding of Omphalos, the City of Gardens]] allowed humanity to further develop in their new, more permanent home. When constructing the urban sprawl of the [[rota]], the [[Oremongers Guild]] had largely preserved the gardens that preceded it. From the herbalists came the botanists whose charge it was to tend to these gardens and to cultivate flora across the City for a wide variety of purposes.
 

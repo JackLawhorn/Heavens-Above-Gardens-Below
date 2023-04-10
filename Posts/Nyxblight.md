@@ -19,7 +19,7 @@ Progeny of the [[Umbral Aspects]], the thorny, black nyxblight vines are an unst
 
 ## Draconic heritage
 
-The nyxblight vines are a common sight wherever an [[Umbral Aspects|Umbral Aspect]] or its influence can be found. Their source is unknown, but they are not understood to be [[Aspect|Aspects]] of the [[Dragon]] themselves. Nevertheless they are a rot upon the [[Known World]] and the reality of the [[Nyx]]
+The nyxblight vines are a common sight wherever an [[Umbral Aspects|Umbral Aspect]] or its influence can be found. Their source is unknown, but they are not understood to be [[Aspect|Aspects]] of the [[Dragon]] themselves. They were given life by [[Entropy]], child of the [[Dragon]] itself, before it was struck down by the [[Angels]]. They are a rot upon the [[Known World]] and the reality of the [[Nyx]]
 
 Curiously, they appear to have [[Red Court#Connection to the Nyxblight|some particular connection]] to the [[Red Court]] more so than to its siblings. Its den deep within the root systems of the [[Nyxblight Tree]] has the greatest density of this overgrowth ever reported in the Known World. Moreover, the thorns of the vines themselves were purported during the [[Red Death period]] to transmit the [[Red Death]] themselves and perhaps even to serve as sensory organs connected to the soldiers of the Red Court.
 

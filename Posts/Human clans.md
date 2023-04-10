@@ -38,7 +38,7 @@ Over the centuries, certain clans rose in prominence, usually due to gaining pow
 
 The Clan Lightbringer arose from those humans who followed closest behind the Elves at the front of the [[Elven March]]. There they absorbed Elven combat techniques and reverence towards battle, leading them to become the greatest human warriors using mundane ability alone.
 
-Even without the [[Sun Elves#Organic magics of the Sun Elves|organic magics of the Sun Elves]], they were so dedicated to the keeping of the light that they took it upon themselves to provide fire to all of humanity behind them in the march. Through this dedication, their bond with the elemental [[nyxfire motes]] grew strong. Though not able to summon [[nyxfire]] flames as the [[Sun Elves]] could, after generations they did in fact become able to ignite the smallest of sparks.
+Even without the [[Sun Elves#Organic magics of the Sun Elves|organic magics of the Sun Elves]], they were so dedicated to the keeping of the light that they took it upon themselves to provide fire to all of humanity behind them in the march. Through this dedication, their bond with the elemental [[Nyxfire motes]] grew strong. Though not able to summon [[nyxfire]] flames as the [[Sun Elves]] could, after generations they did in fact become able to ignite the smallest of sparks.
 
 After the [[Founding of Omphalos, the City of Gardens|founding]] of [[Omphalos, the City of Gardens]] and the [[Court]] in the later [[Heliotropic Age]], Clan Lightbringer would not only gain [[House|Houseship]] but would be the first [[Great House]] as well.
 

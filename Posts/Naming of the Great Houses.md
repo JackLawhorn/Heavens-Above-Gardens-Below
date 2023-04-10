@@ -1,7 +1,7 @@
 ---
 Posted: 02.05.2023
 tag: '#SceneSunday'
-parent: ['[[Court]]', '[[Great House]]', '[[Heliotropic Age]]', '[[Later Heliotropic Age]]']
+parent: ['[[Court]]', '[[Great House]]', '[[Heliotropic Age]]', '[[Later Heliotropic Age]]', "[[House Lightbringer]]", "[[Materialists College]]", "[[Silver Wolves]]", "[[Oremongers Guild]]"]
 
 previous: '[[Court]]'
 next: '[[Pact magics]]'
@@ -23,7 +23,7 @@ They were to be the best of humanity. Titans of might, industry, and knowledge. 
 
 First was [[Clan Wolfstepper]], the first and most noble of the great clans whose [[Silver Wolves]] grasped the light of the [[Silver Moon]] itself. They were humanity's greatest hunters, and had served as silent guardians along the majority of the [[Elven March]]. They were a bridge between the humans and the many beasts of the [[Known World]], and even now – here in the halls of the Court – their ranks could be seen in both their human and wolf forms.
 
-Second was [[House Lightbringer]], named for their closeness to the [[Sun Elves]] and to the [[nyxfire motes]] themselves. Like the Silver Wolves, their [[cland]] heritage was one of solemn responsibility to lead and protect humanity both on the Elven March and in the young City of Gardens. Already, they had taken on the divine charge of the [[Post-Heliotropic Elven March|since-departed]] [[Elven Legion|Legion]] in keeping the [[nyxfire]] flame of the [[Elven Signaltower]], and truthfully they were the closest thing the human clans had to true leaders.
+Second was [[House Lightbringer]], named for their closeness to the [[Sun Elves]] and to the [[Nyxfire motes]] themselves. Like the Silver Wolves, their [[cland]] heritage was one of solemn responsibility to lead and protect humanity both on the Elven March and in the young City of Gardens. Already, they had taken on the divine charge of the [[Post-Heliotropic Elven March|since-departed]] [[Elven Legion|Legion]] in keeping the [[nyxfire]] flame of the [[Elven Signaltower]], and truthfully they were the closest thing the human clans had to true leaders.
 
 Third was the [[Oremongers Guild]], for what they lacked in history and heritage they made up for in their recent contributions to humanity and their City of Gardens. The Guild's [[Iconic pacts|iconic pact]] with the elemental [[Mundial Aspects#earth motes|earth motes]] raised up the City itself and the great halls these proceedings now took place in. They represented the burgeoning industry of the City but, more than that, their magics seemed to have much promise in combat and in taming the still-wild Known World.
 

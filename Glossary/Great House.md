@@ -13,7 +13,7 @@ Later, when House Lightbringer departed from [[Omphalos, the City of Gardens]] o
 
 Later in the [[Crisis of Hubris]], the rise of the [[Pretender]] and socio-political pressure to deal with the threat he represented led to the Court granting his [[Disciples of the Pretender|Disciples]] [[Great House|Great Houseship]] along with their [[Questing Charter]].
 
-Since the Crisis of Hubris and the [[Fallen House|fall]] of a majority of these Great Houses, only the [[House of the Sun]] remains.
+Since the Crisis of Hubris and the [[Fallen Houses|fall]] of a majority of these Great Houses, only the [[House of the Sun]] remains.
 
 ## See also
 ```dataview

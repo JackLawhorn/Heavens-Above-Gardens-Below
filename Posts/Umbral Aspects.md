@@ -30,7 +30,7 @@ So potent is the corruptive influence of these Umbral Aspects that they have phy
 
 ### Nyxblight
 
-In the presence of an Umbral Aspect, one is sure to find an overgrowth of [[Nyxblight]] vines. Impossibly black and covered in piercing thorns, the nyxblight grows not only throughout the [[Known World]] but across the wider [[Nyx]]. It is a blight on reality that grows unchecked and strangles the light of [[Ylem]] itself.
+In the presence of an Umbral Aspect, one is sure to find an overgrowth of [[nyxblight]] vines. Impossibly black and covered in piercing thorns, the nyxblight grows not only throughout the [[Known World]] but across the wider [[Nyx]]. It is a blight on reality that grows unchecked and strangles the light of [[Ylem]] itself.
 
 Nyxblight is most closely associated with the Umbral Aspect of [[Red Court|Hunger]], whose great [[Nyxblight Tree]] has been a festering scar upon the Known World since the [[fallen world|fall]] of the [[Old World]].
 
@@ -40,9 +40,9 @@ Nyxblight is most closely associated with the Umbral Aspect of [[Red Court|Hunge
 
 The [[Shades]] are an extramundane, [[benighted]] biome that arise in the shadows cast by the harsh light of pure [[nyxfire]]. Here, the magics themselves are warped, and mages may or may not find themselves able to connect to them. They are deep and dark and travelers are prone to succumbing to [[Oblivion]]'s children: [[Low Ones|Madness]] or [[Fallen Son|Despair]].
 
-Here, the shadows themselves become animated and manifest in a form similar to the [[Mundial Aspects]]: the [[shade motes]]. The shade motes, like the flora and fauna that populate the Shades, are not necessarily malicious but have a predilection towards trickery. In the immense darkness of these places, the shade motes summon [[shades motes#phantom flames|phantom flames]] that lure passersby deeper into treacherous woods, swamps, and caves.
+The shadows become animated and manifest in a form similar to the [[Mundial Aspects]]: the [[Shade motes]]. The shade motes, like the flora and fauna that populate the Shades, are not necessarily malicious but have a predilection towards trickery. In the immense darkness of these places, the shade motes summon [[phantom flames]] that lure passersby deeper into treacherous woods, swamps, and caves.
 
-> For more, see [[Shades]] and [[shade motes]].
+> For more, see [[Shades]] and [[Shade motes]].
 
 ## See also
 ```dataview

@@ -66,7 +66,7 @@ The [[Rookish clans|Rookish]] [[Rookish cardinals|cardinals]], who were leaders 
 
 ### House of the Sun Daywatch
 
-The [[House of the Sun]], which had been been a relatively passive political entity in [[Omphalos, the City of Gardens]] and its [[Court]] since splitting off from the [[House Lightbringer]], now played a central role during the [[Red Death period]]. Their connection to both the [[nyxfire motes]] and the [[Elven Signaltower]] made them indispensable to the [[Campaigns against the Red Court|campaigns]] against the [[Red Court]] who were weak to such divine magics.
+The [[House of the Sun]], which had been been a relatively passive political entity in [[Omphalos, the City of Gardens]] and its [[Court]] since splitting off from the [[House Lightbringer]], now played a central role during the [[Red Death period]]. Their connection to both the [[Nyxfire motes]] and the [[Elven Signaltower]] made them indispensable to the [[Campaigns against the Red Court|campaigns]] against the [[Red Court]] who were weak to such divine magics.
 
 Up atop the Signaltower, the [[House of the Sun#Signalkeepers|Signalkeepers]] served a vital role in tending to the [[nyxfire]] flame. Once it became apparent that the light of [[Ylem]] was their most effective defensive measure against the [[Soldiers of the Red Court|soldiers of the Red Court]], they began the [[Long Daylight]] during which the its flames burned at full force and illuminated the City below for months straight without end. This Daywatch was [[House of the Sun#Daywatch|forever changed]] by their noble station and the constant exposure to the magics of the [[Astral Sphere]], and would ultimately bring about the great [[Burning]].
 
@@ -74,6 +74,6 @@ On the ground, the House of the Sun primarily served as leaders of the survivors
 
 #### Torchbearer's Purifier clerics
 
-A class of Apotropaics arose out of the [[House of the Sun]] in the [[Red Death period City of Gardens]] that called themselves the Purifiers. These clerics came from the same noble lineage as the fallen [[Fall of House Lightbringer|Captain Torchbearer]] who had left the City as part of [[House Lightbringer]]'s [[quest|questing party]], and boasted the greatest connection to the [[nyxfire motes]] of any in that [[House]].
+A class of Apotropaics arose out of the [[House of the Sun]] in the [[Red Death period City of Gardens]] that called themselves the Purifiers. These clerics came from the same noble lineage as the fallen [[Fall of House Lightbringer|Captain Torchbearer]] who had left the City as part of [[House Lightbringer]]'s [[quest|questing party]], and boasted the greatest connection to the [[Nyxfire motes]] of any in that [[House]].
 
 They patrolled the streets of [[Omphalos, the City of Gardens]] equipped with firebombs and flint-striker blades that they could make erupt into flames. Filled with the same zeal and devotion to the light of [[Ylem]] as their forebears, they would walk into [[Red Death period City of Gardens#enemy territory|enemy territory]] alone if no others would join them, slicing through the [[nyxblight]] growths and the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] with ease. They were infamous for self immolating if injured, cornered, or infected, continuing on the good fight even in death.
