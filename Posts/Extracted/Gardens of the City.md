@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Omphalos, the City of Gardens]]", "[[City infrastructure and layout]]"]
 aliases: garden, gardens
 ---

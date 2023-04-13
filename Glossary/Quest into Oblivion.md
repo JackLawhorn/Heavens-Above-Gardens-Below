@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Quest]]"]
 aliases: Quests into Oblivion
 ---

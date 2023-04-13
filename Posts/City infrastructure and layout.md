@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.25.2023
 tag: '#CivilizationSaturday'
 aliases: infrastructure and layout, infrastructure, layout

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.14.2023
 tag: '#CivilizationSaturday'
 parent: ['[[Known World]]', '[[Old World]]', '[[Discoveries in the Known World]]']

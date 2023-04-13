@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.04.2023
 tag: "#TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]", "[[Red Death period City of Gardens]]", "[[House of the Sun]]", "[[Elven Signaltower]]"]

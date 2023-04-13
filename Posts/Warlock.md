@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.06.2023
 tag: "#MagicSystemMonday"
 aliases: warlocks, Pact Breakers

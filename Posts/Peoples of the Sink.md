@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.21.2023
 tag: '#CivilizationSaturday'
 parent: ['[[Sink]]', '[[Orior]]']

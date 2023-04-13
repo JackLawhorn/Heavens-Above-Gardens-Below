@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.08.2023
 tag: "#CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Court]]", "[[Great House]]"]

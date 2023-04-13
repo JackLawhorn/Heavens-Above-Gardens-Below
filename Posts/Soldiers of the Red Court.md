@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.31.2023
 tag: "#FactionFriday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]", "[[Red Court]]", "[[Red Death period]]", "[[Red Death]]", "[[Near-life]]", "[[Campaigns against the Red Court]]"]

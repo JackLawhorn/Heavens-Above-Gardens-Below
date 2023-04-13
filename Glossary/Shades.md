@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: shade
 parent: ["[[Aspect]]", "[[Umbral Aspects]]"]
 ---

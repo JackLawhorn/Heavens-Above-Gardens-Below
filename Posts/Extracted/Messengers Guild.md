@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Rookish clans]]", "[[House]]", "[[Guild]]", "[[Mutualist House]]", "[[Houses of Industry]]"]
 ---
 **Extracted from:** `= this.parent`

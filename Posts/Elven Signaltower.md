@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.25.2023
 tag: '#WorldWednesday'
 aliases: Signaltower, sun

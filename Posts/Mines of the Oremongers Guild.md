@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.01.2023
 tag: '#WorldWednesday'
 parent: ["[[Oremongers Guild]]"]

@@ -1,4 +1,5 @@
 ---
+dg-publish: false
 Posted: 04.02.2023
 tag: "#SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]", "[[Campaigns against the Red Court]]", "[[Red Court]]", "[[Materialists College]]", "[[Rookish cardinals]]"]

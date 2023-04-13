@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.11.2023
 tag: "#TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Later Crisis of Hubris]]", "[[Reconstruction]]", "[[Elven Signaltower]]", "[[Campaigns against the Red Court]]", "[[Omphalos, the City of Gardens]]"]

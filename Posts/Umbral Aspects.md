@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.13.2023
 tag: "#MagicSystemMonday"
 parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Known World]]", "[[Dragon]]", "[[Vestiges]]"]

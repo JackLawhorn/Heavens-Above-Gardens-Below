@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]"]
 ---
 **Extracted from:** `= this.parent`

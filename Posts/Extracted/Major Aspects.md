@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Aspect]]"]
 ---
 **Extracted from:** `= this.parent`

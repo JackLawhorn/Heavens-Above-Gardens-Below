@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Elven Legion]]", "[[Sun Elves]]", "[[Storm Elves]]", "[[Sea Elves]]", "[[Organic magics]]"]
 ---
 **Extracted from:** `= this.parent`

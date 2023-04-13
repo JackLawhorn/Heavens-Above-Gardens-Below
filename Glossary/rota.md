@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[City infrastructure and layout]]"]
 ---
 #Glossary 

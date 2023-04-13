@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Lunar Aspects]]"]
 ---
 #Glossary 

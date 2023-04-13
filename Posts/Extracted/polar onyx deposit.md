@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: polar onyx deposits
 parent: ['[[Known World]]', '[[Omphalos, the City of Gardens]]']
 ---

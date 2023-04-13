@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.25.2023
 tag: "#CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death]]", "[[Campaigns against the Red Court]]", "[[Omphalos, the City of Gardens]]"]

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.06.2023
 tag: '#FactionFriday'
 parent: ['[[Elven Legion]]', '[[Orior]]']

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.07.2023
 tag: '#TimelineTuesday'
 parent: ['[[Scholars of the City]]', '[[Mouseion]]', '[[Philosophers Guild]]']

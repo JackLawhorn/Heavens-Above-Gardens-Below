@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 banner: "https://greatestgreeks.files.wordpress.com/2016/07/pythagoras_humanity-healing.jpg"
 
 parent: ["[[Scholars of the City]]", "[[House]]"]

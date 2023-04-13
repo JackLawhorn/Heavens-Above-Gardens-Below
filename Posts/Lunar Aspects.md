@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.11.2023
 tag: '#WorldWednesday'
 aliases: Moons of the Known World, moon, moons, Lunar Aspect

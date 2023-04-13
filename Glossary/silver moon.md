@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Lunar Aspects]]"]
 aliases: Wolf Mother, Silver Wolf Moon, Wolf Mother Moon
 ---

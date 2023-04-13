@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.30.2023
 tag: '#MagicSystemMonday'
 parent: ['[[Iconic pacts]]', '[[Oremongers Guild]]']

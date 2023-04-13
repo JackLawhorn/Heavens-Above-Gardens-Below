@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Known World]]", "[[Lands to the south]]"]
 aliases: Cradle
 ---

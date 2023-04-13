@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Upcoming
 
 Ideas that have been mentioned but haven't been created just yet:

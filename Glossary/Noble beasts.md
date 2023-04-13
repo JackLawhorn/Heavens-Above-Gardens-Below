@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Known World]]", "[[Discoveries in the Known World]]"]
 aliases: noble beast
 ---

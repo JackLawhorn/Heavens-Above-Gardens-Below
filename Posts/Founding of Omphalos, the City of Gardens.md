@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.22.2023
 tag: '#SceneSunday'
 aliases: founding, Founding of the City

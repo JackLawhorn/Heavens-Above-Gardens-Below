@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.19.2023
 tag: "#SceneSunday"
 parent: ["[[Heliotropic Age]]", "[[Later Heliotropic Age]]", "[[Law and justice in the City]]", "[[Jurisweard]]"]

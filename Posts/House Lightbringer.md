@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.03.2023
 tag: "#FactionFriday"
 parent: ["[[House]]", "[[Great House]]", "[[Fallen Houses]]", "[[Jurisweard]]"]

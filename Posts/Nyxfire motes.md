@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.10.2023
 tag: "#MagicSystemMonday"
 parent: ["[[Aspect]]", "[[Nyxfire]]"]

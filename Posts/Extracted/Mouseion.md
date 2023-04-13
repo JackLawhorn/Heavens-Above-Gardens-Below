@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Scholars of the City]]"]
 aliases: bards, bardistry, artists
 ---

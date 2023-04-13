@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.01.2023
 tag: "#CivilizationSaturday"
 parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]", "[[Waterways]]"]

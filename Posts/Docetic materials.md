@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.23.2023
 tag: '#MagicSystemMonday'
 parent: ['[[Docetic]]', "[[Known World]]", "[[Materialist magics]]"]

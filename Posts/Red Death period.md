@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.21.2023
 tag: "#TimelineTuesday"
 parent: ["[[Crisis of Hubris]]"]

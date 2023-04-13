@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: Old Elven
 parent: ["[[Elven culture]]"]
 ---

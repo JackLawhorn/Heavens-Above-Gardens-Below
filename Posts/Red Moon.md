@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.05.2023
 tag: "#WorldWednesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]"]

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.09.2023
 tag: '#MagicSystemMonday'
 parent: ['[[Iconic pacts]]', '[[Silver Wolves]]', '[[Discoveries in the Known World]]']

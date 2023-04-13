@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.11.2023
 tag: '#CivilizationSaturday'
 parent: ['[[Omphalos, the City of Gardens]]', '[[City districts]]', '[[Old City]]']
@@ -20,7 +21,6 @@ The Scholars Quarter is the academic center in [[Omphalos, the City of Gardens]]
 > For more, see [[Scholars of the City]].
 
 ## Home to
-
 | Faction                  | Fields                                | Founded                     |
 | ------------------------ | ------------------------------------- | --------------------------- |
 | [[Materialists College]] | Biology, chemistry, material sciences | [[Later Heliotropic Age]]   |

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.10.2023
 tag: "#FactionFriday"
 parent: ["[[House]]", "[[Guild]]", "[[Houses of Industry]]", "[[Engineers Union]]", "[[Duchy of Stilts]]", "[[Transportation in the Known World]]"]

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.18.2023
 tag: '#WorldWednesday'
 aliases: The Sink

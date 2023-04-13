@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Orior]]", '[[Elven Legion]]']
 alias: Storm Elf
 ---

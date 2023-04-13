@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.02.2023
 tag: '#MagicSystemMonday'
 parent: ['[[Magics in the Known World]]']

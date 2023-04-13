@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Human clans]]", "[[Union]]", "[[Mutualist House]]", "[[Discoveries in the Known World]]"]
 aliases: rook, rooks, rookish, rookish house, rookish houses
 ---

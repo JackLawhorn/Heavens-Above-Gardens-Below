@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: "[[History of the Subjective]]"
 ---
 #Glossary 

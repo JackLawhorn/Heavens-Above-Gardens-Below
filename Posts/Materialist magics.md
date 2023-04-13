@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.13.2023
 tag: '#MagicSystemMonday'
 aliases: materialist, materialists

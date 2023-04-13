@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.03.2023
 tag: "#FactionFriday"
 alias: House Lightbringer's Quest into Oblivion, Questing Charter of House Lightbringer

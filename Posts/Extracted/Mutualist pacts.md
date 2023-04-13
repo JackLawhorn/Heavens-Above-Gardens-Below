@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Pact magics]]"]
 aliases: mutualist, mutualist clan, mutualist clans
 ---

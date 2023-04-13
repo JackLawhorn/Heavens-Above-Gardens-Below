@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: rocca
 parent: ["[[City infrastructure and layout]]", "[[Rookish clans]]", "[[Messengers Guild]]"]
 ---

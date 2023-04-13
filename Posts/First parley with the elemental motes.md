@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.15.2023
 tag: '#SceneSunday'
 parent: ["[[Heliotropic Age]]", "[[Elven March]]", "[[Mundial Aspects]]", "[[Known World]]", "[[Discoveries in the Known World]]"]

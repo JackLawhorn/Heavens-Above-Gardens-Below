@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.20.2023
 tag: "#FactionFriday"
 parent: ["[[Rookish clans]]", "[[Houses of Industry]]", "[[Human clans]]", "[[House]]", "[[Mutualist pacts]]", "[[Mutualist House]]", "[[Duchy of Stilts]]"]

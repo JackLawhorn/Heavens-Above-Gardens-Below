@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.14.2023
 tag: "#TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]", "[[Red Death]]", "[[Red Court]]", "[[Campaigns against the Red Court]]"]

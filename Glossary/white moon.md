@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Lunar Aspects]]"]
 aliases: White Owl, White Owl Moon
 ---

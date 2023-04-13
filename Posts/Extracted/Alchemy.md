@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: alchemical, alchemist
 parent: ["[[Materialist magics]]", "[[History of materialist magics]]", "[[Oremongers Guild]]"]
 ---

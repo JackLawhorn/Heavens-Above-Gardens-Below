@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Pact magics]]"]
 aliases: iconic pact
 ---

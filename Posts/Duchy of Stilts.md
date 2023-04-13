@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.11.2023
 tag: "#CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]", "[[Fisher Queens]]"]

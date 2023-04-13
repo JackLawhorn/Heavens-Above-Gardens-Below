@@ -1,6 +1,7 @@
 ---
-aliases: aurifabers
+dg-publish: true
 parent: ["[[Oremongers Guild]]"]
+aliases: aurifabers
 ---
 #Glossary 
 # Aurifaber

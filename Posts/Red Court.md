@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 03.20.2023
 tag: "#MagicSystemMonday"
 parent: ["[[Umbral Aspects]]"]

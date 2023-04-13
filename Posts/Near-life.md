@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.03.2023
 tag: "#MagicSystemMonday"
 

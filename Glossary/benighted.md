@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: benighting, unbenighted
 parent: ["[[Lunar Aspects]]"]
 ---

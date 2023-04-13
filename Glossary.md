@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Glossary
 ```dataview
 TABLE file.tags[0] as "Tag"

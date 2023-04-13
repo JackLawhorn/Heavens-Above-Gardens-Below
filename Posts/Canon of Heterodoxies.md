@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.24.2023
 tag: '#FactionFriday'
 parent: ['[[Union]]']

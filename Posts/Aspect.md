@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.15.2023
 tag: '#WorldWednesday'
 aliases: Aspects

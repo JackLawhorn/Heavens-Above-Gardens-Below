@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.13.2023
 tag: '#FactionFriday'
 aliases: Silver Wolf

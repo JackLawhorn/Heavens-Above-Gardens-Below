@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.14.2023
 tag: '#TimelineTuesday'
 parent: ['[[Materialist magics]]', "[[Materialists College]]"]

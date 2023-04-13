@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: "[[Court]]"
 aliases: Lord Representatives, Lord, Lords
 ---

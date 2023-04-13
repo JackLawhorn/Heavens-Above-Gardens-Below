@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: prehistoric
 parent: ['[[Ages of the Known World]]']
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: Iconic Houses, heterodoxy, heterodoxies
 ---
 #Glossary

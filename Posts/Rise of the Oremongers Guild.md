@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.29.2023
 tag: '#SceneSunday'
 parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Oremongers Guild]]']

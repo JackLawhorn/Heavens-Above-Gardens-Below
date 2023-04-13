@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]"]
 ---
 #Glossary 

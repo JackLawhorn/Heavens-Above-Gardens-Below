@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.12.2023
 tag: "#WorldWednesday"
 parent: ["[[Umbral Aspects]]", "[[Shades]]"]

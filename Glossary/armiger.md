@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Oremongers Guild]]"]
 ---
 #Glossary 

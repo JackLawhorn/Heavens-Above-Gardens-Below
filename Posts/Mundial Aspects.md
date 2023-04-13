@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.16.2023
 tag: '#MagicSystemMonday'
 aliases: Mundial Aspect, elemental mote, mote

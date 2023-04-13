@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: moonless night, moonless
 parent: ["[[Known World]]", "[[Lunar Aspects]]"]
 ---

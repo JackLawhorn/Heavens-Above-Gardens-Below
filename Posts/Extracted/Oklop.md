@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Orior]]", "[[Peoples of the Sink]]"]
 aliases: Oklop consortium, Oklop consortiums
 ---

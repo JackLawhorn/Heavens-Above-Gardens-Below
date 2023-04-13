@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Nyx]]", "[[Standard Elven Cosmology]]"]
 ---
 #Glossary 

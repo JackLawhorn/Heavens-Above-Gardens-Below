@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # List of posts
 ```dataview
 TABLE Posted, tag as "Daily Tag"

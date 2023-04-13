@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[prehistory]]"]
 alias: Old World continent
 ---

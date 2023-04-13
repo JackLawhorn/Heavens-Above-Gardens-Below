@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.06.2023
 tag: '#MagicSystemMonday'
 aliases: pact magic, pact, pacts, pact-bound, patron

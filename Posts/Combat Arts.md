@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 02.20.2023
 tag: '#MagicSystemMonday'
 aliases: Combat Art

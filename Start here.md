@@ -1,3 +1,7 @@
+---
+dg-home: true
+dg-publish: true
+---
 # Heavens Above; Gardens Below
 a worldbuilding project by Jack Lawhorn
 

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 01.17.2023
 tag: '#TimelineTuesday'
 parent: ['[[Prehistory]]', '[[Mundial Aspects]]', '[[Known World]]']

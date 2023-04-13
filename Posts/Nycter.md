@@ -1,10 +1,11 @@
 ---
+dg-publish: true
 Posted: 03.17.2023
 tag: "#FactionFriday"
 parent: ["[[Orior]]", "[[Nyxblight Tree]]"]
 
 previous: "[[(Theme) Exploring cosmicism]]"
-next: "[[Mutualist Houses]]"
+next: "[[Mutualist House]]"
 ---
 `= this.tag` #DailyPost 
 # The Nycter
