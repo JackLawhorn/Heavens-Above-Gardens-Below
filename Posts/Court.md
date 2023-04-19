@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 02.04.2023
 tag: '#CivilizationSaturday'
-parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]']
+parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]', "[[White Quarter]]"]
 
 previous: '[[House Lightbringer]]'
 next: '[[Naming of the Great Houses]]'

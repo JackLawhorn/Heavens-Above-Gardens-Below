@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 parent: ["[[Standard Elven Cosmology]]"]
+aliases: Law of Power
 ---
 #Glossary
 # The Laws of Power

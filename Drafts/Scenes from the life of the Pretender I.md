@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-Posted: 04.09.2023
+Posted: 04.16.2023
 tag: "#SceneSunday"
 
-previous: "[[Fallen Houses]]"
-next: "[[Nyxfire motes]]"
+previous: "[[Reconstruction]]"
+next: "[[Minor Aspects in the City]]"
 ---
 `= this.tag` #DailyPost 
-# The night of the Burning
+# Scenes from the life of the Pretender I
 `= this.Posted`
 
 **Previous:** `= this.previous`

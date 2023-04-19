@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 03.08.2023
 tag: "#WorldWednesday"
-parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]", "[[Gardens]]"]
+parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]", "[[New City]]", "[[Gardens]]"]
 
 previous: "[[Early Crisis of Hubris]]"
 next: "[[(Theme) Virtue and sin]]"

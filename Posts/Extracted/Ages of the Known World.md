@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 parent: ["[[Known World]]"]
+aliases: age, ages
 ---
 **Extracted from:** `= this.parent`
 # Ages of the Known World
