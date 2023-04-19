@@ -27,6 +27,8 @@ The Mouseion serves as the mecca of the arts in the [[Known World]]. Inspired by
 
 ## Great Works of the Mouseion
 
+## Access to the arts in the City
+
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
