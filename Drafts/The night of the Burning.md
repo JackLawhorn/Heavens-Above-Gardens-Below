@@ -2,6 +2,7 @@
 dg-publish: true
 Posted: 04.09.2023
 tag: "#SceneSunday"
+parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]", "[[Burning]]"]
 
 previous: "[[Fallen Houses]]"
 next: "[[Nyxfire motes]]"

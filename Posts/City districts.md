@@ -6,7 +6,7 @@ parent: ["[[Omphalos, the City of Gardens]]"]
 aliases: city district, district, districts
 
 previous: "[[Mouseion]]"
-next: "[[Scenes from the life of the Pretender II]]"
+next: "[[Triump of the Sobek]]"
 ---
 `= this.tag` #DailyPost 
 # Districts of the City of Gardens

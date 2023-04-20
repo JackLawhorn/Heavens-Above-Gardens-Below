@@ -37,3 +37,11 @@ Atop the [[Elven Signaltower]], two members of the [[House of the Sun]]'s [[Hous
 - Deformities of the Daywatch
 - Bargaining with the [[nyxfire motes]]
 - Visions of the Burning
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+FROM #SceneSunday
+WHERE parent AND contains(parent, [[Red Death period]])
+SORT Posted ASC
+```
