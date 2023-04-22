@@ -28,7 +28,7 @@ When the [[nyxfire motes]] in the [[Elven Signaltower]]'s flame finally accepted
 
 The Burning began in the blink of an eye and was visible to lookers on as far away as the horizon. First a flash from the Signaltower and then a thin beam of pure [[nyxfire]] extending from its top downward towards the City below. The flames were all-encompassing and all-consuming, and they grew taller in height even than the City's towers and [[roccas]].
 
-> For an account of these events, see [[The night of the burning]].
+> For an account of these events, see [[The night of the Burning]].
 
 ## Results and consequences
 
