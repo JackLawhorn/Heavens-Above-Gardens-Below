@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 Posted: 04.02.2023
 tag: "#SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]", "[[Nyxfire motes]]", "[[House of the Sun]]", "[[State religion]]", "[[Burning]]", "[[New Vergonic Movement]]"]

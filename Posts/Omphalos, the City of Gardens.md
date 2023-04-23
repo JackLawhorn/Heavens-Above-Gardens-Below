@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 01.28.2023
 tag: '#CivilizationSaturday'
-aliases: Omphalos, City, City of Gardens
+aliases: City, City of Gardens
 parent: ['[[Known World]]']
 
 previous: '[[Oremongers Guild]]'

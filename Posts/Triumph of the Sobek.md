@@ -75,7 +75,7 @@ The nervous energy of the crowd cannot, at this point, be contained. Those few [
 
 "That their laboratories are stocked with specimens of flesh and blood and bone from the very peoples their death squads slaughtered!"
 
-"The College has been abolished effective immediately," they explained, "and its scholars will be exiled from the City of Gardens. Should any of these *demons* be caught, they will face immediate execution!"
+"The College has been abolished effective immediately," they explained, "and its scholars will be [[Fall of the Materialists College#Exile and flight of the necromancers|exiled]] from the City of Gardens. Should any of these *demons* be caught, they will face immediate execution!"
 
 Looking down at the accused, kneeling before her feet, she whispered, "And as for you..." and kicked him down the gleaming white steps of the Court where he fell before the masses. "Do with him what you will!"
 

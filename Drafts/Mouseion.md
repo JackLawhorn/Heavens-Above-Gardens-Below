@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 Posted: 04.21.2023
 tag: "#FactionFriday"
 parent: ["[[Scholars of the City]]"]

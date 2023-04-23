@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 Posted: 04.17.2023
 tag: "#MagicSystemMonday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[Minor Aspects]]"]

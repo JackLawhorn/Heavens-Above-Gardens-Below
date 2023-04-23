@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 parent: ["[[Human clans]]", "[[Union]]", "[[Mutualist House]]", "[[Discoveries in the Known World]]"]
-aliases: rook, rooks, rookish, rookish house, rookish houses
+aliases: rook, rooks, Rookish, Rookish house, Rookish houses
 ---
 **Extracted from:** `= this.parent`
 # The Rookish clans
