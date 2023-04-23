@@ -20,9 +20,9 @@ next: '[[Rise of the Oremongers Guild]]'
 Omphalos, the City of Gardens is a sprawling coastal city-state and the sole bastion of humanity in the [[Known World]].
 
 This page serves to aggregates all content about **Omphalos, the City of Gardens**. See the full list of pages here:
-
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Omphalos, the City of Gardens]])
-SORT file.name ASC
+SORT Posted ASC
 ```
+

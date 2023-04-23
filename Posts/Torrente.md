@@ -5,7 +5,7 @@ tag: "#CivilizationSaturday"
 parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]", "[[Waterways]]"]
 
 previous: "[[Soldiers of the Red Court]]"
-next: "[[Scenes from the Red Death period]]"
+next: "[[Visions of the Daywatch]]"
 ---
 `= this.tag` #DailyPost 
 # The river Torrente

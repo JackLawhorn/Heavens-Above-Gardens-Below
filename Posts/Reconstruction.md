@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 Posted: 04.15.2023
-tag: "#CivilizationSunday"
+tag: "#CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Later Crisis of Hubris]]", "[[Renascence]]", "[[Early Renascence period]]", "[[Burning]]", "[[House of the Sun]]"]
 
 previous: "[[House of the Sun]]"

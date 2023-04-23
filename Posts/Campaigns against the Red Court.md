@@ -40,7 +40,7 @@ The [[Red Death period]] refugees who gathered in survivor camps across the newl
 
 The [[Apotropaics#Berserkers of the Red Moon|Berserkers]] of the [[Red Moon]], elite [[Apotropaics]] who hailed from [[Clan Wolfstepper]], were particularly infamous. Running an organized protection racket out of the Stilts, they abused their station and brought shame upon their [[Human clans|clan]]. It was alleged by some in the [[Later Crisis of Hubris]] that these crimes significantly influenced the public perception of the [[Silver Wolves]] and their departure from the [[Omphalos, the City of Gardens]] that was called their [[Fall of the Silver Wolves|fall]].
 
-> For more, see [[Red Death period City of Gardens#Bastions from the Red Court|Red Death period City of Gardens > Bastions from the Red Court]] and [[Scenes from the Red Death period#Crimes of the Berserkers|Scenes from the Red Death period > Crimes of the Berserkers]].
+> For more, see [[Red Death period City of Gardens#Bastions from the Red Court|Red Death period City of Gardens > Bastions from the Red Court]].
 
 ### The House of the Sun and the Burning
 

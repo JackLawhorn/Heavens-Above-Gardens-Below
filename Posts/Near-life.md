@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 04.03.2023
 tag: "#MagicSystemMonday"
 
-previous: "[[Scenes from the Red Death period]]"
+previous: "[[Visions of the Daywatch]]"
 next: "[[Long Daylight]]"
 ---
 `= this.tag` #DailyPost 

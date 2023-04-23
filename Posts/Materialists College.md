@@ -34,8 +34,6 @@ Their greatest contribution was the discovery of their weakness to the light of 
 
 This period also sowed the seeds of a greater loss, the [[fall of the Materialists College]] as the third [[Fallen Houses|Fallen House]] of the [[Crisis of Hubris]], as the ghoulish [[necromancer demons]] arose from the College anatomists who studied the corpses of this period.
 
-> For more, see [[Scenes from the Red Death period#Shame of the Materialists College|Scenes from the Red Death period > Shame of the Materialists College]].
-
 ### Fall of the Materialists College
 
 From the [[College]] anatomists of the [[Red Death period]] arose the [[necromancers]], who proved themselves to be the most powerful of the [[Materialist magics|materialists]]. These ghoulish mages were alchemists and poachers, who hunted [[noble beasts]] and other races of the [[Orior]] in secret. From their prey, they took raw materials which they leveraged to create powerful artifacts that granted them magics resembling the [[organic magics]] of these peoples.
