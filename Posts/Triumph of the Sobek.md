@@ -69,7 +69,7 @@ With this, the murmurings of the crowd disappear and all grow silent.
 
 The crowd erupts once again into surprised murmuring, speculation spreading faster than the truth could be uttered. Could the end of the [[Red Death period]] not have been the end of their losses? This [[Ages of the Known World|age]], after all, had not yet been named the [[Crisis of Hubris]].
 
-"The Sobek have informed us that the College has engaged in horrors beyond redemption, beyond humanity. That they have engaged in experiments of a most dark form of magics: [[necromancy]]. That to continue those experiments... that they have marched on other races of the Orior and slaughtered entire villages!"
+"The Sobek have informed us that the College has engaged in horrors beyond redemption, beyond humanity. That they have engaged in experiments of a most dark form of magics: [[Necromancy]]. That to continue those experiments... that they have marched on other races of the Orior and slaughtered entire villages!"
 
 The nervous energy of the crowd cannot, at this point, be contained. Those few [[Materialist magics|materialists]] still hiding amongst the throng know now that their lives are in danger and begin moving away from the excitement.
 

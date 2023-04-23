@@ -54,7 +54,7 @@ Just as they guided and rose up human scholarship, the Materialists College's ro
 
 ## Legacy of the Materialists College
 
-After their particularly disgraceful [[Fall of the Materialists College|fall]], after which the [[College]] itself was abolished and [[necromancy]] outlawed, the now [[House|Houseless]] [[necromancer demons]] fled [[Omphalos, the City of Gardens]] both in fear of persecution and in order to continue their dark and ghoulish experiments. Today, [[Ages of the Known World|ages]] after the fall itself, their legacy and influence can still be felt throughout the [[Known World]].
+After their particularly disgraceful [[Fall of the Materialists College|fall]], after which the [[College]] itself was abolished and [[Necromancy]] outlawed, the now [[House|Houseless]] [[necromancer demons]] fled [[Omphalos, the City of Gardens]] both in fear of persecution and in order to continue their dark and ghoulish experiments. Today, [[Ages of the Known World|ages]] after the fall itself, their legacy and influence can still be felt throughout the [[Known World]].
 
 Some specific examples are listed below.
 
