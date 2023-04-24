@@ -25,11 +25,19 @@ The [[Materialists College]] was the third of the [[Great House|Great Houses]] o
 
 ## Necromancers of the Materialists College
 
+The [[Crisis of Hubris]] served as a powerful reminder of humanity's vulnerability, with the losses of the [[Oremongers Guild]] and [[House Lightbringer]] leaving them not only without some of their greatest leaders but also without their most powerful magics. Throughout the [[Red Death period]], the scholars and leadership of the [[Materialists College]] were largely unable to find solutions to the threats of the [[Red Court]]. Additionally, their biggest contribution to the campaigns in [[Omphalos, the City of Gardens]] against this enemy led to the disastrous [[Long Daylight]] which only worsened the situation.
+
+Some time after this period, experiments began in study of a new subset of [[materialist magics]] which was seen as a potent new source of power that would dramatically shift human history and their place within the [[Known World]]. This new field, which the College anatomists later called [[necromancy]], built on the foundational ideas of materialism but with a focus on accessing the latent [[organic magics]] in the remains of the [[noble beasts]] and other races of the [[Orior]].
+
+In order to acquire the "raw material" needed for these experiments, a number of excursions were undertaken both in secret and officially under the guise of various scholarly endeavors. The first of these excursions yielded only relatively insignificant results, with material taken from unsuspecting victims: noble beasts with minor organic magics of their own. After the first necromantic artifacts were created to empower their scholars, the excursions became more brazen as well as more successful until entire villages of other races of the Orior were slaughtered for their raw material.
+
+Though evidence is scarce – with much documentation burned by the College when the discovery of their crimes seemed imminent – these death squads are thought to have operated for months.
+
 ### Killing of the Sobek
 
 The [[organic magics]] of the [[Sobek]] made them a prime target for the [[necromancer demons]] of the [[Materialists College]]. Their research, based on initial scouting missions and the legends passed down since the [[Elven March]], indicated that this race of the [[Orior]] crafted armor from the bones of their ancestors and their fallen to accumulate and pass down a compounding degree of physical strength.
 
-Although their death squads did wipe out a number of the Sobek and retrieve their remains for study and preservation, they found the forces of the riverfolk too great and sustained significant losses themselves. It was ultimately these losses and the testimonies of the surviving victims that uncovered the College's crimes.
+Although their death squads did wipe out a number of the Sobek and retrieve their remains for study and preservation, they found the forces of the riverfolk too great and sustained significant losses themselves. It was ultimately these losses and the testimonies of the surviving victims that uncovered the [[College]]'s crimes.
 
 ## Consequences of the fall
 

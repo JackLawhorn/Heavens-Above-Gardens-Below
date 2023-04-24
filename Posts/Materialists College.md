@@ -32,7 +32,7 @@ The decline of the [[College]] began during the [[Red Death period]], throughout
 
 Their greatest contribution was the discovery of their weakness to the light of [[Ylem]], which informed the decision to launch the [[Known World]] into the [[Long Daylight]]. Failing to eradicate the threat, this plan was instead considered to have worsened the situation. The shadows cast by the harsh light of the [[Elven Signaltower]] and its [[nyxfire]] flame were particularly deep and allowed the soldiers of the Red Court to thrive and multiply and more effectively dig into the City of Gardens. Additionally, there were a great many other consequences to the Long Daylight for decades to come.
 
-This period also sowed the seeds of a greater loss, the [[fall of the Materialists College]] as the third [[Fallen Houses|Fallen House]] of the [[Crisis of Hubris]], as the ghoulish [[necromancer demons]] arose from the College anatomists who studied the corpses of this period.
+This period also sowed the seeds of a greater loss, the [[Fall of the Materialists College]] as the third [[Fallen Houses|Fallen House]] of the [[Crisis of Hubris]], as the ghoulish [[necromancer demons]] arose from the College anatomists who studied the corpses of this period.
 
 ### Fall of the Materialists College
 
@@ -42,7 +42,7 @@ In the [[Later Crisis of Hubris]], a congregation of [[Sobek]] marched into [[Om
 
 ## Role in the City
 
-As a [[Great House]] of the [[Court]], the Materialists College held great power in [[Omphalos, the City of Gardens]] and were certainly one of the most prominent [[House|Houses]] within human society from the [[Later Heliotropic Age]] through to their [[fall of the Materialists College|fall]] in the [[Later Crisis of Hubris]]. They wielded their political power selectively and conservatively – certainly more so than the [[Psionics College]] which would rise from their ashes – and primarily to forward their own agenda: the development of human scholarship and scholarly endeavors both of their own and led by the other [[scholars of the City]].
+As a [[Great House]] of the [[Court]], the Materialists College held great power in [[Omphalos, the City of Gardens]] and were certainly one of the most prominent [[House|Houses]] within human society from the [[Later Heliotropic Age]] through to their [[Fall of the Materialists College|fall]] in the [[Later Crisis of Hubris]]. They wielded their political power selectively and conservatively – certainly more so than the [[Psionics College]] which would rise from their ashes – and primarily to forward their own agenda: the development of human scholarship and scholarly endeavors both of their own and led by the other [[scholars of the City]].
 
 ### Legendary human scholars
 
@@ -50,7 +50,7 @@ The first [[College]] founded in [[Omphalos, the City of Gardens]], the [[Schola
 
 ### Materialist magics in the City
 
-Just as they guided and rose up human scholarship, the Materialists College's role in developing the [[Magics in the Known World|field of magics]] of [[Materialist magics|materialism]] changed the course of not only human history but also that of the [[Known World]]. These developments enabled humanity within [[Omphalos, the City of Gardens]] – born without [[organic magics]] of their own – to more readily access magics. Since their founding and even past their [[fall of the Materialists College|fall]], this remains one of the greatest weapons and sources of power wielded by their people. Today, materialist trinkets are a common sight in the City and are carried by nearly ever class of every [[House]] and faction.
+Just as they guided and rose up human scholarship, the Materialists College's role in developing the [[Magics in the Known World|field of magics]] of [[Materialist magics|materialism]] changed the course of not only human history but also that of the [[Known World]]. These developments enabled humanity within [[Omphalos, the City of Gardens]] – born without [[organic magics]] of their own – to more readily access magics. Since their founding and even past their [[Fall of the Materialists College|fall]], this remains one of the greatest weapons and sources of power wielded by their people. Today, materialist trinkets are a common sight in the City and are carried by nearly ever class of every [[House]] and faction.
 
 ## Legacy of the Materialists College
 

@@ -85,4 +85,4 @@ And with that, he disappeared into the throngs of the crowd. It is said they rem
 
 Such was the fall of the Materialists College, and the necromancer demons they had become in their corruption. Though exiled by their people from the City of Gardens, their remnants survive to this day across the [[Great Sea]] on their accursed [[Isle of Melos]].
 
-> The [[Materialists College]] had been much celebrated and granted [[Great House|Great Houseship]] for their contribution to human knowledge and the promise of extending the potential of the race born without [[organic magics]] of its own. Its [[fall of the Materialists College|fall]] warns us of the threat of corruption, for no treasure or power may balance against the horrors born of such sin.
+> The [[Materialists College]] had been much celebrated and granted [[Great House|Great Houseship]] for their contribution to human knowledge and the promise of extending the potential of the race born without [[organic magics]] of its own. Its [[Fall of the Materialists College|fall]] warns us of the threat of corruption, for no treasure or power may balance against the horrors born of such sin.

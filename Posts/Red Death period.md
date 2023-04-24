@@ -20,7 +20,7 @@ This period is, of course, most infamous for the [[Red Death]] after which it is
 
 ## New magics and dark curiosity
 
-The Red Death period saw significant advancements in the field of [[materialist magics]], despite the great shame of the [[Materialists College]] being unable to find a true solution to the problem of the [[Red Death]] or a weakness of the soldiers of the [[Red Court]]. The College scholars sought answers in the City's corpses, giving rise to the first ranks of the anatomists. And in the [[Later Crisis of Hubris]] to come, the anatomists would give way to the infamous [[necromancer demons]] whose works would lead to the [[fall of the Materialists College]].
+The Red Death period saw significant advancements in the field of [[materialist magics]], despite the great shame of the [[Materialists College]] being unable to find a true solution to the problem of the [[Red Death]] or a weakness of the soldiers of the [[Red Court]]. The College scholars sought answers in the City's corpses, giving rise to the first ranks of the anatomists. And in the [[Later Crisis of Hubris]] to come, the anatomists would give way to the infamous [[necromancer demons]] whose works would lead to the [[Fall of the Materialists College]].
 
 On [[The night of the Burning]], a materialist scholar would just barely manage to rescue a young child from the destruction and devastation to come. In the first years of the Later Crisis of Hubris, the child would be revealed to possess an entirely new class of magics: what would come to be known as [[psionics]]. Though this first psion would later be revealed as simply a [[Pretender]], the scholars they inspired would go on to found the incredibly influential [[Psionics College]].
 

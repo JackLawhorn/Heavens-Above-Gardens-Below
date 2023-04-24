@@ -2,6 +2,7 @@
 dg-publish: false
 Posted: 04.26.2023
 tag: "#WorldWednesday"
+aliases: Melos
 parent: ["[[Great Sea]]", "[[Isles of the Great Sea]]", "[[Necromancer demons]]", "[[Fall of the Materialists College]]", "[[Necromancer devils]]", "[[Necromancers of the Known World]]", "[[History of necromancy]]"]
 
 previous: "[[Fall of the Materialists College]]"
