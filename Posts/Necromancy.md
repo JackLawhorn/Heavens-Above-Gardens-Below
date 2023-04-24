@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 04.24.2023
 tag: "#MagicSystemMonday"
-alias: necromancer, necromantic
+aliases: necromancer, necromancers, necromantic
 parent: ["[[Organic magics]]", "[[Materialist magics]]", "[[History of materialist magics]]"]
 
 previous: "[[Triumph of the Sobek]]"
