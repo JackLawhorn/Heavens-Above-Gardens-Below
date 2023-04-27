@@ -21,7 +21,7 @@ The Isle of Melos is the oldest surviving human settlement outside of [[Omphalos
 
 ## History of the Isle of Melos
 
-## Colony of the necromancer demons
+## Demons of Melos
 
 ### Dukes of Melos
 

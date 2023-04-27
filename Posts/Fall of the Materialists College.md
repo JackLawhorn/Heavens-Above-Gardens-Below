@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 Posted: 04.25.2023
 tag: "#TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Materialists College]]", "[[Necromancer demons]]", "[[Necromancy]]", "[[Isle of Melos]]", "[[Fallen Houses]]"]
