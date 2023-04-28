@@ -16,9 +16,18 @@ next: "[[Later Crisis of Hubris]]"
 
 ---
 
+## Domains in the City
+
 - [[Gardens of the City]]
 - The river [[Torrente]]
+
+### Urban Aspects
+
 - Walls of the City
 - Towers and [[roccas]]
 - Bridges
 - Streets and [[rayas]]
+
+## Patrons of the Iconic Houses
+
+### Iconic pacts

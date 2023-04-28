@@ -11,24 +11,23 @@ a worldbuilding project by Jack Lawhorn
 
 After the disastrous [[Crisis of Hubris]], a cultural and intellectual [[Renascence]] has armed humanity with a tenuous grasp of powerful technological and magical advancements, as well as a hunger to prove themselves. Now, in the [[Post-Enlightenment Era]] and long after the age of heroes and villains has passed, a complex political body known as the [[Court]] attempts to lead their people into a golden age of colonialist expansion.
 
-Governed by a ruling class of historian mages, a shadowy college of psionic scholar spies, and powerful unions of political entities with diverse and oft-conflicting interests, will this new era prove to be the first step towards their extinction or towards their ascension to godhood?
+Governed by a [[House of the Sun|ruling class of historians]], a [[Psionics College|shadowy college]] of [[psionic]] scholar spies, and powerful [[Union|unions]] of political entities with diverse and oft-conflicting interests, will this new era prove to be the first step towards their extinction or towards their ascension to godhood?
 
-> [!INFO] Not sure where to start?
->
-> Check out the first daily post here:
->
-> > 01.01.2023 • #SceneSunday • [[Nyxfall of the Elven Legion]]
->
-> And here are some other resources:
->
-> > [[List of posts|Full list of posts]] • [[Glossary|Glossary entries]] • [[Todo|Upcoming posts]]
+> [!IMPORTANT] First daily post
+> #SceneSunday
+> [[Nyxfall of the Elven Legion]]
+> 01.01.2023
+
+> [!INFO] Additional resources
+> - [[List of posts|Full list of posts]]
+> - [[Glossary|Glossary entries]]
+> - [[Todo|Upcoming posts]]
 
 ## Themes and inspiration
 
 Heavens Above; Gardens Below is a fantasy setting inspired by the diverse cultures of Mediterranean Europe, Africa, and the Middle East. It was created as the transmedia backdrop for stories about power and consequences, the impact of history and failure on culture and identity, and the origins of the ideas and concepts that define us.
 
 I detail specific themes and inspirations in weekly #ThemeThursday posts, which you can find a list of here:
-
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 FROM "Posts" AND #DailyPost AND #ThemeThursday 
