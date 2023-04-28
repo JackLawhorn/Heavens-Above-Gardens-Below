@@ -46,7 +46,7 @@ In addition to the human [[House|Houses]] that rose up around the path of the ri
 
 ### Aspects of the river
 
-A great number of [[Aspect|Aspects]] of [[Ylem]] call the river [[Torrente]] home. In [[Omphalos, the City of Gardens]], the elemental [[Mundial Aspects#water motes|water motes]] who flow out of the [[Astral Wilds]] to the northeast turn to the [[Mundial Aspects#Motes of the landscapes|motes of the landscapes]] who govern the rivers of the [[Known World]]. Although [[Sobek (Minor Aspect)|Sobek]] the [[Minor Aspect]] who bled this particular river from the blood of her own body was killed by the [[Sun Elves]] for [[paradoxy]] against the divine blueprint of the [[Angels]], their children the [[Sobek riverfolk]] continue to worship her here.
+A great number of [[Aspect|Aspects]] of [[Ylem]] call the river [[Torrente]] home. In [[Omphalos, the City of Gardens]], the elemental [[Mundial Aspects#water motes|water motes]] who flow out of the [[Astral Wilds]] to the northeast turn to the [[Mundial Aspects#Motes of the landscapes|motes of the landscapes]] who govern the rivers of the [[Known World]]. Although [[Sobek (Minor Aspect)|Sobek]] the [[Minor Aspects|Minor Aspect]] who bled this particular river from the blood of her own body was killed by the [[Sun Elves]] for [[paradoxy]] against the divine blueprint of the [[Angels]], their children the [[Sobek riverfolk]] continue to worship her here.
 
 In the [[Renascence period]], a great many Minor Aspects appeared who governed the new domains of the City. Traveling down the river Torrente, you will find Aspects of the canals and the bridges and the docks.
 

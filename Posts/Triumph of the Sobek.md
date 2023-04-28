@@ -51,7 +51,7 @@ For a split second, a crack appeared in the measured temperament of one of the S
 
 "Please," begged the accused, "do you not see the need for our work? For the power we offer? Not since [[prehistory]] has humanity stood as vulnerable as we do now!"
 
-"It is with vulnerability that you excuse your crimes?" growled one of the ashen Sobek. "It was out of vulnerability that your death squads – your *[[demons]]* – slaughtered and defiled our people?"
+"It is with vulnerability that you excuse your crimes?" growled one of the ashen Sobek. "It was out of vulnerability that your death squads – your *[[Necromancer demons|demons]]* – slaughtered and defiled our people?"
 
 That word, *demon*, was spat with such vitriol that the accused, beaten and bleeding, found himself speechless.
 

@@ -40,7 +40,7 @@ Finally, the infected experience organ failure, the continuous vomiting of blood
 
 Some believe that especially powerful Apex Vectors may have developed within the walls of [[Omphalos, the City of Gardens]] by the end of the [[Red Death period]], such that the extermination of the infected horde during the great [[Burning]] may not have been complete after all. These hypothetical mutations include resistance to flames and to the light of [[Ylem]], as well as the ability to more effectively camouflage among the uninfected human population.
 
-A number of [[Near-life]] biological samples were kept by the anatomists and burgeoning [[necromancers]] of the [[Materialists College]], found by agents of the [[Court]] after their [[Fall of the Materialists College|fall]]. These samples were destroyed by [[House of the Sun]] [[Apotropaics#Torchbearer's Purifier clerics|Purifiers]], but it is unknown if any still exist elsewhere in the City or in the wider [[Known World]].
+A number of [[Near-life]] biological samples were kept by the anatomists and burgeoning [[Necromancy|necromancers]] of the [[Materialists College]], found by agents of the [[Court]] after their [[Fall of the Materialists College|fall]]. These samples were destroyed by [[House of the Sun]] [[Apotropaics#Torchbearer's Purifier clerics|Purifiers]], but it is unknown if any still exist elsewhere in the City or in the wider [[Known World]].
 
 ## See also
 ```dataview

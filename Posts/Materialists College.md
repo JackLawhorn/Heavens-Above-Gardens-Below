@@ -36,9 +36,9 @@ This period also sowed the seeds of a greater loss, the [[Fall of the Materialis
 
 ### Fall of the Materialists College
 
-From the [[College]] anatomists of the [[Red Death period]] arose the [[necromancers]], who proved themselves to be the most powerful of the [[Materialist magics|materialists]]. These ghoulish mages were alchemists and poachers, who hunted [[noble beasts]] and other races of the [[Orior]] in secret. From their prey, they took raw materials which they leveraged to create powerful artifacts that granted them magics resembling the [[organic magics]] of these peoples.
+From the [[College]] anatomists of the [[Red Death period]] arose the [[Necromancy|necromancers]], who proved themselves to be the most powerful of the [[Materialist magics|materialists]]. These ghoulish mages were alchemists and poachers, who hunted [[noble beasts]] and other races of the [[Orior]] in secret. From their prey, they took raw materials which they leveraged to create powerful artifacts that granted them magics resembling the [[organic magics]] of these peoples.
 
-In the [[Later Crisis of Hubris]], a congregation of [[Sobek]] marched into [[Omphalos, the City of Gardens]], escorted – unbelievably – by the first [[Sun Elves]] seen by humanity since their departure from the [[City of Gardens]] in the [[Later Heliotropic Age]]. They brought with them the truth of the College's "exploratory excursions," during which necromancer death squads slaughtered entire settlements and cultures for their raw materials. Formally condemned by the other [[Great House|Great Houses]] and their [[Orator|Orators]], the Materialists College was abolished and necromancy outlawed.
+In the [[Later Crisis of Hubris]], a congregation of [[Sobek]] marched into [[Omphalos, the City of Gardens]], escorted – unbelievably – by the first [[Sun Elves]] seen by humanity since their departure from the City of Gardens in the [[Later Heliotropic Age]]. They brought with them the truth of the College's "exploratory excursions," during which necromancer death squads slaughtered entire settlements and cultures for their raw materials. Formally condemned by the other [[Great House|Great Houses]] and their [[Orator|Orators]], the Materialists College was abolished and necromancy outlawed.
 
 ## Role in the City
 
