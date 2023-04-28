@@ -22,7 +22,7 @@ The Nycter are a mammalian race of the [[Orior]] covered in a thick coat of fur.
 
 While possessing powerful senses of smell and hearing, the Nycter have small and poorly developed eyes, possibly as a result of generations born and died under the eternal shade of the [[Nyxblight Tree]]'s canopy. Their senses are bolstered by their [[organic magics]], which afford them the ability to sense via [[#echolocation]].
 
-When their arms are outstretched, they reveal a thin membrane that stretches between long, flexible finger bones and connects to the torso. Their snouts combined with these [[#vestigial wings]] give them the appearance of "winged foxes", which is how they were referred to by the [[necromancer demons]] of the [[Fall of the Materialists College|fallen]] [[Materialists College]] upon their first encounters.
+When their arms are outstretched, they reveal a thin membrane that stretches between long, flexible finger bones and connects to the torso. Their snouts combined with these [[#vestigial wings]] give them the appearance of "winged foxes", which is how they were referred to by the [[Necromancer demons]] of the [[Fall of the Materialists College|fallen]] [[Materialists College]] upon their first encounters.
 
 ### Vestigial wings
 

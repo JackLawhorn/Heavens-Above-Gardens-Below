@@ -32,7 +32,7 @@ The decline of the [[College]] began during the [[Red Death period]], throughout
 
 Their greatest contribution was the discovery of their weakness to the light of [[Ylem]], which informed the decision to launch the [[Known World]] into the [[Long Daylight]]. Failing to eradicate the threat, this plan was instead considered to have worsened the situation. The shadows cast by the harsh light of the [[Elven Signaltower]] and its [[nyxfire]] flame were particularly deep and allowed the soldiers of the Red Court to thrive and multiply and more effectively dig into the City of Gardens. Additionally, there were a great many other consequences to the Long Daylight for decades to come.
 
-This period also sowed the seeds of a greater loss, the [[Fall of the Materialists College]] as the third [[Fallen Houses|Fallen House]] of the [[Crisis of Hubris]], as the ghoulish [[necromancer demons]] arose from the College anatomists who studied the corpses of this period.
+This period also sowed the seeds of a greater loss, the [[Fall of the Materialists College]] as the third [[Fallen Houses|Fallen House]] of the [[Crisis of Hubris]], as the ghoulish [[Necromancer demons]] arose from the College anatomists who studied the corpses of this period.
 
 ### Fall of the Materialists College
 
@@ -54,7 +54,7 @@ Just as they guided and rose up human scholarship, the Materialists College's ro
 
 ## Legacy of the Materialists College
 
-After their particularly disgraceful [[Fall of the Materialists College|fall]], after which the [[College]] itself was abolished and [[Necromancy]] outlawed, the now [[House|Houseless]] [[necromancer demons]] fled [[Omphalos, the City of Gardens]] both in fear of persecution and in order to continue their dark and ghoulish experiments. Today, [[Ages of the Known World|ages]] after the fall itself, their legacy and influence can still be felt throughout the [[Known World]].
+After their particularly disgraceful [[Fall of the Materialists College|fall]], after which the [[College]] itself was abolished and [[Necromancy]] outlawed, the now [[House|Houseless]] [[Necromancer demons]] fled [[Omphalos, the City of Gardens]] both in fear of persecution and in order to continue their dark and ghoulish experiments. Today, [[Ages of the Known World|ages]] after the fall itself, their legacy and influence can still be felt throughout the [[Known World]].
 
 Some specific examples are listed below.
 

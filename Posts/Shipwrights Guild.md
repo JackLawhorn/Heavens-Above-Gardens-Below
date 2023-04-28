@@ -58,7 +58,7 @@ As of the [[Early Post-Enlightenment Era]], these factions are seeing an unprece
 
 Guild quartermasters are preoccupied with the logistics of long-term, long-range voyages over land, sea, or air, and are primary stakeholders in many such [[Questing Charter|Questing Charters]]. Even after initial expeditions, the Shipwrights Guild and its quartermasters routinely ferry goods and personnel between [[Omphalos, the City of Gardens]] and the far off colonies of the [[Questing Houses]].
 
-The Guild quartermasters have been involved in nearly every Questing Charter, including the failed [[Quest|quests]] of [[House Lightbringer]], the [[Disciples of the Pretender]], and the forbidden quests of the [[necromancer demons]] of the [[Materialists College]] and the [[New Silver Age]]. 
+The Guild quartermasters have been involved in nearly every Questing Charter, including the failed [[Quest|quests]] of [[House Lightbringer]], the [[Disciples of the Pretender]], and the forbidden quests of the [[Necromancer demons]] of the [[Materialists College]] and the [[New Silver Age]]. 
 
 ### Guild navigators
 

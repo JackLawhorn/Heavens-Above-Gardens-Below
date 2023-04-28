@@ -39,7 +39,7 @@ I feel similarly about mages across the fantasy genre. I've always found myself 
 
 Specifically, I felt that my implementation of the Elves in this setting and their massive influence on humanity would necessarily lead to a greater prevalence of martial characters as opposed to stereotypical wizards and sorcerers. When I think of ways of implementing battle mages, there are certainly a number of interesting directions that come to mind.
 
-Enchanted artifacts, if made readily accessible to the warrior classes, are a good way to lend magical properties and abilities to otherwise martial units. The [[Materialist magics|materialist]] scholars and later the [[necromancer demons]] they became are my stab at this idea. [[Psions]], explored further below, could make extremely effective warrior mages as well. The furthest extreme, and a representation of near-unlimited and explosive power, would be the of the [[Oremongers Guild#artificer knights|artificer knights]] of the [[Oremongers Guild]].
+Enchanted artifacts, if made readily accessible to the warrior classes, are a good way to lend magical properties and abilities to otherwise martial units. The [[Materialist magics|materialist]] scholars and later the [[Necromancer demons]] they became are my stab at this idea. [[Psions]], explored further below, could make extremely effective warrior mages as well. The furthest extreme, and a representation of near-unlimited and explosive power, would be the of the [[Oremongers Guild#artificer knights|artificer knights]] of the [[Oremongers Guild]].
 
 ### Inspiration
 

@@ -35,7 +35,7 @@ Though evidence is scarce – with much documentation burned by the College when
 
 ### Killing of the Sobek
 
-The [[organic magics]] of the [[Sobek]] made them a prime target for the [[necromancer demons]] of the [[Materialists College]]. Their research, based on initial scouting missions and the legends passed down since the [[Elven March]], indicated that this race of the [[Orior]] crafted armor from the bones of their ancestors and their fallen to accumulate and pass down a compounding degree of physical strength.
+The [[organic magics]] of the [[Sobek]] made them a prime target for the [[Necromancer demons]] of the [[Materialists College]]. Their research, based on initial scouting missions and the legends passed down since the [[Elven March]], indicated that this race of the [[Orior]] crafted armor from the bones of their ancestors and their fallen to accumulate and pass down a compounding degree of physical strength.
 
 Although their death squads did wipe out a number of the Sobek and retrieve their remains for study and preservation, they found the forces of the riverfolk too great and sustained significant losses themselves. It was ultimately these losses and the testimonies of the surviving victims that uncovered the [[College]]'s crimes.
 
@@ -49,7 +49,7 @@ As luck would have it, the Orator of the [[Materialists College]] had been absen
 
 Unlike the falls of the [[Oremongers Guild]] and [[House Lightbringer]] in the [[Early Crisis of Hubris]], the [[Materialists College]]'s own fall left its scholars alive to suffer the consequences. Prepared for the arrival of the [[Triumph of the Sobek|Triumph]] and informed of their accusations against the [[College]], the [[Orator|Orators]] of the other [[Great House|Great Houses]] – at this point only the [[House of the Sun]] and the [[Silver Wolves]] – readied trusted agents of the [[Jurisweard]] who were put in place to swiftly enact justice once the accusations of the [[Sobek]] could be made first-hand.
 
-Within a span of only minutes, their Orator was detained and brought before the others, the laboratories of the [[necromancer demons]] were raided and evidence collected, and dozens of [[Materialist magics|materialist]] scholars were rounded up for later questioning. Their Orator was accused by his peers upon the steps of the [[Court]], before nearly the entire population of [[Omphalos, the City of Gardens]]. He was summarily kicked down the steps and killed by the mob.
+Within a span of only minutes, their Orator was detained and brought before the others, the laboratories of the [[Necromancer demons]] were raided and evidence collected, and dozens of [[Materialist magics|materialist]] scholars were rounded up for later questioning. Their Orator was accused by his peers upon the steps of the [[Court]], before nearly the entire population of [[Omphalos, the City of Gardens]]. He was summarily kicked down the steps and killed by the mob.
 
 The trials of the apprehended scholars lasted weeks. Those proven to have taken part in their College's dark experiments were [[#Exile and flight of the necromancers|exiled]] from the City, at least those who weren't executed by the Jurisweard or killed by the populace before their departure. Only a few innocents remain, now [[House|Houseless]].
 
@@ -59,11 +59,11 @@ The [[Fallen Houses|fall]] of the [[Materialists College]] caught humanity in [[
 
 The mob insighted upon the steps of the [[Court]] tore the [[College]]'s disgraced [[Orator]] to pieces in their disgust. In the weeks that followed, [[Materialist magics|materialist]] scholars in hiding – even those who had not been under the formal patronage of the College – were killed by their neighbors or turned in to the [[Jurisweard]] to sit trial. Many of those sentenced to [[#Exile and flight of the necromancers|exile]] from the City were similarly killed before their departure.
 
-Today, remnants of this betrayal can still be seen in the City. Prejudice against materialist magics and those who hold materialist trinkets is not uncommon. Later – after the [[necromancer demons]] of the [[Isle of Melos]] were common knowledge – it is common for merchants and [[House|Houses]] of commerce to smell [[Currencies of the City#Gold|gold coins]] before accepting them, testing for [[Currencies of the City#Counterfeit currency|devils gold]].
+Today, remnants of this betrayal can still be seen in the City. Prejudice against materialist magics and those who hold materialist trinkets is not uncommon. Later – after the [[Necromancer demons]] of the [[Isle of Melos]] were common knowledge – it is common for merchants and [[House|Houses]] of commerce to smell [[Currencies of the City#Gold|gold coins]] before accepting them, testing for [[Currencies of the City#Counterfeit currency|devils gold]].
 
 ### Exile and flight of the necromancers
 
-The flight of the [[necromancer demons]] of the [[Materialists College]] happened quickly upon the arrival of the [[Triumph of the Sobek|Triumph]] of the [[Sobek]], and they were right to do so. In the weeks that followed, dozens of [[Materialist magics|materialists]] were captured and many either killed by their neighbors or executed by agents of the [[Jurisweard]]. Both those who fled capture and those who were exiled by the [[Court]] – would go on to found the [[Isle of Melos]] where they continue their dark experiments. This sentence was meant to be death but there, on their [[Isles of the Great Sea|Isle]] upon the [[Great Sea]], they've managed to grow and thrive.
+The flight of the [[Necromancer demons]] of the [[Materialists College]] happened quickly upon the arrival of the [[Triumph of the Sobek|Triumph]] of the [[Sobek]], and they were right to do so. In the weeks that followed, dozens of [[Materialist magics|materialists]] were captured and many either killed by their neighbors or executed by agents of the [[Jurisweard]]. Both those who fled capture and those who were exiled by the [[Court]] – would go on to found the [[Isle of Melos]] where they continue their dark experiments. This sentence was meant to be death but there, on their [[Isles of the Great Sea|Isle]] upon the [[Great Sea]], they've managed to grow and thrive.
 
 ## See also
 ```dataview

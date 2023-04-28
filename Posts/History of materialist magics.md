@@ -44,12 +44,12 @@ The discoveries of the anatomists held massive benefits in the fields of medicin
 
 ### The Later Crisis of Hubris
 
-The damage had already been done during the [[Red Death period]]: the anatomist scholars of the [[Materialists College]], unable to find a mortal weakness or even a single effective weapon against the [[Red Court]], succumbed to [[Madness]] and resorted to the dark and terrible science of [[Necromancy]]. Though not technically a new field fully separate from [[materialist magics]], the [[necromancer demons]] stalked and wiped out entire peoples of the [[Discoveries in the Known World|noble beasts]] and the [[Orior]], hoping to steal their organic magics for themselves.
+The damage had already been done during the [[Red Death period]]: the anatomist scholars of the [[Materialists College]], unable to find a mortal weakness or even a single effective weapon against the [[Red Court]], succumbed to [[Madness]] and resorted to the dark and terrible science of [[Necromancy]]. Though not technically a new field fully separate from [[materialist magics]], the [[Necromancer demons]] stalked and wiped out entire peoples of the [[Discoveries in the Known World|noble beasts]] and the [[Orior]], hoping to steal their organic magics for themselves.
 
 This, of course, ultimately led to the [[Fall of the Materialists College]] at the hands of the [[Sobek]] and the returned [[Sun Elves]], after which the necromancers were [[Fall of the Materialists College#Exile and flight of the necromancers|exiled]] from [[Omphalos, the City of Gardens]].
 
 ## The Renascence period
 
-The [[Fall of the Materialists College]] in the [[Later Crisis of Hubris]] more or less halted further developments in the field of [[materialist magics]] – at least those formally accepted by the scholarly community in [[Omphalos, the City of Gardens]]. Any further developments came at the hands of the [[Fall of the Materialists College#Exile and flight of the necromancers|exiled]] [[necromancer demons]] on their newly founded [[Isle of Melos]]. From this base of operations, this still-burgeoning field continued to flourish.
+The [[Fall of the Materialists College]] in the [[Later Crisis of Hubris]] more or less halted further developments in the field of [[materialist magics]] – at least those formally accepted by the scholarly community in [[Omphalos, the City of Gardens]]. Any further developments came at the hands of the [[Fall of the Materialists College#Exile and flight of the necromancers|exiled]] [[Necromancer demons]] on their newly founded [[Isle of Melos]]. From this base of operations, this still-burgeoning field continued to flourish.
 
 > For more, see [[History of Necromancy]].
