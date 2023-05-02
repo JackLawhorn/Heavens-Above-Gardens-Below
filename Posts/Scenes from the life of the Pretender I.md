@@ -2,6 +2,7 @@
 dg-publish: true
 Posted: 04.16.2023
 tag: "#SceneSunday"
+parent: ["[[Disciples of the Pretender]]", "[[History of psionics]]"]
 
 previous: "[[Reconstruction]]"
 next: "[[Minor Aspects in the City]]"
