@@ -48,6 +48,12 @@ The Subjectivists would develop the first actively political works, seeking to c
 
 Subjectivism would also introduce increasingly abstract artworks. Humanity's portraits, landscapes, and cityscapes grew more and more surreal and stylized. Later Vergonic work would intersect with [[#Psychedelia]] before the eventual [[Vergonic War|dissolution of the Church]].
 
+## Renascence Objectivism
+
+After the loss of human history in the [[Crisis of Hubris]], the art of the [[Renascence]] primarily centered around capturing historical events and the reality of the present. There was a great [[Humanism|humanist]] lean in what is now beginning to be dubbed "Renascence [[the Objective|Objectivism]]", which dealt primarily with mortals and the mundane rather than the [[Ylem]] and divinity.
+
+This purpose also necessitated a dramatic turn towards realism in visual art. This period saw the invention of proportion – based on the work of [[Cult of Pythos#Pythos|Pythos]] – as well as the use of artistic techniques such as foreshortening and sfumato and chiaroscuro. It also saw the practical application of the studies of the [[History of materialist magics#The Red Death period|anatomists]] of the [[Materialists College]] in depicting the physicality of not only humans but the [[Sobek]] and other races of the [[Orior]].
+
 ## Psychedelia
 
 Psychedelia are drugs that affect the mind and its perception of reality. The rise of psychedelia is inextricably tied to the rise of the [[Disciples of the Pretender]], although it is not known which caused the other. The Disciples transformed entire streets and squares into gardens where both produce and psychedelic flowers and fungi could be freely picked and consumed.
