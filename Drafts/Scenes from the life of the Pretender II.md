@@ -1,7 +1,7 @@
 ---
 Posted: 04.30.2023
 tag: "#SceneSunday"
-parent: ["[[Disciples of the Pretender]]", "[[History of psionics]]"]
+parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Psionic Age]]", "[[History of psionics]]", "[[Disciples of the Pretender]]"]
 
 previous: "[[Remnants of the Legion in the City]]"
 next: "[[Psionics]]"

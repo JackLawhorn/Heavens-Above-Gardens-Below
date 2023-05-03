@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 05.01.2023
 tag: "#MagicSystemMonday"
-aliases: psion, psions, psionic, psionics, psionically
+aliases: psionic, psionically
 parent: ["[[Magics in the Known World]]", "[[Psionic Age]]", "[[Psionic Sphere]]", "[[Psionics College]]", "[[History of Psionics]]", "[[Psions of the Known World]]", "[[Gljiva, the Conquering Fungus]]"]
 
 previous: "[[Scenes from the life of the Pretender II]]"
@@ -17,19 +17,19 @@ next: "[[Psionic Age]]"
 
 ---
 
-Psionics is the extension of the mind past average, mundane ability through a connection to an [[extra-physical]] [[Standard Elven Cosmology|Sphere]] called the [[Psionic Sphere]]. By accessing, traversing, interacting with, and manipulating the Psionic Sphere – a field that envelopes all sentient beings – sorcerers called *psions* are able to unleash powerful [[extramundane]] forces.
+Psionics is the extension of the mind past average, mundane ability through a connection to an [[extra-physical]] [[Standard Elven Cosmology|Sphere]] called the [[Psionic Sphere]]. By accessing, traversing, interacting with, and manipulating the Psionic Sphere – a field that envelopes all sentient beings – sorcerers called *[[Psion|psions]]* are able to unleash powerful [[extramundane]] forces.
 
 ## Connection to the Psionic Sphere
 
-At the core of psionic phenomena and abilities is the intersection of the [[Prime Material Sphere]] and the [[extra-physical]] [[Psionic Sphere]]. The latter is perceived reality itself and therefore the two [[Standard Elven Cosmology|Spheres]] influence – and are influenced by – each other. A psion's power or "[[#Psionic influence|influence]]" is directly tied to their connection to the Psionic Sphere.
+At the core of psionic phenomena and abilities is the intersection of the [[Prime Material Sphere]] and the [[extra-physical]] [[Psionic Sphere]]. The latter is perceived reality itself and therefore the two [[Standard Elven Cosmology|Spheres]] influence – and are influenced by – each other. A [[psion]]'s power or "[[#Psionic influence|influence]]" is directly tied to their connection to the Psionic Sphere.
 
 ### Psionic influence
 
-One's psionic influence is constantly fluctuating: accumulating over time and being expended by the psion to either observe or manipulate the [[Psionic Sphere]]. This influence is easily perceivable by psions of sufficient ability and has even been described as captivating and hard to ignore. Similarly, a psion of sufficient ability might be able to hide their influence from others who might notice, a practice common in the [[House]] [[Silencers]] of the [[Lord Representative|Lord Representatives]] of the [[Court]].
+One's psionic influence is constantly fluctuating: accumulating over time and being expended by the [[psion]] to either observe or manipulate the [[Psionic Sphere]]. This influence is easily perceivable by psions of sufficient ability and has even been described as captivating and hard to ignore. Similarly, a psion of sufficient ability might be able to hide their influence from others who might notice, a practice common in the [[House]] [[Silencers]] of the [[Lord Representative|Lord Representatives]] of the [[Court]].
 
 ### Psionics versus the magics
 
-The scholar psions of the [[Psionics College]] have – since initially breaking off from the [[mystical psionics]] practiced by [[Disciples of the Pretender|the Pretender and his Disciples]] – argued that it is incorrect to understand psionics as a [[Magics in the Known World|field of magic]]. It more closely resembled, they pointed out, a field of [[the objective|objective scientific study]].
+The scholar psions of the [[Psionics College]] have – since initially breaking off from the [[mystical psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]] – argued that it is incorrect to understand psionics as a [[Magics in the Known World|field of magic]]. It more closely resembled, they pointed out, a field of [[the objective|objective scientific study]].
 
 Their primary argument was that psionic abilities draw from the [[Psionic Sphere]] rather than from [[albedo]] and [[Ylem]]. The Spheres outlined in the commonly accepted [[Standard Elven Cosmology]] model are not [[Aspect|Aspects]], rather concrete forces and laws of nature. To observe the Psionic Sphere may be no more than an additional sense just as the mundane senses observe the [[Prime Material Sphere]]. And all sentient beings manipulate the Psionic Sphere – which is nothing more than perceived reality – so psionic manipulation may not be truly [[extramundane]] either.
 
@@ -43,7 +43,7 @@ Psionic abilities themselves are the observation or manipulation of the [[Psioni
 
 ### Accessing the Psionic Sphere
 
-The most common use of psionics by far is to simply access the [[Psionic Sphere]] in order to observe and traverse it. In doing so, a psion is able to perceive the reality of those around them, see from their point of view, and access valuable information in other corners of their minds. This might be used to see through the eyes of a suspect in an apartment upstairs or even to see a memory or dream of another.
+The most common use of psionics by far is to simply access the [[Psionic Sphere]] in order to observe and traverse it. In doing so, a [[psion]] is able to perceive the reality of those around them, see from their point of view, and access valuable information in other corners of their minds. This might be used to see through the eyes of a suspect in an apartment upstairs or even to see a memory or dream of another.
 
 There exist a number of distinct areas within the Psionic Sphere, including [[Psionic Sphere#Dwaal, the Dreaming State|Dwaal, the Dreaming State]] and the [[Psionic Sphere#Kingdom of Memory|Kingdom of Memory]], and traversing there unlocks access to a number of psionic subfields.
 
@@ -51,13 +51,13 @@ There exist a number of distinct areas within the Psionic Sphere, including [[Ps
 
 ### Hallucination
 
-Hallucination is a field of psionics that involves the creation and manifestation of sensory illusions which exist within the [[Psionic Sphere]] and not within the [[Prime Material Sphere]]. These illusions appear real to those with limited psionic ability, though greater psionic influence is required to manifest illusions that are more realistic or that hold up to closer inspection. As a rule of thumb, manifestation scales in difficulty based on how many senses are being fooled by the illusion. A particularly strong psion might be able to enthrall a single person within a complete and self-sustaining illusion.
+Hallucination is a field of psionics that involves the creation and manifestation of sensory illusions which exist within the [[Psionic Sphere]] and not within the [[Prime Material Sphere]]. These illusions appear real to those with limited psionic ability, though greater psionic influence is required to manifest illusions that are more realistic or that hold up to closer inspection. As a rule of thumb, manifestation scales in difficulty based on how many senses are being fooled by the illusion. A particularly strong [[psion]] might be able to enthrall a single person within a complete and self-sustaining illusion.
 
 Generally, a psion's ability to recognize an illusion as unreal is greater than that of someone who is untrained in psionics. This ability also grows with their ability to create them. Two psions on relatively even footing in this subfield might be able to create illusions convincing enough to fool the other at a glance, but will falter under closer inspection. Once the illusory nature of a hallucination is discovered, most psions are quickly able to deconstruct them within the Psionic Sphere and end their influence on those within the Prime Material Sphere.
 
 #### Psionic communication
 
-Psionic communication describes non-verbal communication through psionic means. The range and quality of transmission is limited only by the [[#psionic influence|influence]] of the psion, so this technique also enables immediate telecommunication. Psionic communication is simply the manifestation of an auditory hallucination, and a more powerful psion is able to limit the perception of the communication to intended targets. Though the use of auditory illusions are most common, more powerful psions can get messages across using the other senses. Psions can communicate via visual flashes quite effectively.
+Psionic communication describes non-verbal communication through psionic means. The range and quality of transmission is limited only by the [[#psionic influence|influence]] of the [[psion]], so this technique also enables immediate telecommunication. Psionic communication is simply the manifestation of an auditory hallucination, and a more powerful psion is able to limit the perception of the communication to intended targets. Though the use of auditory illusions are most common, more powerful psions can get messages across using the other senses. Psions can communicate via visual flashes quite effectively.
 
 One tool the [[Psionic College]] has kept for itself is its [[psionic telecommunication network]]: a hexagonal grid of towers constructed around [[Omphalos, the City of Gardens]] which drastically increases the range from which messages can be psionically transmitted.
 

@@ -28,6 +28,12 @@ The [[House of the Sun]], whose [[House of the Sun#Daywatch|Daywatch]] oversaw t
 
 > For more, see [[House of the Sun#Role in the City|House of the Sun > Role in the City]].
 
+## Dawn of the Psionic Age
+
+
+
+> For more, see [[Psionic Age#Dawn of the Psionic Age|Psionic Age > Dawn of the Psionic Age]].
+
 ## Continued fall of the Great Houses
 
 The [[Red Death period]] and the threat of the [[Red Court]] may have been ended but the losses of the [[Crisis of Hubris]] was far from over, including the [[Fallen Houses|fall]] of three more [[Great House|Great Houses]]: the [[Materialists College]], the [[Disciples of the Pretender]], and the [[Silver Wolves]]. Now under the stewardship of the increasingly prominent [[House of the Sun]], humanity defined moral lessons from each of these losses. The moral and ethical learnings of the Later Crisis of Hubris would come to define humanity and its history for [[Ages of the Known World|ages]] to come.

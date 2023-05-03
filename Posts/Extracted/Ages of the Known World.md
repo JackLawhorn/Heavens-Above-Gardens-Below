@@ -25,3 +25,5 @@ You can expect the historical documents presented here to make use of one or mor
 	- [[Later Renascence period]]
 - [[Post-Enlightenment Era]]
 	- [[Early Post-Enlightenment Era]]
+
+![[Ages of the Known World.canvas|Ages of the Known World]]
