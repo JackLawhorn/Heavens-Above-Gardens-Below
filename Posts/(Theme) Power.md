@@ -23,7 +23,7 @@ First, as a consequence of organic magics, I imagined a class of "[[Materialist 
 
 Secondly, in a world in which [[Pact magics|pact magic]] exists, it seemed clear to me that humans would jump to take advantage of this "shortcut" to attaining power. With the warlocks or "iconic mages" of this setting so ready and willing to take on pacts, how can I explore the mechanics of this process and the motives behind different patrons? Some, like the [[Lunar Aspects#The Wolf Mother|Wolf Mother]], are benevolent and offer favorable terms to their worshippers. Others may not be so kind, and the cost of the pacts they dole out might be great.
 
-Lastly, where lays the line between magic and mundane ability honed to its sharpest? Surely, a people like the humans in this setting would be intrigued by anything discovered to be close to magic but achievable through solely human means. What human abilities are close enough to magic so as to be extendable to an entire magic system? The [[psionics]] of this setting will definitely explore that.
+Lastly, where lays the line between magic and mundane ability honed to its sharpest? Surely, a people like the humans in this setting would be intrigued by anything discovered to be close to magic but achievable through solely human means. What human abilities are close enough to magic so as to be extendable to an entire magic system? The [[Psionics]] of this setting will definitely explore that.
 
 ## Real world sources of power
 

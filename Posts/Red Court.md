@@ -41,7 +41,7 @@ Most prominent among the magics of the Red Court are the [[Hexecraft pacts]]. He
 
 Despite its meek manifestation within the [[Prime Material Sphere]], the Red Court has been able to leverage the immense [[albedo]] siphoned from the [[Hexecraft pacts]] it has forced upon its victims to generate an extra-physical [[Standard Elven Cosmology|Sphere]] of its own. Or perhaps the Sphere predates its hexecraft, some pocket between reality saturated with and ultimately colonized by the idea of the primordial Hunger itself.
 
-Both its soldiers and its victims – who in truth are one and the same – are connected to this sphere via the Red Court's powerful [[psionic]] abilities. This connection links those infected by its Hunger over long distances, and allows the [[Umbral Aspects|Umbral Aspect]] to relay specific communications, commands, and objectives.
+Both its soldiers and its victims – who in truth are one and the same – are connected to this sphere via the Red Court's powerful [[Psionics|psionic]] abilities. This connection links those infected by its Hunger over long distances, and allows the [[Umbral Aspects|Umbral Aspect]] to relay specific communications, commands, and objectives.
 
 No human eyes have bore witness to this accursed place without succumbing to its corruptive influence and becoming one of its soldiers, save for the [[Red King]] who was once called [[Fall of House Lightbringer|Lord Lightbringer]].
 
@@ -69,7 +69,7 @@ At the point of infection, the hex begins to take over the host's [[aura]], siph
 
 The [[Red King]] serves as the Red Court's sole champion. They suffer from a different kind of physical transformation: their skin petrified, knotted, and black like the dead wood of the [[Nyxblight Tree]] their master calls home.; their hair turned into yellowed leaves; the thorny, black [[Nyxblight]] vines wrapping their way around every inch of their body.
 
-This curse also carries with it an unholy task: an eternity of serving the Red Court. In doing so, they serve as leader of the [[Near-life]] legion of infected which they are [[psionically]] connected to via the extra-physical [[Standard Elven Cosmology|Sphere]] that the Red Court rules. They also protect the bloody, bioluminescent mass that is the [[Umbral Aspects|Umbral Aspect]]'s form within the [[Prime Material Sphere]].
+This curse also carries with it an unholy task: an eternity of serving the Red Court. In doing so, they serve as leader of the [[Near-life]] legion of infected which they are [[Psionics|psionically]] connected to via the extra-physical [[Standard Elven Cosmology|Sphere]] that the Red Court rules. They also protect the bloody, bioluminescent mass that is the [[Umbral Aspects|Umbral Aspect]]'s form within the [[Prime Material Sphere]].
 
 For the Red King that in [[Ages of the Known World|ages]] past was known as [[Fall of House Lightbringer|Lord Lightbringer]], this meant much more than keeping watch from the safety of the relative Nyxblight Tree. When the human [[quest|questing parties]] came looking for the source of the [[Red Death]] that had plagued and besieged [[Omphalos, the City of Gardens]] and whatever connection it had to [[House Lightbringer]]'s [[Quest into Oblivion]], the Red King was forced to flee. Since then, he has [[Journey of the Red King|journeyed]] across the [[Known World]] pulling his master behind him within a thicket of nyxblight vines.
 

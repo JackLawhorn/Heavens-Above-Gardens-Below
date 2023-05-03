@@ -39,7 +39,7 @@ I feel similarly about mages across the fantasy genre. I've always found myself 
 
 Specifically, I felt that my implementation of the Elves in this setting and their massive influence on humanity would necessarily lead to a greater prevalence of martial characters as opposed to stereotypical wizards and sorcerers. When I think of ways of implementing battle mages, there are certainly a number of interesting directions that come to mind.
 
-Enchanted artifacts, if made readily accessible to the warrior classes, are a good way to lend magical properties and abilities to otherwise martial units. The [[Materialist magics|materialist]] scholars and later the [[Necromancer demons]] they became are my stab at this idea. [[Psions]], explored further below, could make extremely effective warrior mages as well. The furthest extreme, and a representation of near-unlimited and explosive power, would be the of the [[Oremongers Guild#artificer knights|artificer knights]] of the [[Oremongers Guild]].
+Enchanted artifacts, if made readily accessible to the warrior classes, are a good way to lend magical properties and abilities to otherwise martial units. The [[Materialist magics|materialist]] scholars and later the [[Necromancer demons]] they became are my stab at this idea. [[Psionics|psions]], explored further below, could make extremely effective warrior mages as well. The furthest extreme, and a representation of near-unlimited and explosive power, would be the of the [[Oremongers Guild#artificer knights|artificer knights]] of the [[Oremongers Guild]].
 
 ### Inspiration
 
@@ -55,7 +55,7 @@ Enchanted artifacts, if made readily accessible to the warrior classes, are a go
 
 ## Psions
 
-[[Psions]] are a super interesting yet oft-unexplored class of mage in fantasy, generally relegated to science fiction. Considering psychic or psionic powers are tied to our mental faculties that create our reality itself, I think it's safe to say that these have the potential to be unimaginably powerful. Plus, I think this ties in well to the setting's overarching focus on the nature of reality.
+[[Psionics|psions]] are a super interesting yet oft-unexplored class of mage in fantasy, generally relegated to science fiction. Considering psychic or psionic powers are tied to our mental faculties that create our reality itself, I think it's safe to say that these have the potential to be unimaginably powerful. Plus, I think this ties in well to the setting's overarching focus on the nature of reality.
 
 I find visual interpretations of such powers, which I generally refer to as the "psionic plane", particularly engaging. Not comprised of planes per say, this setting instead refers to this reality as the [[Psionic Sphere]], and it's a major part of being a psion in the [[Known World]]. Humanity's psions are freely and directly connected to the perceived realities of all those around them, flitting between the minds of others to steal or protect information.
 
