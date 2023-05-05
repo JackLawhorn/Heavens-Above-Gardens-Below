@@ -16,7 +16,7 @@ next: "[[(Theme) Science versus magic]]"
 
 ---
 
-The Psionic Sphere is an [[extra-physical]] realm within [[Standard Elven Cosmology]] which manifests as the collective perceived reality of all sentient beings within the [[Prime Material Sphere]]. It was discovered by the first human [[psion]] – now known only as the [[Disciples of the Pretender#Pretender|Pretender]] – in the [[Later Crisis of Hubris]] and further explored throughout the [[Psionic Age]]. Such studies pioneered the field of [[psionics]] and launched the [[Psionics College]] to great prominence in [[Omphalos, the City of Gardens]] and its [[Court]].
+The Psionic Sphere is an [[extra-physical]] realm within [[Standard Elven Cosmology]] which manifests as the collective perceived reality of all sentient beings within the [[Prime Material Sphere]]. It was discovered by the first human [[Psion]] – now known only as the [[Disciples of the Pretender#Pretender|Pretender]] – in the [[Later Crisis of Hubris]] and further explored throughout the [[Psionic Age]]. Such studies pioneered the field of [[psionics]] and launched the [[Psionics College]] to great prominence in [[Omphalos, the City of Gardens]] and its [[Court]].
 
 ## Psionic imprinting
 
