@@ -23,9 +23,9 @@ next: "[[Belief in the Pretender]]"
 
 ### Psionics College
 
-### Gljiva, the Conquering Fungus
-
 ### Muqallid mimics
+
+### Gljiva, the Conquering Fungus
 
 ## Classes of psions
 
@@ -33,9 +33,9 @@ next: "[[Belief in the Pretender]]"
 
 #### Psiknights
 
-### College Silencers
-
 ### Dreaming psions
+
+### College Silencers
 
 ### The Overgrown
 

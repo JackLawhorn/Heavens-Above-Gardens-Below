@@ -26,15 +26,18 @@ Back in the City, the remaining human psions were inspired by this loss to pursu
 
 > [!INFO] Additional resources
 > For accounts of these events, see...
-> - [[The night of the Burning]]
 > - [[Scenes from the life of the Pretender I]]
 > - [[Scenes from the life of the Pretender II]]
 > - [[Scenes from the life of the Pretender III]]
 > - [[Scenes from the life of the Pretender IV]]
 
-## Psionic influence in the Known World
+## Rise in psionic influence
 
+After the [[Scenes from the life of the Pretender III|revelation]] of the first human [[psion]] – the [[Disciples of the Pretender#Pretender|Pretender]] – [[Psionics#psionic influence|psionic influence]] in the [[Known World]] began to see a rapid rise, particularly in the human population of [[Omphalos, the City of Gardens]]. The Pretender boasted the ability to awaken [[Psionics|psionic]] influence and ability in others, and used this gift to grow an army of loyal [[Disciples of the Pretender|Disciples]] that soon outnumbered the followers of any one [[Iconic House|heterodoxy]].
 
+After the [[Questing Charter of the Disciples of the Pretender]] was granted, after the newly named [[Great House]] left on their [[Quest into Oblivion]], after [[Fall of the Pretender|their fall]] to the [[Deep Deserts#Mirage|mirages]] of the [[Deep Deserts]], even then there remained the psionic scholars in the City. These scholars were awoken by and learned from the Pretender, but did not subscribe to [[mystic psionics]]. They would go on to form the [[Psionics College]] which further spread psionic influence among the human population.
+
+Throughout the Psionic Age, the field of psionics itself expanded greatly and the awakening to psionic influence of the human population rose in kind. By the end of the Psionic Age in the [[Early Renascence period]], most of the warrior classes of the [[Jurisweard]] and even many [[Lord Representatives]] of the [[Court]] are tutored in psionics to a certain degree.
 
 ## See also
 ```dataview

@@ -16,8 +16,7 @@ next: "[[(Theme) Science versus magic]]"
 
 ---
 
-- 
-- 
+The Psionic Sphere is an [[extra-physical]] realm within [[Standard Elven Cosmology]] which manifests as the collective perceived reality of all sentient beings within the [[Prime Material Sphere]]. It was discovered by the first human [[psion]] – now known only as the [[Disciples of the Pretender#Pretender|Pretender]] – in the [[Later Crisis of Hubris]] and further explored throughout the [[Psionic Age]]. Such studies pioneered the field of [[psionics]] and launched the [[Psionics College]] to great prominence in [[Omphalos, the City of Gardens]] and its [[Court]].
 
 ## Psionic imprinting
 
@@ -27,9 +26,15 @@ Conversely, the latter also has influence in the former through the minds of the
 
 ## Traversing the Psionic Sphere
 
-## Locations within the Psionic Sphere
+As an [[extra-physical]] [[Standard Elven Cosmology|Sphere]], the Psionic Sphere can be traversed in more dimensions than our own [[Prime Material Sphere]]. [[Psion|Psions]] can assume new perspectives of the [[Known World]], jumping directly into those of the people around them – not only other humans but other peoples of the [[Orior]], the [[noble beasts]], and perhaps even simple beasts – and perceive through their own senses. This is typically done without taking action in the Prime Material Sphere, although psions of particular [[Psionics#psionic influence|psionic influence]] are able to coordinate their actions in both Spheres.
+
+Behind and beyond perceived reality, there exist deeper realms within the Psionic Sphere that specially trained psions are able to access and manipulate. The [[Kingdom of Memory]] and [[Dwaal, the Dreaming State]] both hold their own secrets, magics, dangers, and native peoples.
 
 ### Kingdom of Memory
+
+The [[Kingdom of Memory]] is a world within the Psionic Sphere that exists behind and beyond perceived reality. Thought to be a realm of Lord Time of the [[Laws of Power]], this place holds the jumbled, ever-shifting landscapes of perceived history: every memory, every moment painted by thick, overlapping layers of bias and rife with plunging cliffs down into the void of [[Kingdom of Memory#Forgetting|Forgetting]].
+
+The Kingdom holds valuable information: secrets and truths known only subconsciously and otherwise lost to Time. But so too is it treacherous, especially in times of fear. Memory is constantly changing, warped by interpretation and reinterpretation, which creates dangerous terrain and potentially violent natives called [[Thoughtform#Haunts|Haunts]]. One charge of the [[Psion#Psiknights|Psiknights]] of the [[Disciples of the Pretender#Pretender|Pretender]] was to protect the populace of [[Omphalos, the City of Gardens]] from such threats at the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]].
 
 ### Dwaal, the Dreaming State
 
