@@ -17,7 +17,7 @@ next: "[[Belief in the Pretender]]"
 
 ---
 
-A *psion* is a practitioner of the field of [[psionics]], and includes both [[mystic psionics]] and the [[Scholars of the City#Objectivists|objectivist scholars]] of the [[Psionics College]]. The term may be used to refer to anyone awakened to their [[psionics|psionic influence]], but is more commonly in reference to a practitioner of one of the prominent [[#psionic factions]].
+A *psion* is a practitioner of the field of [[psionics]], and includes both [[Mystic psionics]] and the [[Scholars of the City#Objectivists|objectivist scholars]] of the [[Psionics College]]. The term may be used to refer to anyone awakened to their [[psionics|psionic influence]], but is more commonly in reference to a practitioner of one of the prominent [[#psionic factions]].
 
 ## Psionic factions
 
@@ -27,15 +27,15 @@ Now, in the [[Early Post-Enlightenment Era]] the vast majority of the [[Psionics
 
 > For more, see [[Disciples of the Pretender]].
 
-The [[Disciples of the Pretender#Pretender|Pretender]] and their [[Disciples of the Pretender|Disciples]] were the first of the human psions, practicing a form of [[psionics]] called [[mystic psionics]]. The mystics viewed this new field and the seemingly [[extramundane]] powers it afforded them through the same lens that humanity viewed the [[Magics in the Known World|magics]] of the [[Known World]]. Under their stewardship, [[Omphalos, the City of Gardens]] blossomed with miracles and entered into the [[Psionic Age]].
+The [[Disciples of the Pretender#Pretender|Pretender]] and their [[Disciples of the Pretender|Disciples]] were the first of the human psions, practicing a form of [[psionics]] called [[Mystic psionics]]. The mystics viewed this new field and the seemingly [[extramundane]] powers it afforded them through the same lens that humanity viewed the [[Magics in the Known World|magics]] of the [[Known World]]. Under their stewardship, [[Omphalos, the City of Gardens]] blossomed with miracles and entered into the [[Psionic Age]].
 
-Their false messiah, [[dwaalsteppers]], and [[Disciples of the Pretender#Psiknights|Psiknights]] resembled more a [[cults|cult]] or [[Iconic House|heterodoxy]] than the [[Scholars of the City#objectivists|objectivist science]] that it is now understood as, and certainly it grew larger than any single heterodoxy in the [[Canon of Heterodoxies|Canon]]. They gained [[House|Houseship]] and later [[Great House|Great Houseship]] if only to lose it all in [[Fall of the Pretender|their fall]] on a [[Quest into Oblivion]] only years later.
+Their false messiah, [[Mystic psionics#dwaalstepper|dwaalsteppers]], and [[Mystic psionics#Psiknight|Psiknights]] resembled more a [[cults|cult]] or [[Iconic House|heterodoxy]] than the [[Scholars of the City#objectivists|objectivist science]] that it is now understood as, and certainly it grew larger than any single heterodoxy in the [[Canon of Heterodoxies|Canon]]. They gained [[House|Houseship]] and later [[Great House|Great Houseship]] if only to lose it all in [[Fall of the Pretender|their fall]] on a [[Quest into Oblivion]] only years later.
 
 ### Psionics College
 
 > For more, see [[Psionics College]].
 
-The [[Psionics College]] rose from the ashes of the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]], and took on their burden of ushering in the [[Psionic Age]]. The agents of the [[College]] are very different than the [[mystic psionics|mystic psions]] who came before them. They were scholars at heart and took the [[Scholars of the City#Objectivists|objectivist]] approach like they would with any other field of science. They came to populate the same halls and laboratories as the [[Fall of the Materialists College|fallen]] [[Materialists College]] and took their place as the de facto leaders of the [[Scholars Quarter]] as well.
+The [[Psionics College]] rose from the ashes of the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]], and took on their burden of ushering in the [[Psionic Age]]. The agents of the [[College]] are very different than the [[Mystic psionics|mystic psions]] who came before them. They were scholars at heart and took the [[Scholars of the City#Objectivists|objectivist]] approach like they would with any other field of science. They came to populate the same halls and laboratories as the [[Fall of the Materialists College|fallen]] [[Materialists College]] and took their place as the de facto leaders of the [[Scholars Quarter]] as well.
 
 Now, as of the [[Early Post-Enlightenment Era]], they are vying to be named the seventh [[Great House]] of the [[Court]] and the first since the Disciples of the Pretender themselves. Their [[psionics]] have made them valuable to the many [[House|Houses]] of the Court and today they have [[Agents of the Psionics College#College tutors|tutors]] employed to the cabinet of nearly every [[Lord Representative]]. Their [[Agents of the Psionics College#College Silencers|Silencers]] walk the streets and [[rayas]] of the [[rota]] completely unseen, relaying information to their clients and making themselves indispensable even to the [[House of the Sun]] and its [[Orator]] herself.
 
@@ -59,9 +59,9 @@ Making itself known in the [[Early Post-Enlightenment Era]], the Gljiva holds co
 
 ### Mystic psions
 
-> For more on the various classes of the mystic psions, see [[mystic psionics#Classes of the mystic psions|Mystic psionics > Classes of the mystic psions]].
+> For more on the various classes of the mystic psions, see [[Mystic psionics#Classes of the mystic psions|Mystic psionics > Classes of the mystic psions]].
 
-[[Mystic psionics]] largely died out with the [[Fall of the Pretender|fall]] of the [[Disciples of the Pretender#Pretender|Pretender]] and their [[Disciples of the Pretender|Disciples]], who pursued lofty and chivalric stations of [[Disciples of the Pretender#Psiknights|Psiknight]] or [[Dwaalsteppers|Dwaalstepper]] or [[Illusionists|Illusionist]]. Though the [[Agents of the Psionics College|agents]] of the [[Psionics College]] have largely abandoned such frivolities in favor of more modern solutions, there exist a number of psions throughout the wider [[Known World]] who still pursue mystic psionics. They are healers and spiritual guides and warders.
+[[Mystic psionics]] largely died out with the [[Fall of the Pretender|fall]] of the [[Disciples of the Pretender#Pretender|Pretender]] and their [[Disciples of the Pretender|Disciples]], who pursued lofty and chivalric stations of [[Mystic psionics#Psiknight|Psiknight]] or [[Mystic psionics#Dwaalstepper|dwaalstepper]] or [[Mystic psionics#Illusionist|illusionist]]. Though the [[Agents of the Psionics College|agents]] of the [[Psionics College]] have largely abandoned such frivolities in favor of more modern solutions, there exist a number of psions throughout the wider [[Known World]] who still pursue mystic psionics. They are healers and spiritual guides and warders.
 
 ### College tutors
 

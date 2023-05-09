@@ -57,7 +57,7 @@ Their hunts serve to provide the raw material that stocks the four [[Isle of Mel
 
 [[Necromancer devils|Devils]] are necromancers of great power, distinguished from their brethren by their great will and sacrifice in the pursuit of greater magics. Their physical forms are monstrous, enhanced by sometimes fatal [[necromantic grafts]] made from the remains of the races of the [[noble beasts]] and the [[Orior]] hunted down by their [[#death squads]]. In return, they have become forces of nature just as much as they are the product of dangerous and immoral techno-magical advancement.
 
-To the devils, taking on a graft is to be augmented, to be approved. It is a spiritual experience that drastically and permanently alters not only one's physical form but also the spirit as it alters the flow of [[albedo]] through the [[aura]]. Unlike with simple [[necromantic]] artifacts, the grafts and their magics are gained permanently. As such, each devil has hunted down and prepared the raw material used in their own grafts.
+To the devils, taking on a graft is to be augmented, to be approved. It is a spiritual experience that drastically and permanently alters not only one's physical form but also the spirit as it alters the flow of [[albedo]] through the [[aura]]. Unlike with simple [[Necromancy|necromantic]] artifacts, the grafts and their magics are gained permanently. As such, each devil has hunted down and prepared the raw material used in their own grafts.
 
 ### Necromancer Archdevils
 

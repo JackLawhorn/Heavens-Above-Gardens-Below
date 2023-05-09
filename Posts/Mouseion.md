@@ -31,7 +31,7 @@ Then, throughout the [[Renascence]], a great deal of technical improvement was s
 
 ### The Mouseion and the Philosophers Guild
 
-In [[Early Crisis of Hubris]], the first great fracturing of the [[Scholars of the City#subjectivists|subjectivist scholars]] occurred. It was the lecturers and politicians – [[Lord Representative|Lord Representatives]], their advisors, even a number of [[Orators]] – who broke off from the Mouseion citing "intellectual differences". This splinter formed the [[Philosophers Guild]] whose studios were lecture halls and whose audience was the very streets and [[rayas]] of the [[Omphalos, the City of Gardens|City]]. The artists and bards of the Mouseion have always held a contentious relationship with the [[Guild]] and its own splinter the [[First Vergonic Church]].
+In [[Early Crisis of Hubris]], the first great fracturing of the [[Scholars of the City#subjectivists|subjectivist scholars]] occurred. It was the lecturers and politicians – [[Lord Representative|Lord Representatives]], their advisors, even a number of [[Orator|Orators]] – who broke off from the Mouseion citing "intellectual differences". This splinter formed the [[Philosophers Guild]] whose studios were lecture halls and whose audience was the very streets and [[rayas]] of the [[Omphalos, the City of Gardens|City]]. The artists and bards of the Mouseion have always held a contentious relationship with the [[Guild]] and its own splinter the [[First Vergonic Church]].
 
 ## Access to the arts in the City
 

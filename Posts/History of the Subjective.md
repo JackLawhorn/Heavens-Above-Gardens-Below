@@ -40,6 +40,12 @@ Other common themes within the art and in particular the paintings of the Second
 
 After the great Burning, [[Henotheist]] pieces depicted humanity's patron Ylem returning and even aiding in the massive projects of [[Reconstruction]]. With the benefit of greater context, later Henotheists would also incorporate imagery of the lost [[House Lightbringer]], the [[Red King]], and his dark master.
 
+## Psionic art
+
+Pioneered by the [[Disciples of the Pretender#Pretender|Pretender]]'s [[Mystic psionics#Illusionist|illusionists]] at the [[Psionic Age#dawn of the Psionic Age|dawn]] of the [[Psionic Age]], [[Psionics|psionic]] art is a medium that relies on [[Psionics#Hallucination|Hallucination]] to manifest false sensory data in the [[Psionic Sphere]]. Psionic art exists in more dimensions tha more than visual or performance
+
+Psionic artists leaned further into the surreal and the abstract than any [[#Subjectivism|Subjectivists]] before or since.
+
 ## Subjectivism
 
 Humanity would then veer to Subjectivism: a movement born out of [[#Second Wave Henotheism]] and embracing the allegorical and the surreal rather than [[the Objective]]. Many of the Subjectivists would go on to form or join the [[First Vergonic Church]], a philosophical thought experiment that pushed Subjectivist art into the modern era. Vergonic art centered around the origin and nature of Truth, which sat opposite the opposing force of Untruth.
@@ -53,11 +59,3 @@ Subjectivism would also introduce increasingly abstract artworks. Humanity's por
 After the loss of human history in the [[Crisis of Hubris]], the art of the [[Renascence]] primarily centered around capturing historical events and the reality of the present. There was a great [[Humanism|humanist]] lean in what is now beginning to be dubbed "Renascence [[the Objective|Objectivism]]", which dealt primarily with mortals and the mundane rather than the [[Ylem]] and divinity.
 
 This purpose also necessitated a dramatic turn towards realism in visual art. This period saw the invention of proportion – based on the work of [[Cult of Pythos#Pythos|Pythos]] – as well as the use of artistic techniques such as foreshortening and sfumato and chiaroscuro. It also saw the practical application of the studies of the [[History of materialist magics#The Red Death period|anatomists]] of the [[Materialists College]] in depicting the physicality of not only humans but the [[Sobek]] and other races of the [[Orior]].
-
-## Psychedelia
-
-Psychedelia are drugs that affect the mind and its perception of reality. The rise of psychedelia is inextricably tied to the rise of the [[Disciples of the Pretender]], although it is not known which caused the other. The Disciples transformed entire streets and squares into gardens where both produce and psychedelic flowers and fungi could be freely picked and consumed.
-
-Those under the influence of psychedelia come dangerously close to bending the [[Laws of Power]], which govern Space and Time. In addition to this great and dangerous [[paradoxy]], psychedelia is known to temporarily enhance and even awaken [[Psionics|psionic]] potential in those who consume them. The [[Renascence]] scholars of the [[Psionics College]] would push these boundaries almost to their breaking point until finally a string of devastating psionic attacks would be unconsciously unleashed on [[Omphalos, the City of Gardens]] in the [[Late Renascence Era]]. All psychedelic substances are now restricted by the [[House of Vice]] as [[Drugs in the City#Highly-Controlled Substances (HCSs)|Highly-Controlled Substances (HCSs)]].
-
-Psychedelic artists leaned further into the surreal and the abstract than even the [[#Subjectivism|Subjectivists]] of the [[First Vergonic Church]] had. Due to its ties to psionics, many of the few pieces created during the drugs' legality are psionically and emotionally imprinted upon by their creators. Psychedelic Renascence art is among the most valuable on the market today, as their limited number of works and impossibly immense emotional depth make them sought after around the [[Known World]].

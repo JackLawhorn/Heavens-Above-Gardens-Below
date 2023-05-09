@@ -38,9 +38,9 @@ The Kingdom holds valuable information: secrets and truths known only subconscio
 
 ### Dwaal, the Dreaming State
 
-There exists a kingdom of dreams in the [[Psionic Sphere]], known as [[Dwaal, the Dreaming State]]. Those who are proficient in entering the Dwaal and traversing the dreams of those around them – a field of [[mystic psionics]] pioneered by the [[Disciples of the Pretender]] during the [[Later Crisis of Hubris]] – are known as *Dwaalsteppers*.
+There exists a kingdom of dreams in the [[Psionic Sphere]], known as [[Dwaal, the Dreaming State]]. Those who are proficient in entering the Dwaal and traversing the dreams of those around them – a field of [[Mystic psionics]] pioneered by the [[Disciples of the Pretender]] during the [[Later Crisis of Hubris]] – are known as *[[Mystic psionics#Dwaalstepper|dwaalsteppers]]*.
 
-Both byproduct of and window into the greater mind, analysis of the Dwaal is commonly used to address psychological issues and combat the emergence of psychosis – traditionally the work of the Pretender's [[Disciples of the Pretender#Psiknights|Psiknights]] and later the agents of the Psionics College.
+Both byproduct of and window into the greater mind, analysis of the Dwaal is commonly used to address psychological issues and combat the emergence of psychosis – traditionally the work of the Pretender's [[Mystic psionics#Psiknight|Psiknights]] and later the [[Agents of the Psionics College|agents]] of the [[Psionics College]].
 
 ## Objects and places of psionic power
 
@@ -50,7 +50,7 @@ Most places of psionic power are sites within the Prime Material Sphere that int
 
 ### Psychedelia
 
-[[Psionics]] is the extension of the mind to unlock and consciously control what would otherwise be subconscious processes. At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], psychedelics – and most other methods of mind alteration – were commonly used in the [[mystic psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]]. After the disastrous revelation of the [[dreaming psions]] in the [[Early Renascence period]], such substances were outlawed by the [[Psionics College]] from all scholarly pursuits of the field of psionics and by the [[House of Vice]] from civilian use.
+[[Psionics]] is the extension of the mind to unlock and consciously control what would otherwise be subconscious processes. At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], psychedelics – and most other methods of mind alteration – were commonly used in the [[Mystic psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]]. After the disastrous revelation of the [[dreaming psions]] in the [[Early Renascence period]], such substances were outlawed by the [[Psionics College]] from all scholarly pursuits of the field of psionics and by the [[House of Vice]] from civilian use.
 
 Nevertheless, the illicit use of psychedelics persists among scholars to this day, just as it does among the civilian population. 
 

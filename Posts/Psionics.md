@@ -29,7 +29,7 @@ One's psionic influence is constantly fluctuating: accumulating over time and be
 
 ### Psionics versus the magics
 
-The scholar psions of the [[Psionics College]] have – since initially breaking off from the [[mystical psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]] – argued that it is incorrect to understand psionics as a [[Magics in the Known World|field of magic]]. It more closely resembled, they pointed out, a field of [[the objective|objective scientific study]].
+The scholar psions of the [[Psionics College]] have – since initially breaking off from the [[Mystic psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]] – argued that it is incorrect to understand psionics as a [[Magics in the Known World|field of magic]]. It more closely resembled, they pointed out, a field of [[the objective|objective scientific study]].
 
 Their primary argument was that psionic abilities draw from the [[Psionic Sphere]] rather than from [[albedo]] and [[Ylem]]. The Spheres outlined in the commonly accepted [[Standard Elven Cosmology]] model are not [[Aspect|Aspects]], rather concrete forces and laws of nature. To observe the Psionic Sphere may be no more than an additional sense just as the mundane senses observe the [[Prime Material Sphere]]. And all sentient beings manipulate the Psionic Sphere – which is nothing more than perceived reality – so psionic manipulation may not be truly [[extramundane]] either.
 
@@ -59,7 +59,7 @@ Generally, a psion's ability to recognize an illusion as unreal is greater than 
 
 Psionic communication describes non-verbal communication through psionic means. The range and quality of transmission is limited only by the [[#psionic influence|influence]] of the [[Psion]], so this technique also enables immediate telecommunication. Psionic communication is simply the manifestation of an auditory hallucination, and a more powerful psion is able to limit the perception of the communication to intended targets. Though the use of auditory illusions are most common, more powerful psions can get messages across using the other senses. Psions can communicate via visual flashes quite effectively.
 
-One tool the [[Psionic College]] has kept for itself is its [[psionic telecommunication network]]: a hexagonal grid of towers constructed around [[Omphalos, the City of Gardens]] which drastically increases the range from which messages can be psionically transmitted.
+One tool the [[Psionics College]] has kept for itself is its [[psionic telecommunication network]]: a hexagonal grid of towers constructed around [[Omphalos, the City of Gardens]] which drastically increases the range from which messages can be psionically transmitted.
 
 #### Psionic attack
 
