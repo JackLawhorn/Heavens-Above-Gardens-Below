@@ -30,7 +30,7 @@ The [[House of the Sun]], whose [[House of the Sun#Daywatch|Daywatch]] oversaw t
 
 ## Dawn of the Psionic Age
 
-The Later Crisis of Hubris saw the [[Psionic Age#Dawn of the Psionic Age|dawn]] of what is now called the [[Psionic Age]]. This period, stretching from the [[Scenes from the life of the Pretender III|revelation]] of the [[Disciples of the Pretender#Pretender|Pretender]] through the [[Early Renascence period]], saw the rise and fall of [[Mystic psionics]] and the meteoric rise of the [[Psionics College]] which rose from the ashes.
+The Later Crisis of Hubris saw the [[Psionic Age#Dawn of the Psionic Age|dawn]] of what is now called the [[Psionic Age]]. This period, stretching from the [[Scenes from the life of the Pretender III|revelation]] of the [[Pretender]] through the [[Early Renascence period]], saw the rise and fall of [[Mystic psionics]] and the meteoric rise of the [[Psionics College]] which rose from the ashes.
 
 > For more, see [[Psionic Age#Dawn of the Psionic Age|Psionic Age > Dawn of the Psionic Age]].
 

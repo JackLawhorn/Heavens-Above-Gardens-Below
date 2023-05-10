@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 04.16.2023
 tag: "#SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Psionic Age]]", "[[History of psionics]]", "[[Disciples of the Pretender]]"]
+parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Psionic Age]]", "[[History of psionics]]", "[[Pretender]]"]
 
 previous: "[[Reconstruction]]"
 next: "[[Minor Aspects in the City]]"

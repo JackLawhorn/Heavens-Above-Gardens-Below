@@ -42,9 +42,9 @@ After the great Burning, [[Henotheist]] pieces depicted humanity's patron Ylem r
 
 ## Psionic art
 
-Pioneered by the [[Disciples of the Pretender#Pretender|Pretender]]'s [[Mystic psionics#Illusionist|illusionists]] at the [[Psionic Age#dawn of the Psionic Age|dawn]] of the [[Psionic Age]], [[Psionics|psionic]] art is a medium that relies on [[Psionics#Hallucination|Hallucination]] to manifest false sensory data in the [[Psionic Sphere]]. Psionic art exists in more dimensions tha more than visual or performance
+Pioneered by the [[Pretender]]'s [[Mystic psionics#Illusionist|illusionists]] at the [[Psionic Age#dawn of the Psionic Age|dawn]] of the [[Psionic Age]], [[Psionics|psionic]] art is a medium that relies on [[Psionics#Hallucination|Hallucination]] to manifest false sensory data in the [[Psionic Sphere]]. Psionic art exists in more dimensions than more than the visual or performance arts, and can include sights, sounds, smells, tastes, and pleasures that no other medium can illicit. Partially due to this boundless possibility, psionic artists leaned further into the surreal and the abstract than any [[Scholars of the City#Subjectivists|subjectivists]] before or since.
 
-Psionic artists leaned further into the surreal and the abstract than any [[#Subjectivism|Subjectivists]] before or since.
+After the [[fall of the Pretender]], the [[Scholars of the City#Objectivists|objectivist]] [[Psion|psions]] of the [[Psionics College]] largely abandoned such pursuits. One notable exception is the short-lived genre of [[Psychedelia#Psychedelic art|psychedelic art]] in the [[Early Renascence period]], though this was brought to an early end with the criminalization of [[psychedelia]] by the [[House of Vice]] immediately following the [[Exile of the Dreaming Psions|exile]] of the [[Dreaming Psions]].
 
 ## Subjectivism
 

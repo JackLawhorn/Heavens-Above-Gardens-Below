@@ -16,6 +16,25 @@ next: "[[(Theme) The messiah myth]]"
 
 ---
 
-The western coast of the lands to the north of [[Omphalos, the City of Gardens]], along which the [[Sun Elves]] and [[human clans]] traveled during the [[Elven March|Elven March period]]. Here lies the [[Great Delta]], where humanity had their [[first parley with the elemental motes]].
+The Gold Coast is the western coast of the [[Old World]] continent, extending northward from [[Omphalos, the City of Gardens]], which has played a role in human history multiple times. First traveled along by the [[Sun Elves]] and [[human clans]] throughout the [[Elven March|Elven March period]]. Later, the [[Disciples of the Pretender]] would travel its length, tracing the steps of the Elven March on their [[Questing Charter of the Pretender|religious pilgrimage]] to the [[Deep Deserts]].
 
-Later, the [[Disciples of the Pretender]] would travel north along the Gold Coast, tracing the steps of the Elven March on their journey to the [[Deep Deserts]].
+## Geography of the Gold Coast
+
+- To the north
+- To the east
+- To the south
+
+### The Great Delta
+
+## Threats of the Gold Coast
+
+### Akụm marauders
+
+### Gljiva, the Conquering Fungus
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Gold Coast]])
+SORT Posted ASC
+```
