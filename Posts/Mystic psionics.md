@@ -46,7 +46,7 @@ Shortly after the [[Scenes from the Life of the Pretender III|revelation]] of th
 
 At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], the Pretender's dwaalsteppers were far and few between, but played important roles in [[Omphalos, the City of Gardens]]. They found that a number of ailments suffered by humanity stemmed not from anatomy but from phenomena in the Psionic Sphere and especially from the Dwaal. In tackling these ailments, the mystic dwaalsteppers became influential healers for their suffering people.
 
-Traversal of the Dwaal remains relatively rare in the [[Post-Enlightenment Era]], and has not been deeply explored by the [[Scholars of the City#Objectivists|objectivist scholars]] of the [[Psionics College]]. Such practices were found in the Psionic Age to be unreliable and inconsistent at best. At worst, they might lead to devastating losses such as those of the [[Dreaming Psions]].
+Traversal of the Dwaal remains relatively rare in the [[Post-Enlightenment Era]], and has not been deeply explored by the [[Scholars of the City#Objectivists|objectivist scholars]] of the [[Psionics College]]. Such practices were found in the Psionic Age to be unreliable and inconsistent at best. At worst, they might lead to devastating losses such as those of the [[Dreaming psions]].
 
 ## See also
 ```dataview

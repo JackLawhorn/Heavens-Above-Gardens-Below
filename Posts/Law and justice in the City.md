@@ -36,11 +36,11 @@ The term "organized crime" found purchase during the [[Early Renascence period]]
 
 ## Crimes in the City
 
-Though uncommon, violation of terms of exile is one of the more major crimes that necessitates the agents of the [[Jurisweard]]. Not only are the exiled factions criminals, but most are also immensely powerful and capable of incalculable damage to [[Omphalos, the City of Gardens]] and its populace. [[Necromancer demons]], the exiled [[Silver Wolves]] of the [[New Silver Age]], and especially the [[dreaming psions]] are eliminated with quickly and with prejudice when identified in the City. Violation of terms of exile is punished as a [[#simple crime]].
+Though uncommon, violation of terms of exile is one of the more major crimes that necessitates the agents of the [[Jurisweard]]. Not only are the exiled factions criminals, but most are also immensely powerful and capable of incalculable damage to [[Omphalos, the City of Gardens]] and its populace. [[Necromancer demons]], the exiled [[Silver Wolves]] of the [[New Silver Age]], and especially the [[Dreaming psions]] are eliminated with quickly and with prejudice when identified in the City. Violation of terms of exile is punished as a [[#simple crime]].
 
 Also major aspects of the Jurisweard's domain are the [[#complex crime|complex crimes]] of interpersonal violence and theft, damage, and destruction of property. Of the latter, most heavily prioritized are theft or damage to the [[Great Works]], scholarly or historical materials protected under [[Public Scholarship]] law, and damage to the [[City infrastructure and layout#gardens|gardens of the City]].
 
-Theft of regulated [[materialist magics#Materialist artifacts|materialist artifacts]] is also prioritized as they can grant immense power without oversight by a [[Pact magics|patron]] [[Aspect]]. Similarly, consumption, possession, and distribution of restricted, psychedelic substances are a particularly potent threat as they can awaken powerful, dormant [[Psionics|psionic]] abilities while also hampering ones ability to reign them in. The [[exile of the Dreaming Psions]] was made necessary for this very reason.
+Theft of regulated [[materialist magics#Materialist artifacts|materialist artifacts]] is also prioritized as they can grant immense power without oversight by a [[Pact magics|patron]] [[Aspect]]. Similarly, consumption, possession, and distribution of restricted, psychedelic substances are a particularly potent threat as they can awaken powerful, dormant [[Psionics|psionic]] abilities while also hampering ones ability to reign them in. The [[exile of the Dreaming psions]] was made necessary for this very reason.
 
 ## Unlawful districts and neighborhoods
 

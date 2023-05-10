@@ -50,7 +50,7 @@ Most places of psionic power are sites within the Prime Material Sphere that int
 
 ### Psychedelia
 
-[[Psionics]] is the extension of the mind to unlock and consciously control what would otherwise be subconscious processes. At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], psychedelics – and most other methods of mind alteration – were commonly used in the [[Mystic psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]]. After the disastrous revelation of the [[dreaming psions]] in the [[Early Renascence period]], such substances were outlawed by the [[Psionics College]] from all scholarly pursuits of the field of psionics and by the [[House of Vice]] from civilian use.
+[[Psionics]] is the extension of the mind to unlock and consciously control what would otherwise be subconscious processes. At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], psychedelics – and most other methods of mind alteration – were commonly used in the [[Mystic psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]]. After the disastrous revelation of the [[Dreaming psions]] in the [[Early Renascence period]], such substances were outlawed by the [[Psionics College]] from all scholarly pursuits of the field of psionics and by the [[House of Vice]] from civilian use.
 
 Nevertheless, the illicit use of psychedelics persists among scholars to this day, just as it does among the civilian population. 
 
