@@ -16,7 +16,7 @@ Mutualist [[Pact magics|pacts]] are formed between two living beings of relative
 - [[Apiarians Guild]]
 - [[Rookish clans]]
 	- [[Messengers Guild]]
-	- [[Fisher Queens]]
+	- [[Fisher Barons]]
 	- [[Rookish cardinals|Cardinals]]
 
 > For more, see [[Mutualist House]].

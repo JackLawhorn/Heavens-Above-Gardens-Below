@@ -4,7 +4,7 @@ Posted: 01.21.2023
 tag: '#CivilizationSaturday'
 parent: ['[[Sink]]', '[[Orior]]']
 
-previous: '[[Fisher Queens|The Fisher Queens]]'
+previous: '[[Fisher Barons|Fisher Barons]]'
 next: '[[Founding of Omphalos, the City of Gardens]]'
 ---
 `= this.tag` #DailyPost

@@ -18,7 +18,7 @@ next: '[[Mundial Aspects|The Mundial Aspects]]'
 
 > This high history is captured in the [[House of the Sun]]'s historical archives, transcribed from oral history during [[Reconstruction]]. Rights to the use of these materials by the bards of the [[Mouseion]] are ensured by [[Public Scholarship]] law and by the office of the [[Orator]].
 
-As the [[Elven March]] came across the [[Great Delta]] in their journey down the [[Gold Coast]], humanity made their first contact with the [[Mundial Aspects#elemental motes|elemental motes]], facilitated by their mentors the [[Sun Elves]]. Here, a great river from the east broke out into the [[Sink]], a perfect battleground for the ongoing conflict known as the [[roiling of the elements]]. But as the Elves approached and the nearby [[Wild Magics]] were tamed, this roiling dissolved into a temporary peace.
+As the [[Elven March]] came across the [[Gold Coast#Great Delta|Great Delta]] in their journey down the [[Gold Coast]], humanity made their first contact with the [[Mundial Aspects#elemental motes|elemental motes]], facilitated by their mentors the [[Sun Elves]]. Here, a great river from the east broke out into the [[Sink]], a perfect battleground for the ongoing conflict known as the [[roiling of the elements]]. But as the Elves approached and the nearby [[Wild Magics]] were tamed, this roiling dissolved into a temporary peace.
 
 Wanting the humans to meet these [[Ylem]], these [[Mundial Aspects]], the Elves called for a parley. The [[Elven Legion|Legion]] made camp there and all of the [[human clans]] – down to those in the rear of the March – arrived to see and touch and speak with the wonders of the elements.
 

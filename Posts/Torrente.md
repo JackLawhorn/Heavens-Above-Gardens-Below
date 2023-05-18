@@ -16,7 +16,7 @@ next: "[[Visions of the Daywatch]]"
 
 ---
 
-The river [[Torrente]] flows into [[Omphalos, the City of Gardens]] from the northeast, originating from some as of yet unknown mountain peak within the [[Astral Wilds]]. Criss-crossing with the streets and [[rayas]] of the [[rota]], it flows past [[the Maw]] and then into the [[Old City]] before meeting the [[Sink]] at the sound upon which the [[Duchy of Stilts]] was founded. Along its stream, a number of artificially-created canals expand outward from it and bridges extend over it, a network that connects the City.
+The river [[Torrente]] flows into [[Omphalos, the City of Gardens]] from the northeast, originating from some as of yet unknown mountain peak within the [[Astral Wilds]]. Criss-crossing with the streets and [[rayas]] of the [[rota]], it flows past [[the Maw]] and then into the [[Old City]] before meeting the [[Sink]] at the sound upon which the [[Barony of Stilts]] was founded. Along its stream, a number of artificially-created canals expand outward from it and bridges extend over it, a network that connects the City.
 
 ## Industries of the river
 
@@ -32,7 +32,7 @@ In the initial [[Rise of the Oremongers Guild|rising up of the City]] by the new
 
 Since the founding of the [[Shipwrights Guild]], river-faring vessels – designed based on secret knowledge imparted from the elemental [[Mundial Aspects#water motes|water motes]] themselves – have traveled up and down the river Torrente. These vessels, mostly including simple floating platforms and small shallops, provide much needed transportation of personnel and cargo throughout [[Omphalos, the City of Gardens]].
 
-In the [[Later Heliotropic Age]], the river Torrente was a valuable means of transporting the raw material extracted from the [[Mines of the Oremongers Guild|mines]] of the [[Oremongers Guild]] into the City. Providing such transportation services afforded the Guild the funds needed to develop the [[Duchy of Stilts]] and their first fleet of ships fit for traversing the more volatile [[Sink]].
+In the [[Later Heliotropic Age]], the river Torrente was a valuable means of transporting the raw material extracted from the [[Mines of the Oremongers Guild|mines]] of the [[Oremongers Guild]] into the City. Providing such transportation services afforded the Guild the funds needed to develop the [[Barony of Stilts]] and their first fleet of ships fit for traversing the more volatile [[Sink]].
 
 > For more, see [[Transportation in the Known World#Nautical vehicles|Transportation in the Known World > Nautical vehicles]].
 

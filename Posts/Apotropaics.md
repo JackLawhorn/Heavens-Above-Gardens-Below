@@ -23,7 +23,7 @@ The Apotropaics are a collection of disparate and often competing warrior classe
 
 This role has afforded them significant sway in the [[Red Death period City of Gardens]], which many have leveraged to forge a leadership role for themselves. They wage [[Campaigns against the Red Court]], maintain the peace within the communities of the survivors, and provide much needed supplies. Those who come from the [[Iconic House|Iconic Houses]] of the [[Canon of Heterodoxies]] have also fallen into roles as leaders of worship.
 
-Some have taken the opposite path, taking advantage of their prominence to engage in illicit affairs hidden – or not – amongst the chaos. The [[Duchy of Stilts]] and its [[Duchy of Stilts#Shoals|Shoals]] became home to a number of different gangs, including the [[Rookish clans#Rookish Cloaks|Rookish Cloaks]] who rose to greater prominence during this time. The survivors were extorted by those who were meant to protect them: protection rackets that showed the worst of humanity.
+Some have taken the opposite path, taking advantage of their prominence to engage in illicit affairs hidden – or not – amongst the chaos. The [[Barony of Stilts]] and its [[Barony of Stilts#Shoals|Shoals]] became home to a number of different gangs, including the [[Rookish clans#Rookish Cloaks|Rookish Cloaks]] who rose to greater prominence during this time. The survivors were extorted by those who were meant to protect them: protection rackets that showed the worst of humanity.
 
 ## Weapons against the Red Court
 
@@ -33,7 +33,7 @@ Fire and light are much-diluted forms of the divinity of [[Ylem]] and as such ar
 
 [[Docetic materials#Silver|Silver]], a [[Docetic materials|docetic material]] with extremely high [[albedo]], is also extremely effective. The [[Silver Wolves]] wielded arms and armor of pure silver, and the [[#Wolfstepper Silversmiths|smiths]] of [[Clan Wolfstepper]] forged [[silvered]] spears, blades, and arrowheads to arm their allies. Even small trinkets and talismans – popular tools of the relatively powerless [[Materialist magics|materialists]] during this time – were enough to impose significant vulnerability upon the soldiers of the Red Court. Traps and wards could also be made of silver, both to keep the Red Court away from certain areas and to trap them within warding circles lined with the material.
 
-Unlike the other Umbral Aspects, the soldiers of the Red Court also displayed some sort of fear of or aversion to water – specifically running water like that of the river [[Torrente]] and the sea water of the [[Sink]]. This was thought by the scholars of the [[Materialists College]] to be a physiological factor imposed by the [[Red Death]]. Because of this, humanity was able to find refuge within the newly founded [[Duchy of Stilts]] and along the waterways flowing through the City.
+Unlike the other Umbral Aspects, the soldiers of the Red Court also displayed some sort of fear of or aversion to water – specifically running water like that of the river [[Torrente]] and the sea water of the [[Sink]]. This was thought by the scholars of the [[Materialists College]] to be a physiological factor imposed by the [[Red Death]]. Because of this, humanity was able to find refuge within the newly founded [[Barony of Stilts]] and along the waterways flowing through the City.
 
 ## Classes of the Apotropaics
 

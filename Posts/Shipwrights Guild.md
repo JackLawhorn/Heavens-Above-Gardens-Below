@@ -2,10 +2,10 @@
 dg-publish: true
 Posted: 03.10.2023
 tag: "#FactionFriday"
-parent: ["[[House]]", "[[Guild]]", "[[Houses of Industry]]", "[[Engineers Union]]", "[[Duchy of Stilts]]", "[[Transportation in the Known World]]"]
+parent: ["[[House]]", "[[Guild]]", "[[Houses of Industry]]", "[[Engineers Union]]", "[[Barony of Stilts]]", "[[Transportation in the Known World]]"]
 
 previous: "[[(Theme) Virtue and sin]]"
-next: "[[Duchy of Stilts]]"
+next: "[[Barony of Stilts]]"
 ---
 `= this.tag` #DailyPost 
 # Shipwrights Guild
@@ -26,9 +26,9 @@ The ancestors of what is now the Shipwrights Guild can be traced back to those w
 
 ### The Crisis of Hubris
 
-Their descendants would go on to form the [[Shipwrights Guild]] in the [[Early Crisis of Hubris]]. Although they are perhaps best known for their nautical vessels, they have a rich history in all forms of vehicular engineering. They co-founded the [[Duchy of Stilts]] with the [[Fisher Queens]], and had developed humanity's first fleet of seafaring vessels before tragedy struck. In the maiden voyage of their first ship – sent to retrieve the survivors of [[House Lightbringer]] from base of the [[Nyxblight Tree]] on the eastern shore of the [[Great Sea]] – they unwittingly brought the [[Red Court]] and their [[Red Death|plague]] back to the City instead. Still, the Duchy of Stilts played a major role in the survival of humanity in the [[Red Death period]], and so they were largely able to survive the political implications of this tragedy.
+Their descendants would go on to form the [[Shipwrights Guild]] in the [[Early Crisis of Hubris]]. Although they are perhaps best known for their nautical vessels, they have a rich history in all forms of vehicular engineering. They co-founded the [[Barony of Stilts]] with the [[Fisher Barons]], and had developed humanity's first fleet of seafaring vessels before tragedy struck. In the maiden voyage of their first ship – sent to retrieve the survivors of [[House Lightbringer]] from base of the [[Nyxblight Tree]] on the eastern shore of the [[Great Sea]] – they unwittingly brought the [[Red Court]] and their [[Red Death|plague]] back to the City instead. Still, the Barony of Stilts played a major role in the survival of humanity in the [[Red Death period]], and so they were largely able to survive the political implications of this tragedy.
 
-> For more, see  and [[Duchy of Stilts#History of the Duchy|Duchy of Stilts > History of the Duchy]].
+> For more, see  and [[Barony of Stilts#History of the Stilts|Barony of Stilts > History of the Stilts]].
 
 In the [[Later Crisis of Hubris]], the Guild was able to largely repair their status and standing after playing a key role in early [[Reconstruction]] efforts with their land vehicles able to haul materials and transport workers. Although they would participate in yet another failed [[Quest into Oblivion]] – that of the [[Questing Charter]] granted to the [[Disciples of the Pretender]] – the political sentiment of the time ensured that this would not be held against them either.
 
@@ -68,7 +68,7 @@ Over the course of the [[Renascence]], many of them would be loaned to the [[Off
 
 ### Guild engineers
 
-The backbone of the Shipwright Guild is its engineers, some of the finest in the history of [[Omphalos, the City of Gardens]] and indeed all of the [[Known World]]. Coming from the many [[Houses of Industry]] to found the Guild itself in the [[Early Crisis of Hubris]], they quickly allied themselves with the [[Fisher Queens]] to found the [[Duchy of Stilts]] and their headquarters there: the [[Duchy of Stilts#Shipwrights Quarter|Shipwrights Quarter]].
+The backbone of the Shipwright Guild is its engineers, some of the finest in the history of [[Omphalos, the City of Gardens]] and indeed all of the [[Known World]]. Coming from the many [[Houses of Industry]] to found the Guild itself in the [[Early Crisis of Hubris]], they quickly allied themselves with the [[Fisher Barons]] to found the [[Barony of Stilts]] and their headquarters there: the [[Barony of Stilts#Shipwrights Quarter|Shipwrights Quarter]].
 
 Their works, both on the Stilts itself and on their first fleet of seafaring vessels, are considered some of the first great [[Humanism|humanist]] works. Later, with their invention of the steam engine, not only would the Guild once again help to usher in the [[Post-Enlightenment Era]] but so too would they help to co-found the [[Engineers Union]] which split off from the Houses of Industry.
 

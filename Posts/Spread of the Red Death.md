@@ -35,13 +35,13 @@ The Red Court itself was first encountered by the [[Quest|questing party]] of [[
 
 The [[Red Death]] arrived in [[Omphalos, the City of Gardens]] by boat, the fruit of the young [[Shipwrights Guild]] and their labors. Having traveled east along the [[Sun Coast]] to the base of the great [[Nyxblight Tree]] where a smoke signal promised they would find the survivors of [[House Lightbringer]] and their [[Quest|questing party]], they instead encountered horrors beyond any in human history: the victims of the [[Red Court]].
 
-When their ship returned to the waters outside the City, its crew was all but gone and the Guild resorted to towing it back into the port of the [[Duchy of Stilts]]. There were no crew on board, not even signs of a struggle, but that night something did escape from its dark hold and into the City.
+When their ship returned to the waters outside the City, its crew was all but gone and the Guild resorted to towing it back into the port of the [[Barony of Stilts]]. There were no crew on board, not even signs of a struggle, but that night something did escape from its dark hold and into the City.
 
 > For more, see [[Arrival of the Red Court in the City]].
 
 ## Spread throughout the City
 
-Spread of the [[Red Death]] throughout [[Omphalos, the City of Gardens]] was rapid. The morning following the return of the [[Shipwrights Guild]]'s ship, agents of the [[Jurisweard]] began receiving reports of disappearances and sightings of strange beasts lurking in the shadows. Reports traced a distinct line from the [[Duchy of Stilts#Shipwrights Quarter|Shipwrights Quarter]] in the [[Duchy of Stilts|Stilts]] to the City's outer walls.
+Spread of the [[Red Death]] throughout [[Omphalos, the City of Gardens]] was rapid. The morning following the return of the [[Shipwrights Guild]]'s ship, agents of the [[Jurisweard]] began receiving reports of disappearances and sightings of strange beasts lurking in the shadows. Reports traced a distinct line from the [[Barony of Stilts#Shipwrights Quarter|Shipwrights Quarter]] in the [[Barony of Stilts|Stilts]] to the City's outer walls.
 
 Two days after that and [[Red Court]] and their plague were entrenched in the outer reaches of what is now the [[Old City]]. An estimated 25 percent of the Jurisweard's ranks had been slain, and disappearances now numbered in the thousands. No remains of the victims had yet been found, but first-hand reports described horrors, predators that ambushed and consumed their prey.
 

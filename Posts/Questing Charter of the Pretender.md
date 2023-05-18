@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 05.13.2023
 tag: "#CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Pretender]]", "[[Disciples of the Pretender]]", "[[Questing Charter]]"]

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 05.11.2023
 tag: "#ThemeThursday"
 
@@ -14,7 +15,11 @@ next: "[[Disciples of the Pretender]]"
 
 ---
 
+## Reception of messianic figures
 
+## Performance of miracles
+
+## 
 
 ---
 

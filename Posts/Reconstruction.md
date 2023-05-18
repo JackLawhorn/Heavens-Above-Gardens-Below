@@ -22,7 +22,7 @@ next: "[[Scenes from the life of the Pretender I]]"
 
 Simply clearing the rubble and growths of the thorny, black [[nyxblight]] vines took weeks to complete, and afterwards much of [[Omphalos, the City of Gardens]] needed to be rebuilt, repaired, or reinforced. The clearing efforts were attended to by the populace at large, save for those who were needed elsewhere. The rebuilding itself was also very much a populist effort, though major players included the [[Shipwrights Guild]], the [[Architects Guild]], the [[Materialists College]], and many of the [[Houses of Industry]].
 
-The portion of the [[Old City]] that was razed in the [[Burning]] was built back up, this time by human hands rather than the [[Iconic pacts|iconic magics]] of the [[Oremongers Guild]]. This place would come to be called the [[Red Quarter]], separate from the still-standing remainder of the Old City known as the [[White Quarter]]. Other parts of the City, including the [[Duchy of Stilts]] where the human refugees had gathered, also required significant repairs.
+The portion of the [[Old City]] that was razed in the [[Burning]] was built back up, this time by human hands rather than the [[Iconic pacts|iconic magics]] of the [[Oremongers Guild]]. This place would come to be called the [[Red Quarter]], separate from the still-standing remainder of the Old City known as the [[White Quarter]]. Other parts of the City, including the [[Barony of Stilts]] where the human refugees had gathered, also required significant repairs.
 
 ### New defenses in the City
 

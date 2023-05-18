@@ -46,7 +46,7 @@ Both byproduct of and window into the greater mind, analysis of the Dwaal is com
 
 Generally, objects and places of [[Psionics|psionic]] power influence the [[Prime Material Sphere]] through the actions of its peoples and beasts. These are easily identifiable by those psions able to traverse the [[Psionic Sphere]], but may range from indetectable to [[Psionics#Captivation|captivating]] for all others. Naturally-occurring objects of psionic power are far and few between, but are often [[docetic]] in nature – like the [[Docetic materials#Psicrystal|psicrystal]] which is coveted by the agents of the [[Psionics College]].
 
-Most places of psionic power are sites within the Prime Material Sphere that intersect with the Psionic Sphere, where the two have more influence over each other – such as the [[Deep Deserts#mirages|mirages]] of the [[Deep Deserts]]. These can be created through [[#psionic imprinting]] as well, the apperception of the population leaving a mark within the Psionic Sphere. Many [[Umbral Aspects]] generate places of power which particularly significant influence, often spreading fear and dismay and darkness to those within the Prime Material Sphere.
+Most places of psionic power are sites within the Prime Material Sphere that intersect with the Psionic Sphere, where the two have more influence over each other – such as the [[Deep Deserts#mirage|mirages]] of the [[Deep Deserts]]. These can be created through [[#psionic imprinting]] as well, the apperception of the population leaving a mark within the Psionic Sphere. Many [[Umbral Aspects]] generate places of power which particularly significant influence, often spreading fear and dismay and darkness to those within the Prime Material Sphere.
 
 ### Psychedelia
 

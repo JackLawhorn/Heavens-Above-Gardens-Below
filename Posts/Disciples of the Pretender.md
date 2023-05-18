@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 05.12.2023
 tag: "#FactionFriday"
 aliases: Disciples, Disciple

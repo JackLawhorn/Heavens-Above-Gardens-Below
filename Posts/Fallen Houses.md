@@ -23,7 +23,7 @@ From each Fallen House, humanity has gleaned what are now foundational moral les
 
 The Fallen Houses and accounts of their fall are listed below:
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Fallen Houses]])
-SORT file.name DESC, Tag ASC
+SORT Posted ASC
 ```

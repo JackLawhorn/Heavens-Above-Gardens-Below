@@ -26,9 +26,9 @@ After the defeat of the [[Red Court]] in [[Omphalos, the City of Gardens]] by th
 
 ## Berserkers of the Red Moon
 
-Cut off from their [[Pact magics|patron]] [[Aspect]], the human children of the [[Lunar Aspects#Wolf Mother|Wolf Mother]] – [[Clan Wolfstepper]] – not only suffered through that silence and abandonment but also found themselves afflicted with a newfound aggression, ferocity, and bloodlust. During the [[Red Death period]], a new faction arose from this people: the Berserkers of the Red Moon. Although the influence of the Red Moon made them extremely effective [[Apotropaics]] who played a significant role in the [[Campaigns against the Red Court|campaigns]] against the [[Red Court]], they are also remembered as criminals who abused their station and leveraged it to run a sizable, organized protection racket out of the refugee camps of the [[Duchy of Stilts]]. 
+Cut off from their [[Pact magics|patron]] [[Aspect]], the human children of the [[Lunar Aspects#Wolf Mother|Wolf Mother]] – [[Clan Wolfstepper]] – not only suffered through that silence and abandonment but also found themselves afflicted with a newfound aggression, ferocity, and bloodlust. During the [[Red Death period]], a new faction arose from this people: the Berserkers of the Red Moon. Although the influence of the Red Moon made them extremely effective [[Apotropaics]] who played a significant role in the [[Campaigns against the Red Court|campaigns]] against the [[Red Court]], they are also remembered as criminals who abused their station and leveraged it to run a sizable, organized protection racket out of the refugee camps of the [[Barony of Stilts]]. 
 
 > [!INFO] Additional resources
 > For more on the Berserkers of the Red Moon and their legacy, see...
 > - [[Apotropaics#Berserkers of the Red Moon|Apotropaics > Berserkers of the Red Moon]]
-> - [[Campaigns against the Red Court#Red Death period Duchy of Stilts|Campaigns against the Red Court > Controversy > Red Death period Duchy of Stilts]]
+> - [[Campaigns against the Red Court#Red Death period Barony of Stilts|Campaigns against the Red Court > Controversy > Red Death period Barony of Stilts]]

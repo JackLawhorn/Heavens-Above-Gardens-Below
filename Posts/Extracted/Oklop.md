@@ -28,7 +28,7 @@ Communicating with each other using scent and smell, the Oklop do not possess th
 
 Oklop are a mostly self-involved race, but have increasingly partaken in trade with humans who have much need for their ability to scavenge undersea caves, ruins, and wrecks. Not at all interested in monetary incentive, the Oklop work instead for a range of wildly different human trinkets and bobbles which they bury in secret to create vast, private hoards.
 
-Because of this, they are known as avid traders and in fact founded the [[Great Sea Bazaar]] – a massive open-air market and the first in [[Omphalos, the City of Gardens]]. The Bazaar has grown to include the wares of other races of the [[Orior]], the [[Fisher Queens]]' fishmongers, and aquatic produce.
+Because of this, they are known as avid traders and in fact founded the [[Great Sea Bazaar]] – a massive open-air market and the first in [[Omphalos, the City of Gardens]]. The Bazaar has grown to include the wares of other races of the [[Orior]], the [[Fisher Barons]]' fishmongers, and aquatic produce.
 
 ## Allies and predators
 

@@ -4,7 +4,7 @@ Posted: 01.19.2023
 tag: '#ThemeThursday'
 
 previous: '[[Sink|The Sink]]'
-next: '[[Fisher Queens]]'
+next: '[[Fisher Barons]]'
 ---
 `= this.tag` #DailyPost
 # (Theme) The elements

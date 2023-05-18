@@ -26,11 +26,11 @@ The [[Crisis of Hubris]], and especially the Early Crisis of Hubris, are charact
 
 During [[Reconstruction]] in the [[Later Crisis of Hubris]] and into the [[Early Renascence period]], human historians would come to understand that it was the latter of these downfalls that brought the [[Red Court]] and its [[Red Death|plague]] to the City. With their defensive and leadership abilities so significantly reduced, the [[Red Death period]] to come would further devastate a now especially vulnerable humanity.
 
-## The Duchy of Stilts and the Shipwrights Guild
+## The Barony of Stilts and the Shipwrights Guild
 
-The Early Crisis of Hubris saw significant advances by the water faring [[House|Houses]] of [[Omphalos, the City of Gardens]] which enabled humanity within its walls to more effectively life off of and traverse the treacherous waves of the [[Sink]]. Most prominent were the construction of the [[Duchy of Stilts]] by the [[Fisher Queens]] and the founding of the [[Shipwrights Guild]].
+The Early Crisis of Hubris saw significant advances by the water faring [[House|Houses]] of [[Omphalos, the City of Gardens]] which enabled humanity within its walls to more effectively life off of and traverse the treacherous waves of the [[Sink]]. Most prominent were the construction of the [[Barony of Stilts]] by the [[Fisher Barons]] and the founding of the [[Shipwrights Guild]].
 
-These Houses would play a significant role in the [[Red Death period]] to come. The Guild, in seeking to retrieve the surviving members of [[House Lightbringer]]'s [[quest|questing party]], instead brought back with them the [[Red Court]] and its [[Red Death|plague]]. With the City besieged by these horrors, much of its populace retreated to the relative safety of the Duchy.
+These Houses would play a significant role in the [[Red Death period]] to come. The Guild, in seeking to retrieve the surviving members of [[House Lightbringer]]'s [[quest|questing party]], instead brought back with them the [[Red Court]] and its [[Red Death|plague]]. With the City besieged by these horrors, much of its populace retreated to the relative safety of the Barony.
 
 ## Objectivism and humanism
 

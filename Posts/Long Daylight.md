@@ -18,7 +18,7 @@ next: "[[Red Moon]]"
 
 After proving that the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] could swiftly be vanquished by exposure to the light of [[Ylem]], the scholars of the [[Materialists College]] would propose an unprecedented alteration to the [[Elven Signaltower]] before the [[House|Houses]] of the [[Court]]. Rather than alternating between day and night as designed by the [[Sun Elves]], they would usher in a period of sustained daylight in order to limit the movements of the enemy in [[Omphalos, the City of Gardens]].
 
-As the [[Red Death period]] went on and the threats to the populace of the City increased, the Court would ultimately approve the motion, ushering in a phenomena now known as the Long Daylight. This was highly effective in creating [[Red Death period City of Gardens#Bastions from the Red Court|bastions]] from the soldiers of the Red Court, namely around the Signaltower and in the [[Duchy of Stilts]].
+As the [[Red Death period]] went on and the threats to the populace of the City increased, the Court would ultimately approve the motion, ushering in a phenomena now known as the Long Daylight. This was highly effective in creating [[Red Death period City of Gardens#Bastions from the Red Court|bastions]] from the soldiers of the Red Court, namely around the Signaltower and in the [[Barony of Stilts]].
 
 ## The Daywatch
 

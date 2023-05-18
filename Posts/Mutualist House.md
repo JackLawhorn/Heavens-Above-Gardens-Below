@@ -16,7 +16,7 @@ next: "[[Posts/Arrival of the Red Court in the City|Arrival of the Red Court in 
 
 ---
 
-A [[House]] whose members hold [[mutualist pacts]] with a [[Pact magics|pact-bound]] race of [[Noble beasts]]. Most prominent are the many [[Rookish clans]], including the [[Messengers Guild]] and the [[Fisher Queens]], who hold pacts with the many avian races of noble beasts.
+A [[House]] whose members hold [[mutualist pacts]] with a [[Pact magics|pact-bound]] race of [[Noble beasts]]. Most prominent are the many [[Rookish clans]], including the [[Messengers Guild]] and the [[Fisher Barons]], who hold pacts with the many avian races of noble beasts.
 
 ## Mutualist Houses of the Court
 ```dataview

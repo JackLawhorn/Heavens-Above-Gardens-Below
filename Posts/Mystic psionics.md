@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 05.08.2023
 tag: "#MagicSystemMonday"
 parent: ["[[Psionics]]", "[[Psionic Age]]", "[[History of Psionics]]", "[[Disciples of the Pretender]]", "[[Psion]]", "[[Belief in the Pretender]]"]

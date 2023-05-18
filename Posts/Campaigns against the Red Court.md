@@ -34,9 +34,9 @@ The losses of the Burning itself were much greater, with 40% of the [[Old City]]
 
 ## Controversy
 
-### Red Death period Duchy of Stilts
+### Red Death period Barony of Stilts
 
-The [[Red Death period]] refugees who gathered in survivor camps across the newly founded [[Duchy of Stilts]] suffered through an unprecedented level of criminal activity perpetrated by both individual bad actors and the organized efforts of gangs. Largely unaddressed by leadership who were preoccupied with their campaigns against the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]], the consequences of and grudges over these events continue to influence interactions between the [[House|Houses]] of the [[Court]] to this day.
+The [[Red Death period]] refugees who gathered in survivor camps across the newly founded [[Barony of Stilts]] suffered through an unprecedented level of criminal activity perpetrated by both individual bad actors and the organized efforts of gangs. Largely unaddressed by leadership who were preoccupied with their campaigns against the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]], the consequences of and grudges over these events continue to influence interactions between the [[House|Houses]] of the [[Court]] to this day.
 
 The [[Apotropaics#Berserkers of the Red Moon|Berserkers]] of the [[Red Moon]], elite [[Apotropaics]] who hailed from [[Clan Wolfstepper]], were particularly infamous. Running an organized protection racket out of the Stilts, they abused their station and brought shame upon their [[Human clans|clan]]. It was alleged by some in the [[Later Crisis of Hubris]] that these crimes significantly influenced the public perception of the [[Silver Wolves]] and their departure from the [[Omphalos, the City of Gardens]] that was called their [[Fall of the Silver Wolves|fall]].
 

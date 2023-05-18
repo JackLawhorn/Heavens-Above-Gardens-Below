@@ -49,6 +49,6 @@ The light of [[Ylem]] promotes verdancy and growth, more concentrated closer to 
 
 ## Hub of the City
 
-[[Omphalos, the City of Gardens]] itself was built around the Signaltower, what now is called the [[Old City]]. Closest to its base is the [[White Quarter]], which is home to the [[Court]] and later the [[Orator]]'s [[Public Record|Hall of Public Record]]. Also nearby are the [[Scholars Quarter]] and later the [[Red Quarter]] and the [[Duchy of Stilts]].
+[[Omphalos, the City of Gardens]] itself was built around the Signaltower, what now is called the [[Old City]]. Closest to its base is the [[White Quarter]], which is home to the [[Court]] and later the [[Orator]]'s [[Public Record|Hall of Public Record]]. Also nearby are the [[Scholars Quarter]] and later the [[Red Quarter]] and the [[Barony of Stilts]].
 
 > For more, see [[Omphalos, the City of Gardens#City infrastructure and layout|Omphalos, the City of Gardens > City infrastructure and layout]].
