@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 05.12.2023
 tag: "#FactionFriday"
 aliases: Disciples, Disciple
-parent: ["[[Psionics]]", "[[History of psionics]]", "[[Psionic Age]]", "[[Belief in the Pretender]]", "[[Psion]]", "[[Mystic psionics]]", "[[Questing Charter of the Pretender]]", "[[Fallen Houses]]"]
+parent: ["[[Psionics]]", "[[History of psionics]]", "[[Psionic Age]]", "[[Belief in the Pretender]]", "[[Psion]]", "[[Mystic psionics]]", "[[Questing Charter of the Pretender]]", "[[Fallen Houses]]", "[[cults]]"]
 
 previous: "[[(Theme) The messiah myth]]"
 next: "[[Questing Charter of the Pretender]]"
@@ -43,7 +43,7 @@ Some years after their [[Scenes from the life of the Pretender III|revelation]] 
 
 [[Questing Charter of the Pretender|Their Questing Charter]] was ultimately granted with majority support in Court. Though the Great Houses and their Orators were among the detractors – which most notably also included the [[Canon of Heterodoxies]] – they formulated a plan to deal with their rising power. The Disciples of the Pretender had their Questing Charter granted and were also named as the sixth Great House of the Court, ensuring access to the resources needed for such a [[quest]].
 
-Ultimately, this religious pilgrimage proved a [[Quest into Oblivion]], and led to the [[fall of the Pretender]]. Only a handful of the Disciples survived to return to [[Omphalos, the City of Gardens]] with the news, and the fall of yet another Great House was moralized just as much as the others.
+Ultimately, this religious pilgrimage proved a [[Quest into Oblivion]], and led to the [[Fall of the Pretender]]. Only a handful of the Disciples survived to return to [[Omphalos, the City of Gardens]] with the news, and the fall of yet another Great House was moralized just as much as the others.
 
 > For more, see [[Questing Charter of the Pretender]] and [[Fall of the Pretender]].
 

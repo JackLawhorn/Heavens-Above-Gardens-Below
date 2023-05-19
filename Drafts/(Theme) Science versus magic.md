@@ -15,7 +15,7 @@ next: "[[Psion]]"
 
 ---
 
-## Soft magic versus hard magic
+## Soft magic versus hard magic systems
 
 ## Hard magic versus science
 

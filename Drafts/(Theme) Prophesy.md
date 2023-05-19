@@ -14,7 +14,11 @@ next: "[[Clan Wolfstepper]]"
 
 ---
 
+## Origin
 
+## Reception
+
+## Outcome
 
 ---
 

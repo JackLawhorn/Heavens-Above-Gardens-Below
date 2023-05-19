@@ -43,7 +43,7 @@ Now, as of the [[Early Post-Enlightenment Era]], they are vying to be named the 
 
 > For more, see [[Muqallid mimics]].
 
-The only naturally-[[Psionics|psionic]] race of the [[Orior]], the [[Muqallid mimics]] live just as much in the [[Psionic Sphere]] as they do in the [[Prime Material Sphere]]. Their physical forms within the latter vary greatly from mimic to mimic – the few that have been glimpsed through the illusion range from insectoid to reptilian to deformed horrors – but are obscured by a powerful haze of [[Psionics#Hallucination|hallucinations]] and [[psionics#silencing|silencing]]. Their presence slips through gaps in human perception. They are hard to make out and harder to maintain focus on.
+The only naturally-[[Psionics|psionic]] race of the [[Orior]], the [[Muqallid mimics]] live just as much in the [[Psionic Sphere]] as they do in the [[Prime Material Sphere]]. Their physical forms within the latter are insectoid – covered in protective spikes and retracting blades – but are obscured by a powerful haze of [[Psionics#Hallucination|hallucinations]] and [[psionics#silencing|silencing]]. Their presence slips through gaps in human perception. They are hard to make out and harder to maintain focus on.
 
 They are nomadic wanderers and solitary to a one, occasionally drifting from population center to population center. They are mostly benign observers who are drawn to crowds. They have not been observed eating, drinking, speaking, sleeping, or defecating, and were even theorized to be [[docetic]] upon their discovery in the [[Early Renascence period]].
 

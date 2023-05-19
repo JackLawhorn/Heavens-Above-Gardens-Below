@@ -39,7 +39,7 @@ Mystic [[Psion|psions]] first developed illusion as a [[History of the Subjectiv
 
 Trusted [[Psionics|psionic]] warriors appointed by the [[Pretender]] themselves, the first Psiknights were powerful mystic [[Psion|psions]] who wander the [[Psionic Sphere]] pursuing various [[Belief in the Pretender#Quests of the Disciples of the Pretender|quests]]. Some warded away and fought dangerous [[Natives of the Psionic Sphere#Psychoses|psychoses]] affecting the populace of [[Omphalos, the City of Gardens]]. Others investigated rumors of [[Natives of the Psionic Sphere#Haunts|haunts]] wandering the City at night and helped to guide them back to the [[Psionic Sphere#Kingdom of Memory|Kingdom of Memory]].
 
-Now, long after the [[fall of the Pretender]], a significant number of the few mystic psions who remain in the [[Known World]] continue this noble heritage. Psiknights are far and few between in the City where mystic psions are accosted by the [[Agents of the Psionics College|agents]] of the [[Psionics College]], but their services are much needed and appreciated by those living in the [[Colonies of the Questing Houses|colonies]] of the [[Questing Houses]].
+Now, long after the [[Fall of the Pretender]], a significant number of the few mystic psions who remain in the [[Known World]] continue this noble heritage. Psiknights are far and few between in the City where mystic psions are accosted by the [[Agents of the Psionics College|agents]] of the [[Psionics College]], but their services are much needed and appreciated by those living in the [[Colonies of the Questing Houses|colonies]] of the [[Questing Houses]].
 
 ### Dwaalstepper
 

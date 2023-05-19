@@ -17,9 +17,9 @@ next: "[[Disciples of the Pretender]]"
 
 ## Reception of messianic figures
 
-## Performance of miracles
+## The performance of miracles
 
-## 
+## The fall of messianic figures
 
 ---
 
