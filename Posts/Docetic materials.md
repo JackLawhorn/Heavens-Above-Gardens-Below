@@ -24,6 +24,8 @@ Onyx is a highly reactive material. The largest of these deposits, called anchor
 
 ## Silver
 
+> For more, see [[Silver]].
+
 Over the lifespan of the [[Known World]], pieces of her physical, lunar form have come crashing down to the surface in the form of deposits of pure silver.
 
 Silver is white in color and the most reflective metal, with high density and resistance to oxidation. It has the highest thermal conductivity of all known metals, and thus is often cold to the touch. It has a very low melting point, and was easily forged along the [[Elven March]] by the early [[Silver Wolves]] of the [[Heliotropic Age]]. Pure silver is not very hard, but becomes more so when acting as a channel for magics, making it the most effective material for such use – even more so than gold or copper. The metal is also said to have healing and cleansing properties, and even a single silver coin can purify a tankard of water.
@@ -40,16 +42,27 @@ Fulgurite deposits are imbued with their own small store of magical power. For t
 
 ## Psicrystal
 
+> For more, see [[Psicrystal]].
+
 Uniquely, psicrystal is forged from the mind and the powers of the [[Psionic Sphere]] rather than by the light of the [[Ylem]] as [[#onyx]], [[#silver]], and [[#fulgurite]] are. Psicrystal grows rapidly in bacteria-like cultures in the presence of immense [[Psionics|psionic]] power and weak points in the membrane between the [[Prime Material Sphere|Prime Material]] and Psionic Spheres. Some psions can even intentionally materialize small amounts of psicrystal. Most famous are the gargantuan psicrystal pillars of the [[Deep Deserts]] around which the region's many settlements are built.
 
 It is a brilliant pink, crystalline material – that same infamous color seen in the eyes of human psions, the banners and robes of the [[Psionics College]], and even the caps of [[Gljiva, the Conquering Fungus]] themself. It possesses from form of reactive luminescence triggered by proximity to psionic influence or psions of particular strength. Generally, psicrystal can be shaped by human tools into any variety of Forms, but it is generally unhelpful for use in weaponry as it is quick to break off into sheets.
 
 Psicrystal is prized for connection to Psionic Sphere, and much of the [[Later Renascence period]] was spent seeking uses for its unique abilities. As a ward against psionic influence and an effective alarm against powerful psionic foes, it is a powerful tool of the [[Court]] against shadow rule by the agents of the Psionics College. It has also been instrumental in the development of the [[Psionic Telecommunication Network]] due to its ability to magnify the range of a psions natural telecommunication ability. Due to its similar Form to fulgurite, it has long been thought that psicrystal could be used to store psionic power, but this has not been achieved as of yet.
 
-## Brimstone (sulfur)
+## Brimstone
+
+> For more, see [[Brimstone]].
 
 Brimstone is solid in form and light yellow in color. It is known by many names: brimstone by humanity's scholars, sulfur by the [[devils]] who deal in it, and "devil's gold" by those who hate the [[Necromancer demons]] of the [[Fall of the Materialists College|fallen]] [[Materialists College]].
 
 Although most infamous as the [[Alchemy|alchemical]] byproduct of the devils' dark magics, brimstone is also a naturally- and abundantly-occurring material found at caves and volcanoes as lakes of molten sulfur. It can be found at many reactive and transformational sites, such as geysers, hot springs, mudpots, and fumaroles.
 
 The alchemists of old identified it as the product of transformation, even being produced by [[nyxfire]] itself. In fact, sulfur is the tenth most abundant element by mass across the [[Nyx]] and the fifth most in the [[Known World]].
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Docetic materials]])
+SORT Posted ASC
+```

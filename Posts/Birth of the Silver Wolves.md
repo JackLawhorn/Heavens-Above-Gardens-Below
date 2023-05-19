@@ -17,8 +17,6 @@ next: '[[Iconic pact of the Silver Wolves]]'
 
 ---
 
-> This high history is captured in the [[House of the Sun]]'s historical archives, transcribed from oral history during [[Reconstruction]]. Though free to access under [[Public Scholarship]] law, the [[Office of the Orator]] reminds us that the storied [[Fall of the Silver Wolves]] during the [[Crisis of Hubris]] teaches us that one's ambitions of exultation stoke one's appetite for betrayal.
-
 The [[Lunar Aspects|moons]] sat full above the [[Known World]], above the camps that the [[Sun Elves]] and the [[human clans]] had made for themselves. The larger of the two, the [[silver moon]] was as the eye of the [[Nyx]] itself, trained on the world below. It was to be a night of predators, of the hunt.
 
 Hunters from each of the clans, their skills honed by generations of close observation of the Elves, gathered by moonlight before starting the trek east, away from the coastline. As they approached the tree line of one of the [[Valley of Ruins]]' many forests, their chatter went quiet. Their prey should not hear them coming. Worse, something larger and with the taste of flesh might hear them, see them far from the protection of the Elves.

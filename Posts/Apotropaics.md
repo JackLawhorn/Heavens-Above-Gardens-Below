@@ -53,6 +53,8 @@ The Berserkers were a faction that arose from within [[Clan Wolfstepper]] and wa
 
 Rumors spread through the survivor camps that if attacked on patrol, the Berserkers would pursue their prey for several blocks before eliminating them with no casualties of their own. Their great strength afforded them much influence in the [[Red Death period City of Gardens]], and today they are best remembered for either leading a great many campaigns against the Red Court or for running a sizable, organized protection racket.
 
+> For more, see [[Red Moon#Berserkers of the Red Moon|Red Moon > Berserkers of the Red Moon]].
+
 ### Rookish chanticleers
 
 The [[Rookish clans|Rookish]] warriors of this time are remembered as the chanticleers, flying under a [[labrum]] which displayed a rooster whose crows herald in a new day under a brilliant blue sky. Their ranged [[Combat Arts]] and the flaming and [[silvered]] arrowheads they wielded made them a force to be reckoned with.
@@ -73,8 +75,17 @@ Up atop the Signaltower, the [[House of the Sun#Signalkeepers|Signalkeepers]] se
 
 On the ground, the House of the Sun primarily served as leaders of the survivors and as warders. These warders constructed great, flaming fire pits and pyres to deter advancements of the enemy, and were able to effectively pen them into what is now known as the [[Red Quarter]].
 
+> For more, see [[House of the Sun#Daywatch|House of the Sun > Daywatch]].
+
 #### Torchbearer's Purifier clerics
 
 A class of Apotropaics arose out of the [[House of the Sun]] in the [[Red Death period City of Gardens]] that called themselves the Purifiers. These clerics came from the same noble lineage as the fallen [[Fall of House Lightbringer|Captain Torchbearer]] who had left the City as part of [[House Lightbringer]]'s [[quest|questing party]], and boasted the greatest connection to the [[Nyxfire motes]] of any in that [[House]].
 
 They patrolled the streets of [[Omphalos, the City of Gardens]] equipped with firebombs and flint-striker blades that they could make erupt into flames. Filled with the same zeal and devotion to the light of [[Ylem]] as their forebears, they would walk into [[Red Death period City of Gardens#enemy territory|enemy territory]] alone if no others would join them, slicing through the [[nyxblight]] growths and the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] with ease. They were infamous for self immolating if injured, cornered, or infected, continuing on the good fight even in death.
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Apotropaics]])
+SORT Posted ASC
+```

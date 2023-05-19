@@ -26,6 +26,8 @@ This world had [[Fallen World|fallen]] to the rebellious [[Wild Magics]] and the
 
 ## The roiling of the elements
 
+> For more, see [[Roiling of the elements]].
+
 The [[Lunar Aspects]] – particularly the [[Mundial Aspects#earth motes|earth motes]], the [[Mundial Aspects#water motes|water motes]], and the [[Mundial Aspects#wind motes|wind motes]] all of whom the [[Sun Elves]] called the [[Mundial Aspects]] – were greatly affected by the storms. Whipped into a frenzy and locked in millennia of conflict with each other, the terrain was in constant and violent motion.
 
 The Elves called this the [[roiling of the elements|"roiling of the elements"]], which their [[Griot|Griots]] said mimicked the [[roiling of the Nyx]] amidst conflict between the [[Angels]] and the [[Glossary/Dragon]]. When the storms were tamed, the motes and their domains were freed from this cycle and largely settled into place.
@@ -42,11 +44,15 @@ Straggling behind the march of the [[Sun Elves]] for untold generations, the [[H
 
 ### Noble beasts
 
+> For more, see [[Noble beasts]].
+
 It wasn't until the later [[Heliotropic Age]] and the [[Founding of Omphalos, the City of Gardens|founding]] of [[Omphalos, the City of Gardens]] that either the Elves or humans would encounter other races of the [[Orior]], but they quickly made other allies. Some races of beasts, which the [[Elven Legion|Legion]] called the [[noble beasts]], were able to speak the [[Organic magics of the Elven Legion#Elven Tongue|Elven Tongue]].
 
 Many of the disparate [[Human clans]] formed [[Mutualist pacts]] with these races of beasts, bonding both peoples for generations and granting them access to minor magics of their own.
 
 ### The Aspects of Ylem
+
+> For more, see [[Aspect|Aspects of Ylem]].
 
 Of particular concern was the humans' lack of [[organic magics]] which the Elves and later races of the [[Orior]] all seemed to possess. Just as some made [[Pact magics|pacts]] with the races of the [[noble beasts]], others sought to gain power from [[Ylem]] themselves through [[iconic pacts]].
 
@@ -56,6 +62,7 @@ These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]]
 
 ## See also
 ```dataview
-TABLE tag
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Discoveries in the Known World]])
+SORT Posted ASC
 ```

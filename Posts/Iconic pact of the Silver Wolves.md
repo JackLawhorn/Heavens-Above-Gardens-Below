@@ -16,7 +16,7 @@ next: '[[Heliotropic Age]]'
 
 ---
 
-> For more on the forming of this [[Iconic pacts|iconic pact]] with their patron [[Aspect]] the [[Lunar Aspects#The Wolf Mother|Wolf Mother]], see the [[birth of the Silver Wolves]]. The [[Office of the Orator]] reminds us that the storied [[Fall of the Silver Wolves]] during the [[Crisis of Hubris]] teaches us that one's ambitions of exultation stoke one's appetite for betrayal.
+> For more on the forming of this [[Iconic pacts|iconic pact]] with their patron [[Aspect]] the [[Lunar Aspects#The Wolf Mother|Wolf Mother]], see the [[birth of the Silver Wolves]].
 
 ## Magics and extramundane abilities
 
@@ -33,7 +33,3 @@ This made them proficient at navigating many different environments, quickly alt
 ## The Wolf Mother
 
 A powerful [[Lunar Aspects|Lunar Aspect]] sitting above the [[Known World]], the [[Lunar Aspects#The Wolf Mother|Wolf Mother]] is a powerful [[Iconic pacts|patron]] and ally to the [[Silver Wolves]]. She sees all under the night sky through her great eye – the [[silver moon]] – and relays crucial reconnaissance to her children, though typically in the form of cryptic warnings and vague prophecy. Any of her pack may summon her counsel, though she may only appear at night and far from the [[Omphalos, the City of Gardens|City]] and the rest of humanity.
-
-### Silver
-
-> See [[Docetic materials#Silver|Docetic materials > Silver]] for more.

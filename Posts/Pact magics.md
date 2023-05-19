@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 02.06.2023
 tag: '#MagicSystemMonday'
-aliases: pact magic, pact, pacts, pact-bound, patron
+aliases: pact magic, pact, pacts, pact-bound
 parent: ['[[Magics in the Known World]]', '[[Discoveries in the Known World]]']
 
 previous: '[[Naming of the Great Houses]]'
@@ -63,6 +63,7 @@ Warlock may find it difficult to form the same type of pact, to form any pact at
 
 ## See also
 ```dataview
-TABLE
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Pact magics]])
+SORT Posted ASC
 ```

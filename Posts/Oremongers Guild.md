@@ -16,7 +16,7 @@ next: '[[Omphalos, the City of Gardens]]'
 
 ---
 
-> Though these materials are free to access under [[Public Scholarship]] law, the [[Office of the Orator]] reminds us that the storied [[Fall of the Oremongers Guild]], the first of the [[Crisis of Hubris]], teaches us that there is a natural order to things and that it is the responsibility of us all to do our part in respecting and upholding that order.
+The Oremongers Guild was one of the original four [[Great House|Great Houses]] of the [[Court]] of [[Omphalos, the City of Gardens]] and the first to [[Fallen Houses|fall]] during the [[Crisis of Hubris]]. Their powerful magics, gained through an [[Iconic pacts|iconic pact]] with the elemental [[Mundial Aspects#earth motes|earth motes]], made them the greatest mages and warriors in the history of the [[Known World]].
 
 ## Connection with the earth
 
@@ -74,6 +74,7 @@ The greatest warriors in all of the [[Known World]], perhaps even including the 
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Oremongers Guild]])
+SORT Posted ASC
 ```

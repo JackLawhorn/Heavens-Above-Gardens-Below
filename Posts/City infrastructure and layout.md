@@ -22,7 +22,6 @@ next: '[[Founding of the Oklop consortium]]'
 The rota is not a full circle because the Signaltower was built on the [[Sun Coast]]. Its southern sector expands beyond into the [[Sink]] itself, where in the [[Crisis of Hubris]] the [[Fisher Barons]] built up the [[Barony of Stilts]] suspended above the waves.
 
 ## See also
-
 ```dataview
 TABLE
 WHERE parent AND contains(parent, [[City infrastructure and layout]])

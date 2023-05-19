@@ -16,7 +16,7 @@ next: '[[Post-Heliotropic Elven March]]'
 
 ---
 
-> For more on the forming of this [[Iconic pacts|iconic pact]] with their patron [[Aspect|Aspects]] the elemental [[Mundial Aspects#Earth motes|earth motes]], see [[Rise of the Oremongers Guild]]. The [[Office of the Orator]] reminds us that the storied [[Fall of the Oremongers Guild]], the first of the [[Crisis of Hubris]], teaches us that there is a natural order to things and that it is the responsibility of us all to do our part in respecting and upholding that order.
+> For more on the forming of this [[Iconic pacts|iconic pact]] with their patron [[Aspect|Aspects]] the elemental [[Mundial Aspects#Earth motes|earth motes]], see [[Rise of the Oremongers Guild]].
 
 ## Magics and extramundane abilities
 
@@ -48,9 +48,11 @@ Those who came to [[Rise of the Oremongers Guild|form]] the [[Oremongers Guild]]
 
 Indeed, it was not only the [[Oremongers Guild]] that benefitted from this relationship, but also the earth motes who benefitted from the Guild's worship.
 
-> For more, see [[Oremongers Guild#Connection with the earth|Oremongers Guild > Connection with the earth]].
+> For more, see [[Mundial Aspects#Earth motes|Mundial Aspects > Earth motes]] and [[Oremongers Guild#Connection with the earth|Oremongers Guild > Connection with the earth]].
 
 ### The roiling of the elements
+
+> For more, see [[Roiling of the elements]].
 
 To the [[Mundial Aspects#earth motes|earth motes]], the [[Oremongers Guild]] represented soldiers in their ongoing conflict with the other motes, the remnants of the [[roiling of the elements]] that came after the [[Fallen world|fall]] of the [[Old World]]. The earth motes whose domain included the territory of the [[Omphalos, the City of Gardens|City]] struggled against both the [[Mundial Aspects#water motes|water motes]] and other factions of earth motes delineated by various waterways.
 

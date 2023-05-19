@@ -21,13 +21,19 @@ Children of the [[Nyx]] itself, Lunar Aspects are powerful deities in orbit arou
 
 ## The Wolf Mother
 
+> For more, see [[Wolf Mother]].
+
 Manifesting as an old, blind dire wolf whose skin is so scarred as to be pockmarked like the cratered surface of the [[silver moon]] above through which she sees everything below. The largest of the two moons still in the night sky, the [[#The Wolf Mother|Wolf Mother]] is a powerful Lunar Aspect and patron [[Aspect]] to all predators. Most notably in the history of the humans and society within [[Omphalos, the City of Gardens]] are the [[Silver Wolves]] of [[Clan Wolfstepper]].
 
 ## The White Owl
 
+> For more, see [[White Owl]].
+
 The White Owl is the patron [[Aspect]] of all the predators of the sky. Her agents reconnoitering all that happens in the [[Known World]], she has also come to be known as a symbol of truth and secret knowledge. The white moon is the smallest of the three moons, but is thought to be the most powerful known Aspect despite exercising little influence with that power. Flitting about through portals manifested as mirrors, glass, and other reflective surfaces, the owls are said to maintain a massive library of all truths.
 
 ## <strike>The Fallen Son</strike>
+
+> For more, see [[Fallen Son]].
 
 The largest of the [[Known World]]'s Lunar Aspects, the [[#<strike>The Fallen Son</strike>|Fallen Son]] fell from the [[Nyx]] long ago and came crashing into the deepest depths of the [[Sink]]. Before the [[Fallen world|fall]], the blue moon served as [[Aspect]] of the tides. Without his presence in the night sky, the seas are calm above yet restless below.
 
@@ -47,19 +53,23 @@ The lunar phases, subject to the greater [[roiling of the Nyx]] and to the whims
 
 ### Perigeas
 
+> For more, see [[perigeas]].
+
 There exists a natural phenomenon of the [[Nyx]] called [[perigeas]] by which a Lunar Aspect is both full and [[benighted|unbenighted]], and simultaneously at its closest point to the surface of the [[Known World]]. [[Iconic pacts]] with the Lunar Aspects become far more powerful during perigeas, as does the [[Aspect]]'s influence.
 
 Perigeas are infrequent, often occurring only once every age, but often align with divine and prophesized [[Quest|Quests]] for the Aspect's iconic worshippers. Famously, a perigeas was predicted to take place on the moonless night that spelt the fall of [[Clan Wolfstepper]]. Now unable to speak with the [[#The Wolf Mother|Wolf Mother]] herself, the abandoned remnants of the fallen Clan now argue that the lack of a true perigeas disproves the [[New Silver Age]]'s claims of divine quest.
 
 ### The Moon-Touched
 
+> For more, see [[Moon-Touched]].
+
 As rare as [[perigeas]], the [[Moon-Touched]] are another naturally-occurring phenomenon of the Lunar Aspects and their influence on the [[Known World]]. The Moon-Touched are the children of the Lunar Aspects, born of a race of the [[Orior]] and in possession of powerful [[organic magics]].
 
 The most infamous example of this is the [[Moon-Touched princess]] –  [[prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
 
 ## See also
-
 ```dataview
-TABLE
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Lunar Aspects]])
+SORT Posted ASC
 ```

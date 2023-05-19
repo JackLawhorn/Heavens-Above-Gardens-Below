@@ -17,8 +17,6 @@ next: '[[Docetic materials]]'
 
 ---
 
-> This high history is captured in the [[House of the Sun]]'s historical archives, transcribed from oral history during [[Reconstruction]]. Rights to the use of these materials by the bards of the [[Mouseion]] are ensured by [[Public Scholarship]] law and by the office of the [[Orator]].
-
 The [[Elven March]] along the [[Gold Coast]], west of the [[Valley of Ruins]] and south of the [[Deep Deserts]], lasted centuries if not a millennium. Untold generations of humans, shepherded by five generations of [[Sun Elves]] across the perilous landscapes of the [[Known World]]. Protectors against the [[Wild Magics]] and their [[nyxfire]] storms and the ruthless hordes they begot.
 
 Though a noble undertaking to be sure, the [[Elven Legion|Legion]] was slowed down almost to a crawl by their slower, weaker wards, threatening the success of the divine quest handed down to them from the [[Angels]] themselves. And thinking of the betterment of humanity itself, how could this people continue their evolution this way, shielded from the light of [[Ylem]] in the shadow of their mentors?

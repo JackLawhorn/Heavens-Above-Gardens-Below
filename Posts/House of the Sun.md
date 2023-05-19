@@ -30,6 +30,8 @@ As of the [[fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[
 
 ### The Orator
 
+> For more, see [[Orator]].
+
 After the [[Crisis of Hubris]], with the House of the Sun serving as the sole remaining [[Great House]] of the [[Court]], the role and responsibilities of the [[Orator]] underwent significant changes. In [[Ages of the Known World|ages]] past, the Orators of each of the Great Houses held equal say in judicating matters of the Court, but now a single Orator held significantly more sway over the past, present, and future of humanity within [[Omphalos, the City of Gardens]].
 
 Their station expanded just as the House of the Sun's own station did, and the [[Office of the Orator]] was ultimately founded to support and facilitate each of these pillars of the Orator's station. Throughout the [[Later Crisis of Hubris]] and the [[Renascence period]], those rising through the ranks of the House of the Sun with an eye on the station of Orator typically accentuated a focus on either the [[Public Record]], their House's [[state religion]], or various other platforms, with the political relevance of tending to the [[Elven Signaltower]] diminishing over time.

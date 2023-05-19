@@ -48,6 +48,8 @@ In this extreme overgrowth, not often seen elsewhere, the thorny vines have even
 
 ### Nycter
 
+> For more, see [[Nycter]].
+
 Once a noble race of the [[Orior]], all that remains of the [[Nycter]] are the small, sickly population that has withstood and survived the influence of the [[Red Court]] upon this land. First encountered by humanity when the [[Quest|questing party]] of [[House Lightbringer]] came to this accursed place, they were the ones who first passed the [[Red Death]] to humanity and ushered in the [[Red Death period]] in [[Omphalos, the City of Gardens]].
 
 The few Nycter who remain live within the root systems, internal tunnels, and even the canopy of the Nyxblight Tree. Primarily living off fruits and flowers, they scour this place for the few branches that still produce them. They have become so accustomed to the darkness of the [[Shades]] that expeditions beyond the shade of the tree's canopy have all failed.
@@ -55,6 +57,8 @@ The few Nycter who remain live within the root systems, internal tunnels, and ev
 It is expected that their kind will die out completely within the next [[Ages of the Known World|age]].
 
 ### Goblin clans
+
+> For more, see [[Goblin clans]].
 
 The Nyxblight Tree is also refuge to a number of [[goblin clans]] who, born of the [[Wild Magics]], have few other suitable homes across the [[Known World]]. Resistant to the [[Red Death]], they live here without interference from the [[Red Court]] and have even adapted to survive off of the flesh of the thorny [[Nyxblight]] vines themselves.
 
@@ -67,6 +71,8 @@ The Nyxblight Tree of course possesses a number of [[extramundane]] properties w
 The thorny [[Nyxblight]] vines here grow at a particularly rapid rate, and have greater abilities to respond to stimuli. It is also believed that a creature treading on one tendril is felt by many others, perhaps all the way up to the canopy above. In this way, it acts as a single mind.
 
 ### Illusions
+
+> For more, see [[Psionics#Hallucination|Psionics > Hallucination]].
 
 Most prominent of its [[extramundane]] properties is its ability to create illusions within the minds of those who see it. In the cases of both the [[Sun Elves]] on their [[Post-Heliotropic Elven March|Post-Heliotropic March]] and the [[Quest|questing party]] of [[House Lightbringer]], the tree was perceived as its true self but as a beautiful, living, and vibrant organism. This is assumed to be equal parts defense mechanism and lure, protecting it from attack by the forces of the [[Angels]] who would wish it harm and drawing in vulnerable travelers for it to feed upon.  
 

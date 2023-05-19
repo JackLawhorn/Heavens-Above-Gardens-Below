@@ -3,13 +3,13 @@ dg-publish: true
 Posted: 01.13.2023
 tag: '#FactionFriday'
 aliases: Silver Wolf
-parent: ['[[Human clans]]', '[[Great House]]', '[[Fallen Houses]]', '[[House]]', '[[Iconic House]]']
+parent: ['[[Great House]]', '[[Fallen Houses]]', '[[House]]', '[[Iconic House]]', "[[Clan Wolfstepper]]"]
 
 previous: '[[(Theme) Power]]'
 next: '[[Valley of Ruins]]'
 ---
 `= this.tag` #DailyPost
-# Silver Wolves of Clan Wolfstepper
+# The Silver Wolves
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -17,29 +17,11 @@ next: '[[Valley of Ruins]]'
 
 ---
 
-> Though these materials are free to access under [[Public Scholarship]] law, the [[Office of the Orator]] reminds us that the storied [[Fall of the Silver Wolves]] during the [[Crisis of Hubris]] teaches us that one's ambitions of exultation stoke one's appetite for betrayal.
-
-## Behavior
-
-After [[Iconic pact of the Silver Wolves|forming]] their [[iconic pact of the Silver Wolves|iconic pact with the Wolf Mother]], the newly formed Silver Wolves returned noticeably different, their nature more wolf-like in many ways. Their behavior and social interactions changed significantly, aligning more closely with those of a pack of wolves. Previously coming from most of the disparate [[human clans]], they largely broke off these ties to become more insular within their new pack.
-
-Sub-groups would arise within the [[Clan Wolfstepper|Clan]], but the rule of the pack was above all but the word of the [[Lunar Aspects#The Wolf Mother|Wolf Mother]] herself. The pack was to be protected from both harm brought by enemies and by unnecessary mixing with their human neighbors. They were the last of their kind, the last wolves of the [[Known World]], and the survival and proliferation of the pack was paramount to the Wolf Mother's very first prophecy:
-
-![[Posts/Birth of the Silver Wolves.md#^678e0f]]
-
-### Connection with the night
-
-Though not truly nocturnal, their connection with the [[silver moon]] as well as their enhanced senses make the Silver Wolves well suited to the environment of the night. Later – after the founding of [[Omphalos, the City of Gardens]] – it was common to see a squad roaming the streets or the rooftops of the [[Old City]] during the day, but a great many more would go completely unnoticed at night.
-
-During the [[Elven March|Elven March period]], this made them proficient night watchers, even more so than the ever vigilant [[Sun Elves]] of the [[Elven Legion|Legion]].
-
-### Rendezvous with the Wolf Mother
-
-Every full moon, the elders of the pack would recuse themselves of their human neighbors and venture deep into the forests to summon the counsel of their patron, the [[Lunar Aspects#The Wolf Mother|Wolf Mother]]. This mysterious ritual would not be understood by the humans until after the [[Fall of the Silver Wolves|fall of the Clan]] and, although the Silver Wolves were seen and treated with much reverence, this was the source of constant speculation by the other [[human clans|clans]].
+The Silver Wolves led [[Clan Wolfstepper]] to become one of the original great [[human clans]] along the [[Elven March]] and one of the original four [[Great House|Great Houses]] of the [[Court]]. Until their [[Fallen Houses|fall]], which ended the [[Crisis of Hubris]] and brought about the [[Renascence]], they were among the greatest leaders of humanity in [[Omphalos, the City of Gardens]].
 
 ## Role within human society
 
-In general, the Silver Wolves were seen as demigods among [[cland]] humanity, second only to the Elves themselves. They were the first to grasp magics and power of their own, and were as children of the [[Nyx]] itself through their pact with the [[Lunar Aspects|Lunar Aspect]].
+In general, the Silver Wolves were seen as demigods among [[cland]] humanity, second only to the [[Elven Legion|Elves]] themselves. They were the first to grasp magics of their own, and were as children of the [[Nyx]] itself through their [[Pact magics|pact]] with their [[iconic pacts|patron]] [[Lunar Aspects|Lunar Aspect]], the [[Lunar Aspects#Wolf Mother|Wolf Mother]].
 
 ### Protectors of the pack
 

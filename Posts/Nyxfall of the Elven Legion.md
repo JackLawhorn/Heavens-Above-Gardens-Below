@@ -16,8 +16,6 @@ next: '[[Organic magics]]'
 
 ---
 
-> This high history is captured in the [[House of the Sun]]'s historical archives, transcribed from oral history during [[Reconstruction]]. Rights to the use of these materials by the bards of the [[Mouseion]] are ensured by [[Public Scholarship]] law and by the office of the [[Orator]].
-
 When the [[Elven Legion]] made [[nyxfall]] on this world, humanity was still in its infancy. Hiding in caves and crags, thousands of disparate, disconnected clans had managed to weather untold generations of the raging [[nyxfire]] storms which twisted and warped everything in their path.
 
 First hearing and then seeing that the storms had cleared, these dregs ventured out of their holes for the first time in their lives. Seeing the Elves – beautiful, powerful warriors come down from the [[Nyx]] – and thinking them to be gods, the humans fell down to their knees in worship.

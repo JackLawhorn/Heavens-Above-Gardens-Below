@@ -16,9 +16,9 @@ next: '[[Giants]]'
 
 ---
 
-> The assertions made in these materials are based on accounts taken from various peoples of the [[Orior]] throughout the [[Known World]] and later verified in interviews with the remnants of the [[Elven Legion]].
-
 After [[Omphalos, the City of Gardens]] had been [[Founding of Omphalos, the City of Gardens|founded]] and construction of the [[Elven Signaltower]] was completed, the [[Sun Elves]] continued their [[Elven March|March]] through the [[Known World]] on a divine [[quest]] from the [[Angels]] to tame the last of the [[Wild Magics]] of this [[fallen world]]. This is generally referred to by human scholars as the "Post-Heliotropic Elven March".
+
+The assertions made in these materials are based on accounts taken from various peoples of the [[Orior]] throughout the [[Known World]] and later verified in interviews with the remnants of the [[Elven Legion]].
 
 ## Path of the March
 

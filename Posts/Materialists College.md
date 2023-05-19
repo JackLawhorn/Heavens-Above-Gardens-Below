@@ -16,6 +16,8 @@ next: "[[Fallen Houses]]"
 
 ---
 
+The Materialists College was one of the original four [[Great House|Great Houses]] of the [[Court]] of [[Omphalos, the City of Gardens]] and the third to [[Fallen Houses|fall]] during the [[Crisis of Hubris]]. It was the first [[college]] of the [[Scholars Quarter]] and helped to establish the tradition of human scholarship which has come to define this race of the [[Orior]].
+
 ## History of the Materialists College
 
 > For more on the history of [[materialist magics]], see [[History of materialist magics]].

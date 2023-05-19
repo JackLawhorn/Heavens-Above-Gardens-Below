@@ -29,3 +29,10 @@ Later, those Rooks in pacts with the water birds specifically developed many of 
 Perhaps most iconic to the Fisher Barons is the stiltwalkers, inspired by the long legs and piercing beaks of the spearbills. The stiltwalkers traverse the shallow, coastal waters with their wading spears hunting fish and shrimp and eels.
 
 These stiltwalkers would go on to found the [[Barony of Stilts]] in [[Omphalos, the City of Gardens]].
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Fisher Barons]])
+SORT Posted ASC
+```

@@ -29,6 +29,7 @@ Feathers, hides, and scales taken from the remains of [[Noble beasts]] are commo
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Materialist magics]])
+SORT Posted ASC
 ```

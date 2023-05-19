@@ -17,8 +17,6 @@ next: '[[Human clans]]'
 
 ---
 
-> The assertions made in these materials are based on accounts taken from oral history during [[Reconstruction]] and later verified in interviews with the remnants of the [[Elven Legion]]. See the [[History of materialist magics#The Red Death period|anatomists]]' notes on the mechanics of [[organic magics]], free for scholastic use under [[Public Scholarship]] law.
-
 The Sun Elves are the ground infantry of the [[Elven Legion]], masters of hand-to-hand combat and soldiers of [[Ylem]] itself. Upon the [[nyxfall of the Elven Legion|nyxfall of the Legion]], they formed a bond with early humanity, taking on responsibility for their protection and development.
 
 ## The March
@@ -40,8 +38,8 @@ Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves al
 - The taming of the [[Wild Magics]] and their nyxfire storms
 
 ## See also
-
 ```dataview
-TABLE tag
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Sun Elves]])
+SORT Posted ASC
 ```

@@ -16,11 +16,11 @@ next: '[[The death of cland justice]]'
 
 ---
 
+> For more on the agents of law and justice themselves, see [[Jurisweard]].
+
 ## Classifications of crime
 
 The [[Scholars of the City#Subjectivists|Subjectivists]] of the [[Scholars Quarter]] have defined three classifications of crime: simple, complex, and organized.
-
-> For more on the agents of law and justice themselves, see [[Jurisweard]].
 
 ### Simple crime
 
@@ -47,3 +47,10 @@ Theft of regulated [[materialist magics#Materialist artifacts|materialist artifa
 It is no secret among the peoples of [[Omphalos, the City of Gardens]] that the criminal element has proliferated throughout the poorer, lower-class district known as the [[Cumbergrounds]]. The [[Jurisweard]] is afforded only limited jurisdiction by the inhabitants of these neighborhoods, who rely on each other to enforce law and order there. Because of this, a number of criminal factions find refuge within the Cumbergrounds.
 
 > For more, see [[Cumbergrounds#The criminal element|Cumbergrounds > The criminal element]].
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Law and justice in the City]])
+SORT Posted ASC
+```

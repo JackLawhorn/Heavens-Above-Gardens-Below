@@ -16,9 +16,7 @@ next: '[[First parley with the elemental motes]]'
 
 ---
 
-> For more, see accounts from the [[Wayfarers Guild]] and the [[Questing Houses]] on their excursions north from [[Omphalos, the City of Gardens]].
-
-The Valley of Ruins comprises much of the north of the [[Known World]], stretching from the [[Sun Coast]] and [[Omphalos, the City of Gardens]] to the south to the outskirts of the [[Deep Deserts]] to the north.
+The Valley of Ruins comprises much of the [[Old World]] continent, stretching from the [[Sun Coast]] and [[Omphalos, the City of Gardens]] to the south to the outskirts of the [[Deep Deserts]] to the north.
 
 Home to [[prehistory|prehistoric]] humanity alone and no other races of the [[Orior]] until the rise of the [[Procyon gaze]] in the [[Post-Enlightenment Era]], the Valley of Ruins has stood largely uninhabited for all of recorded history. The many [[goblins|goblin clans]] born out of the [[nyxfire]] storms of the [[Wild Magics]] are one prominent exception.
 
@@ -37,6 +35,8 @@ The great size of the Heads was at first assumed to imply that this people were 
 In contrast, the artifacts of the Giants, the first children of the [[Mundial Aspects#elemental motes|elemental motes]] and the greatest of the [[Minor Aspects]], are distinct as they have fallen from the [[Giants#Empire of Dyēus|Empire of Dyēus]] above. By all accounts a warlike people, many of these have a connection to tools of war. The [[Forest of Blades]] holds Giant swords and spears without number, cast down onto the surface of the [[Known World]] in some unknown barrage of ages past. Similarly, the [[Axestrike Channel]] is an ancient canal spanning almost the length of the valley itself, and created by the strike of a single Giant axe head.
 
 ## The skylands above
+
+> For more, see [[Skylands]].
 
 One unique geographical feature of the Valley of Ruins is the [[skylands]] which sit above the surface. They are locked in place, unaffected by either gravity or the whims of the elemental [[Mundial Aspects#wind motes|wind motes]], and so it is assumed that each contains a sizeable deposit of [[Docetic materials#onyx|onyx]].
 

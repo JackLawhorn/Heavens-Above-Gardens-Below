@@ -25,4 +25,3 @@ TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Omphalos, the City of Gardens]])
 SORT Posted ASC
 ```
-

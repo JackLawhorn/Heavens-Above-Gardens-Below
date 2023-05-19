@@ -20,6 +20,8 @@ The Jurisweard is a loose [[Union]] of [[House|Houses]] – each with some warri
 
 ## House Lightbringer
 
+> For more, see [[House Lightbringer]].
+
 [[House Lightbringer]]'s Torchbearer knights were among the first law keepers in the [[Omphalos, the City of Gardens|City]], restless in their new home and called to greatness by their reverence of the [[Elven Legion]]. They were walking judges, juries, and executioners, holding public sentencings in the streets where the crime was committed in which the victim, the defendant, and any witnesses – either witnesses to the crime or character witnesses – gave testimony to influence the punishment.
 
 During the day, the sounds of their mounts' hooves and the clanking of their spears were enough to dissuade the populace from committing any wrongdoings nearby. At night, their keepers of the [[Elven Signaltower]] were able to see the light of their torches moving throughout the City's streets, keeping her people safe from the night.
@@ -28,6 +30,8 @@ In the [[Post-Enlightenment Era]], the [[House of the Sun]] is all that remains 
 
 ## The Silver Wolves
 
+> For more, see [[Silver Wolves]].
+
 Prior to [[fall of the Silver Wolves|their fall]] in the [[Later Crisis of Hubris]], Clan Wolfstepper's [[Silver Wolves]] were prominent members of the Jurisweard. In contrast to [[House Lightbringer]] and their calling to serve, the service of the Silver Wolves was more or less out of necessity as humanity's first empowered protectors and one of the factions most proficient at more complex investigations.
 
 The Silver Wolves were a common sight as they patrolled the streets, public squares and gardens, and even the rooftops of the [[Omphalos, the City of Gardens|City]]]. These stoic warriors donned [[docetic materials#silver|silver]] arms, armor, and cloaks in human form, though their small patrols often included at least one in wolf form. Their very presence cast a sense of safety and security on the populace – one they would unfortunately come to miss.
@@ -35,6 +39,8 @@ The Silver Wolves were a common sight as they patrolled the streets, public squa
 In the [[Post-Enlightenment Era]], most of their rank are reduced to little more than mercenaries subsisting off of contracts with the [[Questing Houses]] and their colonies. The remnants of this [[Fallen Houses|Fallen House]] remain as an oppressed class in the City, and the strongest among their number may serve as the Jurisweard's [[Bloodhounds]] in exchange for greater privileges.
 
 ## The Oremongers Guild
+
+> For more, see [[Oremongers Guild]].
 
 The [[Oremongers Guild]] and their [[iconic pacts|iconic magics]] were humanity's first true superpower: forging both weapons and warriors of unstoppable force. Most famous were their [[Oremongers Guild#artificer knights|artificer knights]], who freely controlled armor and arms of the Guild's flexible steel to become the most elite fighting force in human history. More akin to a walking artillery weapon, the artificer knights primarily served as a deterrent that would only be unleashed on the most powerful of enemies.
 
@@ -56,6 +62,7 @@ Many Houseless warriors encircle the drain of the Mercenary Corps, including for
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Jurisweard]])
+SORT Posted ASC
 ```

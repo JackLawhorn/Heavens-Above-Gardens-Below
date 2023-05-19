@@ -36,10 +36,10 @@ In the modern day, these tunnels are used in a variety of different ways. Beneat
 
 ### The Maw
 
+> For more, see [[The Maw]].
+
 After the [[The Elf who fell from the sky|fall of the Storm Elf]] from the skies above [[Omphalos, the City of Gardens]], the impact crater created just northeast of its outermost walls was used as a base of operations for the [[Oremongers Guild]]'s mining efforts. From this mine, these efforts bore metals like gold and copper, gems like ruby and sapphire, useful materials like [[wol stone]], and even [[docetic materials]] like [[docetic materials#silver|silver]].
 
 Before its destruction, this mine was the deepest point on the surface of the [[Known World]], practically a city all its own dug straight down into the earth. [[Oremongers Guild#Earth shapers|Earth shapers]] dug slowly down with their magics, and left behind nearly 500 storeys of living quarters for their members, labs for their scholars, training facilities for their warrior class the [[Oremongers Guild#Artificer knights|artificer knights]], and any number of other wonders. A complex pulley system developed by the [[Cult of Pythos]] allowed the Guild to lower down equipment and raise up the materials they produced.
 
 This place would serve as the setting for their [[Fall of the Oremongers Guild|fall]], the mine since filled by the elemental [[Mundial Aspects#earth motes|earth motes]] and remaining as a scar upon the City and all of the Known World.
-
-> For more, see [[The Maw]].

@@ -22,6 +22,7 @@ Organic magics are closely related to [[Materialist magics]], which are its natu
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[Organic magics]])
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[organic magics]])
+SORT Posted ASC
 ```

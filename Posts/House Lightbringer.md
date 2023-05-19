@@ -16,7 +16,7 @@ next: "[[Court]]"
 
 ---
 
-> Though these materials are free to access under [[Public Scholarship]] law, the [[Office of the Orator]] reminds us that the storied [[Fall of House Lightbringer]] during the [[Crisis of Hubris]] teaches us to be weary of the [[Red Court|Hunger]], and not to confuse it for the call of righteous destiny.
+House Lightbringer was one of the original great [[human clans]] along the [[Elven March]] and the first to be named a [[Great House|Great Houses]] of the [[Court]]. Until their [[Fallen Houses|fall]] in the [[Early Crisis of Hubris]], they were among the greatest leaders of humanity in [[Omphalos, the City of Gardens]].
 
 ## The lineage Torchbearer
 
@@ -56,6 +56,7 @@ From House Lightbringer came humanity's first paladins, a warrior class who wand
 
 ## See also
 ```dataview
-TABLE
+TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[House Lightbringer]])
+SORT Posted ASC
 ```

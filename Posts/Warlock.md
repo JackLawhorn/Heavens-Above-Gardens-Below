@@ -27,6 +27,7 @@ In addition to any [[#physical effects]], warlocks are afflicted by spiritual ef
 ### Physical effects
 
 Warlocks are afflicted with visible and apparent scars of their sin. These scars are etched into one's [[aura]] and are passed down bloodlines, though the physical or visible deformities dilute over the course of generations.
+
 | d8 | Result |
 | - | - |
 | 1 | Long, winding scars that cover some portion of the body, often including the face. |

@@ -40,11 +40,15 @@ But this interference was worse than heretical, it was [[paradoxy]] against the 
 
 ### The Astral Wilds
 
+> For more, see [[Astral Wilds]].
+
 The miscegenation of the [[Mundial Aspects#motes of the landscapes|motes of the landscapes]] and the [[Nyxfire motes]] riled up by the [[Wild Magics]] during this period led to an [[extramundane]] biome known as the [[Astral Wilds]]. These Wilds blanket the east and it is said that the magics, though tamed, are so concentrated there that they continue to warp the [[Laws of Power]] as the [[nyxfire]] storms of the [[fallen world|fall]] had.
 
 The landscapes of the Wilds are unnatural in the extreme, and its flora and fauna are irrevocably warped by untold millennia of evolution run rampant. The many races of the Wilds possess powerful organic magics, and many take drastically different forms from those outside the Wilds. Most prominent are the floral races of [[Orior]], including their [[Verdant Knights]]. They are also home to an uncommonly high frequency of [[Discoveries in the Known World|noble beasts]].
 
 ### The Shades
+
+> For more, see [[Shades]].
 
 The [[Shades]] are biomes cast in the stark shadow of [[nyxfire]] and its divine light. This magical phenomenon is most often caused by proximity to large burns of pure nyxfire, and the peoples of the [[Omphalos, the City of Gardens|City]] had to take great care to prevent creating a Shade as consequence for the great [[Burning]] that ended the [[Red Death period]]. Shades most often manifest in forests, swamps, and caves.
 

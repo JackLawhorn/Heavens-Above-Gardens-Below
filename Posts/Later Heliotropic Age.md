@@ -42,6 +42,8 @@ These institutions did not teach the trades of industry, which fell under the ju
 
 ### Questing culture
 
+> For more, see [[Quest#Questing culture|Quest > Questing culture]].
+
 Inspired by their mentors the [[Sun Elves]], humanity developed a culture of declaring and pursuing quests of various sizes and significance. Some were industrial or artistic, such as the [[Great Works]] that populate the [[Omphalos, the City of Gardens|City]]. Others were political such as [[House Lightbringer's Questing Charter]]. Even the realm of [[Sports in the City|sports]] was heightened by the quests of its teams and players, and the audience enjoyed epic tales playing out in front of them.
 
 ## Human contact with the Orior
@@ -60,6 +62,8 @@ No longer walking one in front of the other along the [[Elven March]], the [[hum
 
 ### Law and justice
 
+> For more, see [[Law and justice in the City]]
+
 A chaotic and hectic place in the Later Heliotropic Age, the [[Court]] was quick to establish some form of law and order in [[Omphalos, the City of Gardens]]. Rising to meet this need was the [[Jurisweard]]: a loose [[Union]] of [[House|Houses]] – typically with some warrior class – with special powers to enforce the Laws of the Court. During this period, this most prominently featured the following factions:
 
 - [[House Lightbringer]] and their Torchbearer Knights
@@ -67,5 +71,3 @@ A chaotic and hectic place in the Later Heliotropic Age, the [[Court]] was quick
 - The [[Oremongers Guild]] and their Artificer Knights
 - Paladins of the [[Iconic House|Iconic Houses]], predecessors of the [[Canon of Heterodoxies]]
 - The [[Mercenary Corps]] which comprises sellswords hailing from nearly all the [[human clans|clans]]
-
-> For more, see [[Law and justice in the City]]
