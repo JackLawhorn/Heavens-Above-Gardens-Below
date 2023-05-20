@@ -22,7 +22,7 @@ Since then, they have worked to recover what history they can, record contempora
 
 Throughout this [[Reconstruction]] period, which extended past the end of the [[Crisis of Hubris]], the House of the Sun continued to rise in prominence. Three more [[Great House|Great Houses]] fell in the Later Crisis of Hubris: the [[Materialists College]], the [[Disciples of the Pretender]], and the [[Silver Wolves]]. With each fall, the House of the Sun and its Orator grew more powerful until finally they were the last remaining Great House. To this day, no new Great Houses have been named.
 
-During this time, they also rose to prominence as the [[State religion]] in Omphalos, the City of Gardens. While the culture of [[Henotheist|henotheism]] remained, the horrors of the Red Death period lingered in the minds of the populace and they sought protection from the pure divinity of [[Ylem]] in addition to any [[Pact magics|patron]] [[Aspect|Aspects]].
+During this time, they also rose to prominence as the [[State religion]] in Omphalos, the City of Gardens. While the culture of [[Henotheist|henotheism]] remained, the horrors of the Red Death period lingered in the minds of the populace and they sought protection from the pure divinity of [[Ylem]] in addition to any [[iconic pacts|patron]] [[Aspect|Aspects]].
 
 ## The Renascence
 

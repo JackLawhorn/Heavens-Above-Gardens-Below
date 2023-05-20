@@ -31,7 +31,7 @@ That's not to say that more standard forms of worship such as commune and ritual
 
 ## Worship as a symbiotic relationship
 
-But what is the point of worship? We have a sense of the benefit to the humans: the [[Pact magics|patron]] [[Aspect|Aspects]] of [[Ylem]] are powerful deities with domains all their own and the ability to bestow boons within those domains. But why should those boons be granted?
+But what is the point of worship? We have a sense of the benefit to the humans: the [[iconic pacts|patron]] [[Aspect|Aspects]] of [[Ylem]] are powerful deities with domains all their own and the ability to bestow boons within those domains. But why should those boons be granted?
 
 I feel like in some pantheistic religions the given reason is pride and greed and sins of us humans ourselves projected onto divinity. That doesn't feel great to me though. I don't want the Aspects to feel like people, even if they are characters in their own right. I want them to feel different and other to all living things, I want them to exude arcane wisdom if not outright enlightenment. They have a divine purpose, a part in the [[roiling of the Nyx]] for each of them.
 

@@ -32,7 +32,7 @@ During the [[Elven March|Elven March period]], this made them proficient night w
 
 ### Rendezvous with the Wolf Mother
 
-Every full moon, the elders of the pack would recuse themselves of their human neighbors and venture deep into the forests to summon the counsel of their [[Pact magics|patron]], the [[Lunar Aspects#The Wolf Mother|Wolf Mother]]. This mysterious ritual would not be understood by the humans until after the [[Fall of the Silver Wolves|fall]] of their protectors the [[Silver Wolves]]. Although the Silver Wolves were seen and treated with much reverence, this was the source of constant speculation by the other [[human clans|clans]].
+Every full moon, the elders of the pack would recuse themselves of their human neighbors and venture deep into the forests to summon the counsel of their [[iconic pacts|patron]], the [[Lunar Aspects#The Wolf Mother|Wolf Mother]]. This mysterious ritual would not be understood by the humans until after the [[Fall of the Silver Wolves|fall]] of their protectors the [[Silver Wolves]]. Although the Silver Wolves were seen and treated with much reverence, this was the source of constant speculation by the other [[human clans|clans]].
 
 ## Factions of Clan Wolfstepper
 

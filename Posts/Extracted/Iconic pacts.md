@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 parent: ["[[Pact magics]]"]
-aliases: iconic pact
+aliases: iconic pact, patron, patrons, iconic
 ---
 **Extracted from:** `= this.parent`
 # Iconic pacts

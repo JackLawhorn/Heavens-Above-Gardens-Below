@@ -66,7 +66,7 @@ Aides within the [[Office of the Orator]] are particularly busy, and may be prom
 
 ## Stewards of the state religion
 
-Dealing with the darkness – literal, emotional, and metaphysical – of the [[Red Death period]], humanity within [[Omphalos, the City of Gardens]] were well-primed to return to their worship of [[Ylem]] rather than simply worshipping their various [[Pact magics|patron]] [[Aspect|Aspects]]. The [[Elven Signaltower]] became a powerful symbol and the House of the Sun who tended to it became as leaders of worship.
+Dealing with the darkness – literal, emotional, and metaphysical – of the [[Red Death period]], humanity within [[Omphalos, the City of Gardens]] were well-primed to return to their worship of [[Ylem]] rather than simply worshipping their various [[iconic pacts|patron]] [[Aspect|Aspects]]. The [[Elven Signaltower]] became a powerful symbol and the House of the Sun who tended to it became as leaders of worship.
 
 The [[#Daywatch]] who during the [[Long Daylight]] had cultivated the closest relationship to the [[nyxfire motes]] of any of the races of the [[Orior]] since the [[Sun Elves]] themselves – and who had even been blessed with visions in their [[nyxfire]] flames – played an especially important role in facilitating practices of worship. Though separate from the [[Canon of Heterodoxies]], they collaborated closely with the many [[Iconic House|Iconic Houses]] and even the City's [[cults]] to ensure that both means of worship saw support in Court and from the populace.
 

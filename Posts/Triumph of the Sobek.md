@@ -19,7 +19,7 @@ next: "[[Necromancy]]"
 
 It was dawn when the Triumph of the [[Sobek]] arrived in [[Omphalos, the City of Gardens]], their ranks marching through the City's north gate. If not for the silence of the alarm bells and the escort of a pack of [[Silver Wolves]], they might have been received by the populace as an invading troop of enemy warriors. Still, their arrival was a surprise to all but a select and trusted few.
 
-Humanity had heard tales of this race of the [[Orior]] – the riverfolk whose [[Pact magics|patron]] [[Aspect]] and [[Sobek(Minor Aspect)|namesake]] bled the rivers themselves – since the [[Elven March]], but had never seen them with their own eyes. And they were as the tales painted them: altogether alien and seemingly far more ancient than the humans themselves.
+Humanity had heard tales of this race of the [[Orior]] – the riverfolk whose [[iconic pacts|patron]] [[Aspect]] and [[Sobek(Minor Aspect)|namesake]] bled the rivers themselves – since the [[Elven March]], but had never seen them with their own eyes. And they were as the tales painted them: altogether alien and seemingly far more ancient than the humans themselves.
 
 Their muscular bodies were covered in rough, scaly skin, dark green or black in color. A few who marched in positions of particular prominence were white as if covered in a layer of ash. Their broad, flattened snouts housed powerful jaws, and their jagged and teeth were visible even when their mouths were closed. Their eyes, high on the head and protruding slightly, lent them the appearance of alertness. Their short legs ended in webbed feet that betrayed their natural environment. Perhaps most distinctive of all were the powerful tails that dragged behind them, leaving trails in the dirt.
 

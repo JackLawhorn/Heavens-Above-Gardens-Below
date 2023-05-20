@@ -27,7 +27,7 @@ As of the [[Later Crisis of Hubris]], the House of the Sun is both the last rema
 
 ## Role of government
 
-The several hundred [[House|Houses]] each possess equal voting power in matters of the [[Court]], and the [[Lord Representative|Lord Representatives]] of each represent the best interests of all who work within the House, those who rely on the House's work, as well as their [[Pact magics|patron]] [[Aspect]] or [[Mutualist pacts|mutualist companions]].
+The several hundred [[House|Houses]] each possess equal voting power in matters of the [[Court]], and the [[Lord Representative|Lord Representatives]] of each represent the best interests of all who work within the House, those who rely on the House's work, as well as their [[iconic pacts|patron]] [[Aspect]] or [[Mutualist pacts|mutualist companions]].
 
 From each of the [[Great House|Great Houses]], an [[Orator]] is chosen to preside over matters of the Court rather than having voting power. This position is the highest individual seat of power in the [[Omphalos, the City of Gardens|City]] and across the [[Post-Enlightenment Era|Post-Enlightenment]] republic.
 

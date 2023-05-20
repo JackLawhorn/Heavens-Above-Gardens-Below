@@ -44,7 +44,7 @@ With more and more [[pilgrimages of the Orior]] bringing new peoples to [[Omphal
 
 ## Elves and the Silver Wolves
 
-After their [[Triumph of the Sobek|return]] to [[Omphalos, the City of Gardens]], the [[Sun Elves]] took particular interest in the [[Silver Wolves]] just as they had in the [[Elven March]] period. They saw them as the best of humanity, for both their fighting prowess and for their devotion to their [[Pact magics|patron]] [[Aspect]]. They once again took on a role as mentors and as trainers in their traditional [[Combat Arts]], hoping to arm humanity against new threats like those that had revealed themselves in recent years.
+After their [[Triumph of the Sobek|return]] to [[Omphalos, the City of Gardens]], the [[Sun Elves]] took particular interest in the [[Silver Wolves]] just as they had in the [[Elven March]] period. They saw them as the best of humanity, for both their fighting prowess and for their devotion to their [[iconic pacts|patron]] [[Aspect]]. They once again took on a role as mentors and as trainers in their traditional [[Combat Arts]], hoping to arm humanity against new threats like those that had revealed themselves in recent years.
 
 Unbeknownst to the [[House of the Sun]] and the rest of the populace, they would also consult on the state of the [[Lunar Aspects#The Wolf Mother|Wolf Mother]] after the devastation of the [[Red Moon]]. They could see that she was weak, and that her magics and influence here in the [[Known World]] was waning. Much of their guidance would go on to inspire what would be [[New Silver Age]].
 

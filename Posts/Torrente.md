@@ -53,7 +53,7 @@ In the [[Renascence period]], a great many Minor Aspects appeared who governed t
 ### Orior and noble beasts of the river
 
 Many races of the [[Orior]], for whom the urban sprawl of [[Omphalos, the City of Gardens]] is an unnatural environment, have come to live in and around the river Torrente. Some prominent examples include:
-- The basks of [[Sobek]] who have come to call the City home live in and around the river, both because they are adapted to such an environment and out of worship for their [[Pact magics|patron]] [[Aspect]] and namesake, [[Sobek (Minor Aspect)|Sobek, Minor Aspect of Rivers]].
+- The basks of [[Sobek]] who have come to call the City home live in and around the river, both because they are adapted to such an environment and out of worship for their [[iconic pacts|patron]] [[Aspect]] and namesake, [[Sobek (Minor Aspect)|Sobek, Minor Aspect of Rivers]].
 - The [[Mudlark]] population is minimal as they are accustomed to the muddy, brackish waters they call home outside of the City. Those who do come here flock to the familiarity of the river.
 - The [[Procyon gaze]] has also come to live on the banks of the river and underneath the bridges which cross it.
 - Although it is uncommon, [[Oklop]] of the [[Sun Coast]] consortium have been known to occasionally wander upstream from.

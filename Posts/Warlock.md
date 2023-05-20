@@ -41,6 +41,6 @@ Warlocks are afflicted with visible and apparent scars of their sin. These scars
 
 ## Role in the City
 
-Almost as a rule, human warlocks are [[Class and caste in the City|social outcasts]] in [[Omphalos, the City of Gardens]], having broken pacts with their respective [[Pact magics|patron]] [[Aspect|Aspects]] of the pure divinity of [[Ylem]]. Some fear or hate them purely for religious reasons, others hold superstitious beliefs of contagious sin, and others still despise the visible scars they wear. As a result, the vast majority of the City's warlock population lives in the [[Cumbergrounds]].
+Almost as a rule, human warlocks are [[Class and caste in the City|social outcasts]] in [[Omphalos, the City of Gardens]], having broken pacts with their respective [[iconic pacts|patron]] [[Aspect|Aspects]] of the pure divinity of [[Ylem]]. Some fear or hate them purely for religious reasons, others hold superstitious beliefs of contagious sin, and others still despise the visible scars they wear. As a result, the vast majority of the City's warlock population lives in the [[Cumbergrounds]].
 
 The most prominent exception would be the [[The Maw#Undergardeners|Undergardeners]] of [[the Maw]] who have largely avoided persecution through isolation and taking on the responsibility of tending to the [[Gardens of the City|gardens]] that now adorn the site of their [[paradoxy]].
