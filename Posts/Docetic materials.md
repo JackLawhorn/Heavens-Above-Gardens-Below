@@ -20,17 +20,15 @@ next: '[[Later Heliotropic Age]]'
 
 Each deposit of onyx is a fallen piece of the [[Nyx]] itself, inky black with thousands of burning bright pinpricks of [[nyxfire]]. It takes a form like that of a volcanic stone formed under great heat and pressure, and its edges are impossibly, microscopically sharp.
 
-Onyx is a highly reactive material. The largest of these deposits, called anchoring deposits, are buried deep beneath the surface and are critical to the composition of the worlds which they hold in place in their place in the Nyx. Scratching one of the [[Known World]]'s anchoring deposits shook the world and led to great devastation. It can also be ignited into a near-eternal combustion of pure nyxfire, such as that around which the [[Elven Signaltower]] of [[Omphalos, the City of Gardens]] was constructed. Due to this reactivity, little about the properties of onyx can be adequately measured.
+Onyx is a highly reactive material. The largest of these deposits, called [[polar onyx deposit|polar onyx deposits]], are buried deep beneath the surface and are critical to the composition of the worlds which they hold in place in their place in the Nyx. Scratching one of the [[Known World]]'s anchoring deposits shook the world and led to great devastation. It can also be ignited into a near-eternal combustion of pure nyxfire, such as that around which the [[Elven Signaltower]] of [[Omphalos, the City of Gardens]] was constructed. Due to this reactivity, little about the properties of onyx can be adequately measured.
 
 ## Silver
 
 > For more, see [[Silver]].
 
-Over the lifespan of the [[Known World]], pieces of her physical, lunar form have come crashing down to the surface in the form of deposits of pure silver.
+[[Silver]] is a [[docetic materials|docetic material]] closely tied to the [[Wolf Mother]], [[Lunar Aspects|Lunar Aspect]] and [[Iconic pacts|patron]] to all predators of the land, chunks of her [[silver moon|lunar form]] come crashing down to the [[Known World]]. As such it has historically been kept close by the children of the Wolf Mother – [[Clan Wolfstepper]] and their [[Silver Wolves]] – until their [[Fall of the Silver Wolves|fall]] in the [[Later Crisis of Hubris]].
 
-Silver is white in color and the most reflective metal, with high density and resistance to oxidation. It has the highest thermal conductivity of all known metals, and thus is often cold to the touch. It has a very low melting point, and was easily forged along the [[Elven March]] by the early [[Silver Wolves]] of the [[Heliotropic Age]]. Pure silver is not very hard, but becomes more so when acting as a channel for magics, making it the most effective material for such use – even more so than gold or copper. The metal is also said to have healing and cleansing properties, and even a single silver coin can purify a tankard of water.
-
-When donned or wielded by the [[Silver Wolves]] themselves, or when exposed to the light of the [[silver moon]], silver arms and armor increase in sharpness and hardness respectively. They can be used to more easily slay [[benighted]] foes such as the [[Red Court]] as well. Most curiously, it also transforms to adapt to either their human or wolf forms.
+It has a number of [[Silver#Properties and applications|valuable attributes]] and very notably is used in the [[Silvered|silvering]] of arms and armor and now as a form of [[Currencies of the City|currency]] within [[Omphalos, the City of Gardens]].
 
 ## Fulgurite
 

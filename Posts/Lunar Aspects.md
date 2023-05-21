@@ -23,7 +23,7 @@ Children of the [[Nyx]] itself, Lunar Aspects are powerful deities in orbit arou
 
 > For more, see [[Wolf Mother]].
 
-Manifesting as an old, blind dire wolf whose skin is so scarred as to be pockmarked like the cratered surface of the [[silver moon]] above through which she sees everything below. The largest of the two moons still in the night sky, the [[#The Wolf Mother|Wolf Mother]] is a powerful Lunar Aspect and patron [[Aspect]] to all predators. Most notably in the history of the humans and society within [[Omphalos, the City of Gardens]] are the [[Silver Wolves]] of [[Clan Wolfstepper]].
+Manifesting as an old, blind dire wolf whose skin is so scarred as to be pockmarked like the cratered surface of the [[silver moon]] above through which she sees everything below. The largest of the two moons still in the night sky, the [[#The Wolf Mother|Wolf Mother]] is a powerful Lunar Aspect and patron [[Aspect]] to all predators of the land. Most notably in the history of the humans and society within [[Omphalos, the City of Gardens]] are the [[Silver Wolves]] of [[Clan Wolfstepper]].
 
 ## The White Owl
 
@@ -65,7 +65,7 @@ Perigeas are infrequent, often occurring only once every age, but often align wi
 
 As rare as [[perigeas]], the [[Moon-Touched]] are another naturally-occurring phenomenon of the Lunar Aspects and their influence on the [[Known World]]. The Moon-Touched are the children of the Lunar Aspects, born of a race of the [[Orior]] and in possession of powerful [[organic magics]].
 
-The most infamous example of this is the [[Moon-Touched princess]] –  [[prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
+The most infamous example of this is the [[Luminary]] – [[Luminary#Prophesy of the Luminary|prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
 
 ## See also
 ```dataview

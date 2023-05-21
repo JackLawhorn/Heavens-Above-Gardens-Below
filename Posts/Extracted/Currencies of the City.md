@@ -26,7 +26,7 @@ This new denomination brought much prosperity and increased quality of life to t
 
 ### Silver
 
-Long kept by [[Clan Wolfstepper]] and their [[Silver Wolves]], [[docetic]] fragments of the [[Posts/Iconic pact of the Silver Wolves.md#The Wolf Mother|Wolf Mother]]'s [[Lunar Aspects|lunar form]] were far too valuable a material to be used as mere currency. After their [[Fall of the Silver Wolves|fall]] however, the [[Orator]] – in her pettiness and rage – melted the [[Omphalos, the City of Gardens|City]]'s remaining silver down into the lowest denominations of currency, effectively making them impossible to fully retrieve.
+Long kept by [[Clan Wolfstepper]] and their [[Silver Wolves]], [[docetic]] fragments of the [[Iconic pact of Clan Wolfstepper#The Wolf Mother|Wolf Mother]]'s [[Lunar Aspects|lunar form]] were far too valuable a material to be used as mere currency. After their [[Fall of the Silver Wolves|fall]] however, the [[Orator]] – in her pettiness and rage – melted the [[Omphalos, the City of Gardens|City]]'s remaining silver down into the lowest denominations of currency, effectively making them impossible to fully retrieve.
 
 Silver has now been divided into full coins, as well as even smaller denominations – named hastas and crescents after the phases of the moon their shapes evoke. As of the [[Early Post-Enlightenment Era|Early]] [[Post-Enlightenment Era]], silver coins are primarily held by the lower classes and most infamously the beggars, thieves, and silversmiths of the oppressed remnants of the Clan.
 
@@ -38,4 +38,4 @@ Across most of the [[Omphalos, the City of Gardens|City of Gardens]], [[#Gold|go
 
 ### Silver in the Argent Ghetto
 
-Those of [[Clan Wolfstepper]] who do still worship the [[Posts/Iconic pact of the Silver Wolves.md#The Wolf Mother|Wolf Mother]] have spent generations begging on the street in hopes of amassing enough [[#Silver|silver]] in change so that they may reclaim their goddess. This change is smelted in secret, forming community reserves that are worshipped as a corpse being willed to life.
+Those of [[Clan Wolfstepper]] who do still worship the [[Iconic pact of Clan Wolfstepper#The Wolf Mother|Wolf Mother]] have spent generations begging on the street in hopes of amassing enough [[#Silver|silver]] in change so that they may reclaim their goddess. This change is smelted in secret, forming community reserves that are worshipped as a corpse being willed to life.

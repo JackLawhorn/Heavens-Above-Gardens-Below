@@ -16,7 +16,7 @@ next: "[[Scenes from the life of the Pretender III]]"
 
 ---
 
-At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], all understanding of [[psionics]] centered around the first human [[psion]] now known only as the [[Pretender]]. It was they who spread [[psionics#psionic influence|psionic influence]] throughout the human population in the [[Later Crisis of Hubris]] and it was their [[Disciples of the Pretender|Disciples]] who pioneered the [[Mystic psionics]] of that time. Until their [[fall]], the Pretender was considered by much of humanity almost as an [[Aspect]] of [[Ylem]] themselves.
+At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], all understanding of [[psionics]] centered around the first human [[psion]] now known only as the [[Pretender]]. It was they who spread [[psionics#psionic influence|psionic influence]] throughout the human population in the [[Later Crisis of Hubris]] and it was their [[Disciples of the Pretender|Disciples]] who pioneered the [[Mystic psionics]] of that time. Until their [[fall of the Pretender|fall]], the Pretender was considered by much of humanity almost as an [[Aspect]] of [[Ylem]] themselves.
 
 ## Disciples of the Pretender in the City
 

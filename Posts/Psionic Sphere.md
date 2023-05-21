@@ -66,7 +66,7 @@ Fused together from the sand by magical artillery fire, [[Deep Deserts#Psicrysta
 
 In some of the oldest campaigns between the [[Elven Legion]] and the [[nyxfire]] storms of [[Wild Magics]] that covered the [[Known World]] in [[prehistory]], the wide open landscapes of the [[Deep Deserts]] far to the north were permanently and indescribably altered. Here, the membrane between the [[Prime Material Sphere]] and the [[Psionic Sphere]] is thin. This is thought to be the cause of the little-understood phenomena known as [[Deep Deserts#Mirage|mirages]], brought out of their mind and made real.
 
-[[The Pretender and their Disciples]] marched into the Deep Deserts on their [[Quest into Oblivion]] looking for these portals. Ultimately, they were consumed by the mirages, left the Prime Material Sphere forever, and lost to the ravaging psionic forces of the Psionic Sphere.
+The [[Pretender]] and their [[Disciples of the Pretender|Disciples]] marched into the Deep Deserts on their [[Quest into Oblivion]] looking for these portals. Ultimately, they were consumed by the mirages, left the Prime Material Sphere forever, and lost to the ravaging psionic forces of the Psionic Sphere.
 
 > For more, see [[Deep Deserts#Mirage|Deep Deserts > Mirage]].
 

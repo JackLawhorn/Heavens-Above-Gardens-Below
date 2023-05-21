@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 05.12.2023
 tag: "#FactionFriday"
 aliases: Disciples, Disciple
-parent: ["[[Psionics]]", "[[History of psionics]]", "[[Psionic Age]]", "[[Belief in the Pretender]]", "[[Psion]]", "[[Mystic psionics]]", "[[Questing Charter of the Pretender]]", "[[Fallen Houses]]", "[[cults]]"]
+parent: ["[[Psionics]]", "[[History of psionics]]", "[[Psionic Age]]", "[[Belief in the Pretender]]", "[[Psion]]", "[[Mystic psionics]]", "[[Questing Charter of the Pretender]]", "[[Fallen Houses]]", "[[cults]]", "[[Pretender]]"]
 
 previous: "[[(Theme) The messiah myth]]"
 next: "[[Questing Charter of the Pretender]]"
@@ -33,7 +33,7 @@ It would eventually be revealed that the Pretender and their [[psionics#psionic 
 
 ### Disciples of the Pretender in the City
 
-Under the stewardship of the [[Pretender]] and their Disciples, [[mystic psionics]] grew into a sizable [[cults|cult]] quickly spreading both [[Psionics#Psionic influence|psionic influence]] and [[belief in the Pretender]] throughout the human population. These early [[Psion|psions]] formed classes like the [[Mystic psionics#Psiknights|Psiknights]], [[Mystic psionics#dwaalstepper|dwaalsteppers]], and [[Mystic psionics#Illusionist|illusionists]], and soon the entire City was populated by their camps and tents and transformed by their [[Mystic psionics#illusionist|illusions]]. Their works – spectacles though they may have been – helped to heal the wounds of a humanity still recovering from the losses of the [[Red Death period]] and the [[Fall of the Materialists College|fall]] of the [[Materialists College]].
+Under the stewardship of the [[Pretender]] and their Disciples, [[mystic psionics]] grew into a sizable [[cults|cult]] quickly spreading both [[Psionics#Psionic influence|psionic influence]] and [[belief in the Pretender]] throughout the human population. These early [[Psion|psions]] formed classes like the [[Mystic psionics#Psiknights|Psiknights]], [[Mystic psionics#dwaalstepper|dwaalsteppers]], and [[Mystic psionics#Illusionist|illusionists]], and soon the entire City was populated by their camps and tents and transformed by their [[Psionics#Hallucination|illusions]]. Their works – spectacles though they may have been – helped to heal the wounds of a humanity still recovering from the losses of the [[Red Death period]] and the [[Fall of the Materialists College|fall]] of the [[Materialists College]].
 
 > For more, see [[Belief in the Pretender#Disciples of the Pretender in the City|Belief in the Pretender > Disciples of the Pretender in the City]].
 

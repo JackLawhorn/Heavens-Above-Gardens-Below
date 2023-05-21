@@ -35,6 +35,8 @@ After the founding of the [[Court]], [[Clan Wolfstepper]] would be among the fir
 
 Closely tied with raw silver as the [[docetic]] form of their patron, the [[Lunar Aspects#The Wolf Mother|Wolf Mother]], the Silver Wolves were the sworn keepers of the metal. Mining and working it themselves, it was turned into powerful arms and armor capable of slaying [[extramundane]] and [[benighted]] foes with ease and adapting to both their human and wolf forms.
 
+> For more on silver and its ties to Clan Wolfstepper, see [[Iconic pact of Clan Wolfstepper#Silver|Iconic pact of Clan Wolfstepper > Silver]].
+
 ## See also
 ```dataview
 TABLE tag as "Daily Tag"

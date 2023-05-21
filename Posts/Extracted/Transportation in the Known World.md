@@ -37,7 +37,7 @@ During the [[Red Death]] and in the aftermath of the [[Burning]] which brought i
 
 The [[Renascence period]] saw significant advancements as it did in all areas. Coaches grew in popularity among the wealthier Houses and the [[Lord Representative|Lord Representatives]] of the [[Court]]. For the rest of the populace, bicycles and other pedaled vehicles for short-to-mid-range transport were an effective way to traverse the streets and [[rayas]] of the City. Around the [[Later Renascence period]], explorers come to the Deep Deserts to the north in pursuit of the [[Pretender]] and their [[Disciples of the Pretender|Disciples]] famously tamed the elemental [[Mundial Aspects#wind motes|wind motes]] there to pilot [[Deep Deserts#sandships|sandships]] over the treacherous dunes of the region.
 
-The [[Early Post-Enlightenment Era]] would see the invention of the steam engine, used not only in nautical steamships but also the steam train which allowed for high-speed travel and connected the City to its colonies to the north. The [[Late Post-Enlightenment Era]] will see the invention of a more compact steam engine which will introduce motorwagons, motorcoaches, motorcaravans, and motorbikes to the public consciousness.
+The [[Early Post-Enlightenment Era]] would see the invention of the steam engine, used not only in nautical steamships but also the steam train which allowed for high-speed travel and connected the City to its colonies to the north. The [[Later Post-Enlightenment Era]] will see the invention of a more compact steam engine which will introduce motorwagons, motorcoaches, motorcaravans, and motorbikes to the public consciousness.
 
 ## Nautical vehicles
 
