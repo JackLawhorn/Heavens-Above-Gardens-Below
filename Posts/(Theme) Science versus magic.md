@@ -34,5 +34,10 @@ I try to explore this in a number of different areas. The [[Materialists College
 ---
 
 ## Inspiration
-- Hard magic systems that are explored in ways that feel like science
+- Hard magic systems that are explored in ways that feel like science ***OR*** what I think of when I think of hard magic systems
     - Titan shifting and abilities in *Attack on Titan*
+    - Allomancy in *Mistborn*
+    - Alchemy in *Fullmetal Alchemist*
+- What I think of when I think of soft magic systems
+    - Magic in *The Lord of the Rings*
+    - The Force in *Star Wars* (midi-chlorians not withstanding)

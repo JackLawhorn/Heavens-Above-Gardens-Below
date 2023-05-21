@@ -36,8 +36,11 @@ In a way, these miracles can be seen as a metric for the performance and success
 ---
 
 ## Inspiration
-- Messiahs, saints, and other holy figures in real-world religions
-    - Jesus Christ (duh)
-    - Hildegard von Bingen
-- Messianic figures in fiction
-    - Eren in *Attack on Titan*, especially in season 4
+- Paul Atreides in *Dune*
+- Eren in *Attack on Titan*, especially in season 4
+- Neo in the *Matrix* franchise
+- Kevin Flynn in *TRON* and especially *TRON Legacy*
+- Aang in *Avatar: The Last Airbender* and Avatar Wan in *The Legend of Korra*
+- Many comic book superheroes but especially Superman
+- I like *Bright*'s messiah myth and specifically how it has been carried on in culture into modern day
+- Who can forget the end of *Mother!* ?
