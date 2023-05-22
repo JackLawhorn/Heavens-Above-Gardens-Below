@@ -18,7 +18,7 @@ next: "[[Fall of the Silver Wolves]]"
 
 A rare, natural phenomena of the [[Nyx]] and its children the [[Lunar Aspects]]. The Moon-Touched are the children of the Lunar Aspects, born of a race of the [[Orior]] but in possession of powerful [[organic magics]].
 
-The most infamous example of this is the [[Luminary]] – [[Luminary#Prophesy of the Luminary|prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
+The most infamous example of this is the [[Luminary]]: a [[Luminary#Prophesy of the Luminary|long-prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
 
 ## Moon-Touched in the Known World
 
