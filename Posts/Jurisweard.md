@@ -32,7 +32,7 @@ In the [[Post-Enlightenment Era]], the [[House of the Sun]] is all that remains 
 
 > For more, see [[Silver Wolves]].
 
-Prior to [[fall of the Silver Wolves|their fall]] in the [[Later Crisis of Hubris]], Clan Wolfstepper's [[Silver Wolves]] were prominent members of the Jurisweard. In contrast to [[House Lightbringer]] and their calling to serve, the service of the Silver Wolves was more or less out of necessity as humanity's first empowered protectors and one of the factions most proficient at more complex investigations.
+Prior to [[Fall of the Silver Wolves|their fall]] in the [[Later Crisis of Hubris]], Clan Wolfstepper's [[Silver Wolves]] were prominent members of the Jurisweard. In contrast to [[House Lightbringer]] and their calling to serve, the service of the Silver Wolves was more or less out of necessity as humanity's first empowered protectors and one of the factions most proficient at more complex investigations.
 
 The Silver Wolves were a common sight as they patrolled the streets, public squares and gardens, and even the rooftops of the [[Omphalos, the City of Gardens|City]]]. These stoic warriors donned [[docetic materials#silver|silver]] arms, armor, and cloaks in human form, though their small patrols often included at least one in wolf form. Their very presence cast a sense of safety and security on the populace – one they would unfortunately come to miss.
 

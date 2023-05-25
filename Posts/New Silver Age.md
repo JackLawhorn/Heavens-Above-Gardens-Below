@@ -27,7 +27,7 @@ The prophesy of the [[Luminary]] extends as far back into the history of [[Clan 
 
 ### Knights of the Silver Age
 
-The [[Luminary#prophesy of the Luminary|prophesy]] of the [[Luminary]] was passed down through the packs of [[Clan Wolfstepper]] and their elders for centuries. Those elders formed an order called the Knights of the Silver Age and safe-guarded an oral history – likely suggested by and certainly inspired by the [[Griots]] of the [[Sun Elves]] – of the prophesy so that the words of the [[Wolf Mother]] would not be forgotten.
+The [[Luminary#prophesy of the Luminary|prophesy]] of the [[Luminary]] was passed down through the packs of [[Clan Wolfstepper]] and their elders for centuries. Those elders formed an order called the Knights of the Silver Age and safe-guarded an oral history – likely suggested by and certainly inspired by the [[Griot|Griots]] of the [[Sun Elves]] – of the prophesy so that the words of the [[Wolf Mother]] would not be forgotten.
 
 In the [[Heliotropic Age]], the prophesy was no secret among the rest of humanity and in truth the [[Silver Wolves]] themselves were already as saviors to the vulnerable [[human clans]]. The human bards, it is thought, would have told stories and sang songs of the Luminary as well as more minor and generally fictional figures. With the losses of the Crisis of Hubris, however, Clan Wolfstepper and the knights of the Silver Age became more guarded with the prophesy of their lineage.
 

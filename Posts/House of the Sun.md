@@ -26,7 +26,7 @@ The House of the Sun is the fifth [[Great House]] of the [[Court]] and the first
 
 Forced to play a prominent role throughout the [[Red Death period]], especially as the engineers of both the [[Long Daylight]] and the [[Burning]], they ultimately became one of the primary agents of leadership and change in [[Omphalos, the City of Gardens]]. With each newly [[Fallen Houses|fallen]] Great House of the [[Later Crisis of Hubris]], they gained more power in Court and in human society at large.
 
-As of the [[fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[Renascence period]] that it ushered in, the House of the Sun is the sole remaining Great House, and its [[Orator]] the sole remaining Orator. Now, in the early days of the [[Post-Enlightenment Era]], the many [[House|Houses]] of the Court are vying to gain Great Houseship – the first since the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]].
+As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[Renascence period]] that it ushered in, the House of the Sun is the sole remaining Great House, and its [[Orator]] the sole remaining Orator. Now, in the early days of the [[Post-Enlightenment Era]], the many [[House|Houses]] of the Court are vying to gain Great Houseship – the first since the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]].
 
 ### The Orator
 

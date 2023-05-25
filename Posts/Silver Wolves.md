@@ -21,7 +21,7 @@ The Silver Wolves led [[Clan Wolfstepper]] to become one of the original great [
 
 ## Role within human society
 
-In general, the Silver Wolves were seen as demigods among [[cland]] humanity, second only to the [[Elven Legion|Elves]] themselves. They were the first to grasp magics of their own, and were as children of the [[Nyx]] itself through their [[Pact magics|pact]] with their [[iconic pacts|patron]] [[Lunar Aspects|Lunar Aspect]], the [[Lunar Aspects#Wolf Mother|Wolf Mother]].
+In general, the Silver Wolves were seen as demigods among [[cland]] humanity, second only to the [[Elven Legion|Elves]] themselves. They were the first to grasp magics of their own, and were as children of the [[Nyx]] itself through their [[Pact magics|pact]] with their [[iconic pacts|patron]] [[Lunar Aspects|Lunar Aspect]], the [[Wolf Mother]].
 
 ### Protectors of the pack
 

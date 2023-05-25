@@ -39,7 +39,7 @@ Unlike the other Umbral Aspects, the soldiers of the Red Court also displayed so
 
 ### Clan Wolfstepper
 
-The [[Silver Wolves]] were best equipped to deal with the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] out of all of the [[human clans]] and [[House|Houses]]. Their [[Iconic pacts|iconic pact]] with the [[Lunar Aspects#Wolf Mother|Wolf Mother]], [[Lunar Aspects|Lunar Aspect]] of the [[silver moon]] allowed them to take the form of a wolf and match the great size and ferocity of the [[Red Court#Apex Vectors|Apex Vectors]]. And they were well accustomed to patrolling the rooftops of the [[Omphalos, the City of Gardens|City]], even now still illuminated by the light of the [[Elven Signaltower]].
+The [[Silver Wolves]] were best equipped to deal with the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] out of all of the [[human clans]] and [[House|Houses]]. Their [[Iconic pacts|iconic pact]] with the [[Wolf Mother]], [[Lunar Aspects|Lunar Aspect]] of the [[silver moon]] allowed them to take the form of a wolf and match the great size and ferocity of the [[Red Court#Apex Vectors|Apex Vectors]]. And they were well accustomed to patrolling the rooftops of the [[Omphalos, the City of Gardens|City]], even now still illuminated by the light of the [[Elven Signaltower]].
 
 Their [[iconic pacts|patron]] [[Aspect]] also armed them with a significant arsenal of [[docetic materials#silver|silver]] which they used in its purest form to make their arms and armor. The pure silver was able to slice straight through both their enemy and the growths of [[nyxblight]] vines that had begun to strangle Omphalos, the City of Gardens.
 

@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 05.19.2023
 tag: "#FactionFriday"
-parent: ["[[Human clans]]", "[[Argent Ghetto]]", "[[Silver Wolves]]"]
+parent: ["[[Human clans]]", "[[Argent Ghetto]]", "[[Silver Wolves]]", "[[Wolf Mother]]"]
 
 previous: "[[(Theme) Prophesy]]"
 next: "[[New Silver Age]]"
@@ -42,7 +42,7 @@ Every full moon, the elders of the pack would recuse themselves of their human n
 
 > For more, see [[New Silver Age]].
 
-The [[New Silver Age]] is a [[cults|cult]] formed out of the [[Silver Wolves]] and around a [[Luminary#Prophesy of the Luminary|prophesized]] messiah called the [[Luminary]]. When the mother became pregnant with this daughter of the [[Wolf Mother]] herself, the they departed from [[Omphalos, the City of Gardens]] and brought about the [[fall of the Silver Wolves]].
+The [[New Silver Age]] is a [[cults|cult]] formed out of the [[Silver Wolves]] and around a [[Luminary#Prophesy of the Luminary|prophesized]] messiah called the [[Luminary]]. When the mother became pregnant with this daughter of the [[Wolf Mother]] herself, the they departed from [[Omphalos, the City of Gardens]] and brought about the [[Fall of the Silver Wolves]].
 
 Throughout the [[Renascence]], they have seen significant [[New Silver Age#Renascence decline|decline]] and now exist only as disparate, ineffectual subsects throughout the [[Known World]]. They are roaming knights, vagrants, outlaws, and often mercenaries selling their services to the [[Questing Houses]] and their [[Colonies of the Questing Houses|colonies]].
 
@@ -50,7 +50,7 @@ Throughout the [[Renascence]], they have seen significant [[New Silver Age#Renas
 
 > For more, see [[Argent Ghetto]].
 
-Though Clan Wolfstepper is most remembered for the [[Silver Wolves]] and the treacherous [[New Silver Age]] they became, they represent a sizable portion of the human population after millennia of intermixing with the other [[human clans]]. Throughout the [[Later Crisis of Hubris#Death of cland culture|decline of cland culture]] throughout the [[Later Crisis of Hubris]], Clan Wolfstepper was the most prominent human clan to retain their community and culture. With the [[fall of the Silver Wolves]], the [[House of the Sun]] and the rest of humanity greatly persecuted all hailing from this heritage in lieu of punishing the New Silver Age themselves.
+Though Clan Wolfstepper is most remembered for the [[Silver Wolves]] and the treacherous [[New Silver Age]] they became, they represent a sizable portion of the human population after millennia of intermixing with the other [[human clans]]. Throughout the [[Later Crisis of Hubris#Death of cland culture|decline of cland culture]] throughout the [[Later Crisis of Hubris]], Clan Wolfstepper was the most prominent human clan to retain their community and culture. With the [[Fall of the Silver Wolves]], the [[House of the Sun]] and the rest of humanity greatly persecuted all hailing from this heritage in lieu of punishing the New Silver Age themselves.
 
 As of the [[Early Renascence period]], the vast majority of Clan Wolfstepper's population lives within the [[Argent Ghetto]] in [[Omphalos, the City of Gardens]]. There, they are under the watchful eye of the [[Jurisweard]] and are not able to freely leave their ghetto.
 
