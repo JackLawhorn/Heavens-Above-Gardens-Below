@@ -26,7 +26,7 @@ The House of the Sun is the fifth [[Great House]] of the [[Court]] and the first
 
 Forced to play a prominent role throughout the [[Red Death period]], especially as the engineers of both the [[Long Daylight]] and the [[Burning]], they ultimately became one of the primary agents of leadership and change in [[Omphalos, the City of Gardens]]. With each newly [[Fallen Houses|fallen]] Great House of the [[Later Crisis of Hubris]], they gained more power in Court and in human society at large.
 
-As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[Renascence period]] that it ushered in, the House of the Sun is the sole remaining Great House, and its [[Orator]] the sole remaining Orator. Now, in the early days of the [[Post-Enlightenment Era]], the many [[House|Houses]] of the Court are vying to gain Great Houseship – the first since the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]].
+As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[Renascence|Renascence period]] that it ushered in, the House of the Sun is the sole remaining Great House, and its [[Orator]] the sole remaining Orator. Now, in the early days of the [[Post-Enlightenment Era]], the many [[House|Houses]] of the Court are vying to gain Great Houseship – the first since the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]].
 
 ### The Orator
 
@@ -34,7 +34,7 @@ As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[
 
 After the [[Crisis of Hubris]], with the House of the Sun serving as the sole remaining [[Great House]] of the [[Court]], the role and responsibilities of the [[Orator]] underwent significant changes. In [[Ages of the Known World|ages]] past, the Orators of each of the Great Houses held equal say in judicating matters of the Court, but now a single Orator held significantly more sway over the past, present, and future of humanity within [[Omphalos, the City of Gardens]].
 
-Their station expanded just as the House of the Sun's own station did, and the [[Office of the Orator]] was ultimately founded to support and facilitate each of these pillars of the Orator's station. Throughout the [[Later Crisis of Hubris]] and the [[Renascence period]], those rising through the ranks of the House of the Sun with an eye on the station of Orator typically accentuated a focus on either the [[Public Record]], their House's [[state religion]], or various other platforms, with the political relevance of tending to the [[Elven Signaltower]] diminishing over time.
+Their station expanded just as the House of the Sun's own station did, and the [[Office of the Orator]] was ultimately founded to support and facilitate each of these pillars of the Orator's station. Throughout the [[Later Crisis of Hubris]] and the [[Renascence]], those rising through the ranks of the House of the Sun with an eye on the station of Orator typically accentuated a focus on either the [[Public Record]], their House's [[state religion]], or various other platforms, with the political relevance of tending to the [[Elven Signaltower]] diminishing over time.
 
 > For more on the history of the House of the Sun's Orators throughout the Renascence period, see [[History of the Orators#The Orators of the House of the Sun|History of the Orators > The Orators of the House of the Sun]].
 
@@ -62,7 +62,7 @@ As its name implies, all of the Public Record is freely accessible by the City's
 
 House of the Sun Aides serve a wide breadth of roles within the [[Great House]], and most who hold higher stations start as Aides themselves. The vast majority of them serve on the cabinets of the [[House|Houses]] of the [[Court]], working with their [[Lord Representative|Lord Representatives]] to record and archive the goings on  of each House. Others work exclusively within the halls of the [[Public Record]], attend all matters of the Court as scribes, or work with the [[scholars of the City|scholars]] within the [[Scholars Quarter]] and its many [[College|colleges]].
 
-Aides within the [[Office of the Orator]] are particularly busy, and may be promoted to the rank of Famulus to work directly with the [[Orator]] themselves. The Famuli recover and courier obscure texts requested by the Orator for their special interest projects, such as their attempts at recreating the [[Elven Legion|Elven]] art of [[astral divination]] throughout the [[Renascence period]].
+Aides within the [[Office of the Orator]] are particularly busy, and may be promoted to the rank of Famulus to work directly with the [[Orator]] themselves. The Famuli recover and courier obscure texts requested by the Orator for their special interest projects, such as their attempts at recreating the [[Elven Legion|Elven]] art of [[astral divination]] throughout the [[Renascence|Renascence period]].
 
 ## Stewards of the state religion
 

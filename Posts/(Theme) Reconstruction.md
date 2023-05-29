@@ -39,7 +39,7 @@ As a side effect of this, the [[House of the Sun]] – previously a very minor p
 
 40% of [[Omphalos, the City of Gardens]] was razed to the ground in the great and terrible [[Burning]], and 60% of its population killed off by the [[Red Death]] or the [[soldiers of the Red Court|soldiers]] of the [[Red Court]]. Where will the displaced live? Even after the City is rebuilt and population growth rises again, what damage will remain?
 
-What was [[Red Death period City of Gardens#Enemy territory|enemy territory]], now little more than still-smoldering and storeys-tall piles of rubble, is rebuilt and comes to be known as the [[Red Quarter]]. Even as the City itself rebounds and [[New City|expands]] past the walls of the [[Old City]] throughout the [[Renascence period]], this area remains as a low place of socioeconomic inequality. From the Red Quarter grows the [[Cumbergrounds]].
+What was [[Red Death period City of Gardens#Enemy territory|enemy territory]], now little more than still-smoldering and storeys-tall piles of rubble, is rebuilt and comes to be known as the [[Red Quarter]]. Even as the City itself rebounds and [[New City|expands]] past the walls of the [[Old City]] throughout the [[Renascence|Renascence period]], this area remains as a low place of socioeconomic inequality. From the Red Quarter grows the [[Cumbergrounds]].
 
 Who lives here and why? Why is there no better option? How and why are the people here left behind by their neighbors and by the policies of the [[Court]]? Do things get better over time or do the issues only grow worse? What kind of culture grows among a people left behind in this way?
 

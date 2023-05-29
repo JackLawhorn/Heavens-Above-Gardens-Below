@@ -15,3 +15,7 @@ next: "[[Psionics]]"
 
 ---
 
+- Childhood and relationship with their mentor
+- Under the training of the Silver Wolves
+- [[Pretender#Scivias of the Pretender|scivias]] of the Pretender
+- Learning about going to live with the Orator of the House of the Sun

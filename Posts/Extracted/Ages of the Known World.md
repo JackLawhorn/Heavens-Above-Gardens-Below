@@ -20,7 +20,7 @@ You can expect the historical documents presented here to make use of one or mor
 	- [[Early Crisis of Hubris]]
 	- [[Red Death period]]
 	- [[Later Crisis of Hubris]]
-- [[Renascence period]]
+- [[Renascence]]
 	- [[Early Renascence period]]
 	- [[Later Renascence period]]
 - [[Post-Enlightenment Era]]

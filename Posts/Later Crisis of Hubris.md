@@ -16,13 +16,13 @@ next: "[[Vestiges]]"
 
 ---
 
-The Later Crisis of Hubris is defined as stretching from the night of the great [[Burning]] – which ended the [[Red Death period]] – to the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] which heralded in the [[Renascence period]]. 
+The Later Crisis of Hubris is defined as stretching from the night of the great [[Burning]] – which ended the [[Red Death period]] – to the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] which heralded in the [[Renascence]]. 
 
 ## Reconstruction
 
 > For more, see [[Reconstruction]].
 
-In the aftermath of the [[Red Death period]] and the [[Burning]] that ended it, a great [[Reconstruction]] effort was begun to rebuild both [[Omphalos, the City of Gardens]] and its people. Although Reconstruction would extend far past the end of the [[Crisis of Hubris]] and into the [[Renascence period]], the Later Crisis of Hubris is remembered in part for many of its [[Great Works]]. The face of the City would be forever changed not only by the rebuilding of the [[Red Quarter]] and the [[Barony of Stilts]] but also the creation of [[Reconstruction#New defenses in the City|new defenses]] from similar threats in the future.
+In the aftermath of the [[Red Death period]] and the [[Burning]] that ended it, a great [[Reconstruction]] effort was begun to rebuild both [[Omphalos, the City of Gardens]] and its people. Although Reconstruction would extend far past the end of the [[Crisis of Hubris]] and into the [[Renascence]], the Later Crisis of Hubris is remembered in part for many of its [[Great Works]]. The face of the City would be forever changed not only by the rebuilding of the [[Red Quarter]] and the [[Barony of Stilts]] but also the creation of [[Reconstruction#New defenses in the City|new defenses]] from similar threats in the future.
 
 ## Rise of the House of the Sun
 

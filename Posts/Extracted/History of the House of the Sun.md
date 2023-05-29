@@ -26,7 +26,7 @@ During this time, they also rose to prominence as the [[State religion]] in Omph
 
 ## The Renascence
 
-Throughout the [[Renascence period]], the [[House of the Sun]] has stood uncontested as the sole [[Great House]] of the [[Court]] and, in truth, its [[Orator]] has led humanity both within and outside of [[Omphalos, the City of Gardens]] to heights never before seen. The Renascence was ultimately the great Golden Age that the [[Crisis of Hubris]] had been purported to be.
+Throughout the [[Renascence]], the [[House of the Sun]] has stood uncontested as the sole [[Great House]] of the [[Court]] and, in truth, its [[Orator]] has led humanity both within and outside of [[Omphalos, the City of Gardens]] to heights never before seen. The Renascence was ultimately the great Golden Age that the [[Crisis of Hubris]] had been purported to be.
 
 > For more on the history of the House of the Sun's Orators throughout the Renascence period, see [[History of the Orators#The Orators of the House of the Sun|History of the Orators > The Orators of the House of the Sun]].
 

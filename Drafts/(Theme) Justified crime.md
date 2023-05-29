@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-Posted: 05.18.2023
+Posted: 05.25.2023
 tag: "#ThemeThursday"
 
-previous: "[[Deep Deserts]]"
-next: "[[Clan Wolfstepper]]"
+previous: "[[Luminary]]"
+next: "[[Remnants of the Fallen Houses]]"
 ---
 `= this.tag` #DailyPost 
-# (Theme) Prophesy
+# (Theme) Justified crime
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -15,11 +15,7 @@ next: "[[Clan Wolfstepper]]"
 
 ---
 
-## Origin
-
-## Reception
-
-## Outcome
+ 
 
 ---
 

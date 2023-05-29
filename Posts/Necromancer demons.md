@@ -27,7 +27,7 @@ Others purely seek the power that this field of study offer, producing increasin
 
 ### Hunt for the Red Court
 
-At the dawn of the [[Renascence period]], the demons of [[Isle of Melos|Melos]] would become consumed with a new [[quest]]: the execution of the [[Red Court]] and its allies. Now armed with powerful [[Necromancy|necromantic]] artifacts and later the macabre [[necromantic grafts|grafts]] of their [[devils]], they ventured out into the [[Known World]] in search of their new prey.
+At the dawn of the [[Renascence]], the demons of [[Isle of Melos|Melos]] would become consumed with a new [[quest]]: the execution of the [[Red Court]] and its allies. Now armed with powerful [[Necromancy|necromantic]] artifacts and later the macabre [[necromantic grafts|grafts]] of their [[devils]], they ventured out into the [[Known World]] in search of their new prey.
 
 > [!INFO] Additional resources
 > For more on the hunt for the Red Court, see...

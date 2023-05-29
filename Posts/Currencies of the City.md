@@ -1,12 +1,29 @@
 ---
 dg-publish: true
+Posted: 05.27.2023
+tag: "#CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]"]
 aliases: currency, currencies, coins
+
+previous: "[[Remnants of the Fallen Houses]]"
+next: "[[Birth of the Luminary]]"
 ---
-**Extracted from:** `= this.parent`
+`= this.tag` #DailyPost 
 # Currencies of the City
+`= this.Posted`
+
+**Previous:** `= this.previous`
+**Next:** `= this.next`
 
 ---
+
+The concept of currency was first introduced to human society in the chaotic early years of the [[Later Heliotropic Age]]. In the [[Founding of Omphalos, the City of Gardens|newly-founded]] [[Omphalos, the City of Gardens]], the [[human clans]] – only just organizing themselves into their [[House|Houses]] and [[Court]] – chose [[#gold]] to represent [[Ylem]] and [[#copper]] to represent the [[Sun Elves]]. An [[Ages of the Known World|age]] later, with the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[fall of the Silver Wolves#taking of the silver|taking of the silver]] that followed, the currencies of the City were bolstered by the [[#silver|silver coins, hastas, and crescents]].
+
+## Stewards of currency in the City
+
+Before their [[Fall of the Oremongers Guild|fall]] in the [[Early Crisis of Hubris]], the [[Oremongers Guild]] served as the stewards of the currencies of [[Omphalos, the City of Gardens]]. [[Iconic pact of the Oremongers Guild|Their iconic pact]] with the elemental [[Mundial Aspects#earth motes|earth motes]] enabled them to locate and extract such valuable and much symbolized metals from the soil and stone below, as well as to shape them into [[#gold]] and [[#copper]] coins.
+
+After their fall, this role would fall to the [[Treasurers Guild]] which rose out of their ashes.
 
 ## Denominations
 
@@ -18,7 +35,7 @@ Though they did not have formal currency of their own, the oldest Elves of the L
 
 After the [[Founding of Omphalos, the City of Gardens|founding]] of [[Omphalos, the City of Gardens]], the [[Fall of the Oremongers Guild|since-fallen]] [[Oremongers Guild]] was quick to leverage their access to vast deposits of gold, spreading their product throughout the [[House|Houses]] of the young [[Court]] and establishing the gold standard. As of the [[Early Post-Enlightenment Era|Early]] [[Post-Enlightenment Era]], gold coins are primarily held by the Houses of the Court, their [[Lord Representative|Lord Representatives]] and cabinets, and the privately wealthy.
 
-### Copper coins
+### Copper
 
 Copper coins were introduced by the [[Oremongers Guild]] soon after the successful adoption of the [[#Gold|gold standard]], flooding the [[Omphalos, the City of Gardens|City of Gardens]] and its economy with newfound wealth. Just as gold had held significant symbolism for the [[Sun Elves|Elves]] and humanity after them, copper had long since been associated with the Sun Elves themselves. Not only were their arms and armor made of bronze, but copper also evoked the shared skin tone of the Sun Elves.
 
@@ -39,3 +56,10 @@ Across most of the [[Omphalos, the City of Gardens|City of Gardens]], [[#Gold|go
 ### Silver in the Argent Ghetto
 
 Those of [[Clan Wolfstepper]] who do still worship the [[Iconic pact of Clan Wolfstepper#The Wolf Mother|Wolf Mother]] have spent generations begging on the street in hopes of amassing enough [[#Silver|silver]] in change so that they may reclaim their goddess. This change is smelted in secret, forming community reserves that are worshipped as a corpse being willed to life.
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Currencies of the City]])
+SORT Posted ASC
+```

@@ -34,7 +34,7 @@ In the [[Later Crisis of Hubris]], the Guild was able to largely repair their st
 
 ### The Renascence period
 
-Instead, they saw tremendous growth into and throughout the [[Renascence period]], including a great proliferation of their land vehicles throughout the City of Gardens. Their fleet of nautical vessels were finally leveraged in aid of the [[Later Renascence period]]'s [[Questing Houses]], and they secured their status as a key resource for the many Houses of the [[Court]].
+Instead, they saw tremendous growth into and throughout the [[Renascence]], including a great proliferation of their land vehicles throughout the City of Gardens. Their fleet of nautical vessels were finally leveraged in aid of the [[Later Renascence period]]'s [[Questing Houses]], and they secured their status as a key resource for the many Houses of the [[Court]].
 
 This power, however, would lead to a fracturing of Guild leadership, very nearly splitting into a [[Union]] of Houses each specializing in a different form of travel. Instead, the Shipwrights Guild is now controlled by three [[#Shipwright Lordships]] who are aligned for now but are constantly vying for power over the others.
 

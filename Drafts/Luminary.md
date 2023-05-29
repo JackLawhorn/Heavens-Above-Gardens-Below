@@ -1,8 +1,9 @@
 ---
+dg-publish: true
 Posted: 05.24.2023
 tag: "#WorldWednesday"
 aliases: Moon-Touched child
-parent: ["[[Lunar Aspects]]", "[[Wolf Mother]]", "[[New Silver Age]]", "[[Fall of the Silver Wolves]]"]
+parent: ["[[Lunar Aspects]]", "[[Wolf Mother]]", "[[New Silver Age]]", "[[Fall of the Silver Wolves]]", "[[Moon-Touched]]"]
 
 previous: "[[Fall of the Silver Wolves]]"
 next: "[[(Theme) Justified crime]]"
@@ -16,11 +17,17 @@ next: "[[(Theme) Justified crime]]"
 
 ---
 
+The [[Moon-Touched]] child of the [[Wolf Mother]] herself, the Luminary had been [[#Prophesy of the Luminary|prophesized]] as the savior of [[Clan Wolfstepper]] since the [[Elven March|Elven March period]]. Her coming brought about the [[fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the birth of the [[New Silver Age]].
+
 ## Prophesy of the Luminary
 
 ## Life of the Luminary
 
 ## Extramundane properties
+
+### Form
+
+### Extended life
 
 ## See also
 ```dataview
