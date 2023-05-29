@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[House of the Sun]]", "[[Reconstruction]]", "[[Scholars Quarter]]", "[[Scholars of the City]]"]
 ---
 #Glossary

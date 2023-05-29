@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 05.28.2023
 tag: "#SceneSunday"
 

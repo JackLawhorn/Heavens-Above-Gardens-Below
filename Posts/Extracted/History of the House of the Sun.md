@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[House of the Sun]]"]
 ---
 **Extracted from:** `= this.parent`

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[House of the Sun]]", "[[Public Scholarship]]", "[[Reconstruction]]"]
 aliases: Hall of Public Record
 ---

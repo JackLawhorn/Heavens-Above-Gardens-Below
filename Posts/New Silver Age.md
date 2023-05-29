@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 05.20.2023
 tag: "#CivilizationSaturday"
 parent: ["[[Clan Wolfstepper]]", "[[Silver Wolves]]", "[[Remnants of the Fallen Houses]]", "[[Luminary]]", "[[Prophesy of the Luminary]]", "[[Fall of the Silver Wolves]]", "[[cults]]"]

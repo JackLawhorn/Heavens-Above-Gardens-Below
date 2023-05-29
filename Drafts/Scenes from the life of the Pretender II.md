@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 Posted: 04.30.2023
 tag: "#SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Psionic Age]]", "[[History of psionics]]", "[[Pretender]]"]

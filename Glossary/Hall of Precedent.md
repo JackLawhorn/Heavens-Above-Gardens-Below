@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: ["[[Court]]", "[[Reconstruction]]", "[[Public Record]]", "[[Jurisweard]]"]
 aliases: precedent
 ---
