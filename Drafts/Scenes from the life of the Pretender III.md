@@ -17,3 +17,8 @@ next: "[[Mystic psionics]]"
 
 ---
 
+ - Life in the family of the Orator
+- The younger daughter of the Orator (Fall of the Silver Wolves)
+- Being kept away from their mentor
+- Escape from captivity
+- Revelation of the Pretender
