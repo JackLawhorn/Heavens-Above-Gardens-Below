@@ -40,7 +40,7 @@ Before she had finished speaking, the child had jumped up and was running to the
 
 This day was like any other.
 
-The scholar was informed by the child's teachers of their progress, not quite up to their expectations as it never was. He was used to their disapproval. Their disapproval of his ward's temperament. Their disapproval of his former [[College]], now fallen just as the [[Oremongers Guild]] and [[House Lightbringer]] had. He was used to the looks from Silver Wolves as he passed through their corridors. The rest of the City was blind to his past but it was as if they could smell the sin on him.
+The scholar was informed by the child's teachers of their progress, not quite up to their expectations as it never was. He was used to their disapproval. Their disapproval of his ward's temperament. Their disapproval of his former [[College]], now fallen just as the [[Oremongers Guild]] and [[House Lightbringer]] had. He was used to the looks from Silver Wolves as he passed through their corridors, the spiteful and barely-concealed mutterings of *[[Necromancer demons|demon]]* behind his back. The rest of the City was blind to his past but it was as if they could smell the sin on him.
 
 The hard part out of the way, the odd pair found a place to eat a ways away from prying eyes and ears. He told the child about his day, about the wonders of the City outside these walls. He told them about the newest works of [[Reconstruction]] as he always did, and they sat in silence for a few moments after as they always had. They were bonded by the devastation of the [[Red Death period]] and of the great and terrible [[Burning]] that brought it to its end. All of humanity had been bonded by loss, but so too they the two of them been bonded by finding each other.
 
