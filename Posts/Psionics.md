@@ -25,7 +25,7 @@ At the core of psionic phenomena and abilities is the intersection of the [[Prim
 
 ### Psionic influence
 
-One's psionic influence is constantly fluctuating: accumulating over time and being expended by the [[Psion]] to either observe or manipulate the [[Psionic Sphere]]. This influence is easily perceivable by psions of sufficient ability and has even been described as captivating and hard to ignore. Similarly, a psion of sufficient ability might be able to hide their influence from others who might notice, a practice common in the [[House]] [[Silencers]] of the [[Lord Representative|Lord Representatives]] of the [[Court]].
+One's psionic influence is constantly fluctuating: accumulating over time and being expended by the [[Psion]] to either observe or manipulate the [[Psionic Sphere]]. This influence is easily perceivable by psions of sufficient ability and has even been described as captivating and hard to ignore. Similarly, a psion of sufficient ability might be able to hide their influence from others who might notice, a practice common in the [[House]] [[Agents of the Psionics College#College Silencers|Silencers]] of the [[Lord Representative|Lord Representatives]] of the [[Court]].
 
 ### Psionics versus the magics
 
@@ -73,7 +73,7 @@ Psionics can also be used to easily disable an opponent. While simple [[#Halluci
 
 Silencing is the field of psionics centered around removing – either partially or completely – sensory stimuli from the perceived reality of the [[Psionic Sphere]]. This relies primarily on the effect of lacking recognition or inability to hold attention, which is called "agnosia". Partial silencing can remove identifying features from people, objects, and even the surrounding environment. Even when actively observed, partially silenced subjects can be difficult to recognize or visually track. When not actively observing one's surroundings, they fade into the crowd or background and can hide in plain sight.
 
-Silencing is commonly used to walk through the densely populated urban sprawl of [[Omphalos, the City of Gardens]] undetected and even to protect sensitive conversations between [[Lord Representative|Lord Representatives]] of the [[Court]]. Occasionally, agents of the [[Psionics College]] called [[Silencers]] are called upon to silencing larger, more conspicuous events from public view in the name of keeping the peace.
+Silencing is commonly used to walk through the densely populated urban sprawl of [[Omphalos, the City of Gardens]] undetected and even to protect sensitive conversations between [[Lord Representative|Lord Representatives]] of the [[Court]]. Occasionally, agents of the [[Psionics College]] called [[Agents of the Psionics College#College Silencers|Silencers]] are called upon to silencing larger, more conspicuous events from public view in the name of keeping the peace.
 
 Similar to the psionic field of Illusions, the effectiveness of silencing increases exponentially the more stimuli are being masked. Even so-called "complete" silencing can be recognized by the most powerful of psions. This is because the [[#psionic influence|influence]] required to silence each sense, as well as the level of specificity needed to remove all context information from the environment is immense.
 

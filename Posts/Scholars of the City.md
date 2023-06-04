@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 02.10.2023
 tag: '#FactionFriday'
-parent: ['[[Omphalos, the City of Gardens]]']
+parent: ['[[Omphalos, the City of Gardens]]', "[[Scholars Quarter]]"]
 
 previous: '[[(Theme) Scholarship]]'
 next: '[[Scholars Quarter]]'

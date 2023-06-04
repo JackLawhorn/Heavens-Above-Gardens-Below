@@ -25,7 +25,7 @@ The Scholars Quarter is the academic center in [[Omphalos, the City of Gardens]]
 | Faction | Fields | Founded |
 | - | - | - |
 | [[Materialists College]] | Biology, chemistry, material sciences | [[Later Heliotropic Age]]   |
-| [[Cult of Pythos]]       | Mathematics, physics                  | [[Later Heliotropic Age]]   |
-| [[Mouseion]]             | The arts, bardistry                   | [[Later Heliotropic Age]]   |
+| [[Cult of Pythos]]       | Mathematics and physics                  | [[Later Heliotropic Age]]   |
+| [[Mouseion]]             | The arts and bardistry                   | [[Later Heliotropic Age]]   |
 | [[Philosophers Guild]]   | Philosophy                            | [[Later Heliotropic Age]]   |
-| [[Psionics College]]     | Psychology                            | [[Early Renascence period]] |
+| [[Psionics College]]     | [[Psionics]]                            | [[Early Renascence period]] |

@@ -8,7 +8,7 @@ aliases: Renascence period
 previous: "[[Wolf Mother]]"
 next: "[[Pilgrimages of the Orior]]"
 ---
-`= this.tag` #DailyPost 
+`= this.tag` #DailyPost
 # The Renascence
 `= this.Posted`
 
@@ -16,6 +16,8 @@ next: "[[Pilgrimages of the Orior]]"
 **Next:** `= this.next`
 
 ---
+
+After the final devastating loss of the [[Crisis of Hubris]] – the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] – the [[House of the Sun]]'s [[Orator]] made a sweeping declaration: that this [[Ages of the Known World|age]] had finally come to an end. And what she said was true. Humanity successfully ushered in a cultural and scientific [[Renascence]] the likes of which the [[Known World]] had never seen.
 
 ## Sub-periods
 - [[Early Renascence period]]

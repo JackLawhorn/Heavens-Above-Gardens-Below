@@ -40,7 +40,7 @@ Slowly, a number of [[Sun Elves]] went from attentive members of the audience â€
 
 ### Advocates for the Consulates
 
-With more and more [[pilgrimages of the Orior]] bringing new peoples to [[Omphalos, the City of Gardens]] throughout the [[Later Crisis of Hubris]], they most prominently acted as advocates of the [[Consulates of the Orior]]. They sat and conversed and exchanged ideas not only with the humans but also with the [[Oklop]] and the [[Sobek]], and later with the [[Verdant Knights]] and the [[Reef Knights]]. With their support, the [[Embassy Quarter]] quickly rose up and expanded in the [[Barony of Stilts]] and saw more power in the overwhelmingly human [[Court]].
+With more and more [[Pilgrimages of the Orior]] bringing new peoples to [[Omphalos, the City of Gardens]] throughout the [[Later Crisis of Hubris]], they most prominently acted as advocates of the [[Consulates of the Orior]]. They sat and conversed and exchanged ideas not only with the humans but also with the [[Oklop]] and the [[Sobek]], and later with the [[Verdant Knights]] and the [[Reef Knights]]. With their support, the [[Barony of Stilts#Embassy Quarter|Embassy Quarter]] quickly rose up and expanded in the [[Barony of Stilts]] and saw more power in the overwhelmingly human [[Court]].
 
 ## Elves and the Silver Wolves
 

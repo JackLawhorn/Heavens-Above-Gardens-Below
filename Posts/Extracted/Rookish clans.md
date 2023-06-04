@@ -12,7 +12,7 @@ A great many of the [[human clans]] formed bonds with the avian races of the [[N
 
 ## Abilities
 
-Just as their [[Noble beasts|noble beast]] companions are able to glide without a sound, the Rooks have learned to traverse any environment cautiously and stealthily. Their boots and their [[#bird-hamir]] make them nearly as silent at the [[Psionics College|College]]'s [[Silencers]].
+Just as their [[Noble beasts|noble beast]] companions are able to glide without a sound, the Rooks have learned to traverse any environment cautiously and stealthily. Their boots and their [[#bird-hamir]] make them nearly as silent at the [[Psionics College|College]]'s [[Agents of the Psionics College#College Silencers|Silencers]].
 
 In order to better hunt like their companions, the early Rooks also learned their near [[extramundane]] climbing abilities from the [[Sun Elves]].
 
