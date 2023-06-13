@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+parent: ["[[Docetic forms of the Aspects]]"]
+aliases: formitate, formitates
 ---
 #Glossary 
 # Formitation

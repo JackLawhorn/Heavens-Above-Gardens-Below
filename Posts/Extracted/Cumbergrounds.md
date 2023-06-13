@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]"]
+parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]", "[[Class and caste in the City]]"]
 ---
 **Extracted from:** `= this.parent`
 # The Cumbergrounds

@@ -43,7 +43,7 @@ Now, long after the [[Fall of the Pretender]], a significant number of the few m
 
 ### Dwaalstepper
 
-Shortly after the [[Scenes from the Life of the Pretender III|revelation]] of the [[Pretender]], the blossoming [[Psionics|psionic]] population discovered a new realm within the [[Psionic Sphere]]: [[Dwaal, the Dreaming State]]. This place governs the dreams of all sentient beings in the [[Prime Material Sphere]], and can be traversed just as a [[psion]] would traverse the [[Standard Elven Cosmology|Sphere]]'s landscape of perceived reality. Those who do so are called *dwaalsteppers*.
+Shortly after the [[Scenes from the life of the Pretender III|revelation]] of the [[Pretender]], the blossoming [[Psionics|psionic]] population discovered a new realm within the [[Psionic Sphere]]: [[Dwaal, the Dreaming State]]. This place governs the dreams of all sentient beings in the [[Prime Material Sphere]], and can be traversed just as a [[psion]] would traverse the [[Standard Elven Cosmology|Sphere]]'s landscape of perceived reality. Those who do so are called *dwaalsteppers*.
 
 At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], the Pretender's dwaalsteppers were far and few between, but played important roles in [[Omphalos, the City of Gardens]]. They found that a number of ailments suffered by humanity stemmed not from anatomy but from phenomena in the Psionic Sphere and especially from the Dwaal. In tackling these ailments, the mystic dwaalsteppers became influential healers for their suffering people.
 

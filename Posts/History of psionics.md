@@ -34,7 +34,7 @@ Ultimately, the Pretender and their Disciples [[Fall of the Pretender|fell]] on 
 
 Out of the ashes of the [[Disciples of the Pretender]] rose the [[Psionics College]] whose scholars took an [[Scholars of the City#Objectivists|objectivist]] approach to the field of [[psionics]] rather than embracing their predecessors' [[mystic psionics|mystic practices]]. Through this new lens, psionics took shape not as a [[Magics in the Known World|field of magics]] but as a field of science that might be explored as any other.
 
-Throughout the remainder of the [[Later Crisis of Hubris]] and all of the [[Renascence]], the [[College]] grew to be one of the greatest and most influential [[House|Houses]] of the [[Court]].
+Throughout the [[Renascence]], the [[College]] grew to be one of the greatest and most influential [[House|Houses]] of the [[Court]].
 
 > For more, see [[History of the Psionics College#Rise of the Psionics College|History of the Psionics College > Rise of the Psionics College]].
 

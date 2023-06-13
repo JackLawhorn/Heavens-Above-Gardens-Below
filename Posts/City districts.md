@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 04.22.2023
 tag: "#CivilizationSaturday"
-parent: ["[[Omphalos, the City of Gardens]]"]
+parent: ["[[Omphalos, the City of Gardens]]", "[[Class and caste in the City]]"]
 aliases: city district, district, districts
 
 previous: "[[Mouseion]]"

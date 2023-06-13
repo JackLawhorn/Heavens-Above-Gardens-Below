@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-parent: ["[[Docetic materials]]", "[[Wolf Mother]]", "[[Clan Wolfstepper]]", "[[Currencies of the City]]", "[[Docetic forms of the Aspects]]", "[[Iconic pact of Clan Wolfstepper]]"]
+parent: ["[[Docetic materials]]", "[[Wolf Mother]]", "[[Clan Wolfstepper]]", "[[Currencies of the City]]", "[[Docetic forms of the Aspects]]", "[[Iconic pact of Clan Wolfstepper]]", "[[Silver in the City]]"]
 ---
 **Extracted from:** `= this.parent`
 # Silver

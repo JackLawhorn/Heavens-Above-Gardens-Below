@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Lunar Aspects]]"]
+parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Lunar Aspects]]", "[[Docetic forms of the Aspects]]"]
 aliases: Wolf Mother, Silver Wolf Moon, Wolf Mother Moon
 ---
 #Glossary 

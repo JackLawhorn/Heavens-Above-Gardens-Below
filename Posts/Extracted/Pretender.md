@@ -63,7 +63,7 @@ After the [[Scenes from the life of the Pretender III|revelation]] of the [[Pret
 
 The Pretender displayed a mastery in awakening the [[Psionics#Psionic influence|psionic influence]] of others who had never before shown any signs of [[Psionics#psionic abilities|psionic ability]]. At first, they would do so consciously and actively, taking time to touch each new [[Disciples of the Pretender|Disciple]], but by the time they left [[Omphalos, the City of Gardens]] on their [[Questing Charter of the Pretender|religious pilgrimage]] their fleeting presence alone was often enough to awaken those around them.
 
-It is even said that the origin of [[Gljiva, the Conquering Fungus]] is tied to the Pretender, who granted not only psionic influence but consciousness itself to a growth of mundane mushrooms [[Scenes from the Life of the Pretender IV|along their march]] to the [[Deep Deserts]]. Whether this account, in actuality, holds any weight is unknown.
+It is even said that the origin of [[Gljiva, the Conquering Fungus]] is tied to the Pretender, who granted not only psionic influence but consciousness itself to a growth of mundane mushrooms [[Scenes from the life of the Pretender IV|along their march]] to the [[Deep Deserts]]. Whether this account, in actuality, holds any weight is unknown.
 
 > For more, see [[Psionic Age#Rise in psionic influence|Psionic Age > Rise in psionic influence]].
 

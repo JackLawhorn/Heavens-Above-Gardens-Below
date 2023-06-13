@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-parent: ["[[City districts]]", "[[Old City]]"]
+parent: ["[[City districts]]", "[[Old City]]", "[[Class and caste in the City]]"]
 ---
 #Glossary
 # The Red Quarter
