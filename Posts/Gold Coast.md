@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 05.10.2023
 tag: "#WorldWednesday"
-parent: ["[[Known World]]", "[[Sink]]"]
+parent: ["[[Known World]]", "[[Old World continent]]", "[[Sink]]"]
 
 previous: "[[History of psionics]]"
 next: "[[(Theme) The messiah myth]]"
@@ -16,13 +16,13 @@ next: "[[(Theme) The messiah myth]]"
 
 ---
 
-The Gold Coast is the western coast of the [[Old World]] continent, extending northward from [[Omphalos, the City of Gardens]], which has played a role in human history multiple times. First traveled along by the [[Sun Elves]] and [[human clans]] throughout the [[Elven March|Elven March period]]. Later, the [[Disciples of the Pretender]] would travel its length, tracing the steps of the Elven March on their [[Questing Charter of the Pretender|religious pilgrimage]] to the [[Deep Deserts]].
+The Gold Coast is the western coast of the [[Old World continent]], extending northward from [[Omphalos, the City of Gardens]], which has played a role in human history multiple times. First traveled along by the [[Sun Elves]] and [[human clans]] throughout the [[Elven March|Elven March period]]. Later, the [[Disciples of the Pretender]] would travel its length, tracing the steps of the Elven March on their [[Questing Charter of the Pretender|religious pilgrimage]] to the [[Deep Deserts]].
 
 ## Geography
 
 Following the Gold Coast to the north, one reaches the [[Deep Deserts]]. To the south, it meets the [[Sun Coast]] of the [[Great Sea]] and its jewel: [[Omphalos, the City of Gardens]]. The terrain along this length is much varied, from sandy beaches to rocky shores, and is largely uninterrupted save for the [[#Great Delta]].
 
-To the east is the rest of the [[Old World]] continent, including the [[Valley of Ruins]] and the many northern [[Colonies of the Questing Houses|colonies]] of the [[Questing Houses]]. And to the west is the [[Sink]], into which the [[Sea Elves]] descended on their [[quest]]. The Gold Coast is rife with threats from the  the roving frenzies of the [[Akụm|Akụm marauders]] to the [[goblin clans]] to [[Gljiva, the Conquering Fungus]].
+To the east is the rest of the [[Old World continent]], including the [[Valley of Ruins]] and the many northern [[Colonies of the Questing Houses|colonies]] of the [[Questing Houses]]. And to the west is the [[Sink]], into which the [[Sea Elves]] descended on their [[quest]]. The Gold Coast is rife with threats from the  the roving frenzies of the [[Akụm|Akụm marauders]] to the [[goblin clans]] to [[Gljiva, the Conquering Fungus]].
 
 ### Great Delta
 

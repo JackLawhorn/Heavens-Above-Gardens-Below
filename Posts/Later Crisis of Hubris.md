@@ -46,6 +46,8 @@ With the losses of the [[Red Death period]], the influence of the [[human clans]
 
 Houses of the [[Court]] became the backbone of [[Omphalos, the City of Gardens]] and integral to life there. One's place of birth, home, education, industry, and other opportunities are largely dictated by the House they are born into or move to.
 
+> For more, see [[Decline of cland culture]].
+
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"

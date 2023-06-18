@@ -20,7 +20,7 @@ The [[Disciples of the Pretender]] were the fourth of the [[Great House|Great Ho
 
 ## Quest of the Disciples
 
-After successfully debating [[Questing Charter]] before the [[House|Houses]] of the [[Court]] – and even inadvertently gaining [[Great House|Great Houseship]] as well – the [[Disciples of the Pretender]] left [[Omphalos, the City of Gardens]] on their [[Questing Charter of the Pretender|religious pilgrimage]]. They trekked north along the [[Gold Coast]] and into the [[Deep Deserts]] at the northernmost reaches of the [[Old World]] continent if not the [[Known World]] itself. There, the [[Pretender]] had gleaned in one of their [[Pretender#Scivias of the Pretender|scivias]], was a place where the [[Prime Material Sphere]] gave way to the [[Psionic Sphere]].
+After successfully debating [[Questing Charter]] before the [[House|Houses]] of the [[Court]] – and even inadvertently gaining [[Great House|Great Houseship]] as well – the [[Disciples of the Pretender]] left [[Omphalos, the City of Gardens]] on their [[Questing Charter of the Pretender|religious pilgrimage]]. They trekked north along the [[Gold Coast]] and into the [[Deep Deserts]] at the northernmost reaches of the [[Old World continent]] if not the [[Known World]] itself. There, the [[Pretender]] had gleaned in one of their [[Pretender#Scivias of the Pretender|scivias]], was a place where the [[Prime Material Sphere]] gave way to the [[Psionic Sphere]].
 
 There, according to the accounts of the members of [[Questing Charter of the Pretender#the questing party|their questing party]] who survived to return to the City, the Pretender led their Disciples into the [[Deep Deserts#mirage|mirages]], out of the Prime Material Sphere, and presumably were lost to humanity forever.
 

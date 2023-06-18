@@ -2,6 +2,7 @@
 dg-publish: true
 Posted: 05.17.2023
 tag: "#WorldWednesday"
+parent: ["[[Known World]]", "[[Old World continent]]"]
 
 previous: "[[Fall of the Pretender]]"
 next: "[[(Theme) Prophesy]]"
@@ -15,11 +16,11 @@ next: "[[(Theme) Prophesy]]"
 
 ---
 
-The Deep Deserts are an arid region at the northernmost reaches of the [[Old World]] continent and of the [[Known World]]. This place was so warped by the [[nyxfire]] of the [[Wild Magics]] in [[prehistory]] that their sands have fused into crystalline formations and that the influence of the [[Laws of Power]] themselves is limited here.
+The Deep Deserts are an arid region at the northernmost reaches of the [[Old World continent]] and of the [[Known World]]. This place was so warped by the [[nyxfire]] of the [[Wild Magics]] in [[prehistory]] that their sands have fused into crystalline formations and that the influence of the [[Laws of Power]] themselves is limited here.
 
 ## Geography
 
-The Deep Deserts are a region with a unique geography all their own. Though there exist other deserts in the [[Beastlands]] to the south of the [[Old World]] continent, this area is overwhelmingly comprised of sand and lacking areas of dirt and even scrub vegetation.
+The Deep Deserts are a region with a unique geography all their own. Though there exist other deserts in the [[Beastlands]] to the south of the [[Old World continent]], this area is overwhelmingly comprised of sand and lacking areas of dirt and even scrub vegetation.
 
 To the south lies the rest of the [[Valley of Ruins]] and the rest of the Old World continent, and to the west the desert becomes more coastal until it reaches the [[Gold Coast]] and the [[Sink]]. Like the rest of the continent, the east is still steeped in the [[Astral Wilds]] forming a natural barrier for races of the [[Orior]] and the [[noble beasts]] alike.
 

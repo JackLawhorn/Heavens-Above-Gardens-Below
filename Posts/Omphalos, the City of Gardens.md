@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 01.28.2023
 tag: '#CivilizationSaturday'
 aliases: City, City of Gardens
-parent: ['[[Known World]]']
+parent: ['[[Known World]]', "[[Old World continent]]"]
 
 previous: '[[Oremongers Guild]]'
 next: '[[Rise of the Oremongers Guild]]'
