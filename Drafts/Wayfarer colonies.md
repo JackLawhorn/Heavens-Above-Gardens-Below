@@ -16,24 +16,29 @@ next: "[[Journeys of the Wayfarer caravans]]"
 
 ---
 
-## The Wayfarers Guild
-
-> For more, see [[Wayfarers Guild]].
-
-- Remnants of cland culture
-
 ## Colonial settlements
+
+### Skyland farms
 
 - [[Skylands]]
     - Skyland farms
     - Onyx mining
     - Relationship with the elemental [[mundial aspects#wind motes|wind motes]]
+- Anchors and chains
+- Towers
 
-## Role of the Wayfarer colonies
+## Sovereignty of the colonies
 
-### Independence from the Court
+- Within the [[Court]]
+    - Single vote through the representation of the [[Wayfarers Guild]]
+- Within the [[Republic]]
+    - One vote for each colony, rivaling the [[Questing Houses]] themselves
 
-### Relationship with the Questing Houses
+## Relationship with the Questing Houses
 
-### Bastion from persecution
-
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE parent AND contains(parent, [[Wayfarer colonies]])
+SORT Posted ASC
+```
