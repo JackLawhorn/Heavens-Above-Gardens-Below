@@ -15,11 +15,11 @@ It has a number of [[#Properties and applications|valuable attributes]] and very
 
 Silver is white in color and is the most reflective metal, with high density and resistance to oxidation. It has the highest thermal conductivity of all known metals, and thus is often cold to the touch. It has a very low melting point, and was easily forged along the [[Elven March]] by the early [[Silver Wolves]] of the [[Heliotropic Age]].
 
-Even among the other [[docetic materials]], silver has particularly high transfer rate of [[albedo]]. This makes it suitable for a number of practical applications including for [[#cleansing properties|cleansing]] and the [[silvered|silvering]] of arms and armor.
+Even among the other [[docetic materials]], silver has particularly high transfer rate of [[Albedo]]. This makes it suitable for a number of practical applications including for [[#cleansing properties|cleansing]] and the [[silvered|silvering]] of arms and armor.
 
 ### Cleansing properties
 
-The high [[albedo]] of silver makes it an effective tool in healing and cleansing. Since the [[Elven March]], silver trinkets specially crafted by the silversmiths and sages of [[Clan Wolfstepper]] have been used by humanity at large to purify water for drinking. A single [[Currencies of the City#silver|silver hasta]] is capable of cleansing a large tankard of drinking water.
+The high [[Albedo]] of silver makes it an effective tool in healing and cleansing. Since the [[Elven March]], silver trinkets specially crafted by the silversmiths and sages of [[Clan Wolfstepper]] have been used by humanity at large to purify water for drinking. A single [[Currencies of the City#silver|silver hasta]] is capable of cleansing a large tankard of drinking water.
 
 A wide variety of healing creams and powders are also available, especially within the Clan and their surviving [[cland]] culture.
 

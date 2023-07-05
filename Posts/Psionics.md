@@ -31,7 +31,7 @@ One's psionic influence is constantly fluctuating: accumulating over time and be
 
 The scholar psions of the [[Psionics College]] have – since initially breaking off from the [[Mystic psionics]] practiced by [[Disciples of the Pretender|the Pretender and their Disciples]] – argued that it is incorrect to understand psionics as a [[Magics in the Known World|field of magic]]. It more closely resembled, they pointed out, a field of [[the objective|objective scientific study]].
 
-Their primary argument was that psionic abilities draw from the [[Psionic Sphere]] rather than from [[albedo]] and [[Ylem]]. The Spheres outlined in the commonly accepted [[Standard Elven Cosmology]] model are not [[Aspect|Aspects]], rather concrete forces and laws of nature. To observe the Psionic Sphere may be no more than an additional sense just as the mundane senses observe the [[Prime Material Sphere]]. And all sentient beings manipulate the Psionic Sphere – which is nothing more than perceived reality – so psionic manipulation may not be truly [[extramundane]] either.
+Their primary argument was that psionic abilities draw from the [[Psionic Sphere]] rather than from [[Albedo]] and [[Ylem]]. The Spheres outlined in the commonly accepted [[Standard Elven Cosmology]] model are not [[Aspect|Aspects]], rather concrete forces and laws of nature. To observe the Psionic Sphere may be no more than an additional sense just as the mundane senses observe the [[Prime Material Sphere]]. And all sentient beings manipulate the Psionic Sphere – which is nothing more than perceived reality – so psionic manipulation may not be truly [[extramundane]] either.
 
 ### Training in psionics
 

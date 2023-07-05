@@ -26,7 +26,7 @@ The scholars of [[Later Heliotropic Age]] humanity and their [[Materialists Coll
 
 ### Source
 
-A mage's source is the well of power from which [[albedo]] is pulled, and can be either internal or external. For those peoples with [[organic magics]], one's own [[aura]] functions as the source. Others, who instead use [[pact magics]] instead draw albedo from their pact-bound. Others still use artifacts like [[Materialist magics|materialist]] trinkets, including [[docetic materials]], and draw from the albedo imbued within them.
+A mage's source is the well of power from which [[Albedo]] is pulled, and can be either internal or external. For those peoples with [[organic magics]], one's own [[aura]] functions as the source. Others, who instead use [[pact magics]] instead draw albedo from their pact-bound. Others still use artifacts like [[Materialist magics|materialist]] trinkets, including [[docetic materials]], and draw from the albedo imbued within them.
 
 ### Channel
 

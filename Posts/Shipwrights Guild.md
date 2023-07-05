@@ -22,7 +22,7 @@ next: "[[Barony of Stilts]]"
 
 ### The Heliotropic Age
 
-The ancestors of what is now the Shipwrights Guild can be traced back to those who formed [[mutualist pacts]] with the horses and stags along the [[Elven March]], and the first [[cland]] engineers who developed simple land vehicles such as carts and wagons that could be pulled by such creatures. Their cland inventors would go on to refine these designs after the founding of[[ Omphalos, the City of Gardens]] in the [[Later Heliotropic Age]] as humankind settled in one place for the first time. Working with the smiths of the [[Oremongers Guild]] and the mounted [[human clans|clans]] and [[House|Houses]] such as the [[Agisters Guild]] and their [[Agisters Guild#stag knights|stag knights]], they invented chariots, coaches, and other land vehicles.
+The ancestors of what is now the Shipwrights Guild can be traced back to those who formed [[Mutualist pacts]] with the horses and stags along the [[Elven March]], and the first [[cland]] engineers who developed simple land vehicles such as carts and wagons that could be pulled by such creatures. Their cland inventors would go on to refine these designs after the founding of[[ Omphalos, the City of Gardens]] in the [[Later Heliotropic Age]] as humankind settled in one place for the first time. Working with the smiths of the [[Oremongers Guild]] and the mounted [[human clans|clans]] and [[House|Houses]] such as the [[Agisters Guild]] and their [[Agisters Guild#stag knights|stag knights]], they invented chariots, coaches, and other land vehicles.
 
 ### The Crisis of Hubris
 

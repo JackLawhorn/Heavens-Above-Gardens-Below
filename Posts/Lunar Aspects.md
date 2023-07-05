@@ -45,7 +45,7 @@ Sitting in the [[Nyx]] itself, far above the surface of the [[Known World]], the
 
 ### Lunar phases
 
-The degree of visibility of the Lunar Aspects and their [[albedo]] – categorized into four lunar phases – have significant influence over their influence within the Prime Material Sphere as well as the strength of their [[Iconic pacts]]. Full moons are wholly visible and at the peak of their power and influence. Crescent moons are mostly [[benighted]], while [[hasta moons]] – after which the Elven spearheads are designed and the Old Elven word for spear is named – are only partially benighted.
+The degree of visibility of the Lunar Aspects and their [[Albedo]] – categorized into four lunar phases – have significant influence over their influence within the Prime Material Sphere as well as the strength of their [[Iconic pacts]]. Full moons are wholly visible and at the peak of their power and influence. Crescent moons are mostly [[benighted]], while [[hasta moons]] – after which the Elven spearheads are designed and the Old Elven word for spear is named – are only partially benighted.
 
 On [[moonless nights]], the lunar forms are wholly benighted. As they are as the eyes of the Lunar Aspects – through which they keep watch over the [[Known World]] – they are effectively blind. Moonless nights can and have been instigated by the Lunar Aspects themselves, purposefully blinding themselves to the goings on of the Known World.
 

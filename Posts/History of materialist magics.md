@@ -40,7 +40,7 @@ These experiments were largely failures, despite significant financing by the [[
 
 With the mass casualties of the [[Red Death period]], the [[Materialists College]] saw the rise of a new class of [[Scholars of the City#Objectivists|objectivist scholars]]: the anatomists. Desperate to find some asset among the corpses of the [[Red Court]] and their human victims alike, they studied the internal and external anatomy of the [[Omphalos, the City of Gardens|City]]'s many corpses.
 
-The discoveries of the anatomists held massive benefits in the fields of medicine and of course [[materialist magics]] as the scholars had hoped. They believed themselves to have found the physical, biological mechanisms through which one's [[albedo]] and [[aura]] function. Unfortunately, no mortal weakness of the Red Court was ever discovered.
+The discoveries of the anatomists held massive benefits in the fields of medicine and of course [[materialist magics]] as the scholars had hoped. They believed themselves to have found the physical, biological mechanisms through which one's [[Albedo]] and [[aura]] function. Unfortunately, no mortal weakness of the Red Court was ever discovered.
 
 ### The Later Crisis of Hubris
 

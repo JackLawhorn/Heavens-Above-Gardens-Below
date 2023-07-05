@@ -29,7 +29,7 @@ The scholars and paladins of the Iconic Houses have defined three primary factor
 
 #### Type
 
-The type of pact is dependent on the relative magics of the pact-bound parties, and dictate the direction in which [[albedo]] flows from one to the other. Below are three types of pacts that are defined, documented, and recognized.
+The type of pact is dependent on the relative magics of the pact-bound parties, and dictate the direction in which [[Albedo]] flows from one to the other. Below are three types of pacts that are defined, documented, and recognized.
 
 [[Iconic pacts]] are formed between an iconic mage and a patron [[Aspect|Aspect of Ylem]]. These pacts are generally machinations by which the Aspect asserts influence within the [[Prime Material Sphere]], and can grant powerful, primal magics significantly more powerful than those of the other pacts.
 
@@ -39,7 +39,7 @@ The type of pact is dependent on the relative magics of the pact-bound parties, 
 
 #### Terms
 
-The terms are defined before the pact itself is formed. These terms generally define specifics on the flow of [[albedo]] and magics between the [[aura|auras]] of the [[Pact magics|pact-bound]], as well as terms by which the pact may be altered or [[#Breaking a pact|broken]]. Terms of iconic pacts generally include acts of worship that must be carried out by the pact-bound in the name of their patron.
+The terms are defined before the pact itself is formed. These terms generally define specifics on the flow of [[Albedo]] and magics between the [[aura|auras]] of the [[Pact magics|pact-bound]], as well as terms by which the pact may be altered or [[#Breaking a pact|broken]]. Terms of iconic pacts generally include acts of worship that must be carried out by the pact-bound in the name of their patron.
 
 In the case of an iconic or [[Hexecraft pacts|hexecraft pact]], the terms are defined by the patron, although it is still within the ability of the less powerful pact-bound party not to give consent and enter into the pact.
 
@@ -57,7 +57,7 @@ In the case of [[iconic pacts]] entered into with a patron Aspect, the simple re
 
 #### Warlock, the Pact Breakers
 
-Those who have broken pacts are known by an [[Elven tongue|Old Elven]] word, "warlock", and are often permanently scarred by the act. The breaking of a pact, especially without carefully following any agreed-upon terms to do so, severs the tie formed within the [[Astral Sphere]] and [[benighted|benights]] the warlock's [[aura]] there. Depending on the type and terms of the pact itself, this scar may extend beyond the warlock's [[albedo]] and to their mind and form as well.
+Those who have broken pacts are known by an [[Elven tongue|Old Elven]] word, "warlock", and are often permanently scarred by the act. The breaking of a pact, especially without carefully following any agreed-upon terms to do so, severs the tie formed within the [[Astral Sphere]] and [[benighted|benights]] the warlock's [[aura]] there. Depending on the type and terms of the pact itself, this scar may extend beyond the warlock's [[Albedo]] and to their mind and form as well.
 
 Warlock may find it difficult to form the same type of pact, to form any pact at all, or even to wield other types of magics entirely due to the damage caused to their aura.
 

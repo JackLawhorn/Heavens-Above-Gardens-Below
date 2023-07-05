@@ -22,7 +22,7 @@ Most infamous for its prevalence in [[Omphalos, the City of Gardens]] throughout
 
 The plague called the Red Death is in reality a collection of symptoms imparted by the [[Hexecraft pacts|hex]] of the [[Red Court]], which spreads like a particularly aggressive biological infection. Although symptoms and spread varies greatly between the races of the [[Orior]] and [[noble beasts]], it is possible through a wide range of methods, including through the air as small droplets, contact with faeces and then with the mouth, contact with the skin or mucus membranes, and blood and all other body fluids.
 
-At the point of infection, the hex begins to take over the host's [[aura]] – a well of [[albedo]] that surrounds all living things and connects them to [[Ylem]] through the [[Astral Sphere]] – which is parasitically drained and used against them. [[Extramundane]] in origin and nature, natural defense systems are unable to resist the infection and in some cases are even made to turn against the body. An aggressive internal transformation begins that renders every cell malleable. Spreading like a cancer, the hexed cells tear apart existing organs and build new, parasitic ones.
+At the point of infection, the hex begins to take over the host's [[aura]] – a well of [[Albedo]] that surrounds all living things and connects them to [[Ylem]] through the [[Astral Sphere]] – which is parasitically drained and used against them. [[Extramundane]] in origin and nature, natural defense systems are unable to resist the infection and in some cases are even made to turn against the body. An aggressive internal transformation begins that renders every cell malleable. Spreading like a cancer, the hexed cells tear apart existing organs and build new, parasitic ones.
 
 > For more on the historic spread of the Red Death throughout the [[Red Death period]], see [[Spread of the Red Death]].
 
@@ -32,7 +32,7 @@ Initial symptoms appear within 2-7 days of infection, beginning with hemorrhages
 
 The next phase is characterized by a cough and extreme fatigue. The infected report gastrointestinal problems and develop black dots called lenticulae that are scattered throughout the body. In many cases, they also see gangrene of the extremities such as toes, fingers, lips, and the tip of the nose.
 
-Finally, the infected experience organ failure, the continuous vomiting of blood, and extreme pain which is caused by the decay and decomposition of the skin. At this point, they become delirious. Ultimately, they experience something that presents as death but is in fact the transition to a [[Near-life]] state. Once the body has been conquered by the [[Hexecraft pacts|hex]], the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[albedo]].
+Finally, the infected experience organ failure, the continuous vomiting of blood, and extreme pain which is caused by the decay and decomposition of the skin. At this point, they become delirious. Ultimately, they experience something that presents as death but is in fact the transition to a [[Near-life]] state. Once the body has been conquered by the [[Hexecraft pacts|hex]], the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[Albedo]].
 
 > For more, see [[Soldiers of the Red Court]].
 

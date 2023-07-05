@@ -37,7 +37,7 @@ I feel like in some pantheistic religions the given reason is pride and greed an
 
 This may be leaning into the mechanics of divinity a little too far for this particular theme, but I have always loved settings where all real-world mythologies are presented as true and warring or even overlapping. Even when not explicitly stated this is a more solipsistic approach, where the gods themselves can be boiled down to the concept of tulpas or thoughtforms. In this sort of a system, divinity is almost a two-way relationship, a symbiotic relationship. Yes, the gods have power beyond anything the mortals could even understand but they themselves only exist because belief in them exists. This is a really interesting idea and ties into some themes I'm planning to explore in the final chapters, the last ages of this setting.
 
-So yes, the point of worship is that both parties benefit. This makes sense as a flow of [[albedo]] between the two within the [[Astral Sphere]]. And during and throughout this flow, benefits are bestowed on both, either great or small.
+So yes, the point of worship is that both parties benefit. This makes sense as a flow of [[Albedo]] between the two within the [[Astral Sphere]]. And during and throughout this flow, benefits are bestowed on both, either great or small.
 
 ---
 

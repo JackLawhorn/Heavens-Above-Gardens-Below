@@ -16,13 +16,13 @@ next: "[[Torrente]]"
 
 ---
 
-Once the body has been conquered by the [[Hexecraft pacts|hex]] of the [[Red Death]] and the infected have regressed to a [[Near-life]] state, the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[albedo]].
+Once the body has been conquered by the [[Hexecraft pacts|hex]] of the [[Red Death]] and the infected have regressed to a [[Near-life]] state, the influence of the [[Red Court]] begins to inflict a number of more sizable transformations fueled by the drained [[Albedo]].
 
 The Red Court's complete domination over every cell in the body affords the infected a form of autotomic regeneration. Severed limbs do not regenerate, but are able to continue operating as autonomous creatures themselves. Nearly any organ in the body is able to grow new feeding *aparata* and resume feeding.
 
 ## The Hunger
 
-The [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] possess an ever-present and all-consuming hunger for [[albedo]]. Weeks of isolated sickness starve the newly infected, sapping them of their hope along with their strength. The hunger first appears at this low point, and they shamble out of their plague dens looking for uninfected victims.
+The [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] possess an ever-present and all-consuming hunger for [[Albedo]]. Weeks of isolated sickness starve the newly infected, sapping them of their hope along with their strength. The hunger first appears at this low point, and they shamble out of their plague dens looking for uninfected victims.
 
 It is believed that extended periods without sustenance can worsen and speed up the bodily transformations. Like simple beasts, they will grow desperate and frenzied if the hunger isn't satisfied.
 
@@ -30,7 +30,7 @@ It is believed that extended periods without sustenance can worsen and speed up 
 
 The soldiers of the [[Red Court]] share a number of vulnerabilities that are common across the [[Umbral Aspects]] and their accursed allies. Fire and light are much-diluted forms of the divinity of [[Ylem]] and as such are deadly weapons against these foes. While only warded off and disoriented by indirect light, direct contact with flames or with the light of Ylem – such as that of the [[Elven Signaltower]] – will make them violently combust and kill all of the infected organic matter.
 
-[[Docetic materials#Silver|Silver]], a [[Docetic materials|docetic material]] with extremely high [[albedo]], is also extremely effective for the same reason. It's presence has much the same effect as indirect light and can ward away the soldiers of the Red Court, but direct contact with silver works to deactivate some of their [[extramundane]] properties. Pure silver and [[silvered]] blades can slice clean through an [[#Apex Vectors|Apex Vector]] without allowing it to regenerate.
+[[Docetic materials#Silver|Silver]], a [[Docetic materials|docetic material]] with extremely high [[Albedo]], is also extremely effective for the same reason. It's presence has much the same effect as indirect light and can ward away the soldiers of the Red Court, but direct contact with silver works to deactivate some of their [[extramundane]] properties. Pure silver and [[silvered]] blades can slice clean through an [[#Apex Vectors|Apex Vector]] without allowing it to regenerate.
 
 Unlike the other Umbral Aspects, the soldiers of the Red Court also displayed some sort of fear of or aversion to water – specifically running water like that of the river [[Torrente]] and the sea water of the [[Sink]]. This was thought by the scholars of the [[Materialists College]] to be a physiological factor imposed by the [[Red Death]].
 

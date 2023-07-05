@@ -44,7 +44,7 @@ And the voices. The mouths emit a chorus of guttural noise, like the thing that 
 
 The cleric moves as if to approach the enemy, but is stopped by a hand on her shoulder. The Berserker. He approaches slowly and quietly, a silver sword in one hand and a short blade in the other. The Shambling Mound will not enter into the light, nor is it quick enough to escape a child of the [[Wolf Mother]]. It happens impossibly fast. The Berserker pounces, shifting to the form of a wolf in mid-air. When he shifts back to human form, his [[Docetic materials#silver|silver]] blades have sliced the enemy in twain.
 
-Perhaps their greatest weakness – even here in the shadows where the light of Ylem cannot reach them – the silver melts through accursed and half-rotted flesh without resistance. A scholar of the Materialists College, it is hard not to admire the phenomenon at work: the [[albedo]] of the [[Docetic materials|docetic material]] is almost like hard light itself. The substantial chunks of the now-dead thing burst into quick flashes of flames before the hungry shadows move back in to envelope it.
+Perhaps their greatest weakness – even here in the shadows where the light of Ylem cannot reach them – the silver melts through accursed and half-rotted flesh without resistance. A scholar of the Materialists College, it is hard not to admire the phenomenon at work: the [[Albedo]] of the [[Docetic materials|docetic material]] is almost like hard light itself. The substantial chunks of the now-dead thing burst into quick flashes of flames before the hungry shadows move back in to envelope it.
 
 But the Berserker does not step back into the light of the torch. The scholar already knows what will happen next, but it is too late.
 
