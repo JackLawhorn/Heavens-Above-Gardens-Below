@@ -46,6 +46,6 @@ Exiled from [[Omphalos, the City of Gardens]], the [[Remnants of the Fallen Hous
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Wayfarer colonies]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

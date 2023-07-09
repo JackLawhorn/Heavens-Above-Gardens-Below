@@ -33,6 +33,6 @@ These stiltwalkers would go on to found the [[Barony of Stilts]] in [[Omphalos, 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Fisher Barons]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

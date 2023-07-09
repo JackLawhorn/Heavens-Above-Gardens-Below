@@ -28,6 +28,6 @@ What was meant to be a golden age for humanity is now remembered as the darkest 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Crisis of Hubris]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

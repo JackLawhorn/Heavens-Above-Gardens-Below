@@ -51,6 +51,6 @@ Houses of the [[Court]] became the backbone of [[Omphalos, the City of Gardens]]
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Later Crisis of Hubris]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

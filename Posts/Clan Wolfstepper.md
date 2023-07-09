@@ -57,6 +57,6 @@ As of the [[Early Renascence period]], the vast majority of Clan Wolfstepper's p
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Clan Wolfstepper]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

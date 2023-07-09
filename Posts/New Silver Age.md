@@ -63,6 +63,6 @@ The members of the New Silver Age are, of course, exiled from [[Omphalos, the Ci
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[New Silver Age]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -23,7 +23,7 @@ The rota is not a full circle because the Signaltower was built on the [[Sun Coa
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[City infrastructure and layout]])
-SORT file.name ASC
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

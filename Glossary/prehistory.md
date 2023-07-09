@@ -10,6 +10,7 @@ The time before the [[Nyxfall of the Elven Legion]].
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Prehistory]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

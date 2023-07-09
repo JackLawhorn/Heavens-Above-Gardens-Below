@@ -40,6 +40,6 @@ Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves al
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Sun Elves]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

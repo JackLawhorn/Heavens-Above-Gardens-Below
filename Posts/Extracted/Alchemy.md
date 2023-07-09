@@ -10,6 +10,7 @@ An early attempt at controlling magics by humanity, and a direct predecessor to 
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[Alchemy]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

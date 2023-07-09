@@ -60,6 +60,6 @@ The [[Orator]] of the [[House of the Sun]] – now the sole Great House of the [
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Fall of the Silver Wolves]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -29,6 +29,6 @@ Mutualist [[pacts]] are formed between two living beings of relatively equal [[A
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Mutualist pacts]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

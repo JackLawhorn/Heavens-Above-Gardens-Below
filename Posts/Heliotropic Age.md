@@ -24,6 +24,6 @@ next: '[[Lunar Aspects|The Lunar Aspects]]'
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Heliotropic Age]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -52,6 +52,6 @@ Traversal of the Dwaal remains relatively rare in the [[Post-Enlightenment Era]]
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Mystic psionics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

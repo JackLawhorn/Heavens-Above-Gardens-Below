@@ -8,6 +8,7 @@ dg-publish: true
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[Docetic]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

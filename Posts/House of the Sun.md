@@ -75,6 +75,6 @@ The [[#Daywatch]] who during the [[Long Daylight]] had cultivated the closest re
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[House of the Sun]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

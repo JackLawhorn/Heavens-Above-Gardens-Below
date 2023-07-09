@@ -57,6 +57,6 @@ From House Lightbringer came humanity's first paladins, a warrior class who wand
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[House Lightbringer]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

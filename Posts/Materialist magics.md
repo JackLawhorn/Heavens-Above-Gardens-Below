@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 02.13.2023
 tag: '#MagicSystemMonday'
 aliases: materialist, materialists
-parent: ['[[Magics in the Known World]]', "[[Materialists College]]"]
+parent: ["[[Categorization of magics]]", "[[Materialists College]]", "[[History of materialist magics]]"
 
 previous: '[[The Elf who fell from the sky]]'
 next: '[[History of Materialist magics]]'
@@ -17,7 +17,7 @@ next: '[[History of Materialist magics]]'
 
 ---
 
-Materialist magics are born of lingering traces of other categories of magic, most commonly [[organic magics]] still present in the organic matter of the remains of those who possess them. The scholars of the [[Materialists College]] identified a process by which the flow of one's [[aura]] alters this matter, physically etching magics into the flesh and bones and blood itself.
+Materialist magics are born of lingering traces of other categories of magic, most commonly [[organic magics]] still present in the organic matter of the remains of those who possess them. The scholars of the [[Materialists College]] identified a process by which the flow of one's [[Albedo]] through the [[Albedo#aura|aura]] alters this matter, physically etching magics into the flesh and bones and blood itself.
 
 Materialist magics generally reflect the organic magics that produced them, albeit significantly less potent. It's common to see the materialist mages of [[Omphalos, the City of Gardens]] equipped with cloaks, rings, and any number of other trinkets that offer particularly practical [[extramundane]] properties.
 
@@ -30,6 +30,6 @@ Feathers, hides, and scales taken from the remains of [[Noble beasts]] are commo
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Materialist magics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

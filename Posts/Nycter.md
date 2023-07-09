@@ -73,6 +73,6 @@ Carrying the [[Red Death]] over generations has led to a number of mutations whi
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Nycter]])
-SORT Posted ASC 
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

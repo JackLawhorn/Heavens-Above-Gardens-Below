@@ -86,6 +86,6 @@ They patrolled the streets of [[Omphalos, the City of Gardens]] equipped with fi
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Apotropaics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

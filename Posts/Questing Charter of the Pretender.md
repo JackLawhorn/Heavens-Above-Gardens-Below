@@ -49,6 +49,6 @@ With the naming came the resources necessary for their [[quest]], as well as an 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Questing Charter of the Pretender]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

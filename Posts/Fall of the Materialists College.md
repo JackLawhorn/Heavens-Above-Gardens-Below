@@ -68,6 +68,6 @@ The flight of the [[Necromancer demons]] of the [[Materialists College]] happene
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Fall of the Materialists College]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

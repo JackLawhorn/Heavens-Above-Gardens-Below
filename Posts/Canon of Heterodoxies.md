@@ -39,8 +39,8 @@ For a cult, entering the religious canon means gaining both Houseship and a modi
 - **Inspiration.** What has worship of this Aspect wrought? How have its worshippers, those who have entered into iconic pacts with it, and the wider population of the City benefitted? A common tactic to ensure that this criterium is met is the funding and production of a [[Great Works|Great Work]] to adorn one of the many walls or gardens of Omphalos, the City of Gardens. Another is to seek a [[Questing Charter]] in honor of this patron.
 
 ## See also
-
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[Canon of Heterodoxies]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

@@ -34,5 +34,6 @@ After this back and forth, the [[Orator|Orators]] deliberate and come to a decis
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Questing Charter]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

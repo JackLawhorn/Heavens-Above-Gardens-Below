@@ -9,6 +9,7 @@ A college of the [[Omphalos, the City of Gardens|City]]'s [[Scholars Quarter]] w
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[College]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

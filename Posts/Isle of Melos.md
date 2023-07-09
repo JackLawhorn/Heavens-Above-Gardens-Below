@@ -56,6 +56,6 @@ Though still under strict [[Fall of the Materialists College#Exile and flight of
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Isle of Melos]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

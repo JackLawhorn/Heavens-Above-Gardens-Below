@@ -63,6 +63,6 @@ The oldest and most powerful of the Minor Aspects are the [[Giants]]. In the ear
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Mundial Aspects]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

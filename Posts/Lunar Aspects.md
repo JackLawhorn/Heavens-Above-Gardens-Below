@@ -70,6 +70,6 @@ The most infamous example of this is the [[Luminary]] – [[Luminary#Prophesy o
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Lunar Aspects]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

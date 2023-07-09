@@ -42,6 +42,6 @@ And art is unavoidable out in the City as well. [[Monuments]] populate the squar
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Mouseion]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

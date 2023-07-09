@@ -60,6 +60,6 @@ From their ranks came the [[Messengers Guild]] and the [[Fisher Barons]] and the
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Human clans]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

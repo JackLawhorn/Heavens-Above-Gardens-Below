@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 01.02.2023
 tag: '#MagicSystemMonday'
-parent: ['[[Magics in the Known World]]']
+parent: ['[[Categorization of magics]]']
 
 previous: '[[Nyxfall of the Elven Legion]]'
 next: '[[Elven March]]'
@@ -23,6 +23,6 @@ Organic magics are closely related to [[Materialist magics]], which are its natu
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[organic magics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -8,6 +8,7 @@ The primary setting of "Heavens Above; Gardens Below". The Known World, is never
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Known World]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

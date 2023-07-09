@@ -50,6 +50,6 @@ Ultimately, this religious pilgrimage proved a [[Quest into Oblivion]], and led 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Disciples of the Pretender]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

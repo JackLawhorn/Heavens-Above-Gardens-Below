@@ -44,6 +44,6 @@ After the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]], the reser
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Silver]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

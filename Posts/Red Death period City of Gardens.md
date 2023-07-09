@@ -57,6 +57,6 @@ The [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] avoided and were
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Red Death period City of Gardens]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

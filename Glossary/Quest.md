@@ -15,7 +15,7 @@ The products of such quests are visible everywhere in the City, and in fact her 
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[Quest]])
-SORT file.name ASC
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

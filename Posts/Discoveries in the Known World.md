@@ -63,6 +63,6 @@ These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]]
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Discoveries in the Known World]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

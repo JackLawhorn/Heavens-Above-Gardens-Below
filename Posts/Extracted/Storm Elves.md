@@ -40,6 +40,7 @@ Their eyes are range from stormy gray to metallic silver to a striking blue. To 
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Storm Elves]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

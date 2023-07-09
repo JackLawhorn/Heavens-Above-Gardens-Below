@@ -64,6 +64,6 @@ Rookish Cloaks used their [[extramundane]] climbing abilities and the urban envi
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Rookish clans]])
-SORT file.name ASC
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

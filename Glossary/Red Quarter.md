@@ -10,6 +10,6 @@ The "Red Quarter" refers to the portion of [[Omphalos, the City of Gardens]] tha
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Red Quarter]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

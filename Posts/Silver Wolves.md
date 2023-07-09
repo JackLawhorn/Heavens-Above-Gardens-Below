@@ -39,6 +39,7 @@ Closely tied with raw silver as the [[docetic]] form of their patron, the [[Luna
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Silver Wolves]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

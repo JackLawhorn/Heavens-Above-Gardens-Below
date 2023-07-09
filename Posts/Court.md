@@ -29,6 +29,6 @@ The Orator(s) select a House or other entity to be [[Hand of the Court]] on a ca
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Court]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

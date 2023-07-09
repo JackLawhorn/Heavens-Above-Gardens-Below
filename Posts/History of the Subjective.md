@@ -52,7 +52,7 @@ Humanity would then veer to Subjectivism: a movement born out of [[#Second Wave 
 
 The Subjectivists would develop the first actively political works, seeking to communicate and persuade political ideals. The First Vergonic Church's philosophies on life, politics, the [[Omphalos, the City of Gardens|City]], and her [[Social Spheres Theory|Spheres]] would go on to have profound impact on any number of matters of the [[Court]], especially as many of its members held voting power as [[Lord Representative|Lord Representatives]] or their cabinet members. [[House|Houses]] of the Court saw their power wax and wane by the hand of the Church. The [[Disciples of the Pretender]], [[House of the Sun]], the [[College|colleges]] and their [[Scholars of the City|scholars]], and the [[Iconic House|Iconic Houses]] of the [[Canon of Heterodoxies]] were just some with which the Church had a contentious relationship.
 
-Subjectivism would also introduce increasingly abstract artworks. Humanity's portraits, landscapes, and cityscapes grew more and more surreal and stylized. Later Vergonic work would intersect with [[#Psychedelia]] before the eventual [[Vergonic War|dissolution of the Church]].
+Subjectivism would also introduce increasingly abstract artworks. Humanity's portraits, landscapes, and cityscapes grew more and more surreal and stylized. Later Vergonic work would intersect with [[#psychedelia]] before the eventual [[Vergonic War|dissolution of the Church]].
 
 ## Renascence Objectivism
 
@@ -63,6 +63,6 @@ This purpose also necessitated a dramatic turn towards realism in visual art. Th
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[History of the Subjective]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -79,5 +79,6 @@ Most prominent of its [[extramundane]] properties is its ability to create illus
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Nyxblight Tree]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

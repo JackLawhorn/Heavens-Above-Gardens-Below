@@ -20,7 +20,6 @@ Iconic [[Pact magics|pacts]] are formed with powerful entities, called patron [[
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Iconic pacts]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```
-

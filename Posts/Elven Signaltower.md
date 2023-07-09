@@ -56,6 +56,6 @@ The light of [[Ylem]] promotes verdancy and growth, more concentrated closer to 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Elven Signaltower]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

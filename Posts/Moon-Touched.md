@@ -29,6 +29,6 @@ Though as children of the [[Lunar Aspects]] they are divine phenomena in their o
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Moon-Touched]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

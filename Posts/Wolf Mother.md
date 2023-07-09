@@ -37,6 +37,6 @@ This fight had weakened her influence within the [[Prime Material Sphere]] like 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Wolf Mother]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

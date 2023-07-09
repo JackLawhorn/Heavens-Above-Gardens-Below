@@ -63,6 +63,6 @@ Many Houseless warriors encircle the drain of the Mercenary Corps, including for
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Jurisweard]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

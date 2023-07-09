@@ -16,11 +16,11 @@ next: '[[First Golden Age]]'
 
 ---
 
-Combat Arts are defined styles of fighting, usually involving the use of a weapon, to be trained in and mastered. Though such mastery of a Combat Art is not truly [[extramundane]] in nature, it is a natural consequence of one's [[aura]] and the [[Albedo]] stored within it.
+Combat Arts are defined styles of fighting, usually involving the use of a weapon, to be trained in and mastered. Though such mastery of a Combat Art is not truly [[extramundane]] in nature, it is a natural consequence of one's [[Albedo#aura|aura]] and the [[Albedo]] stored within it.
 
 ## Mechanics of the Combat Arts
 
-Functionally, the development of a Combat Art involves repeated training in and eventual mastery of said fighting style until one's [[aura]] itself is transfigured. The flow of one's [[Albedo]] throughout the body is altered to also align with the movements made and weapons used, even leaving the organic form to circulate through the spear or blade as well.
+Functionally, the development of a Combat Art involves repeated training in and eventual mastery of said fighting style until one's [[Albedo#aura|aura]] itself is transfigured. The flow of one's [[Albedo]] throughout the body is altered to also align with the movements made and weapons used, even leaving the organic form to circulate through the spear or blade as well.
 
 Such alignment affords the wielder of a Combat Art near-[[extramundane]] dexterity, strength, and accuracy, pushing the limits of human ability.
 

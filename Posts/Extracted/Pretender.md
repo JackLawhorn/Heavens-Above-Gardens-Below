@@ -70,6 +70,6 @@ It is even said that the origin of [[Gljiva, the Conquering Fungus]] is tied to 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Pretender]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

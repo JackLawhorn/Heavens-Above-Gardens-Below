@@ -3,7 +3,7 @@ dg-publish: true
 parent: ["[[History of the Subjective]]", "[[Omphalos, the City of Gardens]]"]
 ---
 **Extracted from:** `= this.parent`
-# Social Sphere Theory
+# Social Spheres Theory
 
 ---
 
@@ -19,7 +19,7 @@ The Sphere of Law represented most facets of Elven society and culture outside o
 
 Human philosophers of the [[Later Heliotropic Age]] found their newly rebuilt society to revolve around the intersection of five Primary Spheres of Politics, Knowledge, Industry, Worship, and the Subjective.
 
-#### Sphere of Politics
+### Sphere of Politics
 
 The Sphere of Politics is a reflection of the [[#Social spheres of the Elven Legion|Elven Sphere of Law]] as it encompasses the hierarchy of human society and the interactions of the entities within that hierarchy, from the [[Great House|Great Houses]] to the [[Court]] down to the individual. It describes the role of politicians like the [[Orator|Orators]], the [[Lord Representative|Lord Representatives]] and their cabinets, and the many political agents of the [[Psionics College]], but also laws – written or unwritten – of humanity and their [[Omphalos, the City of Gardens|City]] and the justice that enforces them.
 

@@ -12,5 +12,6 @@ Prominent examples include the [[Cult of Pythos#Divine Geometries|Divine Geometr
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Great Works]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

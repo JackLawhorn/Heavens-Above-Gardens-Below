@@ -43,6 +43,6 @@ By the end of this period and into the [[Red Death period]], this predilection t
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Early Crisis of Hubris]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

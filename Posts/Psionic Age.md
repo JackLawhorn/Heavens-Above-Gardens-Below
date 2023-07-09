@@ -42,6 +42,6 @@ Throughout the Psionic Age, the field of psionics itself expanded greatly and th
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Psionic Age]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

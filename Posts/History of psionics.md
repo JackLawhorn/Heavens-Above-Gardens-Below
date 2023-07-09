@@ -69,6 +69,6 @@ Elsewhere in the [[Known World]], its greatest psionic threat is rearing its hea
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[History of Psionics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

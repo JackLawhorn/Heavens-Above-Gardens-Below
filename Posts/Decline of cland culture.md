@@ -41,6 +41,6 @@ Those who fled that persecution constellated under the banner of the [[Wayfarers
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Decline of cland culture]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

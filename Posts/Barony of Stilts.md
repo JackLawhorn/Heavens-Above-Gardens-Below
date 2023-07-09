@@ -54,6 +54,6 @@ The headquarters of the [[Shipwrights Guild]], this quarter is where humanity's 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Barony of Stilts]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

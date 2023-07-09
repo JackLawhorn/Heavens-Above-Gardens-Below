@@ -34,6 +34,6 @@ Throughout the [[Renascence]], the [[House of the Sun]] has stood uncontested as
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[History of the House of the Sun]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

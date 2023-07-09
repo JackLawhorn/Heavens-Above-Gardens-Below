@@ -59,6 +59,6 @@ Throughout the [[Renascence]], they have played key roles in both the [[Vergonic
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Argent Ghetto]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

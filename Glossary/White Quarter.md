@@ -10,6 +10,6 @@ The "White Quarter" refers to the portion of the [[Old City]] that were not raze
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[White Quarter]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

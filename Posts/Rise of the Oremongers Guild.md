@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 01.29.2023
 tag: '#SceneSunday'
-parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Oremongers Guild]]']
+parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Oremongers Guild]]', "[[polar onyx deposit]]"]
 
 previous: '[[Omphalos, the City of Gardens]]'
 next: '[[Iconic pact of the Oremongers Guild]]'

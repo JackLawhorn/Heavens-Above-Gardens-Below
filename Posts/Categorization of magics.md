@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 05.15.2023
 tag: "#MagicSystemMonday"
-parent: ["[[Magics in the Known World]]"]
+parent: ["[[Magics in the Known World]]", "[[Albedo]]"]
 
 previous: "[[Scenes from the life of the Pretender IV]]"
 next: "[[Fall of the Pretender]]"
@@ -26,7 +26,7 @@ The scholars of [[Later Heliotropic Age]] humanity and their [[Materialists Coll
 
 ### Source
 
-A mage's source is the well of power from which [[Albedo]] is pulled, and can be either internal or external. For those peoples with [[organic magics]], one's own [[aura]] functions as the source. Others, who instead use [[pact magics]] instead draw albedo from their pact-bound. Others still use artifacts like [[Materialist magics|materialist]] trinkets, including [[docetic materials]], and draw from the albedo imbued within them.
+A mage's source is the well of power from which [[Albedo]] is pulled, and can be either internal or external. For those peoples with [[organic magics]], one's own [[Albedo#aura|aura]] functions as the source. Others, who instead use [[pact magics]] instead draw albedo from their pact-bound. Others still use artifacts like [[Materialist magics|materialist]] trinkets, including [[docetic materials]], and draw from the albedo imbued within them.
 
 ### Channel
 
@@ -49,3 +49,10 @@ The [[Combat Arts]] of the [[Sun Elves]] were initially thought by the [[human c
 ### Psionics
 
 With the [[Scenes from the life of the Pretender III|revelation]] of the [[Pretender]] in the [[Later Crisis of Hubris]], [[psionics]] was believed to be a field of magics in and of itself. Though the [[mystic psionics]] of the [[Disciples of the Pretender]] served to usher in the [[Psionic Age]] and ultimately gave rise to the [[Psionics College]], this understanding was found to be flawed by the [[Scholars of the City#objectivists|objectivist scholars]] of [[Omphalos, the City of Gardens]] who studied it instead as a natural science.
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
+```

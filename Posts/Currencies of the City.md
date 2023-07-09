@@ -60,6 +60,6 @@ Those of [[Clan Wolfstepper]] who do still worship the [[Iconic pact of Clan Wol
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Currencies of the City]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

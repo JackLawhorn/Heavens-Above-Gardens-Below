@@ -9,6 +9,7 @@ A [[House]] that primarily operates within the [[Social Spheres Theory#Sphere of
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Guild]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

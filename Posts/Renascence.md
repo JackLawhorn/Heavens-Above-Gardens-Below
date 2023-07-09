@@ -26,6 +26,6 @@ After the final devastating loss of the [[Crisis of Hubris]] – the [[Fall of t
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Renascence]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

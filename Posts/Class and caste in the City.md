@@ -77,6 +77,6 @@ Not necessarily at the bottom of the hierarchy of the social classes but existin
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Class and caste in the City]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

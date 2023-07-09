@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 05.01.2023
 tag: "#MagicSystemMonday"
 aliases: psionic, psionically
-parent: ["[[Magics in the Known World]]", "[[Psionic Age]]", "[[Psionic Sphere]]", "[[Psionics College]]", "[[History of Psionics]]", "[[Psions of the Known World]]", "[[Gljiva, the Conquering Fungus]]"]
+parent: ["[[Categorization of magics]]", "[[Psionic Age]]", "[[Psionic Sphere]]", "[[Psionics College]]", "[[History of Psionics]]", "[[Psions of the Known World]]", "[[Gljiva, the Conquering Fungus]]"]
 
 previous: "[[Scenes from the life of the Pretender II]]"
 next: "[[Psionic Age]]"
@@ -86,6 +86,6 @@ Captivation sits opposite silencing: a field of psionics centered around lending
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Psionics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

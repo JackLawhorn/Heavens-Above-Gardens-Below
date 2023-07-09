@@ -36,6 +36,6 @@ The divine quest of the [[Sea Elves]] was to infiltrate this dark citadel and el
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Sink]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

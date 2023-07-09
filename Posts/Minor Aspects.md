@@ -28,6 +28,6 @@ These [[Aspect|Aspects]] of [[Ylem]] – born out of the chaos of the [[Wild Mag
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Minor Aspects]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -21,13 +21,13 @@ Necromancy is a subset of [[organic magics|organic]] and [[materialist magics]] 
 
 ## Mechanics of Necromancy
 
-Necromancy leverages biological material of the races of the [[Orior]], the [[noble beasts]], and other creatures, which are uniquely designed to channel [[Albedo]] into their [[organic magics]]. Through a variety of necromantic practices, that energy – and the organic magics imbued within the raw material – can be harnessed as if part of the necromancer's own [[aura]].
+Necromancy leverages biological material of the races of the [[Orior]], the [[noble beasts]], and other creatures, which are uniquely designed to channel [[Albedo]] into their [[organic magics]]. Through a variety of necromantic practices, that energy – and the organic magics imbued within the raw material – can be harnessed as if part of the necromancer's own [[Albedo#aura|aura]].
 
 Three primary approaches to necromancy exist in the [[Known World]], and vary from practitioner to practitioner. The [[Necromancer demons]] of the [[Bouda cackles]] and the [[vulture wakes]] – fallen from their station as [[noble beasts]] – practice transumption, or the consuming of remains to absorb their powers. Bouda and human necromancers are known to preserve remains into demonic artifacts. Lastly, in the mid-[[Renascence|Renascence period]], the human necromancers of the [[Isle of Melos]] developed a particularly potent practice of [[necromantic grafts|grafting]] remains onto their own bodies.
 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Necromancy]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

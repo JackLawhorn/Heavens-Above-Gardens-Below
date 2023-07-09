@@ -33,7 +33,7 @@ The Red Court and all its siblings – the [[Umbral Aspects]] – descend from t
 
 ### Hexecraft
 
-Most prominent among the magics of the Red Court are the [[Hexecraft pacts]]. Hexes leverage the flow of [[Albedo]] from one's [[aura]] and throughout the body to inflict dramatic physical and spiritual mutilations and transformations onto their victims. The [[Umbral Aspects|Umbral Aspect]] uses these mechanisms to [[#The Red Death|spread]] the [[Red Death]], to transform its victims into [[#Apex Vectors]] and other forms of its soldiers, and to forge the connections between them and the [[#Sphere of the Red Court]].
+Most prominent among the magics of the Red Court are the [[Hexecraft pacts]]. Hexes leverage the flow of [[Albedo]] from one's [[Albedo#aura|aura]] and throughout the body to inflict dramatic physical and spiritual mutilations and transformations onto their victims. The [[Umbral Aspects|Umbral Aspect]] uses these mechanisms to [[#The Red Death|spread]] the [[Red Death]], to transform its victims into [[#Apex Vectors]] and other forms of its soldiers, and to forge the connections between them and the [[#Sphere of the Red Court]].
 
 > For more, see [[Hexecraft pacts]].
 
@@ -55,7 +55,7 @@ Moreover, the thorns of the vines themselves were purported during the [[Red Dea
 
 The [[Hexecraft pacts]] forced upon the victims of the Red Court spread like a particularly aggressive biological infection, with the exact symptoms and spread varying greatly between species. Despite their natural resistance to its symptoms, the [[Nycter]] colony that called the [[Nyxblight Tree]] home has been brought nearly to extinction by the by the [[Red Death]]. Upon their contact with the [[Quest|questing party]] of [[House Lightbringer]], this plague was transmitted to humanity for the first time and ultimately brought back to [[Omphalos, the City of Gardens]] by the ships of the [[Shipwrights Guild]]. This ushered in the [[Red Death period]].
 
-At the point of infection, the hex begins to take over the host's [[aura]], siphoning off their [[Albedo]] to the Red Court itself. As this divine energy is parasitically drained, it is used against them to warp their body from the inside out. The infected are commonly afflicted by this ever-present and compulsive hunger for albedo, an extreme sensitivity to light and flames, horrific physical transformations, and autotomic abilities up to and including the reanimation of one's lifeless corpse.
+At the point of infection, the hex begins to take over the host's [[Albedo#aura|aura]], siphoning off their [[Albedo]] to the Red Court itself. As this divine energy is parasitically drained, it is used against them to warp their body from the inside out. The infected are commonly afflicted by this ever-present and compulsive hunger for albedo, an extreme sensitivity to light and flames, horrific physical transformations, and autotomic abilities up to and including the reanimation of one's lifeless corpse.
 
 > [!INFO] More resources
 > For more on the Red Death and its connection to the Red Court, see...
@@ -84,6 +84,6 @@ For the Red King that in [[Ages of the Known World|ages]] past was known as [[Fa
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Red Court]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

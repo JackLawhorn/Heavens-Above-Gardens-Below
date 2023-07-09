@@ -73,6 +73,6 @@ The [[Pretender]] and their [[Disciples of the Pretender|Disciples]] marched int
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Psionic Sphere]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

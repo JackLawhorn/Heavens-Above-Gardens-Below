@@ -49,6 +49,6 @@ Once back within the Argent Ghetto, they invariably find their way to the [[Arge
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Silver in the City]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

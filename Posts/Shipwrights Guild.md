@@ -74,7 +74,7 @@ Their works, both on the Stilts itself and on their first fleet of seafaring ves
 
 ## See also
 ```dataview
-TABLE
-WHERE parent AND contains(parent, [[Shipwrights Guild]])
-SORT file.name ASC
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

@@ -21,6 +21,6 @@ South of [[Omphalos, the City of Gardens]] and the [[Sun Coast]] sits the [[Grea
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Lands to the south]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -26,7 +26,7 @@ Though the true nature of this experience would not be understood by outsiders f
 
 ### Wolf form
 
-Most prominent of course was their ability to take the physical form of a wolf. As they described it, their spirit, their [[aura]] is shared between two forms, but shifting between these distinct anatomies was as natural to them as as walking. This transformation is instantaneous, without any process of taking on in-between states.
+Most prominent of course was their ability to take the physical form of a wolf. As they described it, their spirit, their [[Albedo#aura|aura]] is shared between two forms, but shifting between these distinct anatomies was as natural to them as as walking. This transformation is instantaneous, without any process of taking on in-between states.
 
 This made them proficient at navigating many different environments, quickly alternating between bipedal and quadrupedal forms to move over, under, and around obstacles. The unpredictable nature of this transformation also allowed them to outmaneuver enemies in both ranged and close-quarters combat, as well as granting them access to deadly, tearing teeth and claws.
 
@@ -43,6 +43,6 @@ Most curiously, such equipment and adornments seamlessly transform to align with
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Iconic pact of Clan Wolfstepper]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

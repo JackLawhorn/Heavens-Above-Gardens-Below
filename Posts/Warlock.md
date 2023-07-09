@@ -20,13 +20,13 @@ next: "[[Early Crisis of Hubris]]"
 
 ## Mechanics of broken pacts
 
-Mechanically, the breaking of the terms of a [[Pact magics|pact]] has an impact on the flow of [[Albedo]] between your [[aura]] and that of the other [[Pact magics|pact-bound]] party that can be devastating. It has been described by survivors as a "snapping" of the spiritual veins through which the albedo flows. Just as flow of albedo can tangibly alter one's aura or even physical form – as in the case of the [[Silver Wolves]] as well as the [[Rookish clans|rooks]] and their [[Rookish clans#raptor eyes|raptor eyes]] – the sudden reversal or breaking of that flow leaves scars that persist through generations of one's bloodline.
+Mechanically, the breaking of the terms of a [[Pact magics|pact]] has an impact on the flow of [[Albedo]] between your [[Albedo#aura|aura]] and that of the other [[Pact magics|pact-bound]] party that can be devastating. It has been described by survivors as a "snapping" of the spiritual veins through which the albedo flows. Just as flow of albedo can tangibly alter one's aura or even physical form – as in the case of the [[Silver Wolves]] as well as the [[Rookish clans|rooks]] and their [[Rookish clans#raptor eyes|raptor eyes]] – the sudden reversal or breaking of that flow leaves scars that persist through generations of one's bloodline.
 
 In addition to any [[#physical effects]], warlocks are afflicted by spiritual effects that do not dilute over generations and impact bloodlines in perpetuity. Most prominent is the inability to enter into pacts going forward. So irrevocable was the [[paradoxy]] of the [[Oremongers Guild]] that no human may form a pact with the [[Mundial Aspects]] again. In most cases, however, this is limited to the responsible parties. According to the [[History of materialist magics#The Red Death period|anatomists]] of the [[Materialists College]], the continued breaking of pacts and natural mixing of bloodlines may lead to a future where the forming of pacts is impossible for the human race as a whole.
 
 ### Physical effects
 
-Warlocks are afflicted with visible and apparent scars of their sin. These scars are etched into one's [[aura]] and are passed down bloodlines, though the physical or visible deformities dilute over the course of generations.
+Warlocks are afflicted with visible and apparent scars of their sin. These scars are etched into one's [[Albedo#aura|aura]] and are passed down bloodlines, though the physical or visible deformities dilute over the course of generations.
 
 | d8 | Result |
 | - | - |

@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 02.06.2023
 tag: '#MagicSystemMonday'
 aliases: pact magic, pact, pacts, pact-bound
-parent: ['[[Magics in the Known World]]', '[[Discoveries in the Known World]]']
+parent: ['[[Categorization of magics]]', '[[Discoveries in the Known World]]']
 
 previous: '[[Naming of the Great Houses]]'
 next: '[[History of the Subjective]]'
@@ -21,7 +21,7 @@ A pact is a relationship between two parties that is itself imbued with magics. 
 
 ## Mechanics of a pact
 
-A pact, once entered into, takes form within the [[Astral Sphere]] – home of the [[Ylem]] – as a spectral connection between the [[aura|auras]] of both parties. [[Albedo]] is transferred through this connection, granting magics to one or both parties depending on the type of pact formed and the terms by which it was entered into.
+A pact, once entered into, takes form within the [[Astral Sphere]] – home of the [[Ylem]] – as a spectral connection between the [[Albedo#aura|auras]] of both parties. [[Albedo]] is transferred through this connection, granting magics to one or both parties depending on the type of pact formed and the terms by which it was entered into.
 
 ### Components of a pact
 
@@ -35,11 +35,11 @@ The type of pact is dependent on the relative magics of the pact-bound parties, 
 
 [[Mutualist pacts]] are formed between two living beings rather than an iconic mage and a patron Aspect. Typically significantly closer in relative magics, both parties benefit greatly from this relationship. Mutualist pacts are most commonly formed between the races of the [[Orior]] and a race of the [[Noble beasts]].
 
-[[Hexecraft pacts]] are formed between a witch and the [[animalcules]] within their very body – the [[monad]] to the [[legion]] of physical form – or those of other living things. Through these pacts, the witches can draw albedo from their own form and into their [[aura]]. In this process of drawing out the albedo, the witch gains a certain degree of control over the pact-bound cells and can transform them with enough skill.
+[[Hexecraft pacts]] are formed between a witch and the [[animalcules]] within their very body – the [[monad]] to the [[legion]] of physical form – or those of other living things. Through these pacts, the witches can draw albedo from their own form and into their [[Albedo#aura|aura]]. In this process of drawing out the albedo, the witch gains a certain degree of control over the pact-bound cells and can transform them with enough skill.
 
 #### Terms
 
-The terms are defined before the pact itself is formed. These terms generally define specifics on the flow of [[Albedo]] and magics between the [[aura|auras]] of the [[Pact magics|pact-bound]], as well as terms by which the pact may be altered or [[#Breaking a pact|broken]]. Terms of iconic pacts generally include acts of worship that must be carried out by the pact-bound in the name of their patron.
+The terms are defined before the pact itself is formed. These terms generally define specifics on the flow of [[Albedo]] and magics between the [[Albedo#aura|auras]] of the [[Pact magics|pact-bound]], as well as terms by which the pact may be altered or [[#Breaking a pact|broken]]. Terms of iconic pacts generally include acts of worship that must be carried out by the pact-bound in the name of their patron.
 
 In the case of an iconic or [[Hexecraft pacts|hexecraft pact]], the terms are defined by the patron, although it is still within the ability of the less powerful pact-bound party not to give consent and enter into the pact.
 
@@ -57,13 +57,13 @@ In the case of [[iconic pacts]] entered into with a patron Aspect, the simple re
 
 #### Warlock, the Pact Breakers
 
-Those who have broken pacts are known by an [[Elven tongue|Old Elven]] word, "warlock", and are often permanently scarred by the act. The breaking of a pact, especially without carefully following any agreed-upon terms to do so, severs the tie formed within the [[Astral Sphere]] and [[benighted|benights]] the warlock's [[aura]] there. Depending on the type and terms of the pact itself, this scar may extend beyond the warlock's [[Albedo]] and to their mind and form as well.
+Those who have broken pacts are known by an [[Elven tongue|Old Elven]] word, "warlock", and are often permanently scarred by the act. The breaking of a pact, especially without carefully following any agreed-upon terms to do so, severs the tie formed within the [[Astral Sphere]] and [[benighted|benights]] the warlock's [[Albedo#aura|aura]] there. Depending on the type and terms of the pact itself, this scar may extend beyond the warlock's [[Albedo]] and to their mind and form as well.
 
 Warlock may find it difficult to form the same type of pact, to form any pact at all, or even to wield other types of magics entirely due to the damage caused to their aura.
 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Pact magics]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

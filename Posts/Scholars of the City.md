@@ -45,9 +45,11 @@ The Subjectivist scholars of the [[Omphalos, the City of Gardens|City]] pursue t
 | [[Mouseion]]           | The arts, bardistry | [[Scholars Quarter]] | [[Later Heliotropic Age]]                      |
 | [[Philosophers Guild]] | Philosophy          | [[Scholars Quarter]] | [[Later Heliotropic Age]]                      |
 | [[Public Record]]      | History, law        | [[White Quarter]]    | [[Later Crisis of Hubris]], [[Reconstruction]] |
+| [[First Vergonic Church]] | Art and philosophy | [[Scholars Quarter]], [[Court]] | [[Early Renascence period]] |
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Scholars of the City]])
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

@@ -13,8 +13,8 @@ Massive deposits of the [[Docetic materials|docetic material]] known as [[Doceti
 An extremely volatile and reactive material, the [[Mundial Aspects#Earth motes|earth motes]] were adamant that humanity and its [[Oremongers Guild]] not interfere with these deposits, and doing so ultimately led to their [[Fall of the Oremongers Guild|fall]].
 
 ## See also
-- [[Docetic materials#Onyx|Docetic Materials > Onyx]]
-- [[Founding of Omphalos, the City of Gardens]]
-- [[Rise of the Oremongers Guild]]
-- [[Iconic pact of the Oremongers Guild#Onyx|Iconic pact of the Oremongers Guild > Onyx]]
-- [[Fall of the Oremongers Guild]]
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
+```

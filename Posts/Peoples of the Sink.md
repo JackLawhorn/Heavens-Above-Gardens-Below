@@ -45,6 +45,6 @@ The color of their coral armor varies greatly and can be altered at will and in 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Peoples of the Sink]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

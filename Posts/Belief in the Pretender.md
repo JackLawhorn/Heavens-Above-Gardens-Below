@@ -55,6 +55,6 @@ The remnants of those the Pretender awakened back in [[Omphalos, the City of Gar
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Belief in the Pretender]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

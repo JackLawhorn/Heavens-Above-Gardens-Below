@@ -22,7 +22,7 @@ Most infamous for its prevalence in [[Omphalos, the City of Gardens]] throughout
 
 The plague called the Red Death is in reality a collection of symptoms imparted by the [[Hexecraft pacts|hex]] of the [[Red Court]], which spreads like a particularly aggressive biological infection. Although symptoms and spread varies greatly between the races of the [[Orior]] and [[noble beasts]], it is possible through a wide range of methods, including through the air as small droplets, contact with faeces and then with the mouth, contact with the skin or mucus membranes, and blood and all other body fluids.
 
-At the point of infection, the hex begins to take over the host's [[aura]] – a well of [[Albedo]] that surrounds all living things and connects them to [[Ylem]] through the [[Astral Sphere]] – which is parasitically drained and used against them. [[Extramundane]] in origin and nature, natural defense systems are unable to resist the infection and in some cases are even made to turn against the body. An aggressive internal transformation begins that renders every cell malleable. Spreading like a cancer, the hexed cells tear apart existing organs and build new, parasitic ones.
+At the point of infection, the hex begins to take over the host's [[Albedo#aura|aura]] – a well of [[Albedo]] that surrounds all living things and connects them to [[Ylem]] through the [[Astral Sphere]] – which is parasitically drained and used against them. [[Extramundane]] in origin and nature, natural defense systems are unable to resist the infection and in some cases are even made to turn against the body. An aggressive internal transformation begins that renders every cell malleable. Spreading like a cancer, the hexed cells tear apart existing organs and build new, parasitic ones.
 
 > For more on the historic spread of the Red Death throughout the [[Red Death period]], see [[Spread of the Red Death]].
 
@@ -45,6 +45,6 @@ A number of [[Near-life]] biological samples were kept by the anatomists and bur
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Red Death]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

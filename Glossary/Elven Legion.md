@@ -10,7 +10,7 @@ The Elven Legion is made up of three "theaters": the [[Sun Elves|Sun Elves]], th
 
 ## See also
 ```dataview
-TABLE tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Elven Legion]])
-SORT file.name ASC
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
 ```

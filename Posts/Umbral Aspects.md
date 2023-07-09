@@ -48,6 +48,6 @@ The shadows become animated and manifest in a form similar to the [[Mundial Aspe
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Umbral Aspects]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```

@@ -51,6 +51,6 @@ It is no secret among the peoples of [[Omphalos, the City of Gardens]] that the 
 ## See also
 ```dataview
 TABLE Posted, tag as "Daily Tag"
-WHERE parent AND contains(parent, [[Law and justice in the City]])
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
 SORT Posted ASC
 ```
