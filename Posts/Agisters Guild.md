@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 06.23.2023
 tag: "#FactionFriday"
-parent: ["[[House]]", "[[Guild]]", "[[Mutualist House]]", "[[Gardens of the City]]", "[[Mutualist pacts]]", "[[Jurisweard]]"]
+parent: ["[[House]]", "[[Guild]]", "[[Mutualist House]]", "[[Gardens of the City]]", "[[Mutualist pacts]]", "[[Jurisweard]]", "[[Golden Hart]]"]
 
 previous: "[[(Theme) Solar utopia]]"
 next: "[[Gardens of the City]]"

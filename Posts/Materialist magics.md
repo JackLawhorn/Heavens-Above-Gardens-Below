@@ -3,7 +3,7 @@ dg-publish: true
 Posted: 02.13.2023
 tag: '#MagicSystemMonday'
 aliases: materialist, materialists
-parent: ["[[Categorization of magics]]", "[[Materialists College]]", "[[History of materialist magics]]"
+parent: ["[[Categorization of magics]]", "[[Materialists College]]", "[[History of materialist magics]]"]
 
 previous: '[[The Elf who fell from the sky]]'
 next: '[[History of Materialist magics]]'

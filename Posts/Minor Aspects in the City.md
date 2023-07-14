@@ -22,7 +22,7 @@ Their nature is as varied as their appearances. They are an everyday sight, and 
 
 ## Worshipping the Minor Aspects
 
-Built on a foundation of [[Henotheist|Henotheistic]] worship, a majority of the [[Omphalos, the City of Gardens|City]]'s population worships one or more patron [[Aspect|Aspects]] in addition to adhering to the [[House of the Sun]]'s [[state religion]]. Worship may be performed in any number of locations and in any number of ways based on the domain of the [[Minor Aspects|Minor Aspect]] and their prevalence in [[Omphalos, the City of Gardens]]. For example, the Aspects of the river [[Torrente]] or of the [[Gardens of the City|gardens]] can be readily found there and tending to those domains is a popular form of worship.
+Built on a foundation of [[Henotheist|Henotheistic]] worship, a majority of the [[Omphalos, the City of Gardens|City]]'s population worships one or more patron [[Aspect|Aspects]] in addition to adhering to the [[House of the Sun]]'s [[State religion]]. Worship may be performed in any number of locations and in any number of ways based on the domain of the [[Minor Aspects|Minor Aspect]] and their prevalence in [[Omphalos, the City of Gardens]]. For example, the Aspects of the river [[Torrente]] or of the [[Gardens of the City|gardens]] can be readily found there and tending to those domains is a popular form of worship.
 
 The ultimate form of worship is to enter into an [[Iconic pacts|iconic pact]]: a [[pact magics|formal contract]] between a person or people and a patron Aspect. Such rituals are overseen by the [[Iconic House|Iconic Houses]] and by the [[Canon of Heterodoxies]] as a governing body.
 

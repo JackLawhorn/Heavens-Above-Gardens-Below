@@ -18,7 +18,7 @@ next: "[[Reconstruction]]"
 
 The House in the Sun is the fifth [[Great House]] of the [[Court]]. Branching off from the [[Fall of House Lightbringer|since-fallen]] [[House Lightbringer]] upon their departure from [[Omphalos, the City of Gardens]] on their infamous [[Quest into Oblivion]], it was originally [[House Lightbringer's Questing Charter#The House of the Sun|founded]] to represent and extend [[House|Houseship]] to the [[#Keepers of the Elven Signaltower|keepers]] of the [[Elven Signaltower]] and its [[nyxfire]] flame.
 
-Since the [[Red Death period]], it has seen a dramatic rise in prominence and now also serve as humanity's [[#lorekeepers]] and [[#Stewards of the state religion|stewards]] of the City's [[state religion]]. As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] in the [[Later Crisis of Hubris]], the House of the Sun is sole remaining Great House of humanity.
+Since the [[Red Death period]], it has seen a dramatic rise in prominence and now also serve as humanity's [[#lorekeepers]] and [[#Stewards of the state religion|stewards]] of the City's [[State religion]]. As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] in the [[Later Crisis of Hubris]], the House of the Sun is sole remaining Great House of humanity.
 
 ## Fifth Great House of the Court
 
@@ -34,7 +34,7 @@ As of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the [[
 
 After the [[Crisis of Hubris]], with the House of the Sun serving as the sole remaining [[Great House]] of the [[Court]], the role and responsibilities of the [[Orator]] underwent significant changes. In [[Ages of the Known World|ages]] past, the Orators of each of the Great Houses held equal say in judicating matters of the Court, but now a single Orator held significantly more sway over the past, present, and future of humanity within [[Omphalos, the City of Gardens]].
 
-Their station expanded just as the House of the Sun's own station did, and the [[Office of the Orator]] was ultimately founded to support and facilitate each of these pillars of the Orator's station. Throughout the [[Later Crisis of Hubris]] and the [[Renascence]], those rising through the ranks of the House of the Sun with an eye on the station of Orator typically accentuated a focus on either the [[Public Record]], their House's [[state religion]], or various other platforms, with the political relevance of tending to the [[Elven Signaltower]] diminishing over time.
+Their station expanded just as the House of the Sun's own station did, and the [[Office of the Orator]] was ultimately founded to support and facilitate each of these pillars of the Orator's station. Throughout the [[Later Crisis of Hubris]] and the [[Renascence]], those rising through the ranks of the House of the Sun with an eye on the station of Orator typically accentuated a focus on either the [[Public Record]], their House's [[State religion]], or various other platforms, with the political relevance of tending to the [[Elven Signaltower]] diminishing over time.
 
 > For more on the history of the House of the Sun's Orators throughout the Renascence period, see [[History of the Orators#The Orators of the House of the Sun|History of the Orators > The Orators of the House of the Sun]].
 
@@ -48,7 +48,7 @@ The light of the Signaltower is ever-burning, but is shaped and directed by a nu
 
 This station was most prominent throughout the [[Red Death period]] when the [[Elven Signaltower]]'s light was humanity's most effective weapon and deterrent against the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]]. During that time, the keepers of the light – who came to be known as the Daywatch – were particularly significant players in [[Omphalos, the City of Gardens]] and were the engineers of both the [[Long Daylight]] and the [[Burning]].
 
-Suffering through extended exposure to the [[nyxfire]] flames and the divine influence of the [[nyxfire motes]] who lived within it, the Daywatch endured significant physical and psychological side effects, as well as hallucinatory visions they attributed to the will of [[Ylem]]. Their descendants would go on to serve as leaders of worship for humanity, aligning with the House of the Sun's [[state religion]] and later the [[New Vergonic Movement]].
+Suffering through extended exposure to the [[nyxfire]] flames and the divine influence of the [[nyxfire motes]] who lived within it, the Daywatch endured significant physical and psychological side effects, as well as hallucinatory visions they attributed to the will of [[Ylem]]. Their descendants would go on to serve as leaders of worship for humanity, aligning with the House of the Sun's [[State religion]] and later the [[New Vergonic Movement]].
 
 ## Lorekeepers
 

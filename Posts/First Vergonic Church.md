@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 06.30.2023
 tag: "#FactionFriday"
-parent: ["[[Philosophers Guild]]", "[[New Vergonic Movement]]", "[[Scholars Quarter]]", "[[History of the Subjective]]", "[[Politics of the Scholars Quarter]]", "[[Scholars of the City]]", "[[Mouseion]]", "[[Social Spheres Theory]]"]
+parent: ["[[Philosophers Guild]]", "[[New Vergonic Movement]]", "[[History of the Subjective]]", "[[Politics of the Scholars Quarter]]", "[[Scholars of the City]]", "[[Social Spheres Theory]]", "[[Renascence]]", "[[Early Renascence period]]"]
 
 previous: "[[(Theme) Competing religions]]"
 next: "[[State religion]]"
