@@ -21,7 +21,7 @@ The Isle of Melos was the first [[Isles of the Great Sea|Isle]] of the [[Great S
 
 ## Geography and resources
 
-Melos is the southernmost [[Isles of the Great Sea|Isle]] of the [[Great Sea]]'s [[Great Sea#Stellar Isles|Stellar Isles]] constellation. It's closest neighbor is [[House Talos]] and its garden of [[simulacra]].
+Melos is the southernmost [[Isles of the Great Sea|Isle]] of the [[Great Sea]]'s [[Great Sea#Stellar Isles|Stellar Isles]] constellation. It's closest neighbor is [[House Talos]] and its garden of [[Simulacra]].
 
 It measures 30,000 strides from east to west, 17,000 strides from north to south, and reaches a maximum altitude of 1,000 strides. Like the rest of the cluster, the Isle is of volcanic origin and is considered to still be a dormant volcano that could erupt again. The natural harbor is the hollow of the principal crater. In one of the caves on the south coast, the heat from the volcano is still great, and on the eastern shore of the harbor, there are hot sulfurous springs.
 
