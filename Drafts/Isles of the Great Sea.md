@@ -1,0 +1,32 @@
+---
+dg-publish: true
+Posted: 07.19.2023
+tag: "#WorldWednesday"
+parent: ["[[Great Sea]]", "[[Colonies of the Questing Houses]]", "[[Expansion of the Empire]]"]
+
+previous: "[[Expansion of the Empire]]"
+next: "[[(Theme) Scope]]"
+---
+`= this.tag` #DailyPost 
+# The isles of the Great Sea
+`= this.Posted`
+
+**Previous:** `= this.previous`
+**Next:** `= this.next`
+
+---
+
+## Transportation, exploration, and development
+
+## Settlements on the Great Sea
+
+### Isle of Melos
+
+### Isle of Talos
+
+## See also
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
+```

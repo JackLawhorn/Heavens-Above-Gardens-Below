@@ -16,6 +16,8 @@ next: "[[Isle of talos]]"
 
 ---
 
+House Talos is a prominent [[House]] of the [[Court]] which arose in the [[Later Renascence period]]. They are a founding member of the [[Engineers Union]] and the settlers of one of the first colonies founded on the [[Isles of the Great Sea|isles]] of the [[Great Sea]]. They are best known the inventors and manufacturers of the [[near-life]] machines called [[simulacra]], which have become commonplace throughout [[Omphalos, the City of Gardens]] and across the [[Empire]].
+
 ## History of House Talos
 
 ### Origins in the Vergonic Movements
@@ -34,11 +36,25 @@ This achievement was long kept secret until the House's remote island colony was
 
 ### Houseship and the Engineers Union
 
-It wasn't until the [[Later Renascence period]] when the [[Isle of Talos]] joined the [[Engineers Union]] and revealed themselves to those in [[Omphalos, the City of Gardens]] and its [[Court]] that they would pursue and be granted [[House|Houseship]].
+It wasn't until the [[Later Renascence period]] when the [[Isle of Talos]] joined the [[Engineers Union]] and revealed themselves to those in [[Omphalos, the City of Gardens]] and its [[Court]] that they would pursue and be granted [[House|Houseship]]. The value of their [[simulacra]] was apparent to the other Houses and to the [[Orator]] herself, even without the backing of the newly founded [[Engineers Union]]. If the City wished to take advantage of this new miracle of science which had already proliferated among the many [[Questing Houses]] and their [[Colonies of the Questing Houses|colonies]].
 
-## Simulacra of House Talos
+## The Isle of Melos
+
+> For more, see [[Isle of Melos]].
+
+The members and leadership of House Talos are seldom seen outside of their [[Isle of Melos]]. First settled as a safe haven for its founders in the midst of the [[Vergonic War]], it was one of the first [[Isles of the Great Sea|isles]] of the [[Great Sea]] to be settled by humanity. Today, it is said that its gardens are populated by entire cultures of the [[simulacra]] for which the [[House]] is best known.
+
+## The simulacra of House Talos
 
 > For more, see [[Simulacra]].
+
+The [[simulacra]] of House Talos are a race of [[near-life]] machines that mimic the generation and flow of [[albedo]] throughout the anatomy of living creatures. These great [[Great Works|Scientific Works]] are perhaps the grandest accomplishment of [[Renascence]] humanity, and allowed the House to rise to great prominence in the [[Court]] of [[Omphalos, the City of Gardens]] and in the wider [[Empire]] to come.
+
+## The Engineers Union
+
+> For more, see [[Engineers Union]].
+
+House Talos is represented as a member of the [[Engineers Union]] which grew out of the [[Houses of Industry]] and became a driving force of technological advancement in the [[Later Renascence period]]. It is said that a representative of the [[Blackpowder Guild]] itself arrived on the [[Isle of Talos]] to persuade its [[House|Houseless]] founders to join their [[Union]].
 
 ## See also
 ```dataview
