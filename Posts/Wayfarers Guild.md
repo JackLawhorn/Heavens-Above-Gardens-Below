@@ -47,7 +47,7 @@ The [[Guild]] itself was formed as a political guise behind which the cultures o
 
 ### Settling of the Old World continent
 
-The vast majority of humanity's settlements outside of [[Omphalos, the City of Gardens]] were founded to the north by the wayfarers and their caravans of [[landships]]. These [[wayfarer colonies]] dot the [[Old World continent]] – and especially the [[Valley of Ruins]] – like the stars up in the [[Nyx]] on high.
+The vast majority of humanity's settlements outside of [[Omphalos, the City of Gardens]] were founded to the north by the wayfarers and their caravans of [[landships]]. These [[Wayfarer colonies]] dot the [[Old World continent]] – and especially the [[Valley of Ruins]] – like the stars up in the [[Nyx]] on high.
 
 For the [[Republic]] of the [[Post-Enlightenment Era]], these colonies serve as important waystations for a variety of industries, all facilitated by the [[Guild]] in return for their relative freedom from the laws of the [[Court]]. Both humanity's communication and travel networks rely on these waystations – even the [[Psionic Telecommunication Network]] whose many towers were built at these sites. For the [[Houses of Industry]], just sites were also key to the supply chain across the continent.
 

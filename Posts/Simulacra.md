@@ -33,7 +33,7 @@ Today, the simulacra are a common sight throughout the [[Omphalos, the City of G
 
 ### Cheap labor
 
-The simulacra are seen as tools first and foremost, and their primary use as are a means of cheap labor. The machines are purchased for a small fortune but do not require food and water nor wages. It was the labor models who dug and paved the roads from [[Omphalos, the City of Gardens]] to the [[Wayfarer Colonies]] of the [[Old World continent]], who forged the path along the [[Sun Coast]], and who now build the newest [[Colonies of the Questing Houses|colonies]] of the [[Empire]] in the [[lands to the south]].
+The simulacra are seen as tools first and foremost, and their primary use as are a means of cheap labor. The machines are purchased for a small fortune but do not require food and water nor wages. It was the labor models who dug and paved the roads from [[Omphalos, the City of Gardens]] to the [[Wayfarer colonies]] of the [[Old World continent]], who forged the path along the [[Sun Coast]], and who now build the newest [[Colonies of the Questing Houses|colonies]] of the [[Empire]] in the [[lands to the south]].
 
 Cheaper models serve the [[Orator]] and the [[Lord Representative|Lord Representatives]] of the [[Court]] as servants, petty trifles to be shown off and made to do menial work. These models are a common sight throughout the Empire.
 
@@ -43,9 +43,9 @@ In the campaigns of the [[Later Post-Enlightenment Era]] and beyond, simulacra w
 
 Indeed, if humanity is to join the [[roiling of the Nyx]], we will most likely do so on the back of these war simulacra or use them to fight as our proxies.
 
-### The Gardens of House Talos
+### In the gardens of House Talos
 
-The existence of the simulacra is reliant on humanity: both their creators and their masters. Only on the [[Isle of Talos]] do they have the opportunity to exist free from masters and have what we might call lives. During the [[Renascence]], entire cultures of these machines developed in the [[Isles of the Great Sea|isle]]'s [[Isle of Talos#Gardens of Simulacra|gardens]] even as [[House Talos]] itself went into decline. Free from limitation and influence, they eventually became self-sustaining and self-replicating.
+The existence of the simulacra is reliant on humanity: both their creators and their masters. Only on the [[Isle of Talos]] do they have the opportunity to exist free from masters and have what we might call lives. During the [[Renascence]], entire cultures of these machines developed in the [[Isles of the Great Sea|isle]]'s [[Isle of Talos#Gardens of Simulacra|gardens]] where – free from limitation and influence – they eventually became self-sustaining and self-replicating.
 
 > For more, see [[Isle of Talos#Gardens of Simulacra|Isle of Talos > Gardens of Simulacra]].
 

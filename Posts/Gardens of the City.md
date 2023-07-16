@@ -35,7 +35,7 @@ More recently, the [[Procyon gaze]] have taken to the gardens of the City, thoug
 
 The first tenders to the gardens of the [[Omphalos, the City of Gardens|City]] were the herbalists of the [[human clans]] and the botanists who came after them. From these gardens, the herbalists and botanists yielded the raw materials needed for their floral and herbal balms, potions, and other concoctions. With these they went out into the streets and [[rayas]] of the City selling their wares and services as healers of all kinds of ailments.
 
-Since the [[Later Heliotropic Age]], the classes of gardeners have exploded into a wide range of gardeners and agriculturists of nearly every [[Human clans|clan]] and [[House]], and especially the [[Iconic House|Iconic Houses]] and the [[Houses of Industry]]. With the [[decline of cland culture]], these original gardeners have become a rare sight in these spaces, with many moved away to the [[Wayfarer Colonies]].
+Since the [[Later Heliotropic Age]], the classes of gardeners have exploded into a wide range of gardeners and agriculturists of nearly every [[Human clans|clan]] and [[House]], and especially the [[Iconic House|Iconic Houses]] and the [[Houses of Industry]]. With the [[decline of cland culture]], these original gardeners have become a rare sight in these spaces, with many moved away to the [[Wayfarer colonies]].
 
 > For more, see [[History of materialist magics#The Heliotropic Age|History of materialist magics > The Heliotropic Age]].
 
