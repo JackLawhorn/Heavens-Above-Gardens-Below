@@ -6,7 +6,7 @@ parent: ["[[House Talos]]", "[[Isle of Talos]]", "[[Near-life]]"]
 aliases: simulacrum
 
 previous: "[[Garden of Simulacra]]"
-next: "[[Expansion of the Empire]]"
+next: "[[Expansion of the Republic]]"
 ---
 `= this.tag` #DailyPost 
 # Simulacra
@@ -33,9 +33,9 @@ Today, the simulacra are a common sight throughout the [[Omphalos, the City of G
 
 ### Cheap labor
 
-The simulacra are seen as tools first and foremost, and their primary use as are a means of cheap labor. The machines are purchased for a small fortune but do not require food and water nor wages. It was the labor models who dug and paved the roads from [[Omphalos, the City of Gardens]] to the [[Wayfarer colonies]] of the [[Old World continent]], who forged the path along the [[Sun Coast]], and who now build the newest [[Colonies of the Questing Houses|colonies]] of the [[Empire]] in the [[lands to the south]].
+The simulacra are seen as tools first and foremost, and their primary use as are a means of cheap labor. The machines are purchased for a small fortune but do not require food and water nor wages. It was the labor models who dug and paved the roads from [[Omphalos, the City of Gardens]] to the [[Wayfarer colonies]] of the [[Old World continent]], who forged the path along the [[Sun Coast]], and who now build the newest [[Colonies of the Questing Houses|colonies]] of the [[Republic]] in the [[lands to the south]].
 
-Cheaper models serve the [[Orator]] and the [[Lord Representative|Lord Representatives]] of the [[Court]] as servants, petty trifles to be shown off and made to do menial work. These models are a common sight throughout the Empire.
+Cheaper models serve the [[Orator]] and the [[Lord Representative|Lord Representatives]] of the [[Court]] as servants, petty trifles to be shown off and made to do menial work. These models are a common sight throughout the Republic.
 
 ### War machines on the frontlines
 

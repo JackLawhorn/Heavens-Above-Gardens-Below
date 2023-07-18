@@ -2,9 +2,10 @@
 dg-publish: true
 Posted: 07.19.2023
 tag: "#WorldWednesday"
-parent: ["[[Great Sea]]", "[[Colonies of the Questing Houses]]", "[[Expansion of the Empire]]"]
+parent: ["[[Great Sea]]", "[[Colonies of the Questing Houses]]", "[[Expansion of the Republic]]"]
+aliases: isle, isles
 
-previous: "[[Expansion of the Empire]]"
+previous: "[[Expansion of the Republic]]"
 next: "[[(Theme) Scope]]"
 ---
 `= this.tag` #DailyPost 
@@ -22,7 +23,11 @@ next: "[[(Theme) Scope]]"
 
 ### Isle of Melos
 
+> For more, see [[Isle of Melos]].
+
 ### Isle of Talos
+
+> For more, see [[Isle of Talos]].
 
 ## See also
 ```dataview

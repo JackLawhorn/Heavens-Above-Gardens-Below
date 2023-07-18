@@ -50,7 +50,7 @@ The [[Iconic House|Iconic Houses]] of the [[Canon of Heterodoxies]] are the lead
 
 The agents of the [[Jurisweard]] – made up of a great many warrior classes from disparate [[House|Houses]] – are tasked with upholding law and order. Their members are tasked with cases from the Court itself and afforded special powers to enforce justice as wandering peacekeepers. These leaders can be found in the halls of their patron Houses or in the offices of the Jurisweard.
 
-The scholars of the City's various [[colleges]] – such as the [[Psionics College]], the [[Cult of Pythos]], the [[Mouseion]], and the [[Philosophers Guild]] – have long been considered among the best of humanity. In fact, [[Scholars of the City#Subjectivists|subjectivist scholars]] consider their scholarship to be the key differentiating characteristic of humanity among the other races of the [[Orior]]. These scholars can overwhelmingly be found in the [[Scholars Quarter]], from which they deal with all manner of intellectual pursuits.
+The scholars of the City's various [[College|colleges]] – such as the [[Psionics College]], the [[Cult of Pythos]], the [[Mouseion]], and the [[Philosophers Guild]] – have long been considered among the best of humanity. In fact, [[Scholars of the City#Subjectivists|subjectivist scholars]] consider their scholarship to be the key differentiating characteristic of humanity among the other races of the [[Orior]]. These scholars can overwhelmingly be found in the [[Scholars Quarter]], from which they deal with all manner of intellectual pursuits.
 
 ### The rest of the citizenry
 

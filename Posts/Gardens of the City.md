@@ -45,13 +45,13 @@ Since the [[Later Heliotropic Age]], the classes of gardeners have exploded into
 
 The naturalists of the [[Agisters Guild]], who prefer the familiarity of the forests to the cramped urban sprawl of [[Omphalos, the City of Gardens]], tend to trees and bring back new species of flora from their excursions outside the City walls. Their noble [[Mutualist pacts|mutualist companions]] call these gardens home when not in service to the [[Agisters Guild#stag knights|stag knights]].
 
-Certain trees as prized more than others, especially by the City's highest social classes, and the Guild was able to cement themselves as a powerful [[House of Industry]] by making available new and exotic species from faraway forests and their own nurseries. Flowering trees and those that bare luxurious fruits are of particularly high demand.
+Certain trees as prized more than others, especially by the City's highest social classes, and the Guild was able to cement themselves as a powerful [[Houses of Industry|House of Industry]] by making available new and exotic species from faraway forests and their own nurseries. Flowering trees and those that bare luxurious fruits are of particularly high demand.
 
 ### The Apiarians Guild
 
 > For more, see [[Apiarians Guild]].
 
-The swarms of the [[Apiarians Guild]]'s companions serve a vital role in pollinating the flora of the gardens and have grown to prominence as a [[House of Industry]] through their wildly popular honeys which they can be found selling up and down the [[Omphalos, the City of Gardens|City]]'s [[rayas]]. In addition to promoting verdancy and growth, the swarms of bees serve as a protective measure against predators who would make a home for themselves in these spaces and against any thieves foolish enough to steal from their neighbors.
+The swarms of the [[Apiarians Guild]]'s companions serve a vital role in pollinating the flora of the gardens and have grown to prominence as a [[Houses of Industry|House of Industry]] through their wildly popular honeys which they can be found selling up and down the [[Omphalos, the City of Gardens|City]]'s [[rayas]]. In addition to promoting verdancy and growth, the swarms of bees serve as a protective measure against predators who would make a home for themselves in these spaces and against any thieves foolish enough to steal from their neighbors.
 
 ### The Undergardeners
 

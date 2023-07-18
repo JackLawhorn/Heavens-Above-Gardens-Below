@@ -2,7 +2,7 @@
 dg-publish: true
 Posted: 07.14.2023
 tag: "#FactionFriday"
-parent: ["[[Simulacra]]", "[[Isle of Talos]]", "[[Expansion of the Empire]]", "[[Engineers Union]]", "[[House]]"]
+parent: ["[[Simulacra]]", "[[Isle of Talos]]", "[[Expansion of the Republic]]", "[[Engineers Union]]", "[[House]]"]
 
 previous: "[[(Theme) Age of exploration]]"
 next: "[[Isle of talos]]"
@@ -16,13 +16,13 @@ next: "[[Isle of talos]]"
 
 ---
 
-House Talos is a prominent [[House]] of the [[Court]] which arose in the [[Later Renascence period]]. They are a founding member of the [[Engineers Union]] and the settlers of one of the first colonies founded on the [[Isles of the Great Sea|isles]] of the [[Great Sea]]. They are best known the inventors and manufacturers of the [[near-life]] machines called [[simulacra]], which have become commonplace throughout [[Omphalos, the City of Gardens]] and across the [[Empire]].
+House Talos is a prominent [[House]] of the [[Court]] which arose in the [[Later Renascence period]]. They are a founding member of the [[Engineers Union]] and the settlers of one of the first colonies founded on the [[Isles of the Great Sea|isles]] of the [[Great Sea]]. They are best known the inventors and manufacturers of the [[near-life]] machines called [[simulacra]], which have become commonplace throughout [[Omphalos, the City of Gardens]] and across the [[Republic]].
 
 ## History of House Talos
 
 ### Origins in the Vergonic Movements
 
-The founder of [[House Talos]] was a sculptor of the [[Mouseion]]. At a meeting of the [[First Vergonic Church]], they met a fellow member from the [[Horologists Guild]] – a [[House of Industry]] founded in the [[Later Crisis of Hubris]] and so old that they had seen a great decline in prominence despite the ubiquity of their timekeepers in [[Omphalos, the City of Gardens]]. True to the [[Politics of the Scholars Quarter#The Vergonic Movements|Vergonic Movement]], they entered into a lively discussion on the clockwork mechanisms that powered their new companion's work.
+The founder of [[House Talos]] was a sculptor of the [[Mouseion]]. At a meeting of the [[First Vergonic Church]], they met a fellow member from the [[Horologists Guild]] – a [[Houses of Industry|House of Industry]] founded in the [[Later Crisis of Hubris]] and so old that they had seen a great decline in prominence despite the ubiquity of their timekeepers in [[Omphalos, the City of Gardens]]. True to the [[Politics of the Scholars Quarter#The Vergonic Movements|Vergonic Movement]], they entered into a lively discussion on the clockwork mechanisms that powered their new companion's work.
 
 Later in their life, when the first sparks of the [[Vergonic War]] were ignited and aspersions were starting to be cast on remnants of the First Vergonic Church, the founder would call on favors and allegiances to flee the City. They would go on to found the [[Isle of Talos]], one of the first colonies settled on the [[Isles of the Great Sea|isles]] of the [[Great Sea]].
 
@@ -48,7 +48,7 @@ The members and leadership of House Talos are seldom seen outside of their [[Isl
 
 > For more, see [[Simulacra]].
 
-The [[simulacra]] of House Talos are a race of [[near-life]] machines that mimic the generation and flow of [[albedo]] throughout the anatomy of living creatures. These great [[Great Works|Scientific Works]] are perhaps the grandest accomplishment of [[Renascence]] humanity, and allowed the House to rise to great prominence in the [[Court]] of [[Omphalos, the City of Gardens]] and in the wider [[Empire]] to come.
+The [[simulacra]] of House Talos are a race of [[near-life]] machines that mimic the generation and flow of [[albedo]] throughout the anatomy of living creatures. These great [[Great Works|Scientific Works]] are perhaps the grandest accomplishment of [[Renascence]] humanity, and allowed the House to rise to great prominence in the [[Court]] of [[Omphalos, the City of Gardens]] and in the wider [[Republic]] to come.
 
 ## The Engineers Union
 

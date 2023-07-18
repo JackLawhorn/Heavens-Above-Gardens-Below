@@ -1,24 +1,21 @@
 ---
 dg-publish: true
-Posted: 07.15.2023
+Posted: 07.22.2023
 tag: "#CivilizationSaturday"
-parent: ["[[House Talos]]", "[[Isles of the Great Sea]]", "[[Simulacra]]"]
+parent: ["[[Union]]", "[[Court]]"]
+aliases: House of Industry
 
-previous: "[[House Talos]]"
-next: "[[The Gardens of House Talos]]"
+previous: "[[Questing Houses]]"
+next: "[[The Dreaming psions]]"
 ---
 `= this.tag` #DailyPost 
-# The Isle of Talos
+# The Houses of Industry
 `= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`
 
 ---
-
-## Isle of the Great Sea
-
-## Gardens of Simulacra
 
 ## See also
 ```dataview

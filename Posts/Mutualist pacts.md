@@ -19,7 +19,7 @@ next: "[[Origin of the Nyx]]"
 
 > For more, see [[Pact magics#Mechanics of a pact|Pact magics > Mechanics of a pact]].
 
-Mutualist [[pacts]] are formed between two living beings of relatively equal [[Albedo]] rather than between an [[iconic pacts|iconic mage]] and a patron [[Aspect]]. As such, both parties benefit greatly from this relationship. Mutualist pacts are most commonly formed between the races of the [[Orior]] and a race of the [[noble beasts]].
+Mutualist [[Pact magics|pacts]] are formed between two living beings of relatively equal [[Albedo]] rather than between an [[iconic pacts|iconic mage]] and a patron [[Aspect]]. As such, both parties benefit greatly from this relationship. Mutualist pacts are most commonly formed between the races of the [[Orior]] and a race of the [[noble beasts]].
 
 ## Prominent examples
 - [[Agisters Guild]]
