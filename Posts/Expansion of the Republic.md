@@ -30,6 +30,8 @@ The trails blazed by the [[Wayfarers Guild#Wayfarer caravans|Wayfarer caravans]]
 
 The [[Questing Houses]] were the first to amass such power outside the [[Walls and gates of the City|walls]] of [[Omphalos, the City of Gardens]] that the [[Court]] itself was made to flinch. Their [[Colonies of the Questing Houses|colonies]] on the [[Isles of the Great Sea|isles]] of the [[Great Sea]] and across the [[lands to the south]], brought riches and resources that humanity had never seen before. Armed in secret by the [[Blackpowder Guild]] and [[House Talos]] and their [[Engineers Guild]], they banded together in the [[Later Renascence period]] in what is remembered today as the [[Birth of the Republic|birth]] of the [[Republic]].
 
+Too far for roads, these colonies are accessible and kept alive only by the [[Sink]]-faring vessels and shipping routes of the [[Shipwrights Guild]]. Despite their collective power both in the Republic and in the Court of the City, they remain reliant on this one strategic ally for their continued survival.
+
 > For more, see [[Questing Houses]] and [[Colonies of the Questing Houses]].
 
 ## See also

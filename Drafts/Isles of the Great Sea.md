@@ -19,7 +19,7 @@ next: "[[(Theme) Scope]]"
 
 ## Transportation, exploration, and development
 
-## Settlements on the Great Sea
+## Prominent settlements on the Great Sea
 
 ### Isle of Melos
 
