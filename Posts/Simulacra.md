@@ -50,6 +50,7 @@ The existence of the simulacra is reliant on humanity: both their creators and t
 > For more, see [[Isle of Talos#Gardens of Simulacra|Isle of Talos > Gardens of Simulacra]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

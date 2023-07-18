@@ -31,6 +31,7 @@ The forest-dwelling children of the Golden Hart – the majestic deer – safegu
 Humanity's [[Agisters Guild]] and their [[Agisters Guild#stag knights|stag knights]] came to form [[mutualist pacts]] with these children of the Golden Hart and in doing so became as their children themselves. Their [[Pact magics|pact]] granted them a portion of their companions' extramundane abilities and allowed them to become the most proficient foresters and rangers of the [[human clans]] and [[House|Houses]] in the [[Omphalos, the City of Gardens|City of Gardens]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

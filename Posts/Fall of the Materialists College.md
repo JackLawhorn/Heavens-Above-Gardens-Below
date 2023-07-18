@@ -66,6 +66,7 @@ Today, remnants of this betrayal can still be seen in the City. Prejudice agains
 The flight of the [[Necromancer demons]] of the [[Materialists College]] happened quickly upon the arrival of the [[Triumph of the Sobek|Triumph]] of the [[Sobek]], and they were right to do so. In the weeks that followed, dozens of [[Materialist magics|materialists]] were captured and many either killed by their neighbors or executed by agents of the [[Jurisweard]]. Both those who fled capture and those who were exiled by the [[Court]] – would go on to found the [[Isle of Melos]] where they continue their dark experiments. This sentence was meant to be death but there, on their [[Isles of the Great Sea|Isle]] upon the [[Great Sea]], they've managed to grow and thrive.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

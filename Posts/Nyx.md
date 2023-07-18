@@ -60,6 +60,7 @@ In one sense, the Nyx is a universe described by the [[Prime Material Sphere]]. 
 >- [[Lunar Aspects]]
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

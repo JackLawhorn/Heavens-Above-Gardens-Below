@@ -37,6 +37,7 @@ The [[extramundane]] abilities afforded to them by their [[Mutualist pacts|mutua
 In the [[Reconstruction]] of the [[Later Crisis of Hubris]], the access to species and varietals of trees they were able to provide led to advanced biodiversity in the [[gardens of the City]] and elsewhere throughout. Flowering trees and those that bore fruit were of particular interest, and today – centuries after their [[Fall of the Agisters Guild|fall]] – there are thousands of species from faraway lands that first arrived with the Guild's arboriculturists.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

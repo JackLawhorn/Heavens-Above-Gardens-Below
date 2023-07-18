@@ -38,6 +38,7 @@ Like the [[Storm Elves]] and their bolts, [[organic magics]] of the Sun Elves al
 - The taming of the [[Wild Magics]] and their nyxfire storms
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

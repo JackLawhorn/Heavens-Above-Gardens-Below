@@ -41,6 +41,7 @@ After the the [[Fall of the Oremongers Guild|fall]] of the [[Oremongers Guild]],
 By the end of this period and into the [[Red Death period]], this predilection towards [[Scholars of the City#Objectivists|Objectivism]] in scholarship, philosophy, and the arts would give way to [[History of the Subjective#Second Wave Henotheism|Second Wave Henotheism]] and later [[History of the Subjective#Subjectivism|Subjectivism]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -39,6 +39,7 @@ After the dramatic downfall of Clan Wolfstepper at the hands of a humanity that 
 Those who fled that persecution constellated under the banner of the [[Wayfarers Guild]] and traveled north in their caravans further into the [[Old World continent]]. There, they founded a number of [[Wayfarer colonies|colonies]] that by the [[Post-Enlightenment Era]] have become foundational to the greater [[Republic]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

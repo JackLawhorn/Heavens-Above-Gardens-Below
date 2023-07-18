@@ -84,6 +84,7 @@ Captivation sits opposite silencing: a field of psionics centered around lending
 [[Psionic suggestion|Suggestion]] is a subset of the psionic field of captivation centered around adding greater psionic influence to a written or verbal message or some other communication. It can be used to enhance one's persuasive or deceptive abilities and to increase their perceived authority. That being said, suggestion cannot force a subject to comply with a command.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

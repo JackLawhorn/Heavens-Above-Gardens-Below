@@ -75,6 +75,7 @@ Of course the most significant impact of the First Vergonic Church was the [[New
 > For more, see [[New Vergonic Movement]] and [[Vergonic War]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

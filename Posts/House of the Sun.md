@@ -73,6 +73,7 @@ The [[#Daywatch]] who during the [[Long Daylight]] had cultivated the closest re
 > For more on the House of the Sun's state religion, see [[State religion]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -32,6 +32,7 @@ Throughout the [[Renascence]], the [[House of the Sun]] has stood uncontested as
 > For more on the history of the House of the Sun's Orators throughout the Renascence period, see [[History of the Orators#The Orators of the House of the Sun|History of the Orators > The Orators of the House of the Sun]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

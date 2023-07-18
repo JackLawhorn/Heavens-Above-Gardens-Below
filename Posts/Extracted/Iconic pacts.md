@@ -18,6 +18,7 @@ Iconic [[Pact magics|pacts]] are formed with powerful entities, called patron [[
 - [[Sobek]]
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

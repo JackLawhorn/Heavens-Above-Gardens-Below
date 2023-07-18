@@ -61,6 +61,7 @@ To the [[Questing Houses]] and their [[Colonies of the Questing Houses|colonies]
 The members of the New Silver Age are, of course, exiled from [[Omphalos, the City of Gardens]]. They are remembered by humanity for their [[Sin of the Silver Wolves|sin]], just as the [[necromancer demons]] of fellow [[Fallen Houses|Fallen House]] the [[Materialists College]] are. The rest of [[Clan Wolfstepper]], who they left behind to be persecuted and held captive in the [[Argent Ghetto]], hate and revile them for the trauma of abandonment – first by their brethren then by the [[Wolf Mother]] herself – and persecution by the rest of humanity. The [[Bloodhounds]], brainwashed by the [[Jurisweard]], would gladly hunt such blood traitors down and tear them limb from limb.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

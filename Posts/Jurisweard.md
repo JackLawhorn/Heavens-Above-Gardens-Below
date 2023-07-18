@@ -61,6 +61,7 @@ The [[Mercenary Corps]] connects a network of otherwise Houseless sellswords tha
 Many Houseless warriors encircle the drain of the Mercenary Corps, including former [[Bloodhounds]], [[Apotropaics]], and [[Agents of the Psionics College#College Silencers|College Silencers]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

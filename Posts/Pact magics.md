@@ -62,6 +62,7 @@ Those who have broken pacts are known by an [[Elven tongue|Old Elven]] word, "wa
 Warlock may find it difficult to form the same type of pact, to form any pact at all, or even to wield other types of magics entirely due to the damage caused to their aura.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

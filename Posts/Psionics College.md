@@ -39,6 +39,7 @@ The powerful [[psionics]] of the [[College]] and their many [[Agents of the Psio
 > For more, see [[Agents of the Psionics College]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

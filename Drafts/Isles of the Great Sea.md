@@ -30,6 +30,7 @@ next: "[[(Theme) Scope]]"
 > For more, see [[Isle of Talos]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -52,6 +52,7 @@ One of the defining features of the [[#Embassy Quarter]] is the Great Sea Bazaar
 The headquarters of the [[Shipwrights Guild]], this quarter is where humanity's ships and floating platforms are constructed and sold, as well as where many of the citizenry dock their own vessels. Expert builders and some of the original constructors of the Barony of Stilts itself, they more or less control its continued growth to grow their territory as wanted or needed.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

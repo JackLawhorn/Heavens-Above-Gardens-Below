@@ -17,6 +17,7 @@ Later in the [[Crisis of Hubris]], the rise of the [[Pretender]] and socio-polit
 Since the Crisis of Hubris and the [[Fallen Houses|fall]] of a majority of these Great Houses, only the [[House of the Sun]] remains.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

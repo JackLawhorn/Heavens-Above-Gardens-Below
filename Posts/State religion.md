@@ -27,6 +27,7 @@ The *Homa* is a daily ritual at the heart of the [[House of the Sun]]'s state re
 The most devote in [[Omphalos, the City of Gardens]] walk the length of its [[rayas]] every day, performing the Homa at the foot of the [[Elven Signaltower]] and effectively tracing the City's [[rota]]. This is uncommon however, with most doing so only once per year at most. The least devoted may not perform the Homa at all for several days before continuing to do so.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

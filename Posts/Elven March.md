@@ -26,6 +26,7 @@ The duration of this period is difficult to ascertain after the destruction of t
 > For more on the remainder of the [[Elven Legion|Legion]]'s March after the [[founding of Omphalos, the City of Gardens]], see [[Post-Heliotropic Elven March]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

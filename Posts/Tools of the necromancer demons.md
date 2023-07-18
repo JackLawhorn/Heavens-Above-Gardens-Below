@@ -29,6 +29,7 @@ Even today – in the [[Post-Enlightenment Era]] when such arms have been made n
 This material is hard as stone and contains materialist magics that allow the wielders of the devil's cleavers to slice and bisect and chop limb from torso without severing the all-important pathways through which [[albedo]] flows through the anatomy. This unique attribute makes them particularly important to the [[necromancer devils]] who seek to claim these parts for themselves through the dark practice of [[necromantic grafts]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

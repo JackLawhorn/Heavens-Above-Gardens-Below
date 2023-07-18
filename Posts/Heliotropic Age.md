@@ -22,6 +22,7 @@ next: '[[Lunar Aspects|The Lunar Aspects]]'
 - [[Later Heliotropic Age]]
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

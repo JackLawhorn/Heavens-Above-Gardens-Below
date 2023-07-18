@@ -26,6 +26,7 @@ Necromancy leverages biological material of the races of the [[Orior]], the [[no
 Three primary approaches to necromancy exist in the [[Known World]], and vary from practitioner to practitioner. The [[Necromancer demons]] of the [[Bouda cackles]] and the [[vulture wakes]] – fallen from their station as [[noble beasts]] – practice transumption, or the consuming of remains to absorb their powers. Bouda and human necromancers are known to preserve remains into demonic artifacts. Lastly, in the mid-[[Renascence|Renascence period]], the human necromancers of the [[Isle of Melos]] developed a particularly potent practice of [[necromantic grafts|grafting]] remains onto their own bodies.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

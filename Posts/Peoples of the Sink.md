@@ -43,6 +43,7 @@ Formed of coral, the living stone of the Sink, the [[Reef Knights]] are exulted 
 The color of their coral armor varies greatly and can be altered at will and in response to environmental stimuli. The coral itself is constantly in a state of rapid growth, and their movements can be understood as a mass of coral mimicking the upright shape of the Sea Elves in real-time. They are slow, especially when above the sea, but are proficient in a great many [[Combat Arts]], especially wielding spears and lances. They are walking, self-sustaining ecosystems and home to a great many species of simple beasts, as well as the majority of the Sink's [[Noble beasts]]. They hold a relationship with each of these creatures similar to a [[Mutualist pacts|mutualist pact]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

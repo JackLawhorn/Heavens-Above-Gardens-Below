@@ -61,6 +61,7 @@ The children of the [[#motes of the landscapes]] themselves are the [[Minor Aspe
 The oldest and most powerful of the Minor Aspects are the [[Giants]]. In the early ages of [[prehistory]], it is said that two Giant twins took turns holding up the sky. The sole offspring of these [[Giants#Foundational Giant myth|foundational Giants]] was Aker, Aspect of the Horizon who wrested control of the sky and founded the [[Giants#Empire of Dyēus|Empire of Dyēus]]. Now, an entire race of Giants fights a war there against the [[Storm Elves]], having all but abandoned their domains on the surface.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

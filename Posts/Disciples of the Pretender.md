@@ -48,6 +48,7 @@ Ultimately, this religious pilgrimage proved a [[Quest into Oblivion]], and led 
 > For more, see [[Questing Charter of the Pretender]] and [[Fall of the Pretender]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

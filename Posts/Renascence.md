@@ -24,6 +24,7 @@ After the final devastating loss of the [[Crisis of Hubris]] – the [[Fall of t
 - [[Later Renascence period]]
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

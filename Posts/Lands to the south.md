@@ -19,6 +19,7 @@ next: '[[(Theme) Scholarship]]'
 South of [[Omphalos, the City of Gardens]] and the [[Sun Coast]] sits the [[Great Sea]]. Unseen by humanity until the [[Renascence|Renascence period]], the lands south of the Great Sea are referred to simply as the "lands to the south". Exposed to the [[nyxfire]] storms of the [[Wild Magics]] for significantly longer than the lands of the [[Old World continent]], these mysterious frontiers hold arcane magics, artifacts, and peoples of their own.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

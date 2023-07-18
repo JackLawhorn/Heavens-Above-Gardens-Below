@@ -40,6 +40,7 @@ The home of the arts in [[Omphalos, the City of Gardens]] – and indeed all of 
 And art is unavoidable out in the City as well. [[Monuments]] populate the squares and [[Gardens of the City|gardens]], and the towers and [[roccas]] that make up the skyline are monuments themselves to [[Ylem]] or to various patron [[Aspect|Aspects]]. Art adorns the [[walls]] and the [[rayas]], and is created, composed, and performed anywhere an audience might constellate. As of the [[Renascence]], art is also commissioned by the elite and the high-class so that it can be found in the home and in other private places.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

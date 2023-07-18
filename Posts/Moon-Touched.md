@@ -27,6 +27,7 @@ The [[Lunar Aspects#The White Owl|White Owl]] produces far more Moon-Touched in 
 Though as children of the [[Lunar Aspects]] they are divine phenomena in their own rights, the births and lives of the Moon-Touched have been largely inconsequential throughout recorded history. They often become leaders of worship and culture. In some races of the Orior, their appearance is read as a sign from the [[Nyx]] of times of hardship or prosperity or of particularly significant events.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

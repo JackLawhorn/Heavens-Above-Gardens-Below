@@ -42,6 +42,7 @@ The great [[Burning]], which ultimately brought this period to its end, destroye
 In the [[Later Crisis of Hubris]], the very same [[House]] responsible for this devastating loss – the [[House of the Sun]] – would rise to prominence as leaders of the [[Court]]. Equal parts punishment for their role in the Burning and reward for ending the [[Red Death]], each new [[Great House]] to [[Fallen Houses|fall]] would put the House of the Sun and its [[Orator]] closer to unrivaled power and the ability to enact real change in [[Omphalos, the City of Gardens]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

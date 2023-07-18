@@ -27,6 +27,7 @@ From the Houses, a number of [[Great House|Great Houses]] have been selected, wh
 The Orator(s) select a House or other entity to be [[Hand of the Court]] on a case-by-case basis to execute on matters of the Court.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

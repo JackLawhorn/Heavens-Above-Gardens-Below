@@ -27,6 +27,7 @@ Mutualist [[Pact magics|pacts]] are formed between two living beings of relative
 - [[Rookish clans]]
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -57,6 +57,7 @@ The [[Bloodhounds]] are children of [[Clan Wolfstepper]] selected by the [[Juris
 Throughout the [[Renascence]], they have played key roles in both the [[Vergonic War]] and in the Jurisweard's campaigns against the [[Rookish clans#Rookish Cloaks|Rookish Cloaks]]. In the [[Later Renascence period]], their sense of spite towards their treacherous brethren in the [[New Silver Age]] was taken advantage of to hunt down these highly prioritized threats to the [[Republic]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

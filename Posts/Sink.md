@@ -34,6 +34,7 @@ After his fall into the deepest depths of the [[Sink]], the [[Lunar Aspects#<str
 The divine quest of the [[Sea Elves]] was to infiltrate this dark citadel and eliminate the Fallen Son as he slumbers.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

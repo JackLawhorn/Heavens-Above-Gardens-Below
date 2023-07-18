@@ -43,6 +43,7 @@ Some believe that especially powerful Apex Vectors may have developed within the
 A number of [[Near-life]] biological samples were kept by the anatomists and burgeoning [[Necromancy|necromancers]] of the [[Materialists College]], found by agents of the [[Court]] after their [[Fall of the Materialists College|fall]]. These samples were destroyed by [[House of the Sun]] [[Apotropaics#Torchbearer's Purifier clerics|Purifiers]], but it is unknown if any still exist elsewhere in the City or in the wider [[Known World]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

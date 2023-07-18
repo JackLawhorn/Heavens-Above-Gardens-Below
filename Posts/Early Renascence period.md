@@ -39,6 +39,7 @@ For the first time in human history, [[Quest|quests]] outside of [[Omphalos, the
 And it was not just the favored Questing Houses of the [[Court]]. This was a strange age – coming off of the monumental losses of the [[Crisis of Hubris]] – and a number of human peoples who found themselves facing persecution. Both [[House Talos]] and the [[Wayfarers Guild]] founded prominent colonies that today are shining jewels of the [[Republic]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE parent AND contains(parent, [[Early Renascence period]])

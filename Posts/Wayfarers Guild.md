@@ -54,6 +54,7 @@ For the [[Republic]] of the [[Post-Enlightenment Era]], these colonies serve as 
 > For more, see [[Wayfarer colonies]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

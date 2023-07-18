@@ -53,6 +53,7 @@ Belief in the [[Pretender]] fell dramatically after their [[Fall of the Pretende
 The remnants of those the Pretender awakened back in [[Omphalos, the City of Gardens]] went on to found the [[Psionics College]]. In the years that followed, it became increasingly clear that [[psionics]] came not from a divine source but was instead understandable through science as a natural phenomenon of the [[Nyx]]. Today, in the [[Post-Enlightenment Era]], nearly all practitioners of psionics do so through the [[College]]'s [[Scholars of the City#Objectivists|objectivist]] lens.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

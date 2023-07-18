@@ -32,6 +32,7 @@ During the session itself, the requesting Lord Representative will give an openi
 After this back and forth, the [[Orator|Orators]] deliberate and come to a decision on whether sponsorship is appropriate. Charters are largely granted as long as a majority of the Houses do not raise issue, but this can mean that [[Union|Unions]] like the Canon can act as influential bottlenecks in this process. In cases where the Questing Charter does not meet this threshold, the support found in Court can often lead to the project being completed even without official sponsorship by the Great Houses. Certain types of Charters do not have this option available to them, however, including the founding of a [[Questing Houses|chartered colony]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -55,6 +55,7 @@ The enemy territory beyond the [[#the warding line|warding line]] was so saturat
 The [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] avoided and were [[Soldiers of the Red Court#Vulnerabilities|unable to cross]] running water, and so the river [[Torrente]] was one of the only viable means of ingress and egress across the [[#The warding line|warding line]] and into [[#enemy territory]]. The engineers of the [[Shipwrights Guild]] equipped the [[Apotropaics]] with small shallops so that they might cross through the arches below the barricades.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

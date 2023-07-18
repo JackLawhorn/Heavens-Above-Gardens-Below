@@ -58,6 +58,7 @@ The last of the [[Great House|Great Houses]] to [[Fallen Houses|fall]], the betr
 The [[Orator]] of the [[House of the Sun]] – now the sole Great House of the [[Court]] – declared that this loss would be the one to finally bring this [[Ages of the Known World|age]] of loss to an end. And what she said was true. The fall of the Silver Wolves demarks the end of the Crisis of Hubris and the dawn of the [[Renascence]]. In response to the losses of the last age, humanity spent the next arming themselves with knowledge and mostly mundane tools such that they would never again suffer such losses.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

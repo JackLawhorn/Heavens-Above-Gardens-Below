@@ -51,6 +51,7 @@ The [[Combat Arts]] of the [[Sun Elves]] were initially thought by the [[human c
 With the [[Scenes from the life of the Pretender III|revelation]] of the [[Pretender]] in the [[Later Crisis of Hubris]], [[psionics]] was believed to be a field of magics in and of itself. Though the [[mystic psionics]] of the [[Disciples of the Pretender]] served to usher in the [[Psionic Age]] and ultimately gave rise to the [[Psionics College]], this understanding was found to be flawed by the [[Scholars of the City#objectivists|objectivist scholars]] of [[Omphalos, the City of Gardens]] who studied it instead as a natural science.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

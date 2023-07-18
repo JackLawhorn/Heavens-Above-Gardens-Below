@@ -42,6 +42,7 @@ After the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]], the reser
 > For more, see [[Currencies of the City#Silver|Currencies of the City > Silver]] and [[Fall of the Silver Wolves#The taking of the silver|Fall of the Silver Wolves > The taking of the silver]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

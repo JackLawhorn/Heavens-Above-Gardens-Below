@@ -10,6 +10,7 @@ A ritual and form of human art as old as the [[Omphalos, the City of Gardens|Cit
 Prominent examples include the [[Cult of Pythos#Divine Geometries|Divine Geometries]] conceived of and sculped by [[Cult of Pythos#Pythos|Pythos]] in the [[Later Heliotropic Age]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -66,6 +66,7 @@ To the devils, taking on a graft is to be augmented, to be approved. It is a spi
 The [[Necromancer Archdevils|Archdevils]] are [[necromancer devils]] elevated to the power of the [[Umbral Aspects]] themselves, bathed in blood and battle-tested. Often warped by multiple [[necromantic grafts]], the Archdevils ascend by destroying a [[Minor Aspects|Minor Aspect]] of [[Ylem]] in one-on-one combat and – in doing so – become as Umbral Aspects themselves. The meager ranks of these horrific warrior scholars, who currently number only four, lead the [[Isle of Melos#demons of Melos|demons of Melos]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

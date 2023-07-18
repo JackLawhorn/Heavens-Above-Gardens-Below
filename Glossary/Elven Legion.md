@@ -9,6 +9,7 @@ A race of [[Nyxfarer|nyxfaring]] warriors whose [[nyxfall]] in the [[Known World
 The Elven Legion is made up of three "theaters": the [[Sun Elves|Sun Elves]], the [[Storm Elves]], and the [[Sea Elves]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

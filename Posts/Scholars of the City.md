@@ -48,6 +48,7 @@ The Subjectivist scholars of the [[Omphalos, the City of Gardens|City]] pursue t
 | [[First Vergonic Church]] | Art and philosophy | [[Scholars Quarter]], [[Court]] | [[Early Renascence period]] |
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

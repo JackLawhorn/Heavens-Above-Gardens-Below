@@ -40,6 +40,7 @@ After the [[Questing Charter of the Pretender]] was granted, after the newly nam
 Throughout the Psionic Age, the field of psionics itself expanded greatly and the awakening to psionic influence of the human population rose in kind. By the end of the Psionic Age in the [[Early Renascence period]], most of the warrior classes of the [[Jurisweard]] and even many [[Lord Representative|Lord Representatives]] of the [[Court]] are tutored in psionics to a certain degree.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

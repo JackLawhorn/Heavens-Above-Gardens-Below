@@ -84,6 +84,7 @@ A class of Apotropaics arose out of the [[House of the Sun]] in the [[Red Death 
 They patrolled the streets of [[Omphalos, the City of Gardens]] equipped with firebombs and flint-striker blades that they could make erupt into flames. Filled with the same zeal and devotion to the light of [[Ylem]] as their forebears, they would walk into [[Red Death period City of Gardens#enemy territory|enemy territory]] alone if no others would join them, slicing through the [[nyxblight]] growths and the [[Soldiers of the Red Court|soldiers]] of the [[Red Court]] with ease. They were infamous for self immolating if injured, cornered, or infected, continuing on the good fight even in death.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -73,6 +73,7 @@ Their [[armiger]] squires, themselves artificer knights in training, pushed cart
 The greatest warriors in all of the [[Known World]], perhaps even including the [[Sun Elves]] themselves, their services were in high demand throughout the [[Omphalos, the City of Gardens|City]]. Working as mercenaries to fund their never-ending quest to perfect their arms and armor, they were valuable political tokens traded to and between the [[House|Houses]] of the [[Court]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

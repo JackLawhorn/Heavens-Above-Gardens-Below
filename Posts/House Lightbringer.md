@@ -55,6 +55,7 @@ Closest to the [[Sun Elves]] and later the [[Nyxfire motes]], House Lightbringer
 From House Lightbringer came humanity's first paladins, a warrior class who wandered the [[Omphalos, the City of Gardens|City]] and took it upon themselves to enforce law and justice. These paladins were the forebearers of the [[Jurisweard]], and after their [[Fall of House Lightbringer|fall]] a great many of the [[Iconic House|Iconic Houses]] would come to produce their own paladins.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

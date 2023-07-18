@@ -61,6 +61,7 @@ After the loss of human history in the [[Crisis of Hubris]], the art of the [[Re
 This purpose also necessitated a dramatic turn towards realism in visual art. This period saw the invention of proportion – based on the work of [[Cult of Pythos#Pythos|Pythos]] – as well as the use of artistic techniques such as foreshortening and sfumato and chiaroscuro. It also saw the practical application of the studies of the [[History of materialist magics#The Red Death period|anatomists]] of the [[Materialists College]] in depicting the physicality of not only humans but the [[Sobek]] and other races of the [[Orior]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

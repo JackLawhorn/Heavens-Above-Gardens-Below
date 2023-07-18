@@ -55,6 +55,7 @@ Though Clan Wolfstepper is most remembered for the [[Silver Wolves]] and the tre
 As of the [[Early Renascence period]], the vast majority of Clan Wolfstepper's population lives within the [[Argent Ghetto]] in [[Omphalos, the City of Gardens]]. There, they are under the watchful eye of the [[Jurisweard]] and are not able to freely leave their ghetto.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

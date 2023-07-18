@@ -41,6 +41,7 @@ Silver has always been kept by [[Clan Wolfstepper]]. The [[docetic materials|doc
 Most curiously, such equipment and adornments seamlessly transform to align with their human or wolf form. The efforts of the [[Fall of the Materialists College|since-fallen]] [[Materialists College]] proved fruitless in understanding the mechanics of these magics.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

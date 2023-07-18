@@ -27,6 +27,7 @@ To the west, it meets the [[Sink]] at the [[Gold Coast]] along which the [[human
 The Old World continent stretches far to the east, but the full scope of this frontier is unknown as it gives way to the treacherous and uncharted [[Astral Wilds]]. Similarly, the [[Deep Deserts]] to the north do not so much as end as much as the [[Prime Material Sphere]] itself fades away into the [[Deep Deserts#mirage|mirages]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

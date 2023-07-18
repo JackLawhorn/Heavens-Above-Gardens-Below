@@ -39,6 +39,7 @@ Their hair ranges from black and gray to silver and white, and it covers a much 
 Their eyes are range from stormy gray to metallic silver to a striking blue. To aid in their long-range combat, their sense of sight is significantly heightened, possibly similar in ability to the [[Rookish clans#raptor eyes|raptor eyes]] of the [[Rookish clans]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

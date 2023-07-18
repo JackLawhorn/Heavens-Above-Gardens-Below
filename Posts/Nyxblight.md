@@ -65,6 +65,7 @@ Visiting the [[Black Coast]] now, a narrow trail of nyxblight growth can be seen
 > Nyxblight also has an infamous history in [[Omphalos, the City of Gardens]], where it saw rampant, unchecked growth during the [[Red Death period]]. For more on that, see [[Spread of the Red Death#Spread throughout the City|Spread of the Red Death > Spread throughout the City]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

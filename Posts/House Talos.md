@@ -57,6 +57,7 @@ The [[simulacra]] of House Talos are a race of [[near-life]] machines that mimic
 House Talos is represented as a member of the [[Engineers Union]] which grew out of the [[Houses of Industry]] and became a driving force of technological advancement in the [[Later Renascence period]]. It is said that a representative of the [[Blackpowder Guild]] itself arrived on the [[Isle of Talos]] to persuade its [[House|Houseless]] founders to join their [[Union]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

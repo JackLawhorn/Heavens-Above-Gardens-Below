@@ -25,6 +25,7 @@ next: "[[Houses of Industry]]"
 ## Prominent examples
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

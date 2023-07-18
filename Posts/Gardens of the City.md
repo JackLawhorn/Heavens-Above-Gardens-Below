@@ -66,6 +66,7 @@ Practically, the role of the gardens are to produce a truly enormous amount of f
 Their more important purpose, however, are as places of worship to the [[Mundial Aspects]] and to the natural wonders of the [[Known World]]. It was the [[Fall of the Oremongers Guild|since-fallen]] [[Oremongers Guild]] who first interfaced with the elemental [[Mundial Aspects#earth motes|earth motes]] and learned that to promote verdancy and growth within the soil itself was as an act of worship. Since then, gardens have largely been plotted and utilized with such a purpose in mind. For example, the leaves of the trees give voice to the [[Mundial Aspects#wind motes|wind motes]] and so they are chosen for the quality of their canopies. Similarly, the closeness and intersectionality between the gardens and the river [[Torrente]] maximalizes the [[iconic pacts|iconic]] significance of these spaces.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

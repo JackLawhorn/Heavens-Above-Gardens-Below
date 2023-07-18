@@ -54,6 +54,7 @@ The light of [[Ylem]] promotes verdancy and growth, more concentrated closer to 
 > For more, see [[Omphalos, the City of Gardens#City infrastructure and layout|Omphalos, the City of Gardens > City infrastructure and layout]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -35,6 +35,7 @@ In the [[Red Death period]], the Wolf Mother was sequestered within the [[extra-
 This fight had weakened her influence within the [[Prime Material Sphere]] like nothing had before. She revealed to the Silver Wolves in secret that the [[Luminary#prohesy of the Luminary|prophesized]] birth of her child the [[Luminary]] would necessarily come prematurely, a warning that inspired the kidnapping of the child's mother and their departure from [[Omphalos, the City of Gardens]] – what is now remembered as the [[Fall of the Silver Wolves]] – in the final days of the [[Crisis of Hubris]]. Forming the cult known as the [[New Silver Age]] out in the wilds of the Known World, her children awaited the birth of the Luminary and the future she would usher in. With her birth in the early months of the [[Renascence]], however, the Wolf Mother fell completely silent and has remained as such for an [[Ages of the Known World|age]] now.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

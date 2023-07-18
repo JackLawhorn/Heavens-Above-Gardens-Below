@@ -82,6 +82,7 @@ Making itself known in the [[Early Post-Enlightenment Era]], the Gljiva holds co
 In the [[Post-Enlightenment Era]], [[Omphalos, the City of Gardens]] and its [[Court]] are maintaining a tenuous peace with the unrelenting [[Gljiva, the Conquering Fungus]], which has created opportunity for the [[Psionics|psionic]] [[Agents of the Psionics College|agents]] of the [[Psionics College]]. Now, the [[Agents of the Psionics College#The Overgrown|Overgrown]] interface directly with the mind of the Gljiva, giving them a frightening visage but enabling them to access a near unprecedented level of [[psionics|psionic influence]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

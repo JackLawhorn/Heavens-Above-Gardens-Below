@@ -46,6 +46,7 @@ The [[Shades]] are an extramundane, [[benighted]] biome that arise in the shadow
 The shadows become animated and manifest in a form similar to the [[Mundial Aspects]]: the [[Shade motes]]. The shade motes, like the flora and fauna that populate the Shades, are not necessarily malicious but have a predilection towards trickery. In the immense darkness of these places, the shade motes summon [[phantom flames]] that lure passersby deeper into treacherous woods, swamps, and caves.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

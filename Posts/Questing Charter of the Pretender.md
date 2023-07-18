@@ -47,6 +47,7 @@ As a surprise development in these proceedings, the [[Disciples of the Pretender
 With the naming came the resources necessary for their [[quest]], as well as an insurance that their legacy would carry forward in [[Omphalos, the City of Gardens]] for better or for worse. It is generally understood in the modern day that the support of the former detractors came as a way of ensuring that their potential [[Fallen Houses|fall]] would move forward their own agendas. And sure enough, the Disciples of the Pretender are remembered today as a moral loss just like those of the [[Oremongers Guild]], [[House Lightbringer]], and the [[Materialists College]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

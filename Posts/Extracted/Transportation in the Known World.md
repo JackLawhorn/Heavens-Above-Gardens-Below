@@ -54,6 +54,7 @@ The invention of the steamship immediately predated the invention of the steam t
 With the development of long-range communication over radio transmission in the [[Early Post-Enlightenment Era]], aeronautics became a hot new field of study and industry. Just a century later, the skies above [[Omphalos, the City of Gardens]] and the surrounding regions will be dotted with airships and aerostatics kept aloft by hot and low-density gases. Although the great size and expense of these aeronautic vehicles would limit its civilian use, they would quickly be put to use in industry, colonial [[Questing Charter|Questing Charters]], exploration and intelligence gathering, and of course warfare.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

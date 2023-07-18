@@ -35,6 +35,7 @@ The [[Red Death period City of Gardens#The warding line|warding line]] which had
 The loss of all human history – equally as devastating as the razing of the [[Omphalos, the City of Gardens|City]] during the [[Burning]] – from before the [[Red Death period]] was also counteracted throughout Reconstruction. In establishing [[Public Scholarship|Public Scholarship Law]], the [[Public Record]], and the [[Hall of Precedent]], the [[House of the Sun]] and its [[Orator]] sought to ensure the survival of human history and accessibility of these materials by the populace.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

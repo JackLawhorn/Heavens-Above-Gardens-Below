@@ -14,6 +14,7 @@ Human society in [[Omphalos, the City of Gardens]] has largely developed around 
 The products of such quests are visible everywhere in the City, and in fact her own construction by the [[Oremongers Guild]] and the [[human clans]] of the [[Later Heliotropic Age]] was a worthy quest in their own time. These products are often referred to as [[Great Works]], though not all Great Works are the results of quests and not all quests produce a Great Work. There are so many of these works that some opponents of [[History of the Subjective#First Wave Henotheism|First]] and [[History of the Subjective#Second Wave Henotheism|Second Wave Henotheism]] have even criticized their prevalence throughout the City by referring to it as the "City of Monuments" rather than the "City of Gardens".
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -51,6 +51,7 @@ There exist places in the [[Known World]] and across the greater [[Nyx]] where t
 These gateways are often unstable, lasting only for a short period of time until the movement of the celestial Spheres takes them out of alignment. One such intersection is the northern reaches of the [[Deep Deserts]] of the [[Old World continent]], where the [[Prime Material Sphere]] and the [[Psionic Sphere]] overlap. The [[Deep Deserts#Mirage|Mirages]] lasted only long enough for the [[Pretender]] and their [[Disciples of the Pretender|Disciples]] to pass through before fading away for over an [[Ages of the Known World|age]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -77,6 +77,7 @@ The thorny [[Nyxblight]] vines here grow at a particularly rapid rate, and have 
 Most prominent of its [[extramundane]] properties is its ability to create illusions within the minds of those who see it. In the cases of both the [[Sun Elves]] on their [[Post-Heliotropic Elven March|Post-Heliotropic March]] and the [[Quest|questing party]] of [[House Lightbringer]], the tree was perceived as its true self but as a beautiful, living, and vibrant organism. This is assumed to be equal parts defense mechanism and lure, protecting it from attack by the forces of the [[Angels]] who would wish it harm and drawing in vulnerable travelers for it to feed upon.  
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

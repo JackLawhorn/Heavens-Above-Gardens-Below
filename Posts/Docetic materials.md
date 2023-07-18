@@ -59,6 +59,7 @@ Although most infamous as the [[Alchemy|alchemical]] byproduct of the devils' da
 The alchemists of old identified it as the product of transformation, even being produced by [[nyxfire]] itself. In fact, sulfur is the tenth most abundant element by mass across the [[Nyx]] and the fifth most in the [[Known World]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

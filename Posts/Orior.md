@@ -27,6 +27,7 @@ The Orior are most commonly recognized by their shared anatomical features. Thes
 Another shared factor of their anatomy is the possession of [[organic magics]]. Only the humans arose without such abilities of their own.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

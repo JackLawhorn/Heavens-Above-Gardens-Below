@@ -68,6 +68,7 @@ As rare as [[perigeas]], the [[Moon-Touched]] are another naturally-occurring ph
 The most infamous example of this is the [[Luminary]] – [[Luminary#Prophesy of the Luminary|prophesized]] child of the [[Orator]]'s daughter and her [[Silver Wolves|Silver Wolf]] lover, kidnapped by the [[New Silver Age]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

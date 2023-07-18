@@ -41,6 +41,7 @@ The chimera are beasts hailing from beyond the veil of the Astral Wilds, where b
 Those who survive this blending are unable to mate with other beasts and therefor the chimera population within the Astral Wilds is generally stable. They are often in a state of visible distress and aggravation, and can be a dangerous threat to [[quest|questing parties]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

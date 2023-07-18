@@ -61,6 +61,7 @@ Once tamed by the [[Sun Elves]] the [[Wild Magics|Wild Magic]] settled into what
 These campaigns also enabled the [[Lunar Aspects|Lunar]] and [[Mundial Aspects]] to converse with humanity and come into pacts of their own. Prominent examples include the [[Silver Wolves]] and the [[Oremongers Guild]] respectively.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

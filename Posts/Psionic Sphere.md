@@ -71,6 +71,7 @@ The [[Pretender]] and their [[Disciples of the Pretender|Disciples]] marched int
 > For more, see [[Deep Deserts#Mirage|Deep Deserts > Mirage]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -47,6 +47,7 @@ As early as the first working licenses were granted, small amounts began making 
 Once back within the Argent Ghetto, they invariably find their way to the [[Argent Ghetto#cland silversmiths|cland silversmiths]] whose forges produce new items of worship and whose basements become community shrines. This role is one played in secret and whose continuance relies on the discretion of others. Many raids by the [[Jurisweard]] and their [[Bloodhounds]] have been launched upon these holy sites.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

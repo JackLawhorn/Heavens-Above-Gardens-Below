@@ -33,6 +33,7 @@ Over centuries, the [[near-life]] machines – left entirely to their devices by
 They tend to the [[Isles of the Great Sea|isle]]'s gardens just as they tend to themselves, effectively counteracting the pollution inflicted by their own manufacturing. They have promoted verdancy and growth where previously there was none. They have forged relationships with the [[Mundial Aspects#elemental motes|elemental motes]] such that humanity has not been able to since the [[Fall of the Oremongers Guild|fall ]]of the [[Oremongers Guild]] in the [[Early Crisis of Hubris]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

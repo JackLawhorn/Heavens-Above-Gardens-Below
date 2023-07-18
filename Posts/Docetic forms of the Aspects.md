@@ -57,6 +57,7 @@ Some [[Aspect|Aspects]], like the [[Wolf Mother]], have large [[docetic]] forms,
 Some Ylem manifest as an [[extra-physical]] [[Standard Elven Cosmology|Sphere]] either in addition to a physical form or in place of one. These Spheres overlap with the [[Prime Material Sphere]], and are accessible from through certain means specific to the Aspect. One infamous example is the Sphere of the [[Red Court]] in which the [[Wolf Mother]] was imprisoned throughout the [[Red Death period]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

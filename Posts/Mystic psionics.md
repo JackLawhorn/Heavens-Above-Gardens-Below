@@ -50,6 +50,7 @@ At the [[Psionic Age#Dawn of the Psionic Age|dawn]] of the [[Psionic Age]], the 
 Traversal of the Dwaal remains relatively rare in the [[Post-Enlightenment Era]], and has not been deeply explored by the [[Scholars of the City#Objectivists|objectivist scholars]] of the [[Psionics College]]. Such practices were found in the Psionic Age to be unreliable and inconsistent at best. At worst, they might lead to devastating losses such as those of the [[Dreaming psions]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

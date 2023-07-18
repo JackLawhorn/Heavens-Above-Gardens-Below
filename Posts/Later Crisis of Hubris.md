@@ -49,6 +49,7 @@ Houses of the [[Court]] became the backbone of [[Omphalos, the City of Gardens]]
 > For more, see [[Decline of cland culture]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

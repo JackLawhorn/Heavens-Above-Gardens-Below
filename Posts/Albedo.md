@@ -63,6 +63,7 @@ With the discovery of [[Docetic materials#fulgurite|fulgurite]] – the footstep
 In the [[Post-Enlightenment Era]], fulgurite films were developed which allowed the aura to be seen with the human eye. This enabled the development of what would come to be called modern medicine as it would reveal blocked albedo pathways throughout the human body that are now understood to be symptomatic of any number of physical and spiritual ailments.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

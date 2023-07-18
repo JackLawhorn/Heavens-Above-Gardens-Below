@@ -58,6 +58,7 @@ Across most of the [[Omphalos, the City of Gardens|City of Gardens]], [[#Gold|go
 Those of [[Clan Wolfstepper]] who do still worship the [[Iconic pact of Clan Wolfstepper#The Wolf Mother|Wolf Mother]] have spent generations begging on the street in hopes of amassing enough [[#Silver|silver]] in change so that they may reclaim their goddess. This change is smelted in secret, forming community reserves that are worshipped as a corpse being willed to life.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

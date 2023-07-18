@@ -38,6 +38,7 @@ Closely tied with raw silver as the [[docetic]] form of their patron, the [[Luna
 > For more on silver and its ties to Clan Wolfstepper, see [[Iconic pact of Clan Wolfstepper#Silver|Iconic pact of Clan Wolfstepper > Silver]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

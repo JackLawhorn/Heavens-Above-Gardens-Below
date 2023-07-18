@@ -28,6 +28,7 @@ Dead plant matter has been found to make for particularly powerful materialist a
 Feathers, hides, and scales taken from the remains of [[Noble beasts]] are common artifacts studied and worn by materialist mages, though their magics can be limited. More internal components of such remains, such as bone and blood and organs generally contain more potent [[extramundane]] properties. The pursuit of these artifacts led to the dark and terrible [[necromancy]] of the [[Materialists College]] and its [[Necromancer demons|demons]].
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -82,6 +82,7 @@ For the Red King that in [[Ages of the Known World|ages]] past was known as [[Fa
 > - [[Demons and the Red King]]
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

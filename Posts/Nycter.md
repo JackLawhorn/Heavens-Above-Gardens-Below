@@ -71,6 +71,7 @@ Carrying the [[Red Death]] over generations has led to a number of mutations whi
 <figure style="display: flex; flex-direction: column; align-items: center; gap: 0.5em; width: fit-content; margin: 0px; padding: 1em; background: rgba(0, 0, 0, 0.25); border-radius: 0.5em;"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haeckel_Chiroptera.jpg/170px-Haeckel_Chiroptera.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haeckel_Chiroptera.jpg/170px-Haeckel_Chiroptera.jpg"></a><figcaption>Mutations of facial structure in Nycter afflicted by the Red Death.</figcaption></figure>
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

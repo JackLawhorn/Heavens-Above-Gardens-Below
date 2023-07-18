@@ -67,6 +67,7 @@ Now, in the [[Post-Enlightenment Era]], the field of [[psionics]] is more promin
 Elsewhere in the [[Known World]], its greatest psionic threat is rearing its head: [[Gljiva, the Conquering Fungus]]. First gleaned in the visions of the [[Enlightened Orator]], this all-consuming growth spreads throughout this work both in the [[Prime Material Sphere]] and in the [[Psionic Sphere]]. In its wake, entire races of the [[Orior]] and of the [[noble beasts]] have been enthralled under its influence.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))

@@ -39,6 +39,7 @@ Frenzies of [[Akụm]] may be the biggest threat to most coastal races, but the 
 Instead, their primary predator is another breed of crustacea: the fearsome [[dragon shrimp]] that will occasionally invade a consortium and pick off surprised Oklop. The bludgeoning damage dealt by the dragon shrimp's devastating dorsal slaps are uniquely effective at dealing with the hard outer shells of their large prey.
 
 ## See also
+
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
