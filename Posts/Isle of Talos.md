@@ -16,7 +16,7 @@ next: "[[The Gardens of House Talos]]"
 
 ---
 
-The Isle of Talos is a small [[Isles of the Great Sea|isle]] of the [[Great Sea]] and the second to be settled by humanity – specifically, the predecessors of [[House Talos]] before its founding who came there to escape the ramifications of their connections to the [[First Vergonic Church]] during the [[Vergonic War]] in [[Omphalos, the City of Gardens]]. It is best known as the origin of the [[simulacra]], who have developed entire cultures within its gardens.
+The Isle of Talos is a small [[Isles of the Great Sea|isle]] of the [[Great Sea]] and the second to be settled by humanity – specifically, the predecessors of [[House Talos]] before its founding who came there to escape the ramifications of their connections to the [[First Vergonic Church]] during the [[Vergonic War]] in [[Omphalos, the City of Gardens]]. It is best known as the origin of the [[simulacra]], which have developed entire cultures within its gardens.
 
 ## Workshops of House Talos
 

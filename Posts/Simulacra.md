@@ -17,7 +17,7 @@ next: "[[Expansion of the Republic]]"
 
 ---
 
-Developed by [[House Talos]] from their [[isles of the Great Sea|isle]] on the [[Great Sea]] sometime in the [[Early Renascence period|Early]]-to-Mid [[Renascence|Renascence period]], the simulacra (singular *simulacrum*) are [[near-life]] machines that mimic the generation and flow of [[albedo]] throughout the anatomy of living creatures.
+Developed by [[House Talos]] from their [[Isles of the Great Sea|isle]] on the [[Great Sea]] sometime in the [[Early Renascence period|Early]]-to-Mid [[Renascence|Renascence period]], the simulacra (singular *simulacrum*) are [[near-life]] machines that mimic the generation and flow of [[albedo]] throughout the anatomy of living creatures.
 
 ## Mechanisms of the simulacra
 
@@ -29,11 +29,11 @@ These improvements not only generated albedo much more efficiently, but optimize
 
 ## Simulacra in the Known World
 
-Today, the simulacra are a common sight throughout the [[Omphalos, the City of Gardens]], the [[colonies of the Questing Houses|colonies]] of the [[Questing Houses]], in every major [[House]], and in the homes of their [[Lord Representative|Lord Representatives]]. They are manufactured on the [[Isle of Talos]] and transported by the [[Shipwrights Guild]] whose vessels cross back and forth between the [[isles of the Great Sea|isles]] and shores of the [[Great Sea]].
+Today, the simulacra are a common sight throughout the [[Omphalos, the City of Gardens]], the [[colonies of the Questing Houses|colonies]] of the [[Questing Houses]], in every major [[House]], and in the homes of their [[Lord Representative|Lord Representatives]]. They are manufactured on the [[Isle of Talos]] and transported by the [[Shipwrights Guild]] whose vessels cross back and forth between the [[Isles of the Great Sea|isles]] and shores of the [[Great Sea]].
 
 ### Cheap labor
 
-The simulacra are seen as tools first and foremost, and their primary use as are a means of cheap labor. The machines are purchased for a small fortune but do not require food and water nor wages. It was the labor models who dug and paved the roads from [[Omphalos, the City of Gardens]] to the [[Wayfarer colonies]] of the [[Old World continent]], who forged the path along the [[Sun Coast]], and who now build the newest [[Colonies of the Questing Houses|colonies]] of the [[Republic]] in the [[lands to the south]].
+The simulacra are seen as tools first and foremost, and their primary use as are a means of cheap labor. The machines are purchased for a small fortune but do not require food and water nor wages. It was the labor models that dug and paved the roads from [[Omphalos, the City of Gardens]] to the [[Wayfarer colonies]] of the [[Old World continent]], that forged the path along the [[Sun Coast]], and that now build the newest [[Colonies of the Questing Houses|colonies]] of the [[Republic]] in the [[lands to the south]].
 
 Cheaper models serve the [[Orator]] and the [[Lord Representative|Lord Representatives]] of the [[Court]] as servants, petty trifles to be shown off and made to do menial work. These models are a common sight throughout the Republic.
 
