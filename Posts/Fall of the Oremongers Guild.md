@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.05.2023
-tag: "#SceneSunday"
+tag: "#DailyPost/SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[Oremongers Guild]]", "[[Fallen Houses]]", "[[polar onyx deposit]]", "[[Mines of the Oremongers Guild]]"]
 
 previous: "[[Questing Charter]]"
 next: "[[Warlock]]"
 ---
-`= this.tag` #DailyPost 
-# The fall of the Oremongers Guild
+`=this.tags`l of the Oremongers Guild
 `= this.Posted`
 
 **Previous:** `= this.previous`

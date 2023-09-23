@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 07.15.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[House Talos]]", "[[Isles of the Great Sea]]", "[[Simulacra]]"]
 
 previous: "[[House Talos]]"
 next: "[[The Gardens of House Talos]]"
 ---
-`= this.tag` #DailyPost 
-# The Isle of Talos
-`= this.Posted`
+`=this.tags``= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

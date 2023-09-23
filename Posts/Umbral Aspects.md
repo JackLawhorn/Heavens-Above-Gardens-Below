@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.13.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 parent: ["[[Aspect]]", "[[Major Aspects]]", "[[Known World]]", "[[Dragon]]", "[[Vestiges]]"]
 aliases: Umbral Aspect
 
 previous: "[[Fall of House Lightbringer]]"
 next: "[[Spread of the Red Death]]"
 ---
-`= this.tag` #DailyPost 
-# Umbral Aspects
+`=this.tags`Aspects
 `= this.Posted`
 
 **Previous:** `= this.previous`

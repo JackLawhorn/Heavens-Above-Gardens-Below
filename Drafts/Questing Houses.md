@@ -1,14 +1,18 @@
 ---
 dg-publish: true
 Posted: 07.21.2023
-tag: "#FactionFriday"
-parent: ["[[Republic]]", "[[Union]]", "[[Questing Charter]]", "[[Court]]"]
-
+tags:
+  - DailyPost/FactionFriday
+parent:
+  - "[[Republic]]"
+  - "[[Union]]"
+  - "[[Questing Charter]]"
+  - "[[Court]]"
+  - "[[Expansion of the Republic]]"
 previous: "[[(Theme) Scope]]"
 next: "[[Houses of Industry]]"
 ---
-`= this.tag` #DailyPost 
-# The Questing Houses
+`=this.tags`sting Houses
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -21,6 +25,10 @@ next: "[[Houses of Industry]]"
 > For more, see [[Colonies of the Questing Houses]].
 
 ## Representation
+
+### Representation in the City
+
+### Representation in the Republic
 
 ## Prominent examples
 

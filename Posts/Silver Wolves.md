@@ -1,14 +1,20 @@
 ---
 dg-publish: true
-Posted: 01.13.2023
-tag: '#FactionFriday'
-aliases: Silver Wolf
-parent: ['[[Great House]]', '[[Fallen Houses]]', '[[House]]', '[[Iconic House]]', "[[Clan Wolfstepper]]"]
-
-previous: '[[(Theme) Power]]'
-next: '[[Valley of Ruins]]'
+Posted: 2023-01-13
+tags:
+  - "#DailyPost/FactionFriday"
+aliases:
+  - Silver Wolf
+parent:
+  - "[[Great House]]"
+  - "[[Fallen Houses]]"
+  - "[[House]]"
+  - "[[Iconic House]]"
+  - "[[Clan Wolfstepper]]"
+previous: "[[(Theme) Power]]"
+next: "[[Valley of Ruins]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The Silver Wolves
 `= this.Posted`
 

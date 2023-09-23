@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.03.2023
-tag: "#FactionFriday"
+tag: "#DailyPost/FactionFriday"
 parent: ["[[House]]", "[[Great House]]", "[[Fallen Houses]]", "[[Jurisweard]]"]
 
 previous: "[[(Theme) Government and politics]]"
 next: "[[Court]]"
 ---
-`= this.tag` #DailyPost
-# House Lightbringer
-`= this.Posted`
+`=this.tags``= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

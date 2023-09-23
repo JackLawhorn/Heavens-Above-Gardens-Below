@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.17.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Known World]]", "[[Old World continent]]"]
 
 previous: "[[Fall of the Pretender]]"
 next: "[[(Theme) Prophesy]]"
 ---
-`= this.tag` #DailyPost 
-# The Deep Deserts
-`= this.Posted`
+`=this.tags`= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

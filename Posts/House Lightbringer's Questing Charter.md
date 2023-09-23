@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.03.2023
-tag: "#FactionFriday"
+tag: "#DailyPost/FactionFriday"
 alias: House Lightbringer's Quest into Oblivion, Questing Charter of House Lightbringer
 parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Quest]]", "[[Quest into Oblivion]]", "[[Questing Charter]]"]
 
 previous: "[[(Theme) Tragedy and catastrophic loss]]"
 next: "[[Questing Charter]]"
 ---
-`= this.tag` #DailyPost 
-# The Questing Charter of House Lightbringer
+`=this.tags`er of House Lightbringer
 `= this.Posted`
 
 **Previous:** `= this.previous`

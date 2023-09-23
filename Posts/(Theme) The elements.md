@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-Posted: 01.19.2023
-tag: '#ThemeThursday'
-
-previous: '[[Sink|The Sink]]'
-next: '[[Fisher Barons]]'
+Posted: 2023-01-19
+tags:
+  - "#DailyPost/ThemeThursday"
+previous: "[[Sink|The Sink]]"
+next: "[[Fisher Barons]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) The elements
 `= this.Posted`
 

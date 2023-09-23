@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-Posted: 01.26.2023
-tag: '#ThemeThursday'
-
-previous: '[[Elven Signaltower]]'
-next: '[[Oremongers Guild]]'
+Posted: 2023-01-26
+tags:
+  - "#DailyPost/ThemeThursday"
+previous: "[[Elven Signaltower]]"
+next: "[[Oremongers Guild]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Legion and monad
 `= this.Posted`
 

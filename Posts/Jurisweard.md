@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.17.2023
-tag: '#FactionFriday'
+tag: '#DailyPost/FactionFriday'
 parent: ['[[Union]]']
 
 previous: '[[(Theme) Reinvention]]'
 next: '[[Law and justice in the City]]'
 ---
-`= this.tag` #DailyPost
-# The Jurisweard
-`= this.Posted`
+`=this.tags`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

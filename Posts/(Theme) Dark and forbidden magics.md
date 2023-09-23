@@ -1,13 +1,12 @@
 ---
 dg-publish: true
 Posted: 04.27.2023
-tag: "#ThemeThursday"
+tag: "#DailyPost/ThemeThursday"
 
 previous: "[[Isle of Melos]]"
 next: "[[Necromancer demons]]"
 ---
-`= this.tag` #DailyPost 
-# (Theme) Dark and forbidden magics
+`=this.tags` Dark and forbidden magics
 `= this.Posted`
 
 **Previous:** `= this.previous`

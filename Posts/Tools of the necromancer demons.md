@@ -1,14 +1,13 @@
 ---
 dg-publish: true
-Posted: 07.10.2023
-tag: "#MagicSystemMonday"
-parent: ["[[Necromancy]]", "[[Necromancer demons]]", "[[Necromancer devils]]"]
+Posted: 04.01.2023
+tag: "#DailyPost/CivilizationSaturday"
+parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]", "[[Waterways]]"]
 
-previous: "[[The Jurisweard versus the New Vergonic Movement]]"
-next: "[[Vergonic War]]"
+previous: "[[Soldiers of the Red Court]]"
+next: "[[Visions of the Daywatch]]"
 ---
-`= this.tag` #DailyPost 
-# Tools of the necromancer demons
+`=this.tags`er Torrente
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,22 +15,46 @@ next: "[[Vergonic War]]"
 
 ---
 
-## Death whistles
+The river [[Torrente]] flows into [[Omphalos, the City of Gardens]] from the northeast, originating from some as of yet unknown mountain peak within the [[Astral Wilds]]. Criss-crossing with the streets and [[rayas]] of the [[rota]], it flows past [[the Maw]] and then into the [[Old City]] before meeting the [[Sink]] at the sound upon which the [[Barony of Stilts]] was founded. Along its stream, a number of artificially-created canals expand outward from it and bridges extend over it, a network that connects the City.
 
-Perhaps the most ghoulish of the tools of the [[necromancer demons]] are the whistles of their [[necromancer demons#death squads|death squads]]. Each is painstakingly carved from stone and cherry and dark magics by their owners, and holds within it a chunk of flesh: the vocal chords of some poor victim. Etched within the accursed raw material are the screams the demons themselves bore from their prey as they eradicated them, and through their [[necromancy]] those same sounds emanate from the death whistles when blown.
+## Industries of the river
 
-The death squads – on their hunts far from the shores of the [[Isle of Melos]] – use such tools either to terrorize or to lure their prey. The death whistles are prized for their effectiveness in  both use cases.
+A great many industries and the [[Houses of Industry]] that represent them in [[Court]] are built along the stream of the river Torrente.
 
-## Devil's cleavers
+### Water and sewage
 
-Even today – in the [[Post-Enlightenment Era]] when such arms have been made near obsolete by the [[Blackpowder Guild]] and their weapons of war – the [[necromancer demons]] are known to wield bladed weapons known only as *devil's cleavers*. Combining all their knowledge in the realms of [[materialist magics]] and [[necromancy]], these tools have been carved from wood petrified by prolonged exposure the [[nyxfire]] storms of the [[Wild Magics]].
+A life-giving artery flowing through [[Omphalos, the City of Gardens]], the river Torrente provides readily-available, fresh drinking water to its population. The flow of the elemental [[Mundial Aspects#water motes|water motes]] from the [[Astral Wilds]] to the northeast sanitizes the water, keeping it free from contaminants. Starting in the [[Red Death period]] and the [[Later Crisis of Hubris]], however, it has become a point of superstition to add a small silver coin or ball bearing in order to ensure sanitization.
 
-This material is hard as stone and contains materialist magics that allow the wielders of the devil's cleavers to slice and bisect and chop limb from torso without severing the all-important pathways through which [[albedo]] flows through the anatomy. This unique attribute makes them particularly important to the [[necromancer devils]] who seek to claim these parts for themselves through the dark practice of [[necromantic grafts]].
+In the initial [[Rise of the Oremongers Guild|rising up of the City]] by the newly founded [[Oremongers Guild]], a number of [[Tunnels beneath the City|underground tunnels]] were constructed which have since been used as a sewer system to carry waste water out. In the construction of the [[New City]] after the [[Crisis of Hubris]], this infrastructure was replicated and extended past the bounds of the Old City.
 
-## See also
+### Transportation
 
-```dataview
-TABLE Posted, tag as "Daily Tag"
-WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
-SORT Posted ASC
-```
+Since the founding of the [[Shipwrights Guild]], river-faring vessels – designed based on secret knowledge imparted from the elemental [[Mundial Aspects#water motes|water motes]] themselves – have traveled up and down the river Torrente. These vessels, mostly including simple floating platforms and small shallops, provide much needed transportation of personnel and cargo throughout [[Omphalos, the City of Gardens]].
+
+In the [[Later Heliotropic Age]], the river Torrente was a valuable means of transporting the raw material extracted from the [[Mines of the Oremongers Guild|mines]] of the [[Oremongers Guild]] into the City. Providing such transportation services afforded the Guild the funds needed to develop the [[Barony of Stilts]] and their first fleet of ships fit for traversing the more volatile [[Sink]].
+
+> For more, see [[Transportation in the Known World#Nautical vehicles|Transportation in the Known World > Nautical vehicles]].
+
+### Waterwheels and water power
+
+In the [[Renascence]], the [[Waterwheel Guild]] would arise as a new [[Houses of Industry|House of Industry]] – later a founding member of the [[Engineers Union]] – offering mechanical power generated by the flow of the elemental [[Mundial Aspects#water motes|water motes]] in the river Torrente. These waterwheels were used to grind flour and agricultural produce, cutting up materials such as pulp or timber, and even metal shaping.
+
+## Peoples of the river
+
+In addition to the human [[House|Houses]] that rose up around the path of the river Torrente, it is also home to a number of races of the [[Orior]], [[noble beasts]], and of course the [[Mundial Aspects|Mundial]] and [[Minor Aspects]] who govern this domain.
+
+### Aspects of the river
+
+A great number of [[Aspect|Aspects]] of [[Ylem]] call the river [[Torrente]] home. In [[Omphalos, the City of Gardens]], the elemental [[Mundial Aspects#water motes|water motes]] who flow out of the [[Astral Wilds]] to the northeast turn to the [[Mundial Aspects#Motes of the landscapes|motes of the landscapes]] who govern the rivers of the [[Known World]]. Although [[Sobek (Minor Aspect)|Sobek]] the [[Minor Aspects|Minor Aspect]] who bled this particular river from the blood of her own body was killed by the [[Sun Elves]] for [[paradoxy]] against the divine blueprint of the [[Angels]], their children the [[Sobek riverfolk]] continue to worship her here.
+
+In the [[Renascence]], a great many Minor Aspects appeared who governed the new domains of the City. Traveling down the river Torrente, you will find Aspects of the canals and the bridges and the docks.
+
+### Orior and noble beasts of the river
+
+Many races of the [[Orior]], for whom the urban sprawl of [[Omphalos, the City of Gardens]] is an unnatural environment, have come to live in and around the river Torrente. Some prominent examples include:
+- The basks of [[Sobek]] who have come to call the City home live in and around the river, both because they are adapted to such an environment and out of worship for their [[iconic pacts|patron]] [[Aspect]] and namesake, [[Sobek (Minor Aspect)|Sobek, Minor Aspect of Rivers]].
+- The [[Mudlark]] population is minimal as they are accustomed to the muddy, brackish waters they call home outside of the City. Those who do come here flock to the familiarity of the river.
+- The [[Procyon gaze]] has also come to live on the banks of the river and underneath the bridges which cross it.
+- Although it is uncommon, [[Oklop]] of the [[Sun Coast]] consortium have been known to occasionally wander upstream from.
+
+The aquatic races of the [[noble beasts]] can also be seen in its waters, including otters, river dolphins, hippos, water striders, frogs, and a great many fish such as the tarpon.

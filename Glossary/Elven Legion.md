@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-#Glossary
+#Extra/Glossary
 # The Elven Legion
 
 A race of [[Nyxfarer|nyxfaring]] warriors whose [[nyxfall]] in the [[Known World]] ushered it out of [[prehistory]] and into the [[Heliotropic Age]]. [[Organic magics of the Elven Legion|Bioengineered]] by the [[Angels]], they are the greatest of all the races of the [[Orior]].

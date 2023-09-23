@@ -3,7 +3,7 @@ dg-publish: true
 aliases: Old Elven
 parent: ["[[Elven culture]]"]
 ---
-#Glossary 
+#Extra/Glossary 
 # The Elven tongue
 
 The divinely perfect language of the [[Elven Legion]] that is naturally and universally understandable. These [[organic magics]] facilitate conversation between the Legion, the races of the [[Orior]], and the [[noble beasts]], unifying them with a single shared language.

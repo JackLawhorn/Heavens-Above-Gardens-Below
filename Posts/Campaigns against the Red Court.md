@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.28.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]", "[[Red Court]]", "[[Apotropaics]]", "[[Soldiers of the Red Court]]"]
 
 previous: "[[Hexecraft pacts]]"
 next: "[[Red Death]]"
 ---
-`= this.tag` #DailyPost 
-# Campaigns against the Red Court
+`=this.tags`the Red Court
 `= this.Posted`
 
 **Previous:** `= this.previous`

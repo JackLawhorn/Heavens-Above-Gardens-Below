@@ -3,7 +3,7 @@ dg-publish: true
 aliases: shade
 parent: ["[[Aspect]]", "[[Umbral Aspects]]"]
 ---
-#Glossary 
+#Extra/Glossary 
 # Shades
 
 Biomes cast in the stark shadow of [[nyxfire]] and its divine light. This magical phenomenon is most often caused by proximity to large burns of pure nyxfire.

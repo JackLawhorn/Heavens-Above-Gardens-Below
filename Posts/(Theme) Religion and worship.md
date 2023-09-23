@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 02.23.2023
-tag: '#ThemeThursday'
+tag: '#DailyPost/ThemeThursday'
 
 previous: '[[Minor Aspects]]'
 next: '[[Canon of Heterodoxies]]'
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Religion and worship
 `= this.Posted`
 

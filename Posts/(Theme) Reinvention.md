@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 02.16.2023
-tag: '#ThemeThursday'
+tag: '#DailyPost/ThemeThursday'
 
 previous: '[[Aspect]]'
 next: '[[Jurisweard]]'
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Reinvention
 `= this.Posted`
 

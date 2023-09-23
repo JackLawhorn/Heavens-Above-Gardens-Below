@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.22.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[Class and caste in the City]]"]
 aliases: city district, district, districts
 
 previous: "[[Mouseion]]"
 next: "[[Triumph of the Sobek]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Districts of the City of Gardens
 `= this.Posted`
 

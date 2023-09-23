@@ -1,18 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.22.2023
-tag: '#WorldWednesday'
+tag: '#DailyPost/WorldWednesday'
 aliases: Minor Aspect
 parent: ['[[Aspect]]']
 
 previous: '[[First Golden Age]]'
 next: '[[(Theme) Religion and worship]]'
 ---
-`= this.tag` #DailyPost
-# Minor Aspects
-`= this.Posted`
-
-**Previous:** `= this.previous`
+`=this.tags`.previous`
 **Next:** `= this.next`
 
 ---

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.10.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[Currencies of the City]]", "[[Cumbergrounds]]", "[[Argent Ghetto]]", "[[Red Quarter]]", "[[City districts]]"]
 
 previous: "[[Bloodhounds]]"
 next: "[[Persecution of Clan Wolfstepper]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Class and caste in the City
 `= this.Posted`
 

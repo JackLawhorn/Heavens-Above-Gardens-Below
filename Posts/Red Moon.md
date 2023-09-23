@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.05.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]"]
 
 previous: "[[Long Daylight]]"
 next: "[[(Theme) City under siege]]"
 ---
-`= this.tag` #DailyPost 
-# The Red Moon
+`=this.tags` Moon
 `= this.Posted`
 
 **Previous:** `= this.previous`

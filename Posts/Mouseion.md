@@ -1,16 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.21.2023
-tag: "#FactionFriday"
+tag: "#DailyPost/FactionFriday"
 parent: ["[[Scholars of the City]]"]
 aliases: bards, bardistry, artists
 
 previous: "[[(Theme) Arms race]]"
 next: "[[City districts]]"
 ---
-`= this.tag` #DailyPost 
-# The Mouseion
-`= this.Posted`
+`=this.tags`is.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

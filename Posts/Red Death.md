@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.29.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Court]]", "[[Red Death period City of Gardens]]", "[[Hexecraft pacts]]"]
 
 previous: "[[Campaigns against the Red Court]]"
 next: "[[(Theme) Body horror]]"
 ---
-`= this.tag` #DailyPost 
-# The Red Death
+`=this.tags` Death
 `= this.Posted`
 
 **Previous:** `= this.previous`

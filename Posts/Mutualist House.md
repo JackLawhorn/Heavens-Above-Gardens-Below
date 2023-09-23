@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.18.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Court]]", "[[Mutualist pacts]]"]
 
 previous: "[[Nycter]]"
 next: "[[Posts/Arrival of the Red Court in the City|Arrival of the Red Court in the City]]"
 ---
-`= this.tag` #DailyPost 
-# Mutualist House
-`= this.Posted`
+`=this.tags` this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

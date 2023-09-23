@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.07.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Crisis of Hubris]]"]
 
 previous: "[[Warlock]]"
 next: "[[The Maw]]"
 ---
-`= this.tag` #DailyPost 
-# The Early Crisis of Hubris
+`=this.tags`ly Crisis of Hubris
 `= this.Posted`
 
 **Previous:** `= this.previous`

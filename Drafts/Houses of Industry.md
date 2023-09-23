@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 07.22.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Union]]", "[[Court]]"]
 aliases: House of Industry
 
 previous: "[[Questing Houses]]"
 next: "[[The Dreaming psions]]"
 ---
-`= this.tag` #DailyPost 
-# The Houses of Industry
+`=this.tags`ses of Industry
 `= this.Posted`
 
 **Previous:** `= this.previous`

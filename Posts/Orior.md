@@ -1,14 +1,15 @@
 ---
 dg-publish: true
-Posted: 06.07.2023
-tag: "#WorldWednesday"
-parent: ["[[Known World]]"]
+Posted: 02.06.2023
+tag: '#DailyPost/MagicSystemMonday'
+aliases: pact magic, pact, pacts, pact-bound
+parent: ['[[Categorization of magics]]', '[[Discoveries in the Known World]]']
 
-previous: "[[Early Renascence period]]"
-next: "[[(Theme) Order and freedom]]"
+previous: '[[Naming of the Great Houses]]'
+next: '[[History of the Subjective]]'
 ---
-`= this.tag` #DailyPost 
-# Orior of the Known World
+`=this.tags`ags`ags`
+# Pact magics
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,15 +17,49 @@ next: "[[(Theme) Order and freedom]]"
 
 ---
 
-The Orior – from the [[Organic magics of the Elven Legion#ELven tongue|Old Elven]] word meaning "to stand up" – are those peoples who have risen up to the light of [[Ylem]]. They are the children of the [[Angels]] and the inheritors of the [[Known World]].
+A pact is a relationship between two parties that is itself imbued with magics. These parties are called the "pact-bound".
 
-The races of the Orior are nearly always risen up through contact with the [[Sun Elves]], so much so that the histories of these peoples are universally divided into [[pre-contact]] and post-contact periods. The exact mechanisms of this process are unknown, but it is thought that they involve the imparting of the [[Elven Tongue]] and other strange [[organic magics]].
+## Mechanics of a pact
 
-## Anatomy of the Orior
+A pact, once entered into, takes form within the [[Astral Sphere]] – home of the [[Ylem]] – as a spectral connection between the [[Albedo#aura|auras]] of both parties. [[Albedo]] is transferred through this connection, granting magics to one or both parties depending on the type of pact formed and the terms by which it was entered into.
 
-The Orior are most commonly recognized by their shared anatomical features. These include segmentation of the body into a separate head and torso, and the differentiation between arms and legs which are used to stand upright. The majority of discovered races have been mammalian and very few have evolved from invertebrate creatures – all but the [[Verdant Knights]] who arose from the flora of the [[Known World]] and the [[Reef Knights]] who arose from the depths of the [[Sink]].
+### Components of a pact
 
-Another shared factor of their anatomy is the possession of [[organic magics]]. Only the humans arose without such abilities of their own.
+The scholars and paladins of the Iconic Houses have defined three primary factors in the forming of pacts: [[#type|type]], [[#terms|terms]], and [[#consent|consent]].
+
+#### Type
+
+The type of pact is dependent on the relative magics of the pact-bound parties, and dictate the direction in which [[Albedo]] flows from one to the other. Below are three types of pacts that are defined, documented, and recognized.
+
+[[Iconic pacts]] are formed between an iconic mage and a patron [[Aspect|Aspect of Ylem]]. These pacts are generally machinations by which the Aspect asserts influence within the [[Prime Material Sphere]], and can grant powerful, primal magics significantly more powerful than those of the other pacts.
+
+[[Mutualist pacts]] are formed between two living beings rather than an iconic mage and a patron Aspect. Typically significantly closer in relative magics, both parties benefit greatly from this relationship. Mutualist pacts are most commonly formed between the races of the [[Orior]] and a race of the [[Noble beasts]].
+
+[[Hexecraft pacts]] are formed between a witch and the [[animalcules]] within their very body – the [[monad]] to the [[legion]] of physical form – or those of other living things. Through these pacts, the witches can draw albedo from their own form and into their [[Albedo#aura|aura]]. In this process of drawing out the albedo, the witch gains a certain degree of control over the pact-bound cells and can transform them with enough skill.
+
+#### Terms
+
+The terms are defined before the pact itself is formed. These terms generally define specifics on the flow of [[Albedo]] and magics between the [[Albedo#aura|auras]] of the [[Pact magics|pact-bound]], as well as terms by which the pact may be altered or [[#Breaking a pact|broken]]. Terms of iconic pacts generally include acts of worship that must be carried out by the pact-bound in the name of their patron.
+
+In the case of an iconic or [[Hexecraft pacts|hexecraft pact]], the terms are defined by the patron, although it is still within the ability of the less powerful pact-bound party not to give consent and enter into the pact.
+
+#### Consent
+
+Finally, informed consent must be given by both parties for a pact to be formed – meaning that the type and terms of the pact must be understood by both parties.
+
+[[Hexecraft pacts|hexecraft]], by which infinitesimal pacts are formed with the [[animalcules]] within one's form rather than with the individual themselves, was originally thought to be forced upon one without their consent – called "hexes" or "curses".
+
+### Breaking a pact
+
+Formed within the [[Astral Sphere]], terms are more or less binding for all but the most powerful of patron [[Aspect|Aspects]], but can indeed be broken by their pact-bound according to the terms.
+
+In the case of [[iconic pacts]] entered into with a patron Aspect, the simple revoking of consent is often not enough to break it. Some iconic pacts are even genetically inherited, passing these magics across generations and down entire bloodlines.
+
+#### Warlock, the Pact Breakers
+
+Those who have broken pacts are known by an [[Elven tongue|Old Elven]] word, "warlock", and are often permanently scarred by the act. The breaking of a pact, especially without carefully following any agreed-upon terms to do so, severs the tie formed within the [[Astral Sphere]] and [[benighted|benights]] the warlock's [[Albedo#aura|aura]] there. Depending on the type and terms of the pact itself, this scar may extend beyond the warlock's [[Albedo]] and to their mind and form as well.
+
+Warlock may find it difficult to form the same type of pact, to form any pact at all, or even to wield other types of magics entirely due to the damage caused to their aura.
 
 ## See also
 

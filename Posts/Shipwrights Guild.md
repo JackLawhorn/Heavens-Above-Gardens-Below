@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.10.2023
-tag: "#FactionFriday"
+tag: "#DailyPost/FactionFriday"
 parent: ["[[House]]", "[[Guild]]", "[[Houses of Industry]]", "[[Engineers Union]]", "[[Barony of Stilts]]", "[[Transportation in the Known World]]"]
 
 previous: "[[(Theme) Virtue and sin]]"
 next: "[[Barony of Stilts]]"
 ---
-`= this.tag` #DailyPost 
-# Shipwrights Guild
+`=this.tags`ghts Guild
 `= this.Posted`
 
 **Previous:** `= this.previous`

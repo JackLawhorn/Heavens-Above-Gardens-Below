@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 05.11.2023
-tag: "#ThemeThursday"
+tag: "#DailyPost/ThemeThursday"
 
 previous: "[[Gold Coast]]"
 next: "[[Disciples of the Pretender]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # (Theme) The messiah myth
 `= this.Posted`
 

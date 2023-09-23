@@ -1,16 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.13.2023
-tag: '#MagicSystemMonday'
+tag: '#DailyPost/MagicSystemMonday'
 aliases: materialist, materialists
 parent: ["[[Categorization of magics]]", "[[Materialists College]]", "[[History of materialist magics]]"]
 
 previous: '[[The Elf who fell from the sky]]'
 next: '[[History of Materialist magics]]'
 ---
-`= this.tag` #DailyPost
-# Materialist magics
-`= this.Posted`
+`=this.tags``= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

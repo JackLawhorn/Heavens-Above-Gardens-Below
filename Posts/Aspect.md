@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.15.2023
-tag: '#WorldWednesday'
+tag: '#DailyPost/WorldWednesday'
 aliases: Aspects
 parent: ['[[Ylem]]']
 
 previous: '[[Materialist magics]]'
 next: '[[(Theme) Reinvention]]'
 ---
-`= this.tag` #DailyPost
-# Aspects of Ylem
+`=this.tags`of Ylem
 `= this.Posted`
 
 **Previous:** `= this.previous`

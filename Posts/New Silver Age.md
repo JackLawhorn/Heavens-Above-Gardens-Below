@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.20.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Clan Wolfstepper]]", "[[Silver Wolves]]", "[[Remnants of the Fallen Houses]]", "[[Luminary]]", "[[Prophesy of the Luminary]]", "[[Fall of the Silver Wolves]]", "[[cults]]"]
 
 previous: "[[Clan Wolfstepper]]"
 next: "[[Sin of the Silver Wolves]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The New Silver Age
 `= this.Posted`
 

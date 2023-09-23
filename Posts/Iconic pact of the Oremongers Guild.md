@@ -1,13 +1,15 @@
 ---
 dg-publish: true
-Posted: 01.30.2023
-tag: '#MagicSystemMonday'
-parent: ['[[Iconic pacts]]', '[[Oremongers Guild]]']
-
-previous: '[[Rise of the Oremongers Guild]]'
-next: '[[Post-Heliotropic Elven March]]'
+Posted: 2023-01-30
+tags:
+  - "#DailyPost/MagicSystemMonday"
+parent:
+  - "[[Iconic pacts]]"
+  - "[[Oremongers Guild]]"
+previous: "[[Rise of the Oremongers Guild]]"
+next: "[[Post-Heliotropic Elven March]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # Iconic pact of the Oremongers Guild
 `= this.Posted`
 

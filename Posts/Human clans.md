@@ -1,16 +1,20 @@
 ---
 dg-publish: true
-Posted: 01.07.2023
-tag: "#CivilizationSaturday"
-parent: ["[[Orior]]", "[[Decline of cland culture]]"]
-aliases: Cland humanity, Early humanity
-
+Posted: 2023-01-07
+tags:
+  - "#DailyPost/CivilizationSaturday"
+parent:
+  - "[[Orior]]"
+  - "[[Decline of cland culture]]"
+aliases:
+  - Cland humanity
+  - Early humanity
 previous: "[[Sun Elves]]"
 next: "[[Birth of the Silver Wolves]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The human clans
-`= this.Posted`
+`=this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

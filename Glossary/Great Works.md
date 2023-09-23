@@ -2,7 +2,7 @@
 dg-publish: true
 alias: Great Work
 ---
-#Glossary 
+#Extra/Glossary 
 # Great Works
 
 A ritual and form of human art as old as the [[Omphalos, the City of Gardens|City of Gardens]] itself, the Great Works trace their history back to the [[History of the Subjective#First Wave Henotheism|First Wave Henotheism]] movement. In truth, the entirety of the City is one massive Great Work densely populated with others that dot every street and square and garden.

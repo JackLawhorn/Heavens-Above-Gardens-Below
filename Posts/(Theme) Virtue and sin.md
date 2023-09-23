@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 03.09.2023
-tag: "#ThemeThursday"
+tag: "#DailyPost/ThemeThursday"
 
 previous: "[[The Maw]]"
 next: "[[Shipwrights Guild]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Virtue and sin
 `= this.Posted`
 

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.13.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Human clans]]", "[[Cland]]"]
 
 previous: "[[Silver in the City]]"
 next: "[[Old World Continent]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The decline of cland culture
 `= this.Posted`
 

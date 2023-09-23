@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.11.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Later Crisis of Hubris]]", "[[Reconstruction]]", "[[Elven Signaltower]]", "[[Campaigns against the Red Court]]", "[[Omphalos, the City of Gardens]]"]
 
 previous: "[[Nyxfire motes]]"
 next: "[[Shade motes]]"
 ---
-`= this.tag` #DailyPost 
-# The Burning
-`= this.Posted`
+`=this.tags`s.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

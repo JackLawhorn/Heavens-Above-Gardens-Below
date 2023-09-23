@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.12.2023
-tag: "#SceneSunday"
+tag: "#DailyPost/SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[House Lightbringer]]", "[[Nyxblight Tree]]", "[[Nycter]]", "[[Red Court]]", "[[Red Death]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]", "[[Fallen Houses]]"]
 
 previous: "[[Shipwrights Guild]]"
 next: "[[Umbral Aspects]]"
 ---
-`= this.tag` #DailyPost 
-# Fall of House Lightbringer
+`=this.tags`tbringer
 `= this.Posted`
 
 **Previous:** `= this.previous`

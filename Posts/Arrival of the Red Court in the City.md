@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.19.2023
-tag: "#SceneSunday"
+tag: "#DailyPost/SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Court]]", "[[Campaigns against the Red Court]]"]
 
 previous: "[[Mutualist House]]"
 next: "[[Red Court]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Arrival of the Red Court in the City
 `= this.Posted`
 

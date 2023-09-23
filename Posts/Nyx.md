@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 07.05.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Standard Elven Cosmology]]", "[[Ylem]]", "[[Dragon]]", "[[Roiling of the Nyx]]"]
 
 previous: "[[History of Worship in the City]]"
 next: "[[New Vergonic Movement]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The Nyx
 `= this.Posted`
 

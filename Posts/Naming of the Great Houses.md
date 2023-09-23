@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.05.2023
-tag: '#SceneSunday'
+tag: '#DailyPost/SceneSunday'
 parent: ['[[Court]]', '[[Great House]]', '[[Heliotropic Age]]', '[[Later Heliotropic Age]]', "[[House Lightbringer]]", "[[Materialists College]]", "[[Silver Wolves]]", "[[Oremongers Guild]]"]
 
 previous: '[[Court]]'
 next: '[[Pact magics]]'
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The naming of the Great Houses
 `= this.Posted`
 

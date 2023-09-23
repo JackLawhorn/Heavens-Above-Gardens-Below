@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # List of posts
 ```dataview
-TABLE Posted, tag as "Daily Tag"
+TABLE Posted, tags as "Daily Tag"
 From #DailyPost AND -"Drafts" AND -"_private/templates"
 SORT Posted ASC
 ```

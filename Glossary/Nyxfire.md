@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-#Glossary
+#Extra/Glossary
 # Nyxfire
 
 The divine flames and physical form of [[Ylem]], nyxfire is an unstoppable force of pure magic taking two primary forms: flames and bolts. Both are governed in the [[Known World]] by elemental [[Nyxfire motes]].

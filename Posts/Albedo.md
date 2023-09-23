@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 07.03.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 parent: ["[[Organic magics]]", "[[Ylem]]", "[[Astral Sphere]]", "[[Magics in the Known World]]"]
 
 previous: "[[State Religion]]"
 next: "[[History of Worship in the City]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Albedo
 `= this.Posted`
 
@@ -46,7 +46,7 @@ Albedo is the energy of [[Ylem]] within the [[Astral Sphere]] themselves and the
 
 The Aspects can generally be understood as sentient wells of albedo, thin points in the membrane between these two [[Standard Elven Cosmology|Spheres]]. The greatest of the Aspects – the [[nyxfire motes]] who burn with the purest power of Ylem – are holes punched through the membrane between the Spheres themselves, revealing the divinity beyond. Such was also the case with the [[nyxfire]] storms of the [[Wild Magics]], which necessitated the coming of the [[Elven Legion]] to this [[fallen world]] to clean up such [[paradoxy]].
 
-There exist other docetic forms within the [[Known World]] and across the greater [[Nyx]], especially [[docetic materials]] like [[docetic materials#fulgurite|fulgurite]], [[psicrystal]], and [[brimstone]]. These are called *reactive* as they are yielded from the natural turning of the Spheres themselves and as byproducts of the forces of reality. Fulgurite is yielded by the bolts of the nyxfire motes clashing with great friction against the [[Mundial Aspects]]. Psicrystal is yielded by the friction between the Prime Material Sphere an the [[Psionic Sphere]]. Brimstone is the byproduct of [[alchemy]], which approaches paradoxy against the reality of the Nyx itself.
+There exist other docetic forms within the [[Known World]] and across the greater [[Nyx]], especially [[docetic materials]] like [[docetic materials#fulgurite|fulgurite]], [[psicrystal]], and [[brimstone]]. These are called *reactive* as they are yielded from the natural turning of the Spheres themselves and as byproducts of the forces of reality. Fulgurite is yielded by the bolts of the nyxfire motes clashing with great friction against the [[Mundial Aspects]]. Psicrystal is yielded by the friction between the Prime Material Sphere an the [[Psionic Sphere]]. Brimstone is the byproduct of [[Alchemy]], which approaches paradoxy against the reality of the Nyx itself.
 
 > [!INFO] Additional resources
 > For more on docetic manifestations, see...

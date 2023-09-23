@@ -2,7 +2,7 @@
 dg-publish: true
 parent: ["[[City districts]]"]
 ---
-#Glossary
+#Extra/Glossary
 # The New City
 
 The "New City" refers to the portion of [[Omphalos, the City of Gardens]] which was built by human hands in the [[Renascence|Renascence period]] and beyond. In contrast, the [[Old City]] refers to the portion of the City risen up by the [[Iconic pacts|iconic]] magics of the [[Oremongers Guild]]. Generally not included in the New City is the [[Barony of Stilts]].

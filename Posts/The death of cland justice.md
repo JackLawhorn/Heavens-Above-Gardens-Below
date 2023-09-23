@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.19.2023
-tag: "#SceneSunday"
+tag: "#DailyPost/SceneSunday"
 parent: ["[[Heliotropic Age]]", "[[Later Heliotropic Age]]", "[[Law and justice in the City]]", "[[Jurisweard]]"]
 
 previous: "[[Law and justice in the City]]"
 next: "[[Combat Arts]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The death of cland justice
 `= this.Posted`
 

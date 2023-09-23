@@ -1,14 +1,14 @@
 ---
 dg-publish: true
-Posted: 04.01.2023
-tag: "#CivilizationSaturday"
-parent: ["[[Known World]]", "[[Omphalos, the City of Gardens]]", "[[Waterways]]"]
+Posted: 04.23.2023
+tag: "#DailyPost/SceneSunday"
+parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Materialists College]]", "[[Sobek]]", "[[Fall of the Materialists College]]"]
+alias: Triumph
 
-previous: "[[Soldiers of the Red Court]]"
-next: "[[Visions of the Daywatch]]"
+previous: "[[City districts]]"
+next: "[[Necromancy]]"
 ---
-`= this.tag` #DailyPost 
-# The river Torrente
+`=this.tags`ek
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,46 +16,72 @@ next: "[[Visions of the Daywatch]]"
 
 ---
 
-The river [[Torrente]] flows into [[Omphalos, the City of Gardens]] from the northeast, originating from some as of yet unknown mountain peak within the [[Astral Wilds]]. Criss-crossing with the streets and [[rayas]] of the [[rota]], it flows past [[the Maw]] and then into the [[Old City]] before meeting the [[Sink]] at the sound upon which the [[Barony of Stilts]] was founded. Along its stream, a number of artificially-created canals expand outward from it and bridges extend over it, a network that connects the City.
+It was dawn when the Triumph of the [[Sobek]] arrived in [[Omphalos, the City of Gardens]], their ranks marching through the City's north gate. If not for the silence of the alarm bells and the escort of a pack of [[Silver Wolves]], they might have been received by the populace as an invading troop of enemy warriors. Still, their arrival was a surprise to all but a select and trusted few.
 
-## Industries of the river
+Humanity had heard tales of this race of the [[Orior]] – the riverfolk whose [[iconic pacts|patron]] [[Aspect]] and [[Sobek(Minor Aspect)|namesake]] bled the rivers themselves – since the [[Elven March]], but had never seen them with their own eyes. And they were as the tales painted them: altogether alien and seemingly far more ancient than the humans themselves.
 
-A great many industries and the [[Houses of Industry]] that represent them in [[Court]] are built along the stream of the river Torrente.
+Their muscular bodies were covered in rough, scaly skin, dark green or black in color. A few who marched in positions of particular prominence were white as if covered in a layer of ash. Their broad, flattened snouts housed powerful jaws, and their jagged and teeth were visible even when their mouths were closed. Their eyes, high on the head and protruding slightly, lent them the appearance of alertness. Their short legs ended in webbed feet that betrayed their natural environment. Perhaps most distinctive of all were the powerful tails that dragged behind them, leaving trails in the dirt.
 
-### Water and sewage
+They wore simple cloth under ceremonial armor crafted from teeth and talons and bone. Some carried hooked spears like the harpoons of the [[Fisher Barons]], but many marched unarmed. And in truth they did not need them, for their countenance alone made many of the watchers on question if the [[Dragon]] himself was so formidable.
 
-A life-giving artery flowing through [[Omphalos, the City of Gardens]], the river Torrente provides readily-available, fresh drinking water to its population. The flow of the elemental [[Mundial Aspects#water motes|water motes]] from the [[Astral Wilds]] to the northeast sanitizes the water, keeping it free from contaminants. Starting in the [[Red Death period]] and the [[Later Crisis of Hubris]], however, it has become a point of superstition to add a small silver coin or ball bearing in order to ensure sanitization.
+But this was not the only shocking sight that day, for amidst the Sobek and the Silver Wolves who escorted them was another party almost lost in their ranks: one dozen [[Sun Elves]] of the [[Elven Legion|Legion]]. No living Elf had been seen by human eyes since the [[Later Heliotropic Age]], but they were as beautiful as the legends told. Their once-gleaming bronze armor looked worn and dulled, and it was clear that they were coming to the end of a long journey.
 
-In the initial [[Rise of the Oremongers Guild|rising up of the City]] by the newly founded [[Oremongers Guild]], a number of [[Tunnels beneath the City|underground tunnels]] were constructed which have since been used as a sewer system to carry waste water out. In the construction of the [[New City]] after the [[Crisis of Hubris]], this infrastructure was replicated and extended past the bounds of the Old City.
+Noticing them from the windows of the surrounding homes, any who had not yet done so flocked to the streets to receive this Triumph and followed them on their march through the [[rota]] with great intrigue. As they marched down the [[rayas|raya]], which led them towards the [[Elven Signaltower]], the crowd grew and grew until it seemed impossible that all of humanity was not marveling at the sight. It drew those displaced by the devastation of the [[Red Death period]] and the [[Burning]]. It drew humble workers of the [[Houses of Industry]] away from their work towards [[Reconstruction]]. And it drew [[Lord Representative|Lord Representatives]], who were just as stunned as their constituents.
 
-### Transportation
+As they passed the [[Scholars Quarter]], it drew students and teachers and artists and philosophers. Only the scholars of the [[Materialists College]] did not join the crowd. And if anyone had been looking at them they would have seen faces betraying visceral fear as they ran away in the direction of their [[College]].
 
-Since the founding of the [[Shipwrights Guild]], river-faring vessels – designed based on secret knowledge imparted from the elemental [[Mundial Aspects#water motes|water motes]] themselves – have traveled up and down the river Torrente. These vessels, mostly including simple floating platforms and small shallops, provide much needed transportation of personnel and cargo throughout [[Omphalos, the City of Gardens]].
+Finally, the procession reached the heart of the City, stopping not at the base of the Signaltower but at the steps of the [[Court]]. There, the [[Orator|Orators]] of the [[House of the Sun]] and of the Silver Wolves stood waiting to receive the Triumph, who sent forth a number of the ashen Sobek and the Sun Elves to meet them. The Orators lead the representatives into the halls of the Court which stood empty with the Lord Representatives and their cabinet members waiting outside with the rest of the crowd.
 
-In the [[Later Heliotropic Age]], the river Torrente was a valuable means of transporting the raw material extracted from the [[Mines of the Oremongers Guild|mines]] of the [[Oremongers Guild]] into the City. Providing such transportation services afforded the Guild the funds needed to develop the [[Barony of Stilts]] and their first fleet of ships fit for traversing the more volatile [[Sink]].
+---
 
-> For more, see [[Transportation in the Known World#Nautical vehicles|Transportation in the Known World > Nautical vehicles]].
+There, in the halls of the Court, the Sobek gave their testimony, made their accusations as they had to the returned Sun Elves and to the Silver Wolves after them. They spoke with conviction and with an eloquence the Orators had not expected. They spoke with an assuredness and with a pain that spoke, thought the Orators, to the veracity of their claims. And all the while, the Sun Elves stood, listening, and seemed decidedly less stoic than was their nature.
 
-### Waterwheels and water power
+After some time, the doors of the chamber opened and a troop of Silver Wolves entered. In their possession was the Orator of the Materialists College who they pushed to the ground as they would the lowliest of criminals. It was clear to see his face had been beaten, and the state of his garments indicated some resistance to the arrest.
 
-In the [[Renascence]], the [[Waterwheel Guild]] would arise as a new [[Houses of Industry|House of Industry]] – later a founding member of the [[Engineers Union]] – offering mechanical power generated by the flow of the elemental [[Mundial Aspects#water motes|water motes]] in the river Torrente. These waterwheels were used to grind flour and agricultural produce, cutting up materials such as pulp or timber, and even metal shaping.
+"The laboratories have been seized, my Lord," the pack captain announced to their Orator. "Their furnaces had been burning hot. I fear evidence has been incinerated."
 
-## Peoples of the river
+"You know not what you're doing," gasped the fallen Orator with ragged breath, "our work is paramount! Have you already forgotten our losses to the [[Red Court]]?"
 
-In addition to the human [[House|Houses]] that rose up around the path of the river Torrente, it is also home to a number of races of the [[Orior]], [[noble beasts]], and of course the [[Mundial Aspects|Mundial]] and [[Minor Aspects]] who govern this domain.
+For a split second, a crack appeared in the measured temperament of one of the Sun Elves. In one swift movement, they drew their spear and bashed the face of the accused with it, leaving him gushing blood from his nose.
 
-### Aspects of the river
+"And the others?" asked the House of the Sun's Orator, ignoring the filth on the floor before them.
 
-A great number of [[Aspect|Aspects]] of [[Ylem]] call the river [[Torrente]] home. In [[Omphalos, the City of Gardens]], the elemental [[Mundial Aspects#water motes|water motes]] who flow out of the [[Astral Wilds]] to the northeast turn to the [[Mundial Aspects#Motes of the landscapes|motes of the landscapes]] who govern the rivers of the [[Known World]]. Although [[Sobek (Minor Aspect)|Sobek]] the [[Minor Aspects|Minor Aspect]] who bled this particular river from the blood of her own body was killed by the [[Sun Elves]] for [[paradoxy]] against the divine blueprint of the [[Angels]], their children the [[Sobek riverfolk]] continue to worship her here.
+"We've rounded up what we could," the captain replied as if ashamed, "but I'm sorry to say a good number seem to have fled in haste. We have [[Rookish clans|rooks]] and a few trusted agents of the [[Jurisweard]] scouring the City."
 
-In the [[Renascence]], a great many Minor Aspects appeared who governed the new domains of the City. Traveling down the river Torrente, you will find Aspects of the canals and the bridges and the docks.
+"Please," begged the accused, "do you not see the need for our work? For the power we offer? Not since [[prehistory]] has humanity stood as vulnerable as we do now!"
 
-### Orior and noble beasts of the river
+"It is with vulnerability that you excuse your crimes?" growled one of the ashen Sobek. "It was out of vulnerability that your death squads – your *[[Necromancer demons|demons]]* – slaughtered and defiled our people?"
 
-Many races of the [[Orior]], for whom the urban sprawl of [[Omphalos, the City of Gardens]] is an unnatural environment, have come to live in and around the river Torrente. Some prominent examples include:
-- The basks of [[Sobek]] who have come to call the City home live in and around the river, both because they are adapted to such an environment and out of worship for their [[iconic pacts|patron]] [[Aspect]] and namesake, [[Sobek (Minor Aspect)|Sobek, Minor Aspect of Rivers]].
-- The [[Mudlark]] population is minimal as they are accustomed to the muddy, brackish waters they call home outside of the City. Those who do come here flock to the familiarity of the river.
-- The [[Procyon gaze]] has also come to live on the banks of the river and underneath the bridges which cross it.
-- Although it is uncommon, [[Oklop]] of the [[Sun Coast]] consortium have been known to occasionally wander upstream from.
+That word, *demon*, was spat with such vitriol that the accused, beaten and bleeding, found himself speechless.
 
-The aquatic races of the [[noble beasts]] can also be seen in its waters, including otters, river dolphins, hippos, water striders, frogs, and a great many fish such as the tarpon.
+---
+
+The onlookers have been gathered for hours, steeped in their intrigue, when the Orators finally led the visitors to the City back out. The two Orators stood side by side, flanked by the ashen Sobek and backed by the Silver Wolves and the returned Sun Elves.
+
+"We received word from the scouts of the [[Messengers Guild]] one week ago that the Sobek were marching on our City," they exclaimed. "I am sure you have all noticed that the Sun Elves walk with them, that they have returned to us. Under other circumstances this would be cause for celebration."
+
+With this, the murmurings of the crowd disappear and all grow silent.
+
+"I dispatched a pack of our Silver Wolves to meet them to the north," explained [[Clan Wolfstepper|Lord Wolfstepper]], "and I am... wounded... to have confirmed myself that--"
+
+"The Materialists College has fallen!" exclaimed the other, impatient.
+
+The crowd erupts once again into surprised murmuring, speculation spreading faster than the truth could be uttered. Could the end of the [[Red Death period]] not have been the end of their losses? This [[Ages of the Known World|age]], after all, had not yet been named the [[Crisis of Hubris]].
+
+"The Sobek have informed us that the College has engaged in horrors beyond redemption, beyond humanity. That they have engaged in experiments of a most dark form of magics: [[Necromancy]]. That to continue those experiments... that they have marched on other races of the Orior and slaughtered entire villages!"
+
+The nervous energy of the crowd cannot, at this point, be contained. Those few [[Materialist magics|materialists]] still hiding amongst the throng know now that their lives are in danger and begin moving away from the excitement.
+
+"That their laboratories are stocked with specimens of flesh and blood and bone from the very peoples their death squads slaughtered!"
+
+"The College has been abolished effective immediately," they explained, "and its scholars will be [[Fall of the Materialists College#Exile and flight of the necromancers|exiled]] from the City of Gardens. Should any of these *demons* be caught, they will face immediate execution!"
+
+Looking down at the accused, kneeling before her feet, she whispered, "And as for you..." and kicked him down the gleaming white steps of the Court where he fell before the masses. "Do with him what you will!"
+
+Looking up at the crazed faces above him, he just barely manages to utter, "The [[Umbral Aspects]] are descending on the [[Known World]]... Please believe me... Kill me if you must but ready yourselves. The [[Nyx]] is fa--"
+
+And with that, he disappeared into the throngs of the crowd. It is said they remained there for hours, and what was left of him was found scattered across the square only when the crowd dissipated.
+
+Such was the fall of the Materialists College, and the necromancer demons they had become in their corruption. Though exiled by their people from the City of Gardens, their remnants survive to this day across the [[Great Sea]] on their accursed [[Isle of Melos]].
+
+> The [[Materialists College]] had been much celebrated and granted [[Great House|Great Houseship]] for their contribution to human knowledge and the promise of extending the potential of the race born without [[organic magics]] of its own. Its [[Fall of the Materialists College|fall]] warns us of the threat of corruption, for no treasure or power may balance against the horrors born of such sin.

@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.11.2023
-tag: '#CivilizationSaturday'
+tag: '#DailyPost/CivilizationSaturday'
 parent: ['[[Omphalos, the City of Gardens]]', '[[City districts]]', '[[Old City]]']
 
 previous: '[[Scholars of the City]]'
 next: '[[The Elf who fell from the sky]]'
 ---
-`= this.tag` #DailyPost
-# The Scholars Quarter
+`=this.tags`lars Quarter
 `= this.Posted`
 
 **Previous:** `= this.previous`

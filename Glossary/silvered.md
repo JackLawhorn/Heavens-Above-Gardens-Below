@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-#Glossary 
+#Extra/Glossary 
 # Silvered
 
 Silvered arms are treated with a small amount of [[Docetic materials#Silver|silver]]. This might mean creating a weapon with a core of silver and a mundane outer layer, a spear that ends in a small silver tip, or a blade dipped in a silver coating.

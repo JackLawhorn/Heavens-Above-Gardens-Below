@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 02.02.2023
-tag: '#ThemeThursday'
+tag: '#DailyPost/ThemeThursday'
 
 previous: '[[Giants]]'
 next: '[[House Lightbringer]]'
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Government and politics
 `= this.Posted`
 

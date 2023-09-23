@@ -1,13 +1,14 @@
 ---
 dg-publish: true
-Posted: 01.24.2023
-tag: '#TimelineTuesday'
-parent: ['[[Heliotropic Age]]']
-
-previous: '[[Docetic materials]]'
-next: '[[Elven Signaltower|The Elven Signaltower]]'
+Posted: 2023-01-24
+tags:
+  - "#DailyPost/TimelineTuesday"
+parent:
+  - "[[Heliotropic Age]]"
+previous: "[[Docetic materials]]"
+next: "[[Elven Signaltower|The Elven Signaltower]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The Later Heliotropic Age
 `= this.Posted`
 

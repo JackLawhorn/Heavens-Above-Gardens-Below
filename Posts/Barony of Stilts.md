@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.11.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[City districts]]", "[[Fisher Barons]]"]
 aliases: Stilts
 
 previous: "[[Shipwrights Guild]]"
 next: "[[Fall of House Lightbringer]]"
 ---
-`= this.tag` #DailyPost 
-# The Barony of Stilts
+`=this.tags`ts
 `= this.Posted`
 
 **Previous:** `= this.previous`

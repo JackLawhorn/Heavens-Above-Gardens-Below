@@ -1,13 +1,21 @@
 ---
 dg-publish: true
-Posted: 01.16.2023
-tag: '#MagicSystemMonday'
-aliases: Mundial Aspect, elemental mote, mote
-parent: ['[[Aspect]]', '[[Major Aspects]]', '[[Known World]]', '[[Discoveries in the Known World]]']
-previous: '[[First parley with the elemental motes]]'
-next: '[[Roiling of the elements]]'
+Posted: 2023-01-16
+tags:
+  - "#DailyPost/MagicSystemMonday"
+aliases:
+  - Mundial Aspect
+  - elemental mote
+  - mote
+parent:
+  - "[[Aspect]]"
+  - "[[Major Aspects]]"
+  - "[[Known World]]"
+  - "[[Discoveries in the Known World]]"
+previous: "[[First parley with the elemental motes]]"
+next: "[[Roiling of the elements]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The Mundial Aspects
 `= this.Posted`
 

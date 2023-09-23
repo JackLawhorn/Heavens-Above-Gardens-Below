@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.20.2023
-tag: '#MagicSystemMonday'
+tag: '#DailyPost/MagicSystemMonday'
 aliases: Combat Art
 
 previous: '[[The death of cland justice]]'
 next: '[[First Golden Age]]'
 ---
-`= this.tag` #DailyPost
-# Combat Arts
+`=this.tags`rts
 `= this.Posted`
 
 **Previous:** `= this.previous`

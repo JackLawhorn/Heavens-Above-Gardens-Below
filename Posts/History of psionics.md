@@ -1,14 +1,13 @@
 ---
 dg-publish: true
-Posted: 05.09.2023
-tag: "#TimelineTuesday"
-parent: ["[[Psionics]]", "[[Psionic Age]]"]
+Posted: 02.07.2023
+tag: '#DailyPost/TimelineTuesday'
+parent: ['[[Scholars of the City]]', '[[Mouseion]]', '[[Philosophers Guild]]']
 
-previous: "[[Mystic psionics]]"
-next: "[[Gold Coast]]"
+previous: '[[Pact magics]]'
+next: '[[Lands to the south]]'
 ---
-`= this.tag` #DailyPost 
-# The history of psionics
+`=this.tags`of the Subjective
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,55 +15,49 @@ next: "[[Gold Coast]]"
 
 ---
 
-## The Later Crisis of Hubris
+## First Wave Henotheism
 
-The [[Later Crisis of Hubris]] was particularly important in the history of [[psionics]]. This period saw the [[Psionic Age#Dawn of the Psionic Age|dawn]] of of the [[Psionic Age]], the rise and [[Fall of the Pretender|fall]] of the [[Disciples of the Pretender]] and the rise of the [[Psionics College]] after them.
+[[Henotheist]] art was performed and produced as acts of worship – monuments within monuments to [[Ylem]] in the loose shape of a city – and was an explosive collective chorus of artistic expression after an untold number of generations of humanity born and dead on the [[Elven March|March]].
 
-### Rise and fall of the Pretender
+First Wave Henotheism introduced the artforms of architecture, landscaping, and botany. Upon the [[founding of Omphalos, the City of Gardens]] at the precipice of the [[Later Heliotropic Age]], the [[Mundial Aspects|elements]] themselves were channeled – both by the [[Sun Elves]] and by the first ranks of the [[Oremongers Guild]] – to shape the many streets and structures and monuments of the [[Omphalos, the City of Gardens|City of Gardens]]. The dazzlingly beautiful, impossibly perfect [[Old City]] was shaped around the gardens, leaving pockets like parks, fields, hills, and even alleys, squares, and rooftops verdant green and impeccably maintained.
 
-> For more, see [[Disciples of the Pretender#History of the Disciples of the Pretender|Disciples of the Pretender > History of the Disciples of the Pretender]].
+## Late Heliotropic Objectivism
 
-The field of [[psionics]] was first discovered along with the first human [[psion]], now known only as the [[Pretender]]. Their abilities were first studied in secret by a mentor formerly of the [[Materialists College]], then by the [[Silver Wolves]], and finally by the [[Orator]] of the [[House of the Sun]]. At this point, differing perspectives from these parties struggled to define psionic ability as either [[Magics in the Known World|magic]] or science. The Pretender ultimately revealed themself to the populace of [[Omphalos, the City of Gardens]], a [[Scenes from the life of the Pretender III|revelation]] which brought about the [[Psionic Age#Dawn of the Psionic Age|dawn]] of what is now called the [[Psionic Age]]: a golden age for the field of [[psionics]] which stretched from the [[Later Crisis of Hubris]] through the [[Early Renascence period]].
+In the [[Later Heliotropic Age]], human art would develop forward from purely [[Henotheist|Henotheistic]] sensibilities and motivations. The [[Scholars of the City#Objectivists|Objectivists]], without the earth-rending power of the [[Oremongers Guild#Earth shapers|Guild earth shapers]] or the [[Sun Elves]], produced realistic art portraying the [[Known World]] around them. Late Heliotropic Objectivism introduced the artform of sculpture and is considered to have ushered in modern painting through the development of portraiture, landscapes, and cityscapes. This focus on reproducing the wonders of [[Ylem]] aligned closely with the rise of the [[Humanism|humanist movement]].
 
-Under their stewardship and that of their [[Disciples of the Pretender|Disciples]], [[mystic psionics]] grew into a sizable [[cults|cult]] larger than any [[Iconic House|heterodoxy]] of the [[Canon of Heterodoxies|Canon]]. Both [[Psionics#Psionic influence|psionic influence]] and [[belief in the Pretender]] spread quickly throughout the human population, and the City itself was quickly transformed by their [[Mystic psionics#illusionist|illusions]]. The Disciples – taking on stations such as [[Mystic psionics#Psiknights|Psiknight]] or [[Mystic psionics#dwaalstepper|dwaalstepper]] or [[Mystic psionics#Illusionist|illusionist]] – pursued [[Quest|quests]] throughout the City and helped to mend the wounds of a people still recovering from the losses of the [[Red Death period]] and the [[Fall of the Materialists College|fall]] of the [[Materialists College]].
+The humans sought to reproduce everything under the [[Nyx]] by their own hands, and the lost works of this period are said to have included thousands of paintings portraying every street, garden, bridge, and alley in remarkable detail. Seeking what they called the "Truth of Form", Objectivists would produce more and more geometric and exacting sculptures. Though the populace would generally reject them at the time, the later of these pieces – namely the series called the [[Cult of Pythos#Divine Geometries|Divine Geometries]] – maintain significant influence in art, philosophy, and mathematics today.
 
-Ultimately, the Pretender and their Disciples [[Fall of the Pretender|fell]] on a [[Quest into Oblivion]], which had led them north along the [[Gold Coast]] and into the [[Deep Deserts]]. With them fell mystic psionics, though not immediately. It would be the rise of the [[Psionics College]] and its [[Scholars of the City#Objectivists|objectivist]] approach to the field that would overshadow previous approaches.
+These are considered to be among the greatest losses of the [[Red Death period]] and the great [[Burning]] that brought it to an end. The Objectivists were among the loudest proponents of punishing the young [[House of the Sun]] for the devastation. Ironically, the Red Death period also ushered forward significant advancements in Objectivist art. As the [[Omphalos, the City of Gardens|City]]'s great many cadavers – both human corpses and those infected by the [[Red Court]] – were dissected and studied by the scholars of the [[Materialists College]]. This led to a revolution in human understanding of the anatomy and a greater understanding of form and of the [[Albedo]] that also benefitted Objectivist art portraying human subjects.
 
-### Rise of the Psionics College
+## Second Wave Henotheism
 
-Out of the ashes of the [[Disciples of the Pretender]] rose the [[Psionics College]] whose scholars took an [[Scholars of the City#Objectivists|objectivist]] approach to the field of [[psionics]] rather than embracing their predecessors' [[mystic psionics|mystic practices]]. Through this new lens, psionics took shape not as a [[Magics in the Known World|field of magics]] but as a field of science that might be explored as any other.
+Despite the [[Red Death period]]'s eventual impact on [[#Late Heliotropic Objectivism|Objectivist art]], art from this period is best well known for what [[#Subjectivism|Subjectivist]] scholars would call Second Wave Henotheism. This movement's art depicted the [[Ylem]] allegorically rather than through the [[Scholars of the City#Objectivists|Objectivist]] lens. Those few paintings that survived the [[Burning]] – and especially those that came after – depicted a [[Omphalos, the City of Gardens|City of Gardens]] beset upon by the great celestial [[Dragon]] and his forces of evil; humanity's [[iconic pacts|patron]] Ylem laying slain or, worse, simply absent.
 
-Throughout the [[Renascence]], the [[College]] grew to be one of the greatest and most influential [[House|Houses]] of the [[Court]].
+Among the iconic imagery of this period is of course the victims, heroes, and villains of the [[Red Death]]: the sick and dying, the wounded, and the burning; the near-life, beast-like soldiers of the [[Red Court]]; the thorny, inky black vines of the [[Nyxblight]]; the forces of the [[Apotropaics]] beating back the darkness with their torches; the [[House of the Sun]], the [[Elven Signaltower]], and the great Burning.
 
-> For more, see [[History of the Psionics College#Rise of the Psionics College|History of the Psionics College > Rise of the Psionics College]].
+Other common themes within the art and in particular the paintings of the Second Wave Henotheists were blood and death, darkness and shadow, fear and bravery, fire and hope. The [[Later Crisis of Hubris]] is famous for its near-universal motif of deep red tones, which most infamously extended into the reconstruction of the razed portion of the [[Old City]], which would come to be known as the [[Red Quarter]].
 
-## The Renascence period
+After the great Burning, [[Henotheist]] pieces depicted humanity's patron Ylem returning and even aiding in the massive projects of [[Reconstruction]]. With the benefit of greater context, later Henotheists would also incorporate imagery of the lost [[House Lightbringer]], the [[Red King]], and his dark master.
 
-The [[Renascence]] saw further development of the field of [[psionics]], even after the end of what is now called the [[Psionic Age]], by the scholars of the [[Psionics College]]. This period is remembered for the exploration of the [[Psionic Sphere]], the discovery of [[psychedelia]], the devastation of the [[Dreaming psions]] which brought about the end of the Psionic Age, and of course the rise of the Psionics College to new heights of prominence.
+## Psionic art
 
-### Exploration of the Psionic Sphere
+Pioneered by the [[Pretender]]'s [[Mystic psionics#Illusionist|illusionists]] at the [[Psionic Age#dawn of the Psionic Age|dawn]] of the [[Psionic Age]], [[Psionics|psionic]] art is a medium that relies on [[Psionics#Hallucination|Hallucination]] to manifest false sensory data in the [[Psionic Sphere]]. Psionic art exists in more dimensions than more than the visual or performance arts, and can include sights, sounds, smells, tastes, and pleasures that no other medium can illicit. Partially due to this boundless possibility, psionic artists leaned further into the surreal and the abstract than any [[Scholars of the City#Subjectivists|subjectivists]] before or since.
 
-Much of the [[Early Renascence period]] was spent exploring the [[Psionic Sphere]]. Initially discovered by the [[Pretender]] and their trusted [[Mystic psionics#Psiknight|Psiknights]] in the [[Later Crisis of Hubris]], this realm was still a bold new frontier ripe for exploration. Navigation of the Psionic Sphere made possible the improvement of existing [[Psionics#psionic abilities|psionic abilities]] and the development of powerful new ones.
+After the [[Fall of the Pretender]], the [[Scholars of the City#Objectivists|objectivist]] [[Psion|psions]] of the [[Psionics College]] largely abandoned such pursuits. One notable exception is the short-lived genre of [[Psychedelia#Psychedelic art|psychedelic art]] in the [[Early Renascence period]], though this was brought to an early end with the criminalization of [[Psychedelia]] by the [[House of Vice]] immediately following the [[Exile of the Dreaming psions|exile]] of the [[Dreaming psions]].
 
-But so too did it hold a number of new psionic threats [[Natives of the Psionic Sphere|native to the Psionic Sphere]]. In the [[Later Renascence period]], the [[Agents of the Psionics College|agents]] of the [[Psionics College]] discovered [[near-life]] beings called [[thoughtform]] which existed only in the perceived reality of those in the [[Prime Material Sphere]]. Later a race of the [[Orior]] –  the [[muqallid mimics]] – were uncovered who are believed to have been blending in with the human population of [[Omphalos, the City of Gardens]] since its very [[Founding of Omphalos, the City of Gardens|founding]].
+## Subjectivism
 
-### Discovery of psychedelia
+Humanity would then veer to Subjectivism: a movement born out of [[#Second Wave Henotheism]] and embracing the allegorical and the surreal rather than [[the Objective]]. Many of the Subjectivists would go on to form or join the [[First Vergonic Church]], a philosophical thought experiment that pushed Subjectivist art into the modern era. Vergonic art centered around the origin and nature of Truth, which sat opposite the opposing force of Untruth.
 
-In the later years of the [[Psionic Age]], the discovery of [[psychedelia]] – substances which altered and expanded the mind – rocked the [[Psionics College]] and its scholars. In affecting perceived reality, psychedelia is able to unlock both new methods of traversing the [[Psionic Sphere]] in which it manifests and new [[psionics#psionic abilities|psionic abilities]] to be wielded by [[Psion|psions]] under their influence.
+The Subjectivists would develop the first actively political works, seeking to communicate and persuade political ideals. The First Vergonic Church's philosophies on life, politics, the [[Omphalos, the City of Gardens|City]], and her [[Social Spheres Theory|Spheres]] would go on to have profound impact on any number of matters of the [[Court]], especially as many of its members held voting power as [[Lord Representative|Lord Representatives]] or their cabinet members. [[House|Houses]] of the Court saw their power wax and wane by the hand of the Church. The [[Disciples of the Pretender]], [[House of the Sun]], the [[College|colleges]] and their [[Scholars of the City|scholars]], and the [[Iconic House|Iconic Houses]] of the [[Canon of Heterodoxies]] were just some with which the Church had a contentious relationship.
 
-These were studied and experimented with for precious few years before the threat posed by the [[Dreaming psions]] motivated the [[College]] and the [[House of Vice]] to criminalize such dangerous materials. It wasn't until the [[Later Renascence period]] and the [[Early Post-Enlightenment Era]] that these studies – albeit much restricted study – began again in earnest.
+Subjectivism would also introduce increasingly abstract artworks. Humanity's portraits, landscapes, and cityscapes grew more and more surreal and stylized. Later Vergonic work would intersect with [[#psychedelia]] before the eventual [[Vergonic War|dissolution of the Church]].
 
-### Threat and exile of the Dreaming psions
+## Renascence Objectivism
 
-The [[Psionic Age]] that had begun with the [[Scenes from the life of the Pretender III|revelation]] of the [[Pretender]] in the [[Later Crisis of Hubris]] was brought to an end along with the [[Early Crisis of Hubris]] by a new [[Psionics|psionic]] threat that would come to be known as the [[Dreaming psions]]. These human [[Psion|psions]] – some of whom had not yet been awakened – had so much [[psionics#psionic influence|influence]] within the [[Psionic Sphere]] that they were able to unleash devastating mass [[Psionics#Hallucination|Hallucinations]] on [[Omphalos, the City of Gardens]] in their sleep.
+After the loss of human history in the [[Crisis of Hubris]], the art of the [[Renascence]] primarily centered around capturing historical events and the reality of the present. There was a great [[Humanism|humanist]] lean in what is now beginning to be dubbed "Renascence [[the Objective|Objectivism]]", which dealt primarily with mortals and the mundane rather than the [[Ylem]] and divinity.
 
-Though they were found to have a particularly close connection with the [[Dwaal, the Dreaming State]], few solutions to this problem were found by the scholars [[Psionics College]] in the days and weeks that followed. Ultimately, the dreamers were [[Exile of the Dreaming psions|exiled]] from the City, sequestered in the first towers of what would be the [[College]]'s [[Psionic Telecommunication Network]].
-
-## The Post-Enlightenment Era
-
-Now, in the [[Post-Enlightenment Era]], the field of [[psionics]] is more prominent than ever. The [[Psionics College]] has risen to such a station in [[Omphalos, the City of Gardens]] and its [[Court]] that they hold the ear of the [[Orator]] and are vying to be named as the seventh [[Great House]] and the first since the [[Disciples of the Pretender]] in the [[Later Crisis of Hubris]].
-
-Elsewhere in the [[Known World]], its greatest psionic threat is rearing its head: [[Gljiva, the Conquering Fungus]]. First gleaned in the visions of the [[Enlightened Orator]], this all-consuming growth spreads throughout this work both in the [[Prime Material Sphere]] and in the [[Psionic Sphere]]. In its wake, entire races of the [[Orior]] and of the [[noble beasts]] have been enthralled under its influence.
+This purpose also necessitated a dramatic turn towards realism in visual art. This period saw the invention of proportion – based on the work of [[Cult of Pythos#Pythos|Pythos]] – as well as the use of artistic techniques such as foreshortening and sfumato and chiaroscuro. It also saw the practical application of the studies of the [[History of materialist magics#The Red Death period|anatomists]] of the [[Materialists College]] in depicting the physicality of not only humans but the [[Sobek]] and other races of the [[Orior]].
 
 ## See also
 

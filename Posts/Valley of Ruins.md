@@ -1,14 +1,17 @@
 ---
 dg-publish: true
-Posted: 01.14.2023
-tag: '#CivilizationSaturday'
-parent: ['[[Known World]]', '[[Old World continent]]', '[[Discoveries in the Known World]]']
-
-previous: '[[Silver Wolves]]'
-next: '[[First parley with the elemental motes]]'
+Posted: 2023-01-14
+tags:
+  - "#DailyPost/CivilizationSaturday"
+parent:
+  - "[[Known World]]"
+  - "[[Old World continent]]"
+  - "[[Discoveries in the Known World]]"
+previous: "[[Silver Wolves]]"
+next: "[[First parley with the elemental motes]]"
 ---
-`= this.tag` #DailyPost
-# Valley of Ruins
+`=this.tags`
+# The Valley of Ruins
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -41,3 +44,11 @@ In contrast, the artifacts of the Giants, the first children of the [[Mundial As
 One unique geographical feature of the Valley of Ruins is the [[skylands]] which sit above the surface. They are locked in place, unaffected by either gravity or the whims of the elemental [[Mundial Aspects#wind motes|wind motes]], and so it is assumed that each contains a sizeable deposit of [[Docetic materials#onyx|onyx]].
 
 These skylands vary in size, ranging from a few strides across to the size of an entire mountain. Though no human or Elf has been known to reach them, many can be seen to hold gargantuan artifacts and it is thought that they may have been the first footholds used by the [[Giants]] to reach and found their [[Giants#Empire of Dyēus|Empire of Dyēus]] above.
+
+## See also
+
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
+```

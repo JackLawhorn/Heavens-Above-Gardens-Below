@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.08.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Court]]", "[[Great House]]"]
 aliases: Fallen House
 
 previous: "[[Materialists College]]"
 next: "[[The night of the Burning]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Fallen Houses
 `= this.Posted`
 

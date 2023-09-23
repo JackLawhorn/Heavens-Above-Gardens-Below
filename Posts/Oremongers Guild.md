@@ -1,13 +1,18 @@
 ---
 dg-publish: true
-Posted: 01.27.2023
-tag: '#FactionFriday'
-parent: ['[[House]]', '[[Guild]]', '[[Great house]]', '[[Fallen Houses]]', '[[Iconic House]]']
-
-previous: '[[(Theme) Legion and monad]]'
-next: '[[Omphalos, the City of Gardens]]'
+Posted: 2023-01-27
+tags:
+  - "#DailyPost/FactionFriday"
+parent:
+  - "[[House]]"
+  - "[[Guild]]"
+  - "[[Great house]]"
+  - "[[Fallen Houses]]"
+  - "[[Iconic House]]"
+previous: "[[(Theme) Legion and monad]]"
+next: "[[Omphalos, the City of Gardens]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The Oremongers Guild
 `= this.Posted`
 

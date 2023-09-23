@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.23.2023
-tag: "#SceneSunday"
+tag: "#DailyPost/SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Materialists College]]", "[[Sobek]]", "[[Fall of the Materialists College]]"]
 alias: Triumph
 
 previous: "[[City districts]]"
 next: "[[Necromancy]]"
 ---
-`= this.tag` #DailyPost 
-# Triumph of the Sobek
+`=this.tags` of the Sobek
 `= this.Posted`
 
 **Previous:** `= this.previous`

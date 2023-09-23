@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 03.23.2023
-tag: "#ThemeThursday"
+tag: "#DailyPost/ThemeThursday"
 
 previous: "[[Nyxblight]]"
 next: "[[Apotropaics]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # (Theme) Exploring grimdark
 `= this.Posted`
 

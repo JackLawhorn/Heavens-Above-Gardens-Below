@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.23.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Fallen Houses]]", "[[Clan Wolfstepper]]", "[[Silver Wolves]]", "[[New Silver Age]]", "[[Argent Ghetto]]", "[[Decline of cland culture]]"]
 
 previous: "[[Moon-Touched]]"
 next: "[[Luminary]]"
 ---
-`= this.tag` #DailyPost 
-# The fall of the Silver Wolves
-`= this.Posted`
+`=this.tags`sted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

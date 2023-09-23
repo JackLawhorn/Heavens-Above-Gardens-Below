@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 07.08.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[House of the Sun]]", "[[History of worship in the City]]", "[[Omphalos, the City of Gardens]]", "[[Elven Signaltower]]"]
 
 previous: "[[New Vergonic Movement]]"
 next: "[[The Jurisweard versus the New Vergonic Movement]]"
 ---
-`= this.tag` #DailyPost 
-# The state religion of the House of the Sun
+`=this.tags`te religion of the House of the Sun
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.10.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 parent: ["[[Aspect]]", "[[Nyxfire]]"]
 
 previous: "[[The night of the Burning]]"
 next: "[[Burning]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Nyxfire motes
 `= this.Posted`
 

@@ -1,14 +1,13 @@
 ---
 dg-publish: true
-Posted: 05.19.2023
-tag: "#FactionFriday"
-parent: ["[[Human clans]]", "[[Argent Ghetto]]", "[[Silver Wolves]]", "[[Wolf Mother]]"]
+Posted: 06.10.2023
+tag: "#DailyPost/CivilizationSaturday"
+parent: ["[[Omphalos, the City of Gardens]]", "[[Currencies of the City]]", "[[Cumbergrounds]]", "[[Argent Ghetto]]", "[[Red Quarter]]", "[[City districts]]"]
 
-previous: "[[(Theme) Prophesy]]"
-next: "[[New Silver Age]]"
+previous: "[[Bloodhounds]]"
+next: "[[Persecution of Clan Wolfstepper]]"
 ---
-`= this.tag` #DailyPost 
-# Clan Wolfstepper
+`=this.tags`nd caste in the City
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -16,43 +15,63 @@ next: "[[New Silver Age]]"
 
 ---
 
-Clan Wolfstepper is one of the oldest surviving [[human clans]], arising along the [[Elven March]] when people from all of the disparate clans were called to form an [[Iconic pacts|iconic pact]] with the [[Wolf Mother]]. Since [[Birth of the Silver Wolves|that fateful night]], Clan Wolfstepper has been as demigods among the rest of humanity. Most notable are the [[Silver Wolves]], elite trackers, hunters, and warriors who rose to be named [[naming of the Great Houses|one of the original four]] [[Great House|Great Houses]] of the [[Court]].
+> [!INFO] At a glance
+> - [[Aspect|Aspects]] of [[Ylem]]
+>     - [[Nyxfire motes]]
+>     - [[Major Aspects]]
+>        - [[Lunar Aspects]]
+>        - [[Mundial Aspects]]
+>    - [[Minor Aspects]]
+> - The races of the [[Orior]] and the [[noble beasts]]
+>     - [[Sun Elves]] and the other [[Elven Legion|Elves of the Legion]]
+>     - All other races
+> - All other flora and fauna
 
-With the [[Fall of the Silver Wolves|fall of the Silver Wolves]] in the [[Later Crisis of Hubris]], the Clan was splintered into the [[New Silver Age]] and the rest of their population who remained within [[Omphalos, the City of Gardens]], now trapped within the [[Argent Ghetto]] for the crimes of their brethren.
+All beings who call [[Omphalos, the City of Gardens]] home fall into an informal social hierarchy that start with the [[Aspect|Aspects]] of [[Ylem]] themselves, then include the races of the [[Orior]] and the [[noble beasts]], and even the flora and fauna.
 
-## Behavior
+## Human social classes in the City
 
-After [[Iconic pact of Clan Wolfstepper|forming]] their [[Iconic pact of Clan Wolfstepper|iconic pact with the Wolf Mother]], the newly formed [[Silver Wolves]] returned noticeably different, their nature more wolf-like in many ways. Their behavior and social interactions changed significantly, aligning more closely with those of a pack of wolves. Previously coming from most of the disparate [[human clans]], they largely broke off these ties to become more insular within their new pack.
+Within humanity's place within that fairly rigid hierarchy, there is a secondary hierarchy of more permeable social classes. Within these classes, one's influence and the respect they command is closely tied to the prominence of one's patron [[House]].
 
-Sub-groups would arise within the Clan, but the rule of the pack was above all but the word of the [[Lunar Aspects#The Wolf Mother|Wolf Mother]] herself. The pack was to be protected from both harm brought by enemies and by unnecessary mixing with their human neighbors. They were the last of their kind, the last wolves of the [[Known World]], and the survival and proliferation of the pack was paramount to the Wolf Mother's very first prophecy:
+### Agents of the Court
 
-![[Posts/Birth of the Silver Wolves.md#^678e0f]]
+The highest of the human social classes are the agents of the [[Court]], who hold immense sway over nearly every [[Social Spheres Theory|Social Sphere]] of life in [[Omphalos, the City of Gardens]]: the [[Orator|Orators]] of the [[Great House|Great Houses]] then the [[Lord Representative|Lord Representatives]] of the [[House|Houses]] and their cabinets.
 
-### Connection with the night
+Within that system, a House's prominence and influence certainly informs the prominence and influence of their representatives. The powerful [[Union|Unions]] – especially the [[Canon of Heterodoxies]] and the [[Jurisweard]] – are high up on the social ladder. In the [[Later Renascence period]] and now in the [[Post-Enlightenment Era]], the Lords of [[Questing Houses]] of the [[Republic]] are treated as visiting foreign dignitaries and second only to the Orator herself.
 
-Though not truly nocturnal, their connection with the [[silver moon]] as well as their enhanced senses make the children of Clan Wolfstepper well suited to the environment of the night. During the [[Elven March|Elven March period]], this made them proficient night watchers, even more so than the ever vigilant [[Sun Elves]] of the [[Elven Legion|Legion]]. Later – after the founding of [[Omphalos, the City of Gardens]] – it was common to see a squad roaming the streets or the rooftops of the [[Old City]] during the day, but a great many more would go completely unnoticed at night.
+Those described by this social class can be found in the halls of the Court and elsewhere in the City's [[White Quarter]].
 
-### Rendezvous with the Wolf Mother
+### Leaders of the institutions
 
-Every full moon, the elders of the pack would recuse themselves of their human neighbors and venture deep into the forests to summon the counsel of their [[iconic pacts|patron]], the [[Lunar Aspects#The Wolf Mother|Wolf Mother]]. This mysterious ritual would not be understood by the humans until after the [[Fall of the Silver Wolves|fall]] of their protectors the [[Silver Wolves]]. Although the Silver Wolves were seen and treated with much reverence, this was the source of constant speculation by the other [[human clans|clans]].
+There exist a number of key institutions in [[Omphalos, the City of Gardens]] – generally aligning with the [[Union|Unions]] – whose members and leaders enjoy elevated social status. Though not quite on the level of the agents of the [[Court]], they are nonetheless considered leaders of humanity and command more respect than the rest of the citizenry.
 
-## Factions of Clan Wolfstepper
+The [[Iconic House|Iconic Houses]] of the [[Canon of Heterodoxies]] are the leaders of worship for the vast majority of humanity, and a strong pillar of the community. Their monks, clerics, and paladins are given due reverence for their closeness to their [[Iconic pacts|patron]] [[Aspect|Aspects]] of [[Ylem]] in accordance with the prominence of their domains. These leaders can be found in their respective places of worship or in the offices of the Canon.
 
-### New Silver Age
+The agents of the [[Jurisweard]] – made up of a great many warrior classes from disparate [[House|Houses]] – are tasked with upholding law and order. Their members are tasked with cases from the Court itself and afforded special powers to enforce justice as wandering peacekeepers. These leaders can be found in the halls of their patron Houses or in the offices of the Jurisweard.
 
-> For more, see [[New Silver Age]].
+The scholars of the City's various [[College|colleges]] – such as the [[Psionics College]], the [[Cult of Pythos]], the [[Mouseion]], and the [[Philosophers Guild]] – have long been considered among the best of humanity. In fact, [[Scholars of the City#Subjectivists|subjectivist scholars]] consider their scholarship to be the key differentiating characteristic of humanity among the other races of the [[Orior]]. These scholars can overwhelmingly be found in the [[Scholars Quarter]], from which they deal with all manner of intellectual pursuits.
 
-The [[New Silver Age]] is a [[cults|cult]] formed out of the [[Silver Wolves]] and around a [[Luminary#Prophesy of the Luminary|prophesized]] messiah called the [[Luminary]]. When the mother became pregnant with this daughter of the [[Wolf Mother]] herself, the they departed from [[Omphalos, the City of Gardens]] and brought about the [[Fall of the Silver Wolves]].
+### The rest of the citizenry
 
-Throughout the [[Renascence]], they have seen significant [[New Silver Age#Renascence decline|decline]] and now exist only as disparate, ineffectual subsects throughout the [[Known World]]. They are roaming knights, vagrants, outlaws, and often mercenaries selling their services to the [[Questing Houses]] and their [[Colonies of the Questing Houses|colonies]].
+### Cland peoples
 
-### Clan Wolfstepper within the Argent Ghetto
+As of the [[fall of the Silver Wolves|fall]] of the [[Silver Wolves]] and the beginning of the [[Renascence]], those human peoples who still embrace their [[cland]] cultures – rather than the culture of [[House|Houseship]] that has been the de facto power structure since the end of the [[Red Death period]] – have faced persecution from the rest of humanity. The most prominent example is [[Clan Wolfstepper]] who are now sequestered within the walls of the [[Argent Ghetto]].
 
-> For more, see [[Argent Ghetto]].
+> For more, see [[Decline of cland culture]].
 
-Though Clan Wolfstepper is most remembered for the [[Silver Wolves]] and the treacherous [[New Silver Age]] they became, they represent a sizable portion of the human population after millennia of intermixing with the other [[human clans]]. Throughout the [[Decline of cland culture]] over the course of the [[Later Crisis of Hubris]], Clan Wolfstepper was the most prominent human clan to retain their community and culture. With the [[Fall of the Silver Wolves]], the [[House of the Sun]] and the rest of humanity greatly persecuted all hailing from this heritage in lieu of punishing the New Silver Age themselves.
+### Remnants of the Fallen Houses
 
-As of the [[Early Renascence period]], the vast majority of Clan Wolfstepper's population lives within the [[Argent Ghetto]] in [[Omphalos, the City of Gardens]]. There, they are under the watchful eye of the [[Jurisweard]] and are not able to freely leave their ghetto.
+> For more, see [[Remnants of the Fallen Houses]].
+
+The [[Remnants of the Fallen Houses|remnants]] of humanity's [[Fallen Houses]] – those who have not been exiled – sit at the bottom of the social hierarchy in [[Omphalos, the City of Gardens]]. Tied in the minds of their neighbors to the losses of the [[Crisis of Hubris]], these peoples carry the burdens of their ancestors from centuries hence.
+
+The most respected are the [[Undergardeners]], remnants of the [[Fall of the Oremongers Guild|fallen]] [[Oremongers Guild]] who now tend to the [[Gardens of the City|gardens]] from which the City derives its name. Below them are [[Clan Wolfstepper]] continue to suffer the consequences of the [[Fall of the Silver Wolves|fall]] of the [[Silver Wolves]]. Only the [[Bloodhounds]] have risen to a slightly higher station thanks to their duties as agents of the [[Jurisweard]].
+
+## The exiled
+
+> For more, see [[Exile from the City]].
+
+Not necessarily at the bottom of the hierarchy of the social classes but existing outside of and beneath it are those [[Exile from the City|exiled]] from [[Omphalos, the City of Gardens]]. The exiled most notably include the [[Dreaming psions]], the [[New Silver Age]], and the [[necromancer demons]]. The [[Jurisweard]] is always watching for intruders from these factions – who are generally considered the most dangerous of humankind – and are quick to dispatch them when they are spotted.
 
 ## See also
 

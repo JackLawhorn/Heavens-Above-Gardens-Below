@@ -3,7 +3,7 @@ dg-publish: true
 parent: ['[[Court]]']
 aliases: Great Houses, Great Houseship
 ---
-#Glossary
+#Extra/Glossary
 # Great House
 
 ---

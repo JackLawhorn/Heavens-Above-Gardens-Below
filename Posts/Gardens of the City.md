@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.24.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[City infrastructure and layout]]"]
 aliases: garden, gardens
 
 previous: "[[Agisters Guild]]"
 next: "[[Fall of the Agisters Guild]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The gardens of the City
 `= this.Posted`
 

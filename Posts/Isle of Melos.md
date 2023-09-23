@@ -1,16 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.26.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 aliases: Melos
 parent: ["[[Known World]]", "[[Great Sea]]", "[[Isles of the Great Sea]]", "[[Necromancer demons]]", "[[Fall of the Materialists College]]", "[[Necromancer devils]]", "[[Necromancers of the Known World]]", "[[History of necromancy]]"]
 
 previous: "[[Fall of the Materialists College]]"
 next: "[[(Theme) Dark and forbidden magics]]"
 ---
-`= this.tag` #DailyPost 
-# The Isle of Melos
-`= this.Posted`
+`=this.tags``= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`
@@ -47,7 +45,7 @@ High upon the hill and far from the harbor where respectable [[#trade port|trade
 
 ## Trade port
 
-The Isle of Melos has grown into the predominant trade port of the [[Great Sea]], servicing the [[Colonies of the Questing Houses|colony]] [[Isles of the Great Sea|Isles]] of the [[Questing Houses]]. Its crops and [[#Geography and resources|natural resources]] are extremely valuable to these trade partners, as are its exports of [[docetic materials#brimstone (sulfur)|brimstone]] and other [[alchemy|alchemical]] ingredients and byproducts. The magics of the [[Necromancer demons]] also readily produce demonic artifacts, granting them powerful, [[extramundane]] abilities and allowing them to become some of the [[Known World]]'s foremost power brokers.
+The Isle of Melos has grown into the predominant trade port of the [[Great Sea]], servicing the [[Colonies of the Questing Houses|colony]] [[Isles of the Great Sea|Isles]] of the [[Questing Houses]]. Its crops and [[#Geography and resources|natural resources]] are extremely valuable to these trade partners, as are its exports of [[docetic materials#brimstone (sulfur)|brimstone]] and other [[Alchemy|alchemical]] ingredients and byproducts. The magics of the [[Necromancer demons]] also readily produce demonic artifacts, granting them powerful, [[extramundane]] abilities and allowing them to become some of the [[Known World]]'s foremost power brokers.
 
 ### Diplomatic relations
 

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.30.2023
-tag: "#SceneSunday"
+tag: "#DailyPost/SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Psionic Age]]", "[[History of psionics]]", "[[Pretender]]"]
 
 previous: "[[Remnants of the Legion in the City]]"
 next: "[[Psionics]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Scenes from the life of the Pretender II
 `= this.Posted`
 

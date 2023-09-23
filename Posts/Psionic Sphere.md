@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.03.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Standard Elven Cosmology]]", "[[Psionics]]"]
 
 previous: "[[Psionic Age]]"
 next: "[[(Theme) Science versus magic]]"
 ---
-`= this.tag` #DailyPost 
-# The Psionic Sphere
+`=this.tags`
 `= this.Posted`
 
 **Previous:** `= this.previous`

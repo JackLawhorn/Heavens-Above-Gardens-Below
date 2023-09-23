@@ -1,13 +1,20 @@
 ---
 dg-publish: true
-Posted: 01.01.2023
-tag: '#SceneSunday'
-aliases: Nyxfall of the Legion, Nyxfall of the Elves, Elven nyxfall
-parent: ['[[Prehistory]]', '[[Heliotropic Age]]', '[[Nyxfall]]', '[[Elven Legion]]']
-
-next: '[[Organic magics]]'
+Posted: 2023-01-01
+tags:
+  - "#DailyPost/SceneSunday"
+aliases:
+  - Nyxfall of the Legion
+  - Nyxfall of the Elves
+  - Elven nyxfall
+parent:
+  - "[[Prehistory]]"
+  - "[[Heliotropic Age]]"
+  - "[[Nyxfall]]"
+  - "[[Elven Legion]]"
+next: "[[Organic magics]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # Nyxfall of the Elven Legion
 `= this.Posted`
 

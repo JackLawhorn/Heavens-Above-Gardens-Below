@@ -1,13 +1,20 @@
 ---
 dg-publish: true
-Posted: 01.20.2023
-tag: "#FactionFriday"
-parent: ["[[Rookish clans]]", "[[Houses of Industry]]", "[[Human clans]]", "[[House]]", "[[Mutualist pacts]]", "[[Mutualist House]]", "[[Barony of Stilts]]"]
-
-previous: '[[(Theme) The elements]]'
-next: '[[Peoples of the Sink]]'
+Posted: 2023-01-20
+tags:
+  - "#DailyPost/FactionFriday"
+parent:
+  - "[[Rookish clans]]"
+  - "[[Houses of Industry]]"
+  - "[[Human clans]]"
+  - "[[House]]"
+  - "[[Mutualist pacts]]"
+  - "[[Mutualist House]]"
+  - "[[Barony of Stilts]]"
+previous: "[[(Theme) The elements]]"
+next: "[[Peoples of the Sink]]"
 ---
-#FactionFriday #DailyPost
+#DailyPost/FactionFriday
 # The Fisher Barons
 `= this.Posted`
 

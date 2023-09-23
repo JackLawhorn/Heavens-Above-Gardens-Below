@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.21.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Known World]]", "[[Wild Magics]]"]
 
 previous: "[[Ages of the Known World]]"
 next: "[[(Theme) Solar utopia]]"
 ---
-`= this.tag` #DailyPost 
-# The Astral Wilds
+`=this.tags`ral Wilds
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,14 +1,20 @@
 ---
 dg-publish: true
-Posted: 01.25.2023
-tag: '#WorldWednesday'
-aliases: Signaltower, sun
-parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]', '[[White Quarter]]', '[[Known World]]']
-
-previous: '[[Later Heliotropic Age]]'
-next: '[[(Theme) Legion and monad]]'
+Posted: 2023-01-25
+tags:
+  - "#DailyPost/WorldWednesday"
+aliases:
+  - Signaltower
+  - sun
+parent:
+  - "[[Omphalos, the City of Gardens]]"
+  - "[[Old City]]"
+  - "[[White Quarter]]"
+  - "[[Known World]]"
+previous: "[[Later Heliotropic Age]]"
+next: "[[(Theme) Legion and monad]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The Elven Signaltower
 `= this.Posted`
 

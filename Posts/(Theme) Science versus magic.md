@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 05.04.2023
-tag: "#ThemeThursday"
+tag: "#DailyPost/ThemeThursday"
 
 previous: "[[Psionic Sphere]]"
 next: "[[Psion]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # (Theme) Science versus magic
 `= this.Posted`
 

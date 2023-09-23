@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.15.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Later Crisis of Hubris]]", "[[Renascence]]", "[[Early Renascence period]]", "[[Burning]]", "[[House of the Sun]]"]
 
 previous: "[[House of the Sun]]"
 next: "[[Scenes from the life of the Pretender I]]"
 ---
-`= this.tag` #DailyPost 
-# Reconstruction
-`= this.Posted`
+`=this.tags`this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

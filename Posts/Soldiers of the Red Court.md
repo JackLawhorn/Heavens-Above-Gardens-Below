@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.31.2023
-tag: "#FactionFriday"
+tag: "#DailyPost/FactionFriday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]", "[[Red Court]]", "[[Red Death period]]", "[[Red Death]]", "[[Near-life]]", "[[Campaigns against the Red Court]]"]
 
 previous: "[[(Theme) Body horror]]"
 next: "[[Torrente]]"
 ---
-`= this.tag` #DailyPost 
-# Soldiers of the Red Court
+`=this.tags`d Court
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-Posted: 01.12.2023
-tag: '#ThemeThursday'
-
-previous: '[[Lunar Aspects|The Lunar Aspects]]'
-next: '[[Silver Wolves]]'
+Posted: 2023-01-12
+tags:
+  - "#DailyPost/ThemeThursday"
+previous: "[[Lunar Aspects|The Lunar Aspects]]"
+next: "[[Silver Wolves]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Power
 `= this.Posted`
 

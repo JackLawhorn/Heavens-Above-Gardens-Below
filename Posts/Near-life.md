@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 04.03.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 
 previous: "[[Visions of the Daywatch]]"
 next: "[[Long Daylight]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Near-life
 `= this.Posted`
 

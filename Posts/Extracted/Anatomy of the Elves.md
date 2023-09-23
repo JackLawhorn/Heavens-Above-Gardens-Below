@@ -2,7 +2,7 @@
 dg-publish: true
 parent: ["[[Elven Legion]]", "[[Sun Elves]]", "[[Storm Elves]]", "[[Sea Elves]]"]
 ---
-**Extracted from:** `= this.parent`
+`=this.tags`
 # Anatomy of the Elves
 
 ---

@@ -1,15 +1,14 @@
 ---
 dg-publish: true
 Posted: 05.27.2023
-tag: "#CivilizationSaturday"
+tag: "#DailyPost/CivilizationSaturday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[Class and caste in the City]]"]
 aliases: currency, currencies, coins
 
 previous: "[[Remnants of the Fallen Houses]]"
 next: "[[Birth of the Luminary]]"
 ---
-`= this.tag` #DailyPost 
-# Currencies of the City
+`=this.tags`City
 `= this.Posted`
 
 **Previous:** `= this.previous`

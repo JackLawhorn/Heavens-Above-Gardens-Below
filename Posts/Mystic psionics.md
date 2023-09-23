@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 05.08.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 parent: ["[[Psionics]]", "[[Psionic Age]]", "[[History of Psionics]]", "[[Disciples of the Pretender]]", "[[Psion]]", "[[Belief in the Pretender]]"]
 aliases: mystic psion, mystic psions, psionic mysticism
 
 previous: "[[Scenes from the life of the Pretender III]]"
 next: "[[History of psionics]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Mystic psionics
 `= this.Posted`
 

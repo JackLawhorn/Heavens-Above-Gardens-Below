@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.10.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Known World]]", "[[Old World continent]]", "[[Sink]]"]
 
 previous: "[[History of psionics]]"
 next: "[[(Theme) The messiah myth]]"
 ---
-`= this.tag` #DailyPost 
-# The Gold Coast
+`=this.tags`d Coast
 `= this.Posted`
 
 **Previous:** `= this.previous`

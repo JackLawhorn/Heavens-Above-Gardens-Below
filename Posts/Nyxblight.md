@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.22.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Known World]]", "[[Umbral Aspects]]", "[[Nyxblight Tree]]", "[[Red Death period]]", "[[Red Death period City of Gardens]]"]
 
 previous: "[[Red Death period]]"
 next: "[[(Theme) Exploring grimdark]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Nyxblight
 `= this.Posted`
 

@@ -2,7 +2,7 @@
 dg-publish: true
 parent: ["[[Court]]"]
 ---
-#Glossary
+#Extra/Glossary
 # Hand of the Court
 
 ---

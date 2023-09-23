@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.27.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Nyx]]", "[[Ylem]]", "[[Dragon]]", "[[Standard Elven Cosmology]]"]
 
 previous: "[[Mutualist pacts]]"
 next: "[[Standard Elven Cosmology]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The origins of the Nyx
 `= this.Posted`
 

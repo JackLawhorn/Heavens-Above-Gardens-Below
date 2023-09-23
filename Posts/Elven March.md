@@ -1,14 +1,17 @@
 ---
 dg-publish: true
-Posted: 01.03.2023
-tag: '#TimelineTuesday'
-aliases: Heliotropic March, Elven March period
-parent: ['[[Heliotropic Age]]']
-
-previous: '[[Organic magics]]'
-next: '[[Discoveries in the Known World]]'
+Posted: 2023-01-03
+tags:
+  - "#DailyPost/TimelineTuesday"
+aliases:
+  - Heliotropic March
+  - Elven March period
+parent:
+  - "[[Heliotropic Age]]"
+previous: "[[Organic magics]]"
+next: "[[Discoveries in the Known World]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # The Elven March period
 `= this.Posted`
 

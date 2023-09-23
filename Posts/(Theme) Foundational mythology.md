@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-Posted: 01.05.2023
-tag: '#ThemeThursday'
-
-previous: '[[Discoveries in the Known World]]'
-next: '[[Sun Elves]]'
+Posted: 2023-01-05
+tags:
+  - "#DailyPost/ThemeThursday"
+previous: "[[Discoveries in the Known World]]"
+next: "[[Sun Elves]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # (Theme) Foundational mythology
 `= this.Posted`
 

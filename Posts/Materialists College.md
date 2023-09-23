@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.07.2023
-tag: "#FactionFriday"
+tag: "#DailyPost/FactionFriday"
 parent: ["[[House]]", "[[College]]", "[[Great House]]", "[[Fallen Houses]]", "[[Materialist magics]]", "[[History of materialist magics]]", "[[Scholars of the City]]", "[[Scholars Quarter]]"]
 
 previous: "[[(Theme) City under siege]]"
 next: "[[Fallen Houses]]"
 ---
-`= this.tag` #DailyPost 
-# The Materialists College
+`=this.tags`erialists College
 `= this.Posted`
 
 **Previous:** `= this.previous`

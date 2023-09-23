@@ -1,16 +1,14 @@
 ---
 dg-publish: true
 Posted: 07.17.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 parent: ["[[House Talos]]", "[[Isle of Talos]]", "[[Near-life]]"]
 aliases: simulacrum
 
 previous: "[[Garden of Simulacra]]"
 next: "[[Expansion of the Republic]]"
 ---
-`= this.tag` #DailyPost 
-# Simulacra
-`= this.Posted`
+`=this.tags`Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

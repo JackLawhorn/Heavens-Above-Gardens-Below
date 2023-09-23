@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.16.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Psionic Age]]", "[[History of psionics]]", "[[Pretender]]", "[[Disciples of the Pretender]]", "[[Fallen Houses]]"]
 
 previous: "[[Categorization of magics]]"
 next: "[[Deep Deserts]]"
 ---
-`= this.tag` #DailyPost 
-# The fall of the Pretender
-`= this.Posted`
+`=this.tags``
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.15.2023
-tag: "#WorldWednesday"
+tag: "#DailyPost/WorldWednesday"
 parent: ["[[Known World]]", "[[Red Court]]", "[[Nycter]]", "[[Nyxblight]]", "[[Shades]]"]
 
 previous: "[[Spread of the Red Death]]"
 next: "[[(Theme) Exploring cosmicism]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # The Nyxblight Tree
 `= this.Posted`
 

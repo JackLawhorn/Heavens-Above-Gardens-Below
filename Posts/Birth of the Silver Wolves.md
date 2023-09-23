@@ -1,16 +1,18 @@
 ---
 dg-publish: true
-Posted: 01.08.2023
-tag: '#SceneSunday'
-aliases: Birth of Clan Wolfstepper, Birth of the Silver Wolves, Rise of Clan Wolfstepper, Rise of the Silver Wolves
-parent: ['[[Heliotropic Age]]', '[[Elven March]]', '[[Silver Wolves]]']
-
-previous: '[[Human clans]]'
-next: '[[Iconic pact of the Silver Wolves]]'
+Posted: 2023-01-08
+tags:
+  - "#DailyPost/SceneSunday"
+parent:
+  - "[[Clan Wolfstepper]]"
+  - "[[Argent Ghetto]]"
+  - "[[Jurisweard]]"
+previous: "[[Human clans]]"
+next: "[[Iconic pact of Clan Wolfstepper]]"
 ---
-`= this.tag` #DailyPost
+`=this.tags`
 # Birth of the Silver Wolves
-`= this.Posted`
+`=this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.12.2023
-tag: '#SceneSunday'
+tag: '#DailyPost/SceneSunday'
 parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Storm Elves]]', '[[Elven Legion]]']
 
 previous: '[[Scholars Quarter]]'
 next: '[[Materialist magics]]'
 ---
-`= this.tag` #DailyPost
-# The Elf who fell from the sky
+`=this.tags`om the sky
 `= this.Posted`
 
 **Previous:** `= this.previous`

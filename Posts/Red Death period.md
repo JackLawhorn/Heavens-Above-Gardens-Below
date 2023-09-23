@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.21.2023
-tag: "#TimelineTuesday"
+tag: "#DailyPost/TimelineTuesday"
 parent: ["[[Crisis of Hubris]]"]
 
 previous: "[[Red Court]]"
 next: "[[Nyxblight]]"
 ---
-`= this.tag` #DailyPost
-# The Red Death period
+`=this.tags`Death period
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 05.01.2023
-tag: "#MagicSystemMonday"
+tag: "#DailyPost/MagicSystemMonday"
 aliases: psionic, psionically
 parent: ["[[Categorization of magics]]", "[[Psionic Age]]", "[[Psionic Sphere]]", "[[Psionics College]]", "[[History of Psionics]]", "[[Psions of the Known World]]", "[[Gljiva, the Conquering Fungus]]"]
 
 previous: "[[Scenes from the life of the Pretender II]]"
 next: "[[Psionic Age]]"
 ---
-`= this.tag` #DailyPost 
+`=this.tags` 
 # Psionics
 `= this.Posted`
 
