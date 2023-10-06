@@ -1,16 +1,14 @@
 ---
 dg-publish: true
-Posted: 2023-01-18
-tags:
-  - "#DailyPost/WorldWednesday"
-aliases:
-  - The Sink
-parent:
-  - "[[Known World]]"
-previous: "[[Roiling of the elements]]"
-next: "[[(Theme) The elements]]"
+Posted: 01.18.2023
+tag: '#WorldWednesday'
+aliases: The Sink
+parent: ['[[Known World]]']
+
+previous: '[[Roiling of the elements]]'
+next: '[[(Theme) The elements]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # The Sink
 `= this.Posted`
 

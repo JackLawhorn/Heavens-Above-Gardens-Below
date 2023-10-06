@@ -2,7 +2,7 @@
 dg-publish: true
 parent: ["[[Lunar Aspects]]"]
 ---
-#Extra/Glossary 
+#Glossary 
 # Perigeas
 
 A natural phenomenon of the [[Nyx]] by which a [[Lunar Aspects|Lunar Aspect]] is both full and [[benighted|unbenighted]], and simultaneously at its closest point to the surface of the [[Known World]]. [[Iconic pacts]] with the Lunar Aspects become far more powerful during perigeas, as does the [[Aspect]]'s influence.

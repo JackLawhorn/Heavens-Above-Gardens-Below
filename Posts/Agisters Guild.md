@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.23.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 parent: ["[[House]]", "[[Guild]]", "[[Mutualist House]]", "[[Gardens of the City]]", "[[Mutualist pacts]]", "[[Jurisweard]]", "[[Golden Hart]]"]
 
 previous: "[[(Theme) Solar utopia]]"
 next: "[[Gardens of the City]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The Agisters Guild
 `= this.Posted`
 

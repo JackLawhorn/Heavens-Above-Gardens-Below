@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 07.12.2023
-tag: "#DailyPost/WorldWednesday"
+tag: "#WorldWednesday"
 parent: ["[[Minor Aspects]]", "[[Agisters Guild]]"]
 
 previous: "[[Vergonic War]]"
 next: "[[(Theme) Age of exploration]]"
 ---
-`=this.tags`spect of forests and glades
+`= this.tag` #DailyPost 
+# The Golden Hart, Aspect of forests and glades
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.10.2023
-tag: '#DailyPost/FactionFriday'
+tag: '#FactionFriday'
 parent: ['[[Omphalos, the City of Gardens]]', "[[Scholars Quarter]]"]
 
 previous: '[[(Theme) Scholarship]]'
 next: '[[Scholars Quarter]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Scholars of the City
 `= this.Posted`
 

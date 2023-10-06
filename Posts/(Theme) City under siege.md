@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 04.06.2023
-tag: "#DailyPost/ThemeThursday"
+tag: "#ThemeThursday"
 
 previous: "[[Red Moon]]"
 next: "[[Materialists College]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # (Theme) City under siege
 `= this.Posted`
 

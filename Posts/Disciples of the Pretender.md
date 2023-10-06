@@ -1,14 +1,15 @@
 ---
 dg-publish: true
 Posted: 05.12.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 aliases: Disciples, Disciple
 parent: ["[[Psionics]]", "[[History of psionics]]", "[[Psionic Age]]", "[[Belief in the Pretender]]", "[[Psion]]", "[[Mystic psionics]]", "[[Questing Charter of the Pretender]]", "[[Fallen Houses]]", "[[cults]]", "[[Pretender]]"]
 
 previous: "[[(Theme) The messiah myth]]"
 next: "[[Questing Charter of the Pretender]]"
 ---
-`=this.tags`ciples of the Pretender
+`= this.tag` #DailyPost 
+# The Disciples of the Pretender
 `= this.Posted`
 
 **Previous:** `= this.previous`

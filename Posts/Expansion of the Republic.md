@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 07.18.2023
-tag: "#DailyPost/TimelineTuesday"
+tag: "#TimelineTuesday"
 parent: ["[[Republic]]", "[[Colonies of the Questing Houses]]", "[[Questing Houses]]", "[[Wayfarers Guild]]", "[[Wayfarer Colonies]]"]
 
 previous: "[[Simulacra]]"
 next: "[[Isles of the Great Sea]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The expansion of the Republic
 `= this.Posted`
 

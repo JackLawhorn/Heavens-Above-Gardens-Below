@@ -3,7 +3,7 @@ dg-publish: true
 parent: ["[[Court]]"]
 aliases: Orators
 ---
-#Extra/Glossary
+#Glossary
 # Orator
 
 ---

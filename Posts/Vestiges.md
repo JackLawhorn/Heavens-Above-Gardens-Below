@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.19.2023
-tag: "#DailyPost/WorldWednesday"
+tag: "#WorldWednesday"
 parent: ["[[Dragon]]"]
 
 previous: "[[Later Crisis of Hubris]]"
 next: "[[(Theme) Arms race]]"
 ---
-`=this.tags`s of the Dragon
+`= this.tag` #DailyPost 
+# Vestiges of the Dragon
 `= this.Posted`
 
 **Previous:** `= this.previous`

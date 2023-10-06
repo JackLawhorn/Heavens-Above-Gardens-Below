@@ -1,14 +1,15 @@
 ---
 dg-publish: true
 Posted: 02.25.2023
-tag: '#DailyPost/CivilizationSaturday'
+tag: '#CivilizationSaturday'
 aliases: infrastructure and layout, infrastructure, layout
 parent: ['[[Omphalos, the City of Gardens]]']
 
 previous: '[[Canon of Heterodoxies]]'
 next: '[[Founding of the Oklop consortium]]'
 ---
-`=this.tags` and layout
+`= this.tag` #DailyPost
+# City infrastructure and layout
 `= this.Posted`
 
 **Previous:** `= this.previous`

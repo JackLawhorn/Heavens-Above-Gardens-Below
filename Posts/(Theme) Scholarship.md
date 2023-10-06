@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 02.09.2023
-tag: '#DailyPost/ThemeThursday'
+tag: '#ThemeThursday'
 
 previous: '[[Lands to the south]]'
 next: '[[Scholars of the City]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # (Theme) Scholarship
 `= this.Posted`
 

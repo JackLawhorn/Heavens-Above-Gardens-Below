@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.14.2023
-tag: "#DailyPost/WorldWednesday"
+tag: "#WorldWednesday"
 parent: ["[[Known World]]", "[[Old World]]"]
 
 previous: "[[Decline of cland culture]]"
 next: "[[(Theme) The other]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The Old World continent
 `= this.Posted`
 

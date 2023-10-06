@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.25.2023
-tag: "#DailyPost/CivilizationSaturday"
+tag: "#CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death]]", "[[Campaigns against the Red Court]]", "[[Omphalos, the City of Gardens]]"]
 
 previous: "[[Apotropaics]]"
 next: "[[The First Red King]]"
 ---
-`=this.tags`ity of Gardens
+`= this.tag` #DailyPost 
+# Red Death period City of Gardens
 `= this.Posted`
 
 **Previous:** `= this.previous`

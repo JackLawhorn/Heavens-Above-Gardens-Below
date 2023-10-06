@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.06.2023
-tag: "#DailyPost/TimelineTuesday"
+tag: "#TimelineTuesday"
 parent: ["[[Renascence]]"]
 
 previous: "[[Docetic forms of the Aspects]]"
 next: "[[Orior]]"
 ---
-`=this.tags`ly Renascence period
+`= this.tag` #DailyPost 
+# The Early Renascence period
 `= this.Posted`
 
 **Previous:** `= this.previous`

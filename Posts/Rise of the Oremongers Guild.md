@@ -1,16 +1,13 @@
 ---
 dg-publish: true
-Posted: 2023-01-29
-tags:
-  - "#DailyPost/SceneSunday"
-parent:
-  - "[[Prehistory]]"
-  - "[[Mundial Aspects]]"
-  - "[[Known World]]"
-previous: "[[Omphalos, the City of Gardens]]"
-next: "[[Iconic pact of the Oremongers Guild]]"
+Posted: 01.29.2023
+tag: '#SceneSunday'
+parent: ['[[Heliotropic Age]]', '[[Later Heliotropic Age]]', '[[Oremongers Guild]]', "[[polar onyx deposit]]"]
+
+previous: '[[Omphalos, the City of Gardens]]'
+next: '[[Iconic pact of the Oremongers Guild]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Rise of the Oremongers Guild
 `= this.Posted`
 

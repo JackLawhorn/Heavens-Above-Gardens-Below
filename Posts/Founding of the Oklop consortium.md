@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.26.2023
-tag: "#DailyPost/SceneSunday"
+tag: "#SceneSunday"
 parent: ["[[Heliotropic Age]]", "[[Later Heliotropic Age]]", "[[Oklop]]", "[[History of human contact with the Orior]]"]
 
 previous: "[[City infrastructure and layout]]"
 next: "[[Magics in the Known World]]"
 ---
-`=this.tags`g of the Oklop consortium
+`= this.tag` #DailyPost 
+# Founding of the Oklop consortium
 `= this.Posted`
 
 **Previous:** `= this.previous`

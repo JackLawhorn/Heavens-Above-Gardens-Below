@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 05.13.2023
-tag: "#DailyPost/CivilizationSaturday"
+tag: "#CivilizationSaturday"
 parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Pretender]]", "[[Disciples of the Pretender]]", "[[Questing Charter]]"]
 
 previous: "[[Disciples of the Pretender]]"
 next: "[[Scenes from the life of the Pretender IV]]"
 ---
-`=this.tags`er of the Pretender
+`= this.tag` #DailyPost 
+# The Questing Charter of the Pretender
 `= this.Posted`
 
 **Previous:** `= this.previous`

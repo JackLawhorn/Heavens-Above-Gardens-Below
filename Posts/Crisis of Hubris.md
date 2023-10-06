@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.28.2023
-tag: '#DailyPost/TimelineTuesday'
+tag: '#TimelineTuesday'
 parent: ["[[Ages of the Known World]]"]
 
 previous: '[[Magics in the Known World]]'
 next: '[[Mines of the Oremongers Guild]]'
 ---
-`=this.tags`s
+`= this.tag` #DailyPost
+# The Crisis of Hubris
 `= this.Posted`
 
 **Previous:** `= this.previous`

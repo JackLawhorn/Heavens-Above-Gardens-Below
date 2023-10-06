@@ -1,16 +1,13 @@
 ---
 dg-publish: true
-Posted: 2023-01-04
-tags:
-  - "#DailyPost/WorldWednesday"
-parent:
-  - "[[Heliotropic Age]]"
-  - "[[Elven March]]"
-  - "[[Known World]]"
-previous: "[[Elven March]]"
-next: "[[(Theme) Foundational mythology]]"
+Posted: 01.04.2023
+tag: '#WorldWednesday'
+parent: ['[[Heliotropic Age]]', '[[Elven March]]', '[[Known World]]']
+
+previous: '[[Elven March]]'
+next: '[[(Theme) Foundational mythology]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Discoveries in the Known World
 `= this.Posted`
 

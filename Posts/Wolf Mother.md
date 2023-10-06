@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.29.2023
-tag: "#DailyPost/MagicSystemMonday"
+tag: "#MagicSystemMonday"
 parent: ["[[Lunar Aspects]]", "[[Aspect]]", "[[Clan Wolfstepper]]", "[[Silver]]", "[[silver moon]]"]
 
 previous: "[[Birth of the Luminary]]"
 next: "[[Renascence]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The Wolf Mother
 `= this.Posted`
 

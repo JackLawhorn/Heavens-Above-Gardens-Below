@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.28.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 aliases: necromancer demon, demons, demon, demonic
 parent: ["[[History of necromancy]]", "[[History of materialist magics]]", "[[Necromancy]]", "[[Isle of Melos]]", "[[Fall of the Materialists College]]", "[[Necromancers of the Known World]]", "[[Remnants of the Fallen Houses]]"]
 
 previous: "[[(Theme) Dark and forbidden magics]]"
 next: "[[Remnants of the Legion in the City]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Necromancer demons
 `= this.Posted`
 

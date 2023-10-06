@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 07.14.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 parent: ["[[Simulacra]]", "[[Isle of Talos]]", "[[Expansion of the Republic]]", "[[Engineers Union]]", "[[House]]"]
 
 previous: "[[(Theme) Age of exploration]]"
 next: "[[Isle of talos]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # House Talos
 `= this.Posted`
 

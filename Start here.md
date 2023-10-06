@@ -14,7 +14,7 @@ After the disastrous [[Crisis of Hubris]], a cultural and intellectual [[Renasce
 Governed by a [[House of the Sun|ruling class of historians]], a [[Psionics College|shadowy college]] of [[Psionics|psionic]] scholar spies, and powerful [[Union|unions]] of political entities with diverse and oft-conflicting interests, will this new era prove to be the first step towards their extinction or towards their ascension to godhood?
 
 > [!IMPORTANT] First daily post
-> #DailyPost/SceneSunday
+> #SceneSunday
 > [[Nyxfall of the Elven Legion]]
 > 01.01.2023
 
@@ -27,7 +27,7 @@ Governed by a [[House of the Sun|ruling class of historians]], a [[Psionics Coll
 
 Heavens Above; Gardens Below is a fantasy setting inspired by the diverse cultures of Mediterranean Europe, Africa, and the Middle East. It was created as the transmedia backdrop for stories about power and consequences, the impact of history and failure on culture and identity, and the origins of the ideas and concepts that define us.
 
-I detail specific themes and inspirations in weekly #DailyPost/ThemeThursday posts, which you can find a list of here:
+I detail specific themes and inspirations in weekly #ThemeThursday posts, which you can find a list of here:
 ```dataview
 TABLE Posted, tag as "Daily Tag"
 FROM "Posts" AND #DailyPost AND #ThemeThursday 
@@ -36,20 +36,20 @@ SORT Posted ASC
 
 ## Release schedule and goals
 
-I am writing one blog post every day throughout 2023, based on daily prompts that help me to categorize my thoughts and keep the exercise fresh. I might not always be entirely caught up because life happens and the #DailyPost/SceneSunday posts are harder to get through than I initially thought 😂
+I am writing one blog post every day throughout 2023, based on daily prompts that help me to categorize my thoughts and keep the exercise fresh. I might not always be entirely caught up because life happens and the #SceneSunday posts are harder to get through than I initially thought 😂
 
 Here is a list of my daily writing prompts:
 
-- #DailyPost/SceneSunday – Specific moments in the history of this world, used to highlight much of the information being written in the other daily prompts and to give a feel of what living in this world might be like from the perspective of humans like us.
+- #SceneSunday – Specific moments in the history of this world, used to highlight much of the information being written in the other daily prompts and to give a feel of what living in this world might be like from the perspective of humans like us.
 
-- #DailyPost/MagicSystemMonday – There are a TON of magic systems in this setting! These posts will seek to make sense of them, their mechanics, how they are used, and what the consequences are for the wider world. For more, see [[Magics in the Known World]].
+- #MagicSystemMonday – There are a TON of magic systems in this setting! These posts will seek to make sense of them, their mechanics, how they are used, and what the consequences are for the wider world. For more, see [[Magics in the Known World]].
 
-- #DailyPost/TimelineTuesday – Similarly, the timeline of this world covers a TON of ground. These posts will define set periods commonly referenced to place events and concepts in relative order. For more, see [[Ages of the Known World]].
+- #TimelineTuesday – Similarly, the timeline of this world covers a TON of ground. These posts will define set periods commonly referenced to place events and concepts in relative order. For more, see [[Ages of the Known World]].
 
-- #DailyPost/WorldWednesday – Although the majority of this content will focus around humanity in [[Omphalos, the City of Gardens]] and their colonies expanding outward from it, these posts will help me to flesh out the entirety of the [[Known World]].
+- #WorldWednesday – Although the majority of this content will focus around humanity in [[Omphalos, the City of Gardens]] and their colonies expanding outward from it, these posts will help me to flesh out the entirety of the [[Known World]].
 
-- #DailyPost/ThemeThursday – My approach to worldbuilding relies heavily on themes I want to incorporate and inspiration from external sources (both real-world and fictional). These posts will directly address these subjects. For more, see [[#Themes and inspiration]].
+- #ThemeThursday – My approach to worldbuilding relies heavily on themes I want to incorporate and inspiration from external sources (both real-world and fictional). These posts will directly address these subjects. For more, see [[#Themes and inspiration]].
 
-- #DailyPost/FactionFriday – The history of the Known World covers thousands of years of time, and my approach has been to focus primarily on the rise and fall of factions and dynasties rather than individuals. These posts will help me flesh out important groups.
+- #FactionFriday – The history of the Known World covers thousands of years of time, and my approach has been to focus primarily on the rise and fall of factions and dynasties rather than individuals. These posts will help me flesh out important groups.
 
-- #DailyPost/CivilizationSaturday – These posts will outline specific details and traits of Omphalos, the City of Gardens, as well as other population centers throughout the Known World. This might include anything from districts of the City to culture and society.
+- #CivilizationSaturday – These posts will outline specific details and traits of Omphalos, the City of Gardens, as well as other population centers throughout the Known World. This might include anything from districts of the City to culture and society.

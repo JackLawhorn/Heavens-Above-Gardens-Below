@@ -2,7 +2,7 @@
 dg-publish: true
 aliases: solas
 ---
-#Extra/Glossary 
+#Glossary 
 # Sol
 
 Sol (plural "solas") is a universal unit of measurement used by the [[Elven Legion]] that is equal to one day's work. The word itself is [[Elven tongue|Old Elven]] and is imparted to those who learn the Elven tongue. It is, in fact, so old that the [[Sun Elves]] had already adopted the word "day" rather than using "sol" as a unit of time before making [[nyxfall]] on the [[Known World]].

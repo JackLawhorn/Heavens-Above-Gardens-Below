@@ -2,7 +2,7 @@
 dg-publish: true
 parent: ["[[Alchemy]]"]
 ---
-#Extra/Glossary 
+#Glossary 
 # Quicksilver
 
 A synthetic medium developed in the [[Early Renascence period]] by the descendants of the [[History of materialist magics#The Early Crisis of Hubris|alchemists]]. It is the sole such achievement in the experiments of the alchemists, coming an age after the disbanding of their scholars.

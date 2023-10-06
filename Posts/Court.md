@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.04.2023
-tag: '#DailyPost/CivilizationSaturday'
+tag: '#CivilizationSaturday'
 parent: ['[[Omphalos, the City of Gardens]]', '[[Old City]]', "[[White Quarter]]"]
 
 previous: '[[House Lightbringer]]'
 next: '[[Naming of the Great Houses]]'
 ---
-`=this.tags`t
+`= this.tag` #DailyPost
+# The Court
 `= this.Posted`
 
 **Previous:** `= this.previous`

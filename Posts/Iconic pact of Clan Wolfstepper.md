@@ -1,18 +1,13 @@
 ---
 dg-publish: true
-Posted: 2023-01-09
-tags:
-  - "#DailyPost/MagicSystemMonday"
-parent:
-  - "[[Iconic pacts]]"
-  - "[[Clan Wolfstepper]]"
-  - "[[Discoveries in the Known World]]"
-  - "[[Silver]]"
-  - "[[Wolf Mother]]"
-previous: "[[Birth of the Silver Wolves]]"
-next: "[[Heliotropic Age]]"
+Posted: 01.09.2023
+tag: '#MagicSystemMonday'
+parent: ['[[Iconic pacts]]', "[[Clan Wolfstepper]]", '[[Discoveries in the Known World]]', "[[Silver]]", "[[Wolf Mother]]"]
+
+previous: '[[Birth of the Silver Wolves]]'
+next: '[[Heliotropic Age]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Iconic pact of Clan Wolfstepper
 `= this.Posted`
 

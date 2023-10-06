@@ -1,14 +1,15 @@
 ---
 dg-publish: true
-Posted: 05.02.2023
-tag: "#DailyPost/TimelineTuesday"
-parent: ["[[Psionics]]", "[[History of Psionics]]", "[[Disciples of the Pretender]]", "[[Psionics College]]", "[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Renascence]]", "[[Early Renascence period]]"]
+Posted: 05.05.2023
+tag: "#FactionFriday"
+aliases: psions
+parent: ["[[Psionics]]"]
 
-previous: "[[Psionics]]"
-next: "[[Psionic Sphere]]"
+previous: "[[(Theme) Science versus magic]]"
+next: "[[Belief in the Pretender]]"
 ---
-`=this.tags`
-# Psions
+`= this.tag` #DailyPost 
+# Psions of the Known World
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 03.30.2023
-tag: "#DailyPost/ThemeThursday"
+tag: "#ThemeThursday"
 
 previous: "[[Red Death]]"
 next: "[[Soldiers of the Red Court]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # (Theme) Body horror
 `= this.Posted`
 

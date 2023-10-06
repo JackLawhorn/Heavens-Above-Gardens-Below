@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.01.2023
-tag: '#DailyPost/WorldWednesday'
+tag: '#WorldWednesday'
 parent: ["[[Oremongers Guild]]"]
 
 previous: '[[Crisis of Hubris]]'
 next: '[[(Theme) Tragedy and catastrophic loss]]'
 ---
-`=this.tags`ngers Guild
+`= this.tag` #DailyPost 
+# Mines of the Oremongers Guild
 `= this.Posted`
 
 **Previous:** `= this.previous`

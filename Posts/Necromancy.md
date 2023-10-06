@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.24.2023
-tag: "#DailyPost/MagicSystemMonday"
+tag: "#MagicSystemMonday"
 aliases: necromancer, necromancers, necromantic
 parent: ["[[Organic magics]]", "[[Materialist magics]]", "[[History of materialist magics]]"]
 
 previous: "[[Triumph of the Sobek]]"
 next: "[[Fall of the Materialists College]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Necromancy
 `= this.Posted`
 

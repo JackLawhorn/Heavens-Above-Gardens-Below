@@ -1,14 +1,13 @@
 ---
 dg-publish: true
-Posted: 2023-01-02
-tags:
-  - "#DailyPost/MagicSystemMonday"
-parent:
-  - "[[Categorization of magics]]"
-previous: "[[Nyxfall of the Elven Legion]]"
-next: "[[Elven March]]"
+Posted: 01.02.2023
+tag: '#MagicSystemMonday'
+parent: ['[[Categorization of magics]]']
+
+previous: '[[Nyxfall of the Elven Legion]]'
+next: '[[Elven March]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Organic magics
 `= this.Posted`
 

@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 05.26.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 parent: ["[[Known World]]", "[[Fallen Houses]]", "[[Fall of the Materialists College]]", "[[Necromancer demons]]", "[[Fall of the Silver Wolves]]", "[[New Silver Age]]"]
 
 previous: "[[(Theme) Justified crime]]"
 next: "[[Currencies of the City]]"
 ---
-`=this.tags`nants of the Fallen Houses
+`= this.tag` #DailyPost 
+# The remnants of the Fallen Houses
 `= this.Posted`
 
 **Previous:** `= this.previous`

@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 05.06.2023
-tag: "#DailyPost/CivilizationSaturday"
+tag: "#CivilizationSaturday"
 parent: ["[[Psionic Age]]", "[[History of Psionics]]", "[[Mystic psionics]]", "[[Disciples of the Pretender]]"]
 
 previous: "[[Psion]]"
 next: "[[Scenes from the life of the Pretender III]]"
 ---
-`=this.tags`ender
+`= this.tag` #DailyPost 
+# Belief in the Pretender
 `= this.Posted`
 
 **Previous:** `= this.previous`

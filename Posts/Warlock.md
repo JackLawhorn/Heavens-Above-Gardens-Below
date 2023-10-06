@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 03.06.2023
-tag: "#DailyPost/MagicSystemMonday"
+tag: "#MagicSystemMonday"
 aliases: warlocks, Pact Breakers
 
 previous: "[[Fall of the Oremongers Guild]]"
 next: "[[Early Crisis of Hubris]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Warlock, the Pact Breakers
 `= this.Posted`
 

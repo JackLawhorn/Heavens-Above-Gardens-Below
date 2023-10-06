@@ -3,7 +3,7 @@ dg-publish: true
 parent: ["[[Quest]]"]
 aliases: Quests into Oblivion
 ---
-#Extra/Glossary 
+#Glossary 
 # Quest into Oblivion
 
 Failed or doomed [[Quest|quests]], typically those seen as made in folie or whose story can impart some moral or other wisdom.

@@ -1,16 +1,13 @@
 ---
 dg-publish: true
-Posted: 2023-01-23
-tags:
-  - "#DailyPost/MagicSystemMonday"
-parent:
-  - "[[Docetic]]"
-  - "[[Known World]]"
-  - "[[Materialist magics]]"
-previous: "[[Founding of Omphalos, the City of Gardens]]"
-next: "[[Later Heliotropic Age]]"
+Posted: 01.23.2023
+tag: '#MagicSystemMonday'
+parent: ['[[Docetic]]', "[[Known World]]", "[[Materialist magics]]"]
+
+previous: '[[Founding of Omphalos, the City of Gardens]]'
+next: '[[Later Heliotropic Age]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Docetic materials
 `= this.Posted`
 

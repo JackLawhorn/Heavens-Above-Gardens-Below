@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 04.13.2023
-tag: "#DailyPost/ThemeThursday"
+tag: "#ThemeThursday"
 
 previous: "[[Shade motes]]"
 next: "[[House of the Sun]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # (Theme) Reconstruction
 `= this.Posted`
 

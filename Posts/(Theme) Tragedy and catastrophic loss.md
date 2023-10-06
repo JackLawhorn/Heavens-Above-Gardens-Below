@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 03.02.2023
-tag: "#DailyPost/ThemeThursday"
+tag: "#ThemeThursday"
 
 previous: "[[Mines of the Oremongers Guild]]"
 next: "[[House Lightbringer's Questing Charter]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # (Theme) Tragedy and catastrophic loss
 `= this.Posted`
 

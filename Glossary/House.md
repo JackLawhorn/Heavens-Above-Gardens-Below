@@ -3,7 +3,7 @@ dg-publish: true
 parent: ['[[Court]]']
 aliases: Houses, Houseship
 ---
-#Extra/Glossary
+#Glossary
 # Houses of the Court
 
 ---

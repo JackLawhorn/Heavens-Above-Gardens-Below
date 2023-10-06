@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.12.2023
-tag: "#DailyPost/MagicSystemMonday"
+tag: "#MagicSystemMonday"
 parent: ["[[Omphalos, the City of Gardens]]", "[[Clan Wolfstepper]]", "[[Argent Ghetto]]", "[[Silver]]"]
 
 previous: "[[Persecution of Clan Wolfstepper]]"
 next: "[[Decline of cland culture]]"
 ---
-`=this.tags`in the City
+`= this.tag` #DailyPost 
+# Silver in the City
 `= this.Posted`
 
 **Previous:** `= this.previous`

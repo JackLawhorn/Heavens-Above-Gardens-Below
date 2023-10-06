@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 02.06.2023
-tag: '#DailyPost/MagicSystemMonday'
+tag: '#MagicSystemMonday'
 aliases: pact magic, pact, pacts, pact-bound
 parent: ['[[Categorization of magics]]', '[[Discoveries in the Known World]]']
 
 previous: '[[Naming of the Great Houses]]'
 next: '[[History of the Subjective]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # Pact magics
 `= this.Posted`
 

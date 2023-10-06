@@ -1,19 +1,16 @@
 ---
 dg-publish: true
-Posted: 2023-01-06
-tags:
-  - "#DailyPost/FactionFriday"
-parent:
-  - "[[Elven Legion]]"
-  - "[[Orior]]"
-aliases:
-  - Sun Elf
-previous: "[[(Theme) Foundational mythology]]"
-next: "[[Human clans]]"
+Posted: 01.06.2023
+tag: '#FactionFriday'
+parent: ['[[Elven Legion]]', '[[Orior]]']
+aliases: Sun Elf
+
+previous: '[[(Theme) Foundational mythology]]'
+next: '[[Human clans]]'
 ---
-`=this.tags`
-# The Sun Elves of the Legion
-`=this.Posted`
+`= this.tag` #DailyPost
+# The Sun Elves
+`= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

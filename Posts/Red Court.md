@@ -1,14 +1,15 @@
 ---
 dg-publish: true
 Posted: 03.20.2023
-tag: "#DailyPost/MagicSystemMonday"
+tag: "#MagicSystemMonday"
 parent: ["[[Umbral Aspects]]"]
 aliases: Hunger
 
 previous: "[[Arrival of the Red Court in the City]]"
 next: "[[Red Death period]]"
 ---
-`=this.tags`rt
+`= this.tag` #DailyPost 
+# Red Court
 `= this.Posted`
 
 **Previous:** `= this.previous`

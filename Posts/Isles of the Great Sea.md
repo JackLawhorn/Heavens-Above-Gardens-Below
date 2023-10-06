@@ -1,14 +1,16 @@
 ---
 dg-publish: true
 Posted: 07.19.2023
-tag: "#DailyPost/WorldWednesday"
+tag: "#WorldWednesday"
 parent: ["[[Great Sea]]", "[[Colonies of the Questing Houses]]", "[[Expansion of the Republic]]"]
 aliases: isle, isles, isle of the Great Sea
 
 previous: "[[Expansion of the Republic]]"
 next: "[[(Theme) Scope]]"
 ---
-`=this.tags` this.Posted`
+`= this.tag` #DailyPost 
+# The isles of the Great Sea
+`= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

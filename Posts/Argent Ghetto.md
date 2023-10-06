@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 06.03.2023
-tag: "#DailyPost/CivilizationSaturday"
+tag: "#CivilizationSaturday"
 parent: ["[[Clan Wolfstepper]]", "[[Fall of the Silver Wolves]]", "[[Persecution of Clan Wolfstepper]]", "[[Omphalos, the City of Gardens]]", "[[Cumbergrounds]]", "[[Old City]]", "[[Red Quarter]]", "[[Class and caste in the City]]", "[[Decline of cland culture]]"]
 
 previous: "[[Psionics College]]"
 next: "[[Defiling of the Wolf Mother]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The Argent Ghetto
 `= this.Posted`
 

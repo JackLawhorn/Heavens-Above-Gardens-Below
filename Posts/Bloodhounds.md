@@ -1,16 +1,13 @@
 ---
 dg-publish: true
-Posted: 2023-06-09
-tags:
-  - "#DailyPost/FactionFriday"
-parent:
-  - "[[Clan Wolfstepper]]"
-  - "[[Argent Ghetto]]"
-  - "[[Jurisweard]]"
+Posted: 06.09.2023
+tag: "#FactionFriday"
+parent: ["[[Clan Wolfstepper]]", "[[Argent Ghetto]]", "[[Jurisweard]]"]
+
 previous: "[[(Theme) Order and freedom]]"
 next: "[[Class and caste in the City]]"
 ---
-`=this.tags`
+`= this.tag` #DailyPost 
 # The Bloodhounds
 `= this.Posted`
 
@@ -38,11 +35,3 @@ They are not only able to leave the walls of the ghetto but also to enter the ha
 In addition to the material privileges afforded to the Bloodhounds, they receive significant social benefit as well. As [[Remnants of the Fallen Houses|remnants]] of a [[Fallen Houses|Fallen House]], [[Clan Wolfstepper]] faces persecution far greater than the other [[cland]] cultures in [[Omphalos, the City of Gardens]]. But those elevated to the station of the Bloodhounds receive a modicum of recognition as agents of the [[Jurisweard]] in their own right.
 
 > For more, see [[Class and caste in the City]].
-
-## See also
-
-```dataview
-TABLE Posted, tag as "Daily Tag"
-WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
-SORT Posted ASC
-```

@@ -1,12 +1,13 @@
 ---
 dg-publish: true
 Posted: 02.27.2023
-tag: '#DailyPost/MagicSystemMonday'
+tag: '#MagicSystemMonday'
 
 previous: '[[Founding of the Oklop consortium]]'
 next: '[[Crisis of Hubris]]'
 ---
-`=this.tags` World
+`= this.tag` #DailyPost
+# Magics in the Known World
 `= this.Posted`
 
 **Previous:** `= this.previous`

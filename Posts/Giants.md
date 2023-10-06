@@ -1,13 +1,15 @@
 ---
 dg-publish: true
 Posted: 02.01.2023
-tag: '#DailyPost/WorldWednesday'
+tag: '#WorldWednesday'
 parent: ['[[Aspect]]', '[[Minor Aspects]]']
 
 previous: '[[Post-Heliotropic Elven March]]'
 next: '[[(Theme) Government and politics]]'
 ---
-`=this.tags`= this.Posted`
+`= this.tag` #DailyPost
+# Giants
+`= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`

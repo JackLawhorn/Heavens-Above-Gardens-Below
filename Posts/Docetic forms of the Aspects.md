@@ -1,60 +1,60 @@
 ---
 dg-publish: true
-Posted: 01.23.2023
-tag: '#DailyPost/MagicSystemMonday'
-parent: ['[[Docetic]]', "[[Known World]]", "[[Materialist magics]]"]
+Posted: 06.05.2023
+tag: "#MagicSystemMonday"
+parent: ["[[Aspect]]", "[[Docetic]]", "[[Docetic materials]]", "[[Silver]]"]
 
-previous: '[[Founding of Omphalos, the City of Gardens]]'
-next: '[[Later Heliotropic Age]]'
+previous: "[[Defiling of the Wolf Mother]]"
+next: "[[Early Renascence period]]"
 ---
-`=this.tags`ed`
+`= this.tag` #DailyPost 
+# The docetic forms of the Aspects
+`= this.Posted`
 
 **Previous:** `= this.previous`
 **Next:** `= this.next`
 
 ---
 
-## Onyx
+## Communication with the Aspects
 
-Each deposit of onyx is a fallen piece of the [[Nyx]] itself, inky black with thousands of burning bright pinpricks of [[nyxfire]]. It takes a form like that of a volcanic stone formed under great heat and pressure, and its edges are impossibly, microscopically sharp.
+Verbal communication with the physical manifestations of the [[Aspect|Aspects]] of [[Ylem]] is most common with the [[Minor Aspects]], especially those who imitate the anatomy of the [[Orior]] through the process of [[formitation]]. It is much more common, however, for communication to be non-verbal.
 
-Onyx is a highly reactive material. The largest of these deposits, called [[polar onyx deposit|polar onyx deposits]], are buried deep beneath the surface and are critical to the composition of the worlds which they hold in place in their place in the Nyx. Scratching one of the [[Known World]]'s anchoring deposits shook the world and led to great devastation. It can also be ignited into a near-eternal combustion of pure nyxfire, such as that around which the [[Elven Signaltower]] of [[Omphalos, the City of Gardens]] was constructed. Due to this reactivity, little about the properties of onyx can be adequately measured.
+The [[Mundial Aspects]] do formitate, but generally communicate through the [[Astral Sphere]], appearing to ripple and vibrate and display influence over the surrounding environment. Being on the other end of such an interaction – during which one's connection to the Astral Sphere is significantly but temporarily deepened – is often disorienting and can even be an enlightening experience.
 
-## Silver
+Aspects who manifest within the [[Prime Material Sphere]] as single [[#Materials and artifacts|docetic artifacts]] most often communicate non-verbally over a short distance: usually limited to within eye-sight or perhaps requiring physical contact. Long- or short-range telecommunication is most commonly seen with the [[Lunar Aspects|Lunar]] and [[Umbral Aspects]]. [[Docetic materials]] are often used as channels for telecommunication between [[Iconic pacts|patron]] Aspects and their worshippers.
 
-> For more, see [[Silver]].
+## Common docetic forms
 
-[[Silver]] is a [[docetic materials|docetic material]] closely tied to the [[Wolf Mother]], [[Lunar Aspects|Lunar Aspect]] and [[Iconic pacts|patron]] to all predators of the land, chunks of her [[silver moon|lunar form]] come crashing down to the [[Known World]]. As such it has historically been kept close by the children of the Wolf Mother – [[Clan Wolfstepper]] and their [[Silver Wolves]] – until their [[Fall of the Silver Wolves|fall]] in the [[Later Crisis of Hubris]].
+### Formitation
 
-It has a number of [[Silver#Properties and applications|valuable attributes]] and very notably is used in the [[Silvered|silvering]] of arms and armor and now as a form of [[Currencies of the City|currency]] within [[Omphalos, the City of Gardens]].
+> For more, see [[Formitation]].
 
-## Fulgurite
+It is common for [[Aspect|Aspects]] to take on the form of the [[Orior]] and the [[noble beasts]], mimicking those they interact with through a process called [[formitation]]. Maintaining such a form is relatively inexpensive compared to maintaining a more permanent form within the [[Prime Material Sphere]] that is sustained when not observed by the children of the [[Angels]]. Entities such as the [[Mundial Aspects#elemental motes|elemental motes]], which are a common sight in the [[Known World]], are well known for manifesting in this way.
 
-Fulgurite is the footprint of [[nyxfire]] bolts, left behind by lightning striking the earth, by the [[Wild Magics|Wild Magic]] storms, and after the [[Burning]] was unleashed upon [[Omphalos, the City of Gardens]] to end the [[Red Death]].
+### Flora and fauna
 
-It has a brittle, crystalline structure comprised of fractal, recursive branches. Despite its divine origin, its form is rarely visually appealing, and its brittle composition makes it difficult to shape. Occasionally, fresh fulgurite deposits appear in the form of specific artifacts – spears and swords and arrows – that imply intentional design. These are most common with lightning strikes, and they are assumed to be debris from the aeronautical battles of the [[Storm Elves]] and their [[cloudcraft]] overhead.
+Many [[Aspect|Aspects]] are are known to take on forms recognizable as flora and fauna. This is common for [[Ylem]] worshipped primarily by [[noble beasts]] rather than by the races of the [[Orior]]. It is sometimes unknown whether the mundane creatures arose after the birth of their [[Iconic pacts|patron]] and evolved to closely mimic their appearance or if the [[docetic]] form of the Aspect mimics their worshippers.
 
-Fulgurite deposits are imbued with their own small store of magical power. For that reason, it is prized by the [[Materialist magics|materialist]] mages, who carry bobbles and trinkets and other sources from which to draw their magics. Fulgurite itself is simply a source, and not imbued with specific magics of its own. As such, even the materialists must possess some other magics between their artifacts in order to use the fulgurite for this purpose.
+Others do not closely mimic mundane creatures but rather appear as twisted, otherworldly distortions of them. [[Dire beasts]] are [[Minor Aspects]] that manifest as larger and more deadly versions of the creatures they govern.
 
-## Psicrystal
+### Natural phenomena
 
-> For more, see [[Psicrystal]].
+All natural phenomena – both in the [[Known World]] and in the [[Nyx]] above – are tied to the presence the [[Aspect|Aspects]], most often [[Minor Aspects]] who lack the influence to sustain physical forms. More powerful Aspects may maintain a sustained form within the [[Astral Sphere]], which manifests as constellation of stars in the night sky. Other examples include auroras, magnetism, rusting, decomposition, earthquakes, landslides, erosion, and the waves of the [[Sink]] to name a few.
 
-Uniquely, psicrystal is forged from the mind and the powers of the [[Psionic Sphere]] rather than by the light of the [[Ylem]] as [[#onyx]], [[#silver]], and [[#fulgurite]] are. Psicrystal grows rapidly in bacteria-like cultures in the presence of immense [[Psionics|psionic]] power and weak points in the membrane between the [[Prime Material Sphere|Prime Material]] and Psionic Spheres. Some psions can even intentionally materialize small amounts of psicrystal. Most famous are the gargantuan psicrystal pillars of the [[Deep Deserts]] around which the region's many settlements are built.
+### Docetic materials
 
-It is a brilliant pink, crystalline material – that same infamous color seen in the eyes of human psions, the banners and robes of the [[Psionics College]], and even the caps of [[Gljiva, the Conquering Fungus]] themself. It possesses from form of reactive luminescence triggered by proximity to psionic influence or psions of particular strength. Generally, psicrystal can be shaped by human tools into any variety of Forms, but it is generally unhelpful for use in weaponry as it is quick to break off into sheets.
+Some [[Aspect|Aspects]], like the [[Wolf Mother]], have large [[docetic]] forms, slivers of which can be found all over the [[Known World]] – in her case as deposits of [[silver]] come crashing down from her [[silver moon|lunar form]]. Such [[docetic materials]] are imbued with a proportional amount of the Aspect's own power relative to the whole.
 
-Psicrystal is prized for connection to Psionic Sphere, and much of the [[Later Renascence period]] was spent seeking uses for its unique abilities. As a ward against psionic influence and an effective alarm against powerful psionic foes, it is a powerful tool of the [[Court]] against shadow rule by the agents of the Psionics College. It has also been instrumental in the development of the [[Psionic Telecommunication Network]] due to its ability to magnify the range of a psions natural telecommunication ability. Due to its similar Form to fulgurite, it has long been thought that psicrystal could be used to store psionic power, but this has not been achieved as of yet.
+> For more, see [[Docetic materials]].
 
-## Brimstone
+### Places of Power
 
-> For more, see [[Brimstone]].
+> For more, see [[Places of Power]].
 
-Brimstone is solid in form and light yellow in color. It is known by many names: brimstone by humanity's scholars, sulfur by the [[devils]] who deal in it, and "devil's gold" by those who hate the [[Necromancer demons]] of the [[Fall of the Materialists College|fallen]] [[Materialists College]].
+[[Places of Power]] may be created by the prolonged presence of an [[Aspect]], or could be the form it takes itself. Some Places of Power are instead created by the races of the [[Orior]] and the [[noble beasts]], the sites of great events and legends. In these cases, guardian [[Ylem]] are often born to protect the site – halfway between a wandering spirit bound to the place and the [[docetic]] form of the place itself.
 
-Although most infamous as the [[Alchemy|alchemical]] byproduct of the devils' dark magics, brimstone is also a naturally- and abundantly-occurring material found at caves and volcanoes as lakes of molten sulfur. It can be found at many reactive and transformational sites, such as geysers, hot springs, mudpots, and fumaroles.
-
-The alchemists of old identified it as the product of transformation, even being produced by [[nyxfire]] itself. In fact, sulfur is the tenth most abundant element by mass across the [[Nyx]] and the fifth most in the [[Known World]].
+Some Ylem manifest as an [[extra-physical]] [[Standard Elven Cosmology|Sphere]] either in addition to a physical form or in place of one. These Spheres overlap with the [[Prime Material Sphere]], and are accessible from through certain means specific to the Aspect. One infamous example is the Sphere of the [[Red Court]] in which the [[Wolf Mother]] was imprisoned throughout the [[Red Death period]].
 
 ## See also
 

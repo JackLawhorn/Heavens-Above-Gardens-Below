@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.24.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Red Death]]", "[[Campaigns against the Red Court]]", "[[Red Death period City of Gardens]]"]
 aliases: Apotropaic
 
 previous: "[[(Theme) Exploring grimdark]]"
 next: "[[Red Death period City of Gardens]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Apotropaics
 `= this.Posted`
 

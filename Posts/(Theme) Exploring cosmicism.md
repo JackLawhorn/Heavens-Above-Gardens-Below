@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 03.16.2023
-tag: "#DailyPost/ThemeThursday"
+tag: "#ThemeThursday"
 
 previous: "[[Nyxblight Tree]]"
 next: "[[Nycter]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # (Theme) Exploring Cosmicism and cosmic horror
 `= this.Posted`
 

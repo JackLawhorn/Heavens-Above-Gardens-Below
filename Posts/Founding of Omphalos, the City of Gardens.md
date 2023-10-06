@@ -1,22 +1,15 @@
 ---
 dg-publish: true
-Posted: 2023-01-22
-tags:
-  - "#DailyPost/SceneSunday"
-aliases:
-  - founding
-  - Founding of the City
-parent:
-  - "[[Omphalos, the City of Gardens]]"
-  - "[[Heliotropic Age]]"
-  - "[[Elven March]]"
-  - "[[Later Heliotropic Age]]"
-  - "[[polar onyx deposit]]"
-previous: "[[Peoples of the Sink]]"
-next: "[[Docetic materials]]"
+Posted: 01.22.2023
+tag: '#SceneSunday'
+aliases: founding, Founding of the City
+parent: ['[[Omphalos, the City of Gardens]]', '[[Heliotropic Age]]', '[[Elven March]]', '[[Later Heliotropic Age]]', "[[polar onyx deposit]]"]
+
+previous: '[[Peoples of the Sink]]'
+next: '[[Docetic materials]]'
 ---
-`=this.tags`
-# Founding of Omphalos, the City of Gardens
+`= this.tag` #DailyPost
+# The founding of Omphalos, the City of Gardens
 `= this.Posted`
 
 **Previous:** `= this.previous`

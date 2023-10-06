@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.20.2023
-tag: "#DailyPost/TimelineTuesday"
+tag: "#TimelineTuesday"
 parent: ["[[Known World]]"]
 aliases: age, ages
 
 previous: "[[Objectivist psionics]]"
 next: "[[Astral Wilds]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Ages of the Known World
 `= this.Posted`
 

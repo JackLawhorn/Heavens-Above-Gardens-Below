@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.30.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 parent: ["[[Philosophers Guild]]", "[[New Vergonic Movement]]", "[[History of the Subjective]]", "[[Politics of the Scholars Quarter]]", "[[Scholars of the City]]", "[[Social Spheres Theory]]", "[[Renascence]]", "[[Early Renascence period]]"]
 
 previous: "[[(Theme) Competing religions]]"
 next: "[[State religion]]"
 ---
-`=this.tags` Church
+`= this.tag` #DailyPost 
+# The First Vergonic Church
 `= this.Posted`
 
 **Previous:** `= this.previous`

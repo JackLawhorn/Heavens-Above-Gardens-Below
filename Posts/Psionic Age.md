@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 05.02.2023
-tag: "#DailyPost/TimelineTuesday"
+tag: "#TimelineTuesday"
 parent: ["[[Psionics]]", "[[History of Psionics]]", "[[Disciples of the Pretender]]", "[[Psionics College]]", "[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Renascence]]", "[[Early Renascence period]]"]
 
 previous: "[[Psionics]]"
 next: "[[Psionic Sphere]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The Psionic Age
 `= this.Posted`
 

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 Posted: 04.02.2023
-tag: "#DailyPost/SceneSunday"
+tag: "#SceneSunday"
 parent: ["[[Crisis of Hubris]]", "[[Red Death period]]", "[[Campaigns against the Red Court]]", "[[Burning]]"]
 
 previous: "[[Torrente]]"
 next: "[[Near-life]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Visions of the Daywatch
 `= this.Posted`
 

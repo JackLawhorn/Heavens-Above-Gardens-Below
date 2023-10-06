@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 04.29.2023
-tag: "#DailyPost/CivilizationSaturday"
+tag: "#CivilizationSaturday"
 parent: ["[[Later Crisis of Hubris]]", "[[Sun Elves]]", "[[History of human contact with the Orior]]", "[[Races of the Orior in the City]]"]
 
 previous: "[[Necromancer demons]]"
 next: "[[Scenes from the life of the Pretender II]]"
 ---
-`=this.tags`gion in the City
+`= this.tag` #DailyPost 
+# Remnants of the Legion in the City
 `= this.Posted`
 
 **Previous:** `= this.previous`

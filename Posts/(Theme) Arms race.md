@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 Posted: 04.20.2023
-tag: "#DailyPost/ThemeThursday"
+tag: "#ThemeThursday"
 
 previous: "[[Vestiges]]"
 next: "[[Mouseion]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # (Theme) Arms race
 `= this.Posted`
 

@@ -1,16 +1,14 @@
 ---
 dg-publish: true
-Posted: 2023-01-21
-tags:
-  - "#DailyPost/CivilizationSaturday"
-parent:
-  - "[[Sink]]"
-  - "[[Orior]]"
-previous: "[[Fisher Barons|Fisher Barons]]"
-next: "[[Founding of Omphalos, the City of Gardens]]"
+Posted: 01.21.2023
+tag: '#CivilizationSaturday'
+parent: ['[[Sink]]', '[[Orior]]']
+
+previous: '[[Fisher Barons|Fisher Barons]]'
+next: '[[Founding of Omphalos, the City of Gardens]]'
 ---
-`=this.tags`
-# The peoples of the Sink
+`= this.tag` #DailyPost
+# Peoples of the Sink
 `= this.Posted`
 
 **Previous:** `= this.previous`

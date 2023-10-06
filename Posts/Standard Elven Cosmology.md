@@ -1,13 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.28.2023
-tag: "#DailyPost/WorldWednesday"
+tag: "#WorldWednesday"
 aliases: Sphere, Spheres
 
 previous: "[[Origin of the Nyx]]"
 next: "[[(Theme) Competing religions]]"
 ---
-`=this.tags`mology
+`= this.tag` #DailyPost 
+# Standard Elven Cosmology
 `= this.Posted`
 
 **Previous:** `= this.previous`

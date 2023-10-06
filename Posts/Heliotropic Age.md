@@ -1,20 +1,18 @@
 ---
 dg-publish: true
-Posted: 2023-01-10
-tags:
-  - "#DailyPost/TimelineTuesday"
-aliases:
-  - The Heliotropic Age
-parent:
-  - "[[Ages of the Known World]]"
-previous: "[[Iconic pact of Clan Wolfstepper]]"
-next: "[[Lunar Aspects|The Lunar Aspects]]"
----
-`=this.tags`
-# The Heliotropic Age
-`=this.Posted`
+Posted: 01.10.2023
+tag: '#TimelineTuesday'
+aliases: The Heliotropic Age
+parent: ['[[Ages of the Known World]]']
 
-**Previous**: `= this.previous`
+previous: '[[Iconic pact of the Silver Wolves]]'
+next: '[[Lunar Aspects|The Lunar Aspects]]'
+---
+`= this.tag` #DailyPost
+# The Heliotropic Age
+`= this.Posted`
+
+**Previous:** `= this.previous`
 **Next:** `= this.next`
 
 ---

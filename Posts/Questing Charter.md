@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 03.04.2023
-tag: "#DailyPost/CivilizationSaturday"
+tag: "#CivilizationSaturday"
 aliases: Questing Charters
 parent: ["[[Court]]", "[[Quest]]"]
 
 previous: "[[House Lightbringer's Questing Charter]]"
 next: "[[Fall of the Oremongers Guild]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # Questing Charter
 `= this.Posted`
 

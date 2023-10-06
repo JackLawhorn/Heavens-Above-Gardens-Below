@@ -3,7 +3,7 @@ dg-publish: true
 parent: ["[[Known World]]", "[[Lands to the south]]"]
 aliases: Cradle
 ---
-#Extra/Glossary
+#Glossary
 # The Beastlands
 
 The Beastlands are a great expanse of seemingly endless frontier south of the [[Great Sea]]. Also known as the "Cradle of the [[Orior]]", a great many more races of the Orior have been found here by the [[Sun Elves]] and later by humanity's [[Questing Houses]].

@@ -1,13 +1,14 @@
 ---
 dg-publish: true
-Posted: 03.05.2023
-tag: "#DailyPost/SceneSunday"
-parent: ["[[Crisis of Hubris]]", "[[Early Crisis of Hubris]]", "[[Oremongers Guild]]", "[[Fallen Houses]]", "[[polar onyx deposit]]", "[[Mines of the Oremongers Guild]]"]
+Posted: 04.25.2023
+tag: "#TimelineTuesday"
+parent: ["[[Crisis of Hubris]]", "[[Later Crisis of Hubris]]", "[[Materialists College]]", "[[Necromancer demons]]", "[[Necromancy]]", "[[Isle of Melos]]", "[[Fallen Houses]]"]
 
-previous: "[[Questing Charter]]"
-next: "[[Warlock]]"
+previous: "[[Necromancy]]"
+next: "[[Isle of Melos]]"
 ---
-`=this.tags`emongers Guild
+`= this.tag` #DailyPost 
+# Fall of the Materialists College
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -15,48 +16,59 @@ next: "[[Warlock]]"
 
 ---
 
-In a remote edge of what the humans call the [[Nyx]], but in reality is simply the [[Prime Material Sphere]] and one of many. On a pitiful world, a [[fallen world]] no longer pertinent to the divine plans of [[Ylem]] and its [[Angels]]. Outside the walls of its sole city: [[Omphalos, the City of Gardens]]. In the [[mines of the Oremongers Guild|mines]] of one of its many factions, the deepest point in all of the [[Known World]].
+The [[Materialists College]] was the third of the [[Great House|Great Houses]] of the [[Court]] to [[Fallen Houses|fall]], and the first to fall in the [[Later Crisis of Hubris]]. Their first crime was one of intellect. Their second was one so macabre that their legacy is forever tainted both in [[Omphalos, the City of Gardens]] and across the [[Known World]].
 
-_Here, this lowly place, is to be the setting of the beginning of the end of everything. The ultimate defeat of reality itself and victory for the [[Dragon]] that is unreality._
+> [!INFO] Additional resources
+> This page chronicles the events that led up to the fall of the Materialists College, the reaction and consequences of their fall, and what followed.
+>
+> For an account of many of the events described below, see [[Triumph of the Sobek]].
 
----
+## Necromancers of the Materialists College
 
-Far down in the [[Mines of the Oremongers Guild#The Maw|pit]] of the [[Oremongers Guild]], so far that the divine light of [[Ylem]] is but a pinprick above, the [[Oremongers Guild#earth shapers|earth shapers]] see to their work. Already, no living thing nor even the [[Aspect|Aspects]] of Ylem themselves have ever ventured so far down and back up again. Built on a crater left by a fallen [[Storm Elves|Storm Elf]] defeated by the [[Giants|Giant]] warriors of the [[Giants#Empire of Dyēus|Empire of Dyēus]], this pit is the greatest work of humanity, even greater than the City of Gardens itself. But unlike the City, its construction is not as worship of Ylem but in service of the Guild's own hubris.
+The [[Crisis of Hubris]] served as a powerful reminder of humanity's vulnerability, with the losses of the [[Oremongers Guild]] and [[House Lightbringer]] leaving them not only without some of their greatest leaders but also without their most powerful magics. Throughout the [[Red Death period]], the scholars and leadership of the [[Materialists College]] were largely unable to find solutions to the threats of the [[Red Court]]. Additionally, their biggest contribution to the campaigns in [[Omphalos, the City of Gardens]] against this enemy led to the disastrous [[Long Daylight]] which only worsened the situation.
 
-500 storeys beneath the surface of the Known World, the elemental [[Mundial Aspects#earth motes|earth motes]] have turned stagnant and quiet. At this depth, their voices fade from the consciences of the Guild's [[iconic pacts|iconic mages]] and are replaced by others. Replaced by the whisperings of whatever [[Aspect|Aspects]] govern the dark, low places such as this. Replaced by those who would see this world and the entirety of the Nyx flooded by shadow, but who require hands other than their own to dirty. 500 storeys beneath the surface of the Known World, its end is being orchestrated.
+Some time after this period, experiments began in study of a new subset of [[materialist magics]] which was seen as a potent new source of power that would dramatically shift human history and their place within the [[Known World]]. This new field, which the College anatomists later called [[necromancy]], built on the foundational ideas of materialism but with a focus on accessing the latent [[organic magics]] in the remains of the [[noble beasts]] and other races of the [[Orior]].
 
-What was a vertical shaft – its perimeter shaped into palatial suites used as living quarters, labs and studies, training facilities for the [[Oremongers Guild#Artificer knights|artificer knights]], and hordes of the unearthed treasures kept for themselves – now veers dramatically off-course. Whether its excavators had intended this or were simply oblivious to their own manipulation may never be known, but rest assured the Guild leaders were not so ignorant.
+In order to acquire the "raw material" needed for these experiments, a number of excursions were undertaken both in secret and officially under the guise of various scholarly endeavors. The first of these excursions yielded only relatively insignificant results, with material taken from unsuspecting victims: noble beasts with minor organic magics of their own. After the first necromantic artifacts were created to empower their scholars, the excursions became more brazen as well as more successful until entire villages of other races of the Orior were slaughtered for their raw material.
 
-Moving further down – so far that few in the Guild will ever have seen it – it becomes horizontal, its walls no longer clean and smooth but jagged as if carved by hand. It continues like this some way and, though one's sense of direction is all but lost here, doubtlessly leads towards and under and into the center of the City.
+Though evidence is scarce – with much documentation burned by the College when the discovery of their crimes seemed imminent – these death squads are thought to have operated for months.
 
-You can feel it. A buzzing on the skin and on the tongue and in the ears. This place is leading you, pulling you towards the heart of the Known World: a piece of the Nyx itself.
+### Killing of the Sobek
 
-For several minutes, there isn't another soul apart from your own, another sound apart from your footsteps. There hasn't been any light to guide your journey for much longer than that. Instead, it's your [[Iconic pact of the Oremongers Guild#Per-medium sensation|per-medium sensation]] that allows you to *feel* where the earth ends and the air – thin down here – begins.
+The [[organic magics]] of the [[Sobek]] made them a prime target for the [[Necromancer demons]] of the [[Materialists College]]. Their research, based on initial scouting missions and the legends passed down since the [[Elven March]], indicated that this race of the [[Orior]] crafted armor from the bones of their ancestors and their fallen to accumulate and pass down a compounding degree of physical strength.
 
-Finally, people. The first you've come across in what feels like an eternity. Like you, they work dutifully in the dark without sharing a word. You do not greet them. You're not sure that you could, that the words would be able to leave your lips. You know, instinctively, that many of them have not seen the light of Ylem in days or more. You've only just noticed that you can't remember that last time you saw it either.
+Although their death squads did wipe out a number of the Sobek and retrieve their remains for study and preservation, they found the forces of the riverfolk too great and sustained significant losses themselves. It was ultimately these losses and the testimonies of the surviving victims that uncovered the [[College]]'s crimes.
 
-The buzzing is stronger here. You're close. They're close and getting closer.
+## Consequences of the fall
 
-It doesn't *feel* closed off and claustrophobic here. You can sense the bounds of this tunnel around you and yet it's as if a great open space is just out of reach. Like you're back up on the surface.
+News of the [[Triumph of the Sobek|Triumph]] of the [[Sobek]] marching on [[Omphalos, the City of Gardens]] first came from the [[Messengers Guild]] who, in those days immediately following the end of the [[Red Death period]], had their [[Rookish clans|Rookish]] scouts monitoring the region for potential threats. Their reports were delivered directly to the [[Silver Wolves]], who dispatched a pack of two dozen to meet them. Seeking not to cause undue panic in the vulnerable and still-grieving populace, this information was limited to the Messengers Guild, the Silver Wolves and their [[Orator]], and the Orator of the [[House of the Sun]].
 
-You are now among the others, the reverberations of their footsteps coming from no more than a few strides away from you. Their work is noble, you think. The infinity of the Nyx now just strides away; unlimited, unbound. Communication, transportation, energy, power. This was to be the [[First Golden Age]] of humanity, and they will be the ones to usher it in.
+As luck would have it, the Orator of the [[Materialists College]] had been absent for some time and rejected requests to meet with his peers. When the accusations of the Sobek were relayed to the Silver Wolves and to the Rookish scouts, this secret was maintained as to not alarm the College to their suspicions. The Triumph arrived in the City only days later, when the ashen elders of the Sobek made their accusations directly to the Orators, whose judgement followed immediately after.
 
-One last command by the earth shapers, one last shifting of the earth, and suddenly the air changes. Behind an infinitesimal sliver before you bleeds out such light as to blind you and your companions for a moment. The buzzing grows with the light, near unbearable now.
+### Judgement of the Orators
 
-It's you who recovers from the blinding light first. Before you is the heart of the Known World, the [[polar onyx deposit]] above which the City was founded. A single chunk of infinity, both [[legion]] and the [[monad]]. The others seem frozen in time. It's you who reaches forward. As your outstretched fingers graze the [[Docetic materials#onyx|onyx]], you do not feel its surface or any resistance. Instead what you feel is dread.
+Unlike the falls of the [[Oremongers Guild]] and [[House Lightbringer]] in the [[Early Crisis of Hubris]], the [[Materialists College]]'s own fall left its scholars alive to suffer the consequences. Prepared for the arrival of the [[Triumph of the Sobek|Triumph]] and informed of their accusations against the [[College]], the [[Orator|Orators]] of the other [[Great House|Great Houses]] – at this point only the [[House of the Sun]] and the [[Silver Wolves]] – readied trusted agents of the [[Jurisweard]] who were put in place to swiftly enact justice once the accusations of the [[Sobek]] could be made first-hand.
 
-First, you notice your per-medium perception is gone. Your connection with the earth is *gone*. You find yourself in the heart of the world drowning in the darkness, lit only by the dim pinpricks of light within the onyx before you. Second, the whispers in the dark have left you. You had forgotten they were in your ears, but now the silence of their absence is deafening. And you begin to panic. What have we done? What have *you* done? Under whose influence have you committed this sin, this [[paradoxy]] against the Nyx itself? Lastly, unbearable pain. Not the searing mental pain of the earth motes invading your conscience, but a tearing, ripping, physical pain.
+Within a span of only minutes, their Orator was detained and brought before the others, the laboratories of the [[Necromancer demons]] were raided and evidence collected, and dozens of [[Materialist magics|materialist]] scholars were rounded up for later questioning. Their Orator was accused by his peers upon the steps of the [[Court]], before nearly the entire population of [[Omphalos, the City of Gardens]]. He was summarily kicked down the steps and killed by the mob.
 
-Finally, reality seems to return to you. Your comrades break their silence, joining you in screams of torturous pain. By the dim light you see on their faces what you can only assume is happening to yourself as well. You are terrified of what you see. It is your last thought as the earth surges towards you.
+The trials of the apprehended scholars lasted weeks. Those proven to have taken part in their College's dark experiments were [[#Exile and flight of the necromancers|exiled]] from the City, at least those who weren't executed by the Jurisweard or killed by the populace before their departure. Only a few innocents remain, now [[House|Houseless]].
 
----
+### Public reception
 
-The disaster is felt and heard and seen throughout Omphalos, the City of Gardens. The tremors – stronger even than those felt upon the falling of the Storm Elf, which some among the populace still remembered – originated directly below then could be felt moving towards the northeast. The sound was horrific, apocalyptic: an eruption of noise from the direction of the Guild's pit, met with screams of seemingly sudden pain up and down the streets and [[rayas]]. And visible not only in the City but across the Known World: day turned to night, the Nyx suddenly visible for what must have been less than a minute. Only this wasn't the night sky of the Known World, which the humans knew well, and it never would be again.
+The [[Fallen Houses|fall]] of the [[Materialists College]] caught humanity in [[Omphalos, the City of Gardens]] – still reeling from the losses of the [[Red Death period]] and of the [[Burning]] – by surprise. At the time, the [[Fall of the Oremongers Guild|fall]] of the [[Oremongers Guild]], the [[Fall of House Lightbringer|fall]] of [[House Lightbringer]], and the Red Death period were of course great losses but it was largely believed that the City's triumph over the forces of the [[Red Court]] had brought the devastation to an end.
 
-When day returned, just as suddenly as it had left, humanity in the City of Gardens looked upon a massive plume of smoke and dirt and dust as tall as the mines were deep. Indeed, they would find the pit – now known as [[the Maw]] – filled in with packed earth as if the Oremongers Guild had never broken ground there. And the hundreds or thousands who had been there buried for eternity in the heart of the earth.
+The mob insighted upon the steps of the [[Court]] tore the [[College]]'s disgraced [[Orator]] to pieces in their disgust. In the weeks that followed, [[Materialist magics|materialist]] scholars in hiding – even those who had not been under the formal patronage of the College – were killed by their neighbors or turned in to the [[Jurisweard]] to sit trial. Many of those sentenced to [[#Exile and flight of the necromancers|exile]] from the City were similarly killed before their departure.
 
-Far to the east, the [[Oremongers Guild#artificer knights|artificer knights]] and the [[armiger]] squires of [[House Lightbringer]]'s [[quest|questing party]] drop to the ground. Their bodies were broken and mangled, and their screams echoed throughout the forests along the [[Sun Coast]]. The warriors amongst the party's ranks found that their blades – to a one forged by the master smiths of the Oremongers Guild – had lost their edges and gone dull.
+Today, remnants of this betrayal can still be seen in the City. Prejudice against materialist magics and those who hold materialist trinkets is not uncommon. Later – after the [[Necromancer demons]] of the [[Isle of Melos]] were common knowledge – it is common for merchants and [[House|Houses]] of commerce to smell [[Currencies of the City#Gold|gold coins]] before accepting them, testing for [[Currencies of the City#Counterfeit currency|devils gold]].
 
-Such was the first loss of the [[Crisis of Hubris]].
+### Exile and flight of the necromancers
 
-> The [[Oremongers Guild]] were the strongest of humanity's [[Iconic pacts|iconic mages]], capable of shaping the very earth to their will and building the foundation of [[Omphalos, the City of Gardens]] itself. As the first of the [[Fallen Houses]], their destruction was devastating and tainted the relationship between the humans and the [[Mundial Aspects]] forever. Their fall teaches us that there is a natural order to things and that it is the responsibility of us all to do our part in respecting and upholding that order.
+The flight of the [[Necromancer demons]] of the [[Materialists College]] happened quickly upon the arrival of the [[Triumph of the Sobek|Triumph]] of the [[Sobek]], and they were right to do so. In the weeks that followed, dozens of [[Materialist magics|materialists]] were captured and many either killed by their neighbors or executed by agents of the [[Jurisweard]]. Both those who fled capture and those who were exiled by the [[Court]] – would go on to found the [[Isle of Melos]] where they continue their dark experiments. This sentence was meant to be death but there, on their [[Isles of the Great Sea|Isle]] upon the [[Great Sea]], they've managed to grow and thrive.
+
+## See also
+
+```dataview
+TABLE Posted, tag as "Daily Tag"
+WHERE contains(this.parent, file.link) OR (parent AND contains(parent, this.file.link))
+SORT Posted ASC
+```

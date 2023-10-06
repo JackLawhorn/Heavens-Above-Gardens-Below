@@ -1,13 +1,14 @@
 ---
 dg-publish: true
-Posted: 05.15.2023
-tag: "#DailyPost/MagicSystemMonday"
-parent: ["[[Magics in the Known World]]", "[[Albedo]]"]
+Posted: 02.24.2023
+tag: '#FactionFriday'
+parent: ['[[Union]]']
 
-previous: "[[Scenes from the life of the Pretender IV]]"
-next: "[[Fall of the Pretender]]"
+previous: '[[(Theme) Religion and worship]]'
+next: '[[City infrastructure and layout]]'
 ---
-`=this.tags`ization of magics
+`= this.tag` #DailyPost
+# The Canon of Heterodoxies
 `= this.Posted`
 
 **Previous:** `= this.previous`
@@ -15,39 +16,27 @@ next: "[[Fall of the Pretender]]"
 
 ---
 
-> This note is focused on the components of magics and the criteria by which they are classified. For a list of the recognized fields of magics, see [[Magics in the Known World]].
+The Canon of Heterodoxies is a powerful theocratic [[Union]] of [[House|Houses]] that holds [[Court]] majority in [[Omphalos, the City of Gardens]]. The Heterodoxies themselves form the backbone of the City of Gardens, both creating a syncretic culture of [[Henotheist|henotheistic]] worship and inextricably tying together the [[Social Spheres Theory|Spheres]] of [[Social Spheres Theory#Sphere of Worship|Worship]] and [[Social Spheres Theory#Sphere of Industry|Industry]]. Followers of [[Iconic House|heterodoxic]] belief systems do not denounce other [[Ylem]] in favor of their preferred [[Aspect]], but rather specialize their worship according to familial and cultural customs that tend to yield preferable [[Iconic pacts|iconic]] boons.
 
-The categorization and classification of the magics have always been a hot topic for humanity's [[Scholars of the City#objectivists|objectivist scholars]], especially the [[Materialists College]] before [[Fall of the Materialists College|its fall]] in the [[Later Crisis of Hubris]].
+## Role of the Canon in matters of the Court
 
-## Components of magic
+Just barely holding onto a [[Court]] majority, the Canon of Heterodoxies holds significant influence as a [[Union]] of [[House|Houses]] but suffers from frequent infighting as the agendas of individual Houses conflict. While the [[House of the Sun]]'s state religion is generally accepted, individual [[Iconic House|heterodoxies]] tend to bicker about the relative influence of their [[iconic pacts|patron]] [[Aspect|Aspects]] and even serve as tools for these [[Ylem]] to increase their own standing.
 
-The scholars of [[Later Heliotropic Age]] humanity and their [[Materialists College]] defined what the [[Sun Elves]] called the [[Magics in the Known World|magics]] as having three necessary components: [[#source]], [[#channel]], and [[#intent]].
+The Canon stands to ensure that matters of the Court do not impose on the wishes nor agendas of various Aspects or impede the upholding of iconic pacts with them. The vast and growing number of Ylem with influence in the [[Omphalos, the City of Gardens|City of Gardens]] make the entry of these specifics into the [[Hall of Precedent]] difficult and maintenance impossible. Instead, the Canon serves as the voice of their patrons in Court. While certain [[Houses of Industry]] may not need to be present for every Court matter, it is imperative that the heterodoxies work to preserve their pacts.
 
-### Source
+## Entering the Canon
 
-A mage's source is the well of power from which [[Albedo]] is pulled, and can be either internal or external. For those peoples with [[organic magics]], one's own [[Albedo#aura|aura]] functions as the source. Others, who instead use [[pact magics]] instead draw albedo from their pact-bound. Others still use artifacts like [[Materialist magics|materialist]] trinkets, including [[docetic materials]], and draw from the albedo imbued within them.
+[[Iconic House|Heterodoxies]] that are not influential enough to receive [[House|Houseship]] are called "[[cults]]". Both major and minor cults exist throughout [[Omphalos, the City of Gardens]], with varying levels of prominence and favor with with the canonized heterodoxies of the [[Court]].
 
-### Channel
+For a cult, entering the religious canon means gaining both Houseship and a modicum of power in Court. Canonization represents significant economic and social opportunity for its members and greater influence in the [[Known World]] for its [[iconic pacts|patron]] [[Aspect]]. The backing of the Canon and their slight Court majority is imperative for any cult looking to gain this prestige. Their support is dependent on a number of criteria that will be verified by a specially-appointed commission acting in a joint investigation by members of both the heterodoxies and [[House of the Sun]] scholars:
 
-A channel is the mechanism through which power flows from the [[#source]] and is directed by a mage. The channel differs greatly even within each [[Magics in the Known World|category and field of magics]]. Some magics are cast from the fingertips or another body part of the mage. Others are channeled through wands, staffs, or some other equipment. In the case of [[Materialist magics|materialist]] trinkets, this equipment often serves as both source and channel.
+- **Sponsorship.** The backing of another, already canonized Aspect is typically the first step in seeking canonization, but is not a strict requirement. Generally, sponsorship leads to a greater focus on confirming separation, but otherwise can streamline confirmation of the other criteria.
 
-### Intent
+- **Separation.** Describes a uniqueness of the Aspect's domain, indicating sufficient separateness from the other canonized Aspects. Due to the phenomena of [[formitation]], [[Ylem]] have multiple forms across geographical, cultural, and religious borders, so the Canon of Heterodoxies are careful to confirm separation and prevent any of their neighbors from stealing additional Court power for themselves.
 
-Assured intent on the part of the mage is what draws power from the [[#source]] and through the [[#channel]]. Intent varies from mage to mage based on both natural ability and experience with the magics themselves, and mastering intent in your specific [[Magics in the Known World|field of magics]] is often a life-long journey.
+- **Influence.** Describes the number and dedication of one's worshipers. Practices of worship vary greatly from Aspect to Aspect – informed by the needs and wants of the Ylem itself – and can range from the burning of a single [[sol]] of food to the harvesting of crops to human sacrifice. This is fairly easily confirmed by a review of the cult's own records, including receipts of worship called [[libelli]] (singular "libellus"), and an observation of these rituals in practice.
 
-The purposeful nature of intent means magics are rarely used either unconsciously or subconsciously without the use of certain [[Highly Controlled Substances (HCSs)]] such as [[Psychedelia]]. One major exception is the field of [[Hexecraft pacts|hexecraft]] which can bypass intent by forming [[Pact magics|pacts]] instead with the [[animalcules]] within one's body rather than with the individual.
-
-## Prominent controversies
-
-### Combat Arts
-
-The [[Combat Arts]] of the [[Sun Elves]] were initially thought by the [[human clans]] to be a form of [[organic magics]] in and of themselves, but were found to be learnable even by humanity along the [[Elven March]].
-
-> For more, see [[Combat Arts#Mechanics of the Combat Arts|Combat Arts > Mechanics of the Combat Arts]].
-
-### Psionics
-
-With the [[Scenes from the life of the Pretender III|revelation]] of the [[Pretender]] in the [[Later Crisis of Hubris]], [[psionics]] was believed to be a field of magics in and of itself. Though the [[mystic psionics]] of the [[Disciples of the Pretender]] served to usher in the [[Psionic Age]] and ultimately gave rise to the [[Psionics College]], this understanding was found to be flawed by the [[Scholars of the City#objectivists|objectivist scholars]] of [[Omphalos, the City of Gardens]] who studied it instead as a natural science.
+- **Inspiration.** What has worship of this Aspect wrought? How have its worshippers, those who have entered into iconic pacts with it, and the wider population of the City benefitted? A common tactic to ensure that this criterium is met is the funding and production of a [[Great Works|Great Work]] to adorn one of the many walls or gardens of Omphalos, the City of Gardens. Another is to seek a [[Questing Charter]] in honor of this patron.
 
 ## See also
 

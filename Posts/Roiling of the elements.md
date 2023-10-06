@@ -1,17 +1,14 @@
 ---
 dg-publish: true
-Posted: 2023-01-17
-tags:
-  - "#DailyPost/TimelineTuesday"
-parent:
-  - "[[Prehistory]]"
-  - "[[Mundial Aspects]]"
-  - "[[Known World]]"
-previous: "[[Mundial Aspects|The Mundial Aspects]]"
-next: "[[Sink|The Sink]]"
+Posted: 01.17.2023
+tag: '#TimelineTuesday'
+parent: ['[[Prehistory]]', '[[Mundial Aspects]]', '[[Known World]]']
+
+previous: '[[Mundial Aspects|The Mundial Aspects]]'
+next: '[[Sink|The Sink]]'
 ---
-`=this.tags`
-# The Roiling of the elements
+`= this.tag` #DailyPost
+# The roiling of the elements
 `= this.Posted`
 
 **Previous:** `= this.previous`

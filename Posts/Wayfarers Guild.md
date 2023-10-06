@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 Posted: 06.16.2023
-tag: "#DailyPost/FactionFriday"
+tag: "#FactionFriday"
 parent: ["[[House]]", "[[Guild]]", "[[Wayfarer colonies]]", "[[Decline of cland culture]]"]
 alias: wayfarer, wayfarers
 
 previous: "[[(Theme) The other]]"
 next: "[[Wayfarer colonies]]"
 ---
-`=this.tags` 
+`= this.tag` #DailyPost 
 # The Wayfarers Guild
 `= this.Posted`
 

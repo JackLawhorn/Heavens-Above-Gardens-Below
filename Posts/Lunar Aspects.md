@@ -1,21 +1,14 @@
 ---
 dg-publish: true
-Posted: 2023-01-11
-tags:
-  - "#DailyPost/WorldWednesday"
-aliases:
-  - Moons of the Known World
-  - moon
-  - moons
-  - Lunar Aspect
-parent:
-  - "[[Aspect]]"
-  - "[[Major Aspects]]"
-  - "[[Known World]]"
-previous: "[[Heliotropic Age]]"
-next: "[[(Theme) Power]]"
+Posted: 01.11.2023
+tag: '#WorldWednesday'
+aliases: Moons of the Known World, moon, moons, Lunar Aspect
+parent: ['[[Aspect]]', '[[Major Aspects]]', '[[Known World]]']
+
+previous: '[[Heliotropic Age]]'
+next: '[[(Theme) Power]]'
 ---
-`=this.tags`
+`= this.tag` #DailyPost
 # The Lunar Aspects
 `= this.Posted`
 
